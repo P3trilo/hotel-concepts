@@ -1,0 +1,29 @@
+{
+  "slug": "spoiled-st-andrews",
+  "name": "Spoiled Hairdressing",
+  "tagline": "9 Albany Place · St Andrews",
+  "eyebrow": "Gift vouchers",
+  "headline": "Give someone a little spoiling",
+  "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+  "gifts": [
+    ["Cut & finish", "Consultation, cleanse, massage, conditioner and finish", 38, "Cut and finish"],
+    ["Blow dry", "Cleanse, massage, conditioner and a professional finish", 34, "Blow dry"],
+    ["Colour", "Regrowth colour, tailored to your hair", 57, "Regrowth colour"]
+  ],
+  "amount_desc": "Spend on any service or product",
+  "message": "Happy Christmas! Treat yourself to a proper pamper.",
+  "accent": "#2F4A5F",
+  "cta": "#2F4A5F",
+  "on_cta": "#FFFFFF",
+  "hero_bg": "#1E2A35",
+  "hero_eyebrow": "#E8D9C5",
+  "prefix": "SP",
+  "guest": "client",
+  "biz": "salon",
+  "seed": [["Cut & finish", "Morag", 38, true], ["Blow dry", "Ailsa", 34, false]],
+  "visit": {
+    "address": "9 Albany Place, St Andrews, Fife KY16 9HH · 01334 470564",
+    "hours": "Tuesday 9am to 6pm, Wednesday and Thursday 9am to 8pm, Friday 9am to 6pm, Saturday 8am to 3.15pm.",
+    "maps_query": "Spoiled Hairdressing 9 Albany Place St Andrews"
+  }
+}
