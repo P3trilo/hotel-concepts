@@ -26,6 +26,10 @@
   --house-blue: #6C98C2;
   --house-green: #96BB77;
   --house-white: #F4F1E8;
+  --why-bg: #173F50;
+  --why-ink: #F1F5F4;
+  --why-soft: #BCD0D6;
+  --why-accent: #F0C27A;
   --display: "Alegreya", Georgia, "Times New Roman", serif;
   --body: "Alegreya Sans", "Segoe UI", Helvetica, Arial, sans-serif;
   --label: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", sans-serif;
@@ -174,6 +178,18 @@ section.block + section.block { border-top: 1px solid var(--line); }
 .place .dist { font-family: var(--label); font-size: 0.85rem; letter-spacing: 0.06em; color: var(--loch); }
 .place p { color: var(--ink-soft); font-size: 1rem; line-height: 1.5; }
 
+/* why come to Skye */
+.why { background: var(--why-bg); color: var(--why-ink); }
+.why .eyebrow { color: var(--why-accent); }
+.why .head p { color: var(--why-soft); }
+.stories { display: grid; gap: 34px; }
+.story { display: grid; gap: 12px; align-content: start; }
+.story img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: var(--radius); }
+.story .mark { font-family: var(--display); font-weight: 800; font-size: clamp(2.2rem, 8vw, 3rem); line-height: 1.05; color: var(--why-accent); }
+.story h3 { font-size: var(--step-2); }
+.story p { color: var(--why-soft); }
+@media (min-width: 760px) { .stories { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
 /* getting here */
 .routes { display: grid; gap: 0; border-top: 1px solid var(--line); }
 .route { display: grid; grid-template-columns: 8.5rem minmax(0, 1fr); gap: 12px; padding-block: 14px; border-bottom: 1px solid var(--line); }
@@ -233,6 +249,7 @@ footer a { color: inherit; }
       <span>Portree · Isle of Skye</span>
     </a>
     <nav class="nav" aria-label="Main">
+      <a href="#why">Why Skye</a>
       <a href="#rooms">Rooms</a>
       <a href="#bar">Bar &amp; food</a>
       <a href="#explore">Explore Skye</a>
@@ -266,6 +283,33 @@ footer a { color: inherit; }
       <li><b>Town centre</b><span>Minutes from the harbour and bus station</span></li>
     </ul>
   </div>
+
+  <section class="block why" id="why">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Why come to Skye</span>
+        <h2>The Isle of Mist, from the middle of it all</h2>
+        <p>Skye is the largest island of the Inner Hebrides, and Portree sits right at its centre. From the inn you can reach mountains, sea cliffs and quiet bays in under an hour, then come back to a coal fire and live music.</p>
+      </div>
+      <div class="stories">
+        <article class="story">
+          <img src="img/storr.jpg" alt="The rock pinnacles of the Old Man of Storr" loading="lazy">
+          <h3>Landscapes like nowhere else</h3>
+          <p>The Old Man of Storr and the Quiraing stand on the Trotternish ridge just north of Portree. To the south rise the jagged peaks of the Black Cuillin, a ridge climbers come to from all over the world.</p>
+        </article>
+        <article class="story">
+          <img src="img/otter.jpg" alt="An otter in the water" loading="lazy">
+          <h3>Wildlife on the doorstep</h3>
+          <p>Seals and otters live along the shore, and boat trips from Portree harbour go looking for sea eagles. Bring binoculars and patience.</p>
+        </article>
+        <article class="story">
+          <span class="mark">Eilean a' Cheò</span>
+          <h3>Gaelic, whisky and music</h3>
+          <p>Gaelic is still part of island life, Talisker is distilled on the west coast, and through the season the bar at the inn hosts Scottish musicians from Skye and beyond.</p>
+        </article>
+      </div>
+    </div>
+  </section>
 
   <section class="block" id="rooms">
     <div class="wrap">
@@ -344,12 +388,6 @@ footer a { color: inherit; }
       </div>
       <div class="places">
         <article class="place">
-          <img src="img/storr.jpg" alt="The Old Man of Storr rock pinnacles" loading="lazy">
-          <span class="dist">Trotternish · north of Portree</span>
-          <h3>The Old Man of Storr</h3>
-          <p>The best-known walk on the island, up to the rock pinnacles above the Sound of Raasay.</p>
-        </article>
-        <article class="place">
           <img src="img/cuillin.jpg" alt="The Cuillin ridge seen across moorland" loading="lazy">
           <span class="dist">Sligachan &amp; Glenbrittle</span>
           <h3>The Cuillin</h3>
@@ -366,12 +404,6 @@ footer a { color: inherit; }
           <span class="dist">Short ferry from Sconser</span>
           <h3>Isle of Raasay</h3>
           <p>A quiet island across the sound, with Dùn Caan's flat top rising above it.</p>
-        </article>
-        <article class="place">
-          <img src="img/otter.jpg" alt="An otter in the water" loading="lazy">
-          <span class="dist">Around the coast</span>
-          <h3>Seals and otters</h3>
-          <p>Boat trips from the harbour and quiet shorelines all round the island.</p>
         </article>
         <article class="place">
           <img src="img/portree-bay.jpg" alt="Boats moored in Portree bay" loading="lazy">
