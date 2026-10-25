@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}[hidden]{display:none!important}</style>
+<title>The Isles Inn, Portree</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:wght@500;700;800&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Alegreya+Sans+SC:wght@500;700&display=swap">
+<style>
+/* Layout: one calm column on a phone, opening on Portree harbour; the painted houses of the harbour give the accent strip; a booking bar stays in reach on mobile. */
+:root {
+  --mist: #EDF1F0;
+  --paper: #F8FAF9;
+  --ink: #1B2320;
+  --ink-soft: #4B5853;
+  --line: #D2DAD7;
+  --loch: #1C4C61;
+  --amber: #C17F2C;
+  --on-amber: #1E1406;
+  --hero-ink: #FFFFFF;
+  --house-pink: #D78AA4;
+  --house-yellow: #E3BF45;
+  --house-blue: #6C98C2;
+  --house-green: #96BB77;
+  --house-white: #F4F1E8;
+  --display: "Alegreya", Georgia, "Times New Roman", serif;
+  --body: "Alegreya Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+  --label: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", sans-serif;
+  --step-0: 1.0625rem;
+  --step-1: 1.25rem;
+  --step-2: 1.6rem;
+  --step-3: clamp(2rem, 6vw, 3.1rem);
+  --step-4: clamp(2.5rem, 9vw, 4.6rem);
+  --radius: 6px;
+  --gutter-l: max(16px, env(safe-area-inset-left, 0px));
+  --gutter-r: max(16px, env(safe-area-inset-right, 0px));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --mist: #10191C; --paper: #162125; --ink: #E6EDEB; --ink-soft: #A6B4B0; --line: #2A393E;
+    --loch: #84B9CF; --amber: #DFA04E; --on-amber: #1E1406; --hero-ink: #FFFFFF; --house-white: #3A4448;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --mist: #10191C; --paper: #162125; --ink: #E6EDEB; --ink-soft: #A6B4B0; --line: #2A393E;
+  --loch: #84B9CF; --amber: #DFA04E; --on-amber: #1E1406; --hero-ink: #FFFFFF; --house-white: #3A4448;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--mist);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: var(--step-0);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px);
+  z-index: 10; background: var(--paper);
+}
+h1, h2, h3 { font-family: var(--display); line-height: 1.12; text-wrap: balance; margin: 0; }
+p { margin: 0; }
+a { color: var(--loch); }
+a:focus-visible, button:focus-visible { outline: 3px solid var(--amber); outline-offset: 3px; border-radius: 3px; }
+img { display: block; max-width: 100%; }
+
+.wrap { max-width: 1080px; margin: 0 auto; padding-left: var(--gutter-l); padding-right: var(--gutter-r); }
+.eyebrow { font-family: var(--label); font-weight: 700; letter-spacing: 0.08em; font-size: 0.95rem; color: var(--loch); }
+
+/* concept notice */
+.concept {
+  background: var(--ink); color: var(--paper);
+  font-size: 0.85rem; line-height: 1.4;
+}
+.concept .wrap { padding-block: 8px; display: flex; gap: 8px 16px; flex-wrap: wrap; justify-content: space-between; }
+.concept strong { font-weight: 700; }
+
+/* header */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--paper); border-bottom: 1px solid var(--line);
+}
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 10px; }
+.brand { text-decoration: none; color: var(--ink); display: grid; line-height: 1.05; }
+.brand b { font-family: var(--display); font-weight: 800; font-size: 1.45rem; }
+.brand span { font-family: var(--label); font-size: 0.82rem; letter-spacing: 0.08em; color: var(--ink-soft); }
+.nav { display: none; gap: 22px; font-size: 1rem; }
+.nav a { color: var(--ink); text-decoration: none; }
+.nav a:hover { color: var(--loch); }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  font-family: var(--body); font-weight: 700; font-size: 1.02rem; text-decoration: none;
+  padding: 12px 20px; border-radius: var(--radius); border: 0; cursor: pointer; white-space: nowrap;
+}
+.btn-book { background: var(--amber); color: var(--on-amber); }
+.btn-book:hover { filter: brightness(1.06); }
+.btn-ghost { background: transparent; color: var(--hero-ink); box-shadow: inset 0 0 0 2px rgba(255,255,255,0.85); }
+.top .btn { padding: 9px 14px; font-size: 0.95rem; }
+
+/* hero */
+.hero { position: relative; color: var(--hero-ink); background: #1C3440; }
+.hero img { width: 100%; height: clamp(420px, 78vw, 640px); object-fit: cover; object-position: 62% 50%; }
+.hero::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(10,20,26,0.15) 0%, rgba(10,20,26,0.25) 40%, rgba(10,20,26,0.82) 100%);
+}
+.hero .wrap { position: absolute; inset: auto 0 0 0; z-index: 1; padding-block: 0 32px; display: grid; gap: 14px; }
+.hero .eyebrow { color: #F3D9A6; }
+.hero h1 { font-size: var(--step-4); font-weight: 800; max-width: 14ch; }
+.hero p.lead { font-size: var(--step-1); max-width: 34ch; color: #EEF3F1; }
+.hero .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.credit { position: absolute; right: var(--gutter-r); top: 10px; z-index: 1; font-size: 0.7rem; color: rgba(255,255,255,0.75); }
+
+/* harbour strip: the painted houses */
+.houses { display: grid; grid-template-columns: repeat(7, 1fr); height: 10px; }
+.houses i:nth-child(1) { background: var(--house-white); }
+.houses i:nth-child(2) { background: var(--house-yellow); }
+.houses i:nth-child(3) { background: var(--house-pink); }
+.houses i:nth-child(4) { background: var(--house-blue); }
+.houses i:nth-child(5) { background: var(--house-white); }
+.houses i:nth-child(6) { background: var(--house-green); }
+.houses i:nth-child(7) { background: var(--house-yellow); }
+
+/* facts */
+.facts { background: var(--paper); border-bottom: 1px solid var(--line); }
+.facts ul { list-style: none; margin: 0; padding-block: 18px; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 20px; }
+.facts li { display: grid; gap: 2px; }
+.facts b { font-family: var(--display); font-size: 1.35rem; font-weight: 700; }
+.facts span { color: var(--ink-soft); font-size: 0.95rem; line-height: 1.35; }
+
+/* sections */
+section.block { padding-block: 56px; }
+section.block + section.block { border-top: 1px solid var(--line); }
+.head { display: grid; gap: 10px; margin-bottom: 26px; max-width: 62ch; }
+.head h2 { font-size: var(--step-3); font-weight: 700; }
+.head p { color: var(--ink-soft); }
+
+/* rooms */
+.rooms { display: grid; gap: 28px; }
+.room-photos { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.room-photos img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); }
+.room-photos figure { margin: 0; display: grid; gap: 4px; }
+.room-photos figure:first-child { grid-column: 1 / -1; }
+.room-photos figcaption { font-size: 0.85rem; color: var(--ink-soft); }
+.room-list { display: grid; gap: 0; border-top: 1px solid var(--line); }
+.room-list div { display: flex; justify-content: space-between; gap: 12px; padding-block: 12px; border-bottom: 1px solid var(--line); }
+.room-list dt { font-family: var(--display); font-weight: 700; font-size: 1.2rem; }
+.room-list dd { margin: 0; color: var(--ink-soft); text-align: right; }
+.in-room { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; padding: 0; list-style: none; }
+.in-room li { font-size: 0.95rem; padding: 5px 12px; border-radius: 999px; background: var(--paper); border: 1px solid var(--line); }
+.note { margin-top: 16px; font-size: 0.98rem; color: var(--ink-soft); }
+
+/* bar */
+.bar-grid { display: grid; gap: 28px; }
+.bar-copy { display: grid; gap: 14px; max-width: 60ch; }
+.bar-copy h3 { font-size: var(--step-2); }
+.mosaic { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.mosaic img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: var(--radius); }
+.mosaic img.wide { grid-column: span 2; aspect-ratio: auto; height: 0; min-height: 100%; }
+.hours { display: grid; gap: 10px; padding: 18px; background: var(--paper); border-radius: var(--radius); border: 1px solid var(--line); }
+.hours b { font-family: var(--label); letter-spacing: 0.06em; color: var(--loch); }
+
+/* explore */
+.places { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: 22px 18px; }
+.place { display: grid; gap: 8px; align-content: start; }
+.place img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); }
+.place h3 { font-size: 1.3rem; }
+.place .dist { font-family: var(--label); font-size: 0.85rem; letter-spacing: 0.06em; color: var(--loch); }
+.place p { color: var(--ink-soft); font-size: 1rem; line-height: 1.5; }
+
+/* getting here */
+.routes { display: grid; gap: 0; border-top: 1px solid var(--line); }
+.route { display: grid; grid-template-columns: 8.5rem minmax(0, 1fr); gap: 12px; padding-block: 14px; border-bottom: 1px solid var(--line); }
+.route b { font-family: var(--label); letter-spacing: 0.06em; color: var(--loch); }
+
+/* booking terms + contact */
+.two { display: grid; gap: 36px; }
+.terms { margin: 0; padding-left: 1.1em; display: grid; gap: 10px; }
+.contact { display: grid; gap: 14px; padding: 22px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); align-content: start; }
+.contact .row { display: grid; gap: 2px; }
+.contact .row span { font-family: var(--label); letter-spacing: 0.06em; font-size: 0.85rem; color: var(--ink-soft); }
+.contact .val { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 1.15rem; font-weight: 500; }
+.copy { font-family: var(--body); font-size: 0.85rem; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); background: transparent; color: var(--ink); cursor: pointer; }
+address { font-style: normal; }
+
+/* footer */
+footer { background: var(--ink); color: var(--mist); font-size: 0.9rem; }
+footer .wrap { padding-block: 28px 110px; display: grid; gap: 10px; }
+footer a { color: inherit; }
+
+/* mobile booking bar */
+.bookbar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 6;
+  background: var(--paper); border-top: 1px solid var(--line);
+  padding: 10px var(--gutter-r) calc(10px + env(safe-area-inset-bottom, 0px)) var(--gutter-l);
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+.bookbar small { color: var(--ink-soft); line-height: 1.3; font-size: 0.88rem; }
+.bookbar .btn { flex: 0 0 auto; }
+
+@media (min-width: 760px) {
+  .nav { display: flex; }
+  .facts ul { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .rooms { grid-template-columns: 1.1fr 1fr; align-items: start; }
+  .bar-grid { grid-template-columns: 1fr 1.1fr; align-items: start; }
+  .two { grid-template-columns: 1.3fr 1fr; }
+  .bookbar { display: none; }
+  footer .wrap { padding-block: 32px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .btn { transition: filter .15s ease; }
+}
+</style>
+</head>
+<body>
+<div class="concept">
+  <div class="wrap">
+    <span><strong>Design concept</strong> for The Isles Inn, prepared by Petr Ivan.</span>
+    <span>This is not the inn's official website.</span>
+  </div>
+</div>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="The Isles Inn, home">
+      <b>The Isles Inn</b>
+      <span>Portree · Isle of Skye</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#rooms">Rooms</a>
+      <a href="#bar">Bar &amp; food</a>
+      <a href="#explore">Explore Skye</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a class="btn btn-book" href="https://portal.freetobook.com/reservations?w_id=22735&amp;w_tkn=hhm2rozpO4WGrL2FnPAAWwiKG8K1usGtiAZAgyoA5k5KVz19mUjWcOe6nFsJi" target="_blank" rel="noopener">Book a room</a>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero" aria-label="Welcome">
+    <img src="img/portree-harbour.jpg" alt="The painted houses of Portree harbour reflected in the bay on a calm evening" width="1600" height="933">
+    <span class="credit">Photo: Wikimedia Commons, CC BY-SA 4.0</span>
+    <div class="wrap">
+      <span class="eyebrow">Eilean a' Cheò, the Isle of Mist</span>
+      <h1>A Highland inn on Somerled Square</h1>
+      <p class="lead">Six en-suite rooms above a traditional bar with an open coal fire, a few minutes' walk from Portree harbour.</p>
+      <div class="actions">
+        <a class="btn btn-book" href="https://portal.freetobook.com/reservations?w_id=22735&amp;w_tkn=hhm2rozpO4WGrL2FnPAAWwiKG8K1usGtiAZAgyoA5k5KVz19mUjWcOe6nFsJi" target="_blank" rel="noopener">Check availability</a>
+        <a class="btn btn-ghost" href="#rooms">See the rooms</a>
+      </div>
+    </div>
+  </section>
+  <div class="houses" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+
+  <div class="facts">
+    <ul class="wrap">
+      <li><b>6 rooms</b><span>All en-suite, doubles to family rooms</span></li>
+      <li><b>Breakfast in</b><span>Full Scottish breakfast in every rate</span></li>
+      <li><b>Open fire</b><span>Bar and restaurant open daily</span></li>
+      <li><b>Town centre</b><span>Minutes from the harbour and bus station</span></li>
+    </ul>
+  </div>
+
+  <section class="block" id="rooms">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Stay</span>
+        <h2>Rooms above the bar</h2>
+        <p>Every room has its own bathroom, Freeview TV, a mini fridge and tea and coffee. Some look out over Somerled Square and the town.</p>
+      </div>
+      <div class="rooms">
+        <div class="room-photos">
+          <figure>
+            <img src="img/room-double.jpg" alt="Large double room with a grey headboard and dormer window" loading="lazy">
+            <figcaption>Large double room</figcaption>
+          </figure>
+          <figure>
+            <img src="img/room-family.jpg" alt="Family room with a double bed and bunk beds" loading="lazy">
+            <figcaption>Family room</figcaption>
+          </figure>
+          <figure>
+            <img src="img/room-view.jpg" alt="View from a room over Somerled Square in Portree" loading="lazy">
+            <figcaption>The view over Somerled Square</figcaption>
+          </figure>
+        </div>
+        <div>
+          <dl class="room-list">
+            <div><dt>Double</dt><dd>2 rooms</dd></div>
+            <div><dt>Twin</dt><dd>1 room</dd></div>
+            <div><dt>Triple</dt><dd>1 room</dd></div>
+            <div><dt>Family</dt><dd>2 rooms</dd></div>
+          </dl>
+          <ul class="in-room" aria-label="In every room">
+            <li>En-suite</li><li>Freeview TV</li><li>Mini fridge</li><li>Tea &amp; coffee</li><li>Scottish breakfast</li>
+          </ul>
+          <p class="note">Rooms are on the first and second floors. The building has no lift.</p>
+          <p class="note">Families are welcome. Sharing with two adults, children under 5 stay free and children under 12 pay half price.</p>
+          <p style="margin-top:20px"><a class="btn btn-book" href="https://portal.freetobook.com/reservations?w_id=22735&amp;w_tkn=hhm2rozpO4WGrL2FnPAAWwiKG8K1usGtiAZAgyoA5k5KVz19mUjWcOe6nFsJi" target="_blank" rel="noopener">See prices and book</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="bar">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Eat &amp; drink</span>
+        <h2>The bar and restaurant</h2>
+      </div>
+      <div class="bar-grid">
+        <div class="mosaic">
+          <img class="wide" src="img/bar-fire.jpg" alt="The lounge bar with its open coal fire" loading="lazy">
+          <img src="img/dish-pie.jpg" alt="Pie with chips and gravy" loading="lazy">
+          <img src="img/restaurant.jpg" alt="Restaurant tables by the window" loading="lazy">
+          <img src="img/dish-venison.jpg" alt="Venison with greens and a jug of gravy" loading="lazy">
+          <img src="img/bar.jpg" alt="The bar with high tables" loading="lazy">
+        </div>
+        <div class="bar-copy">
+          <h3>Highland food, a good malt and a coal fire</h3>
+          <p>We cook with the best produce Skye has to offer wherever we can. Pull up a chair by the open fire with a malt whisky or a local ale.</p>
+          <p>The bar shows live sport, from football and rugby to tennis, and through the season we have live Scottish music from local bands and from further afield.</p>
+          <div class="hours">
+            <b>Open daily</b>
+            <p>Bar and restaurant are open every day except Christmas Day. Check our social media for the latest times.</p>
+            <p>Table bookings are for guests staying at the inn. Everyone else is welcome to walk in.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="explore">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">From the door</span>
+        <h2>Portree is the middle of Skye</h2>
+        <p>The whole island is within reach for a day out, and the ferries to the Outer Hebrides are not far beyond.</p>
+      </div>
+      <div class="places">
+        <article class="place">
+          <img src="img/storr.jpg" alt="The Old Man of Storr rock pinnacles" loading="lazy">
+          <span class="dist">Trotternish · north of Portree</span>
+          <h3>The Old Man of Storr</h3>
+          <p>The best-known walk on the island, up to the rock pinnacles above the Sound of Raasay.</p>
+        </article>
+        <article class="place">
+          <img src="img/cuillin.jpg" alt="The Cuillin ridge seen across moorland" loading="lazy">
+          <span class="dist">Sligachan &amp; Glenbrittle</span>
+          <h3>The Cuillin</h3>
+          <p>Skye's mountains, with walks for every level from Sligachan and Glenbrittle.</p>
+        </article>
+        <article class="place">
+          <img src="img/dunvegan.jpg" alt="Dunvegan Castle" loading="lazy">
+          <span class="dist">North-west Skye</span>
+          <h3>Dunvegan Castle</h3>
+          <p>Seat of the Clan MacLeod, with the Coral Beach a short drive further on.</p>
+        </article>
+        <article class="place">
+          <img src="img/raasay.jpg" alt="The Isle of Raasay across the water" loading="lazy">
+          <span class="dist">Short ferry from Sconser</span>
+          <h3>Isle of Raasay</h3>
+          <p>A quiet island across the sound, with Dùn Caan's flat top rising above it.</p>
+        </article>
+        <article class="place">
+          <img src="img/otter.jpg" alt="An otter in the water" loading="lazy">
+          <span class="dist">Around the coast</span>
+          <h3>Seals and otters</h3>
+          <p>Boat trips from the harbour and quiet shorelines all round the island.</p>
+        </article>
+        <article class="place">
+          <img src="img/portree-bay.jpg" alt="Boats moored in Portree bay" loading="lazy">
+          <span class="dist">Five minutes' walk</span>
+          <h3>Portree harbour</h3>
+          <p>The painted houses, the pier and the shops are all close by.</p>
+        </article>
+      </div>
+      <p class="note">Also within a day: the Quiraing, Kilt Rock, Talisker Distillery, Armadale Castle and the Sleat peninsula, and on the mainland Eilean Donan Castle and Plockton.</p>
+    </div>
+  </section>
+
+  <section class="block" id="getting-here">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Getting here</span>
+        <h2>By road, rail or air</h2>
+      </div>
+      <div class="routes">
+        <div class="route"><b>From Fort William</b><p>A82 north to Invergarry, then the A87 towards Kyle of Lochalsh. Cross the Skye Bridge (no toll) and follow the signs to Portree.</p></div>
+        <div class="route"><b>From Inverness</b><p>A82 towards Fort William, then right at Invermoriston onto the A887, which joins the A87 towards Kyle of Lochalsh.</p></div>
+        <div class="route"><b>By train</b><p>Main line to Inverness, then the Kyle line to Kyle of Lochalsh.</p></div>
+        <div class="route"><b>By air</b><p>Inverness Airport.</p></div>
+        <div class="route"><b>Parking</b><p>The inn has no car park of its own. There are pay and display and free car parks close by.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="contact">
+    <div class="wrap two">
+      <div>
+        <div class="head">
+          <span class="eyebrow">Before you book</span>
+          <h2>Good to know</h2>
+        </div>
+        <ul class="terms">
+          <li>All prices include a full Scottish breakfast and VAT at 20%.</li>
+          <li>Children sharing with two adults: under 5 free, under 12 half price, 12 and over full price.</li>
+          <li>If you cancel within 7 days of arrival, or do not arrive, the first night is charged to your card.</li>
+          <li>For group and tour bookings the cancellation period is one month before arrival.</li>
+        </ul>
+      </div>
+      <div class="contact">
+        <h2 style="font-size:var(--step-2)">Contact the inn</h2>
+        <div class="row">
+          <span>Telephone</span>
+          <div class="val"><a href="tel:+441478612129" id="tel">01478 612129</a><button class="copy" type="button" data-copy="+44 1478 612129" id="copy-tel">Copy</button></div>
+        </div>
+        <div class="row">
+          <span>Email</span>
+          <div class="val"><a href="mailto:info@accommodationskye.co.uk" id="mail">info@accommodationskye.co.uk</a><button class="copy" type="button" data-copy="info@accommodationskye.co.uk" id="copy-mail">Copy</button></div>
+        </div>
+        <div class="row">
+          <span>Address</span>
+          <address>The Isles Inn<br>Somerled Square<br>Portree, Isle of Skye<br>IV51 9EH</address>
+        </div>
+        <a class="btn btn-book" href="https://portal.freetobook.com/reservations?w_id=22735&amp;w_tkn=hhm2rozpO4WGrL2FnPAAWwiKG8K1usGtiAZAgyoA5k5KVz19mUjWcOe6nFsJi" target="_blank" rel="noopener">Check availability</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>The Isles Inn · Somerled Square · Portree · Isle of Skye IV51 9EH</p>
+    <p>Harbour photograph by הגמל התימני, <a href="https://commons.wikimedia.org/wiki/File:Portree_Isle_of_Skye_-_September_2023.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, licensed CC BY-SA 4.0. Other photographs from the inn's current website.</p>
+    <p>Design concept by Petr Ivan. Not the official website of The Isles Inn.</p>
+  </div>
+</footer>
+
+<div class="bookbar">
+  <small>Book direct with the inn<br>Breakfast included</small>
+  <a class="btn btn-book" href="https://portal.freetobook.com/reservations?w_id=22735&amp;w_tkn=hhm2rozpO4WGrL2FnPAAWwiKG8K1usGtiAZAgyoA5k5KVz19mUjWcOe6nFsJi" target="_blank" rel="noopener">Check availability</a>
+</div>
+
+<script>
+document.querySelectorAll('.copy').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var text = b.getAttribute('data-copy');
+    var done = function () { b.textContent = 'Copied'; setTimeout(function () { b.textContent = 'Copy'; }, 1600); };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done).catch(function () { selectText(b.previousElementSibling); });
+    } else { selectText(b.previousElementSibling); }
+  });
+});
+function selectText(el) {
+  try { var r = document.createRange(); r.selectNodeContents(el); var s = window.getSelection(); s.removeAllRanges(); s.addRange(r); } catch (e) {}
+}
+</script>
+</body>
+</html>
