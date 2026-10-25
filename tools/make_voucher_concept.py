@@ -21,6 +21,10 @@ def js(s):
     return s.replace('\\', '\\\\').replace("'", "\\'")
 
 
+def money(p):
+    return f'{p:.2f}' if isinstance(p, float) and not float(p).is_integer() else f'{int(p)}'
+
+
 def build(c):
     h = open(TPL, encoding='utf-8').read()
     name, P = c['name'], c['prefix']
@@ -63,7 +67,7 @@ def build(c):
         if m and 'name="gift"' in ln:
             i = keys.index(m.group(1)); t, d, p, _ = c['gifts'][i]
             ln = re.sub(r'<b>[^<]*</b><span>[^<]*</span><span class="price">[^<]*</span>',
-                        f'<b>{esc(t)}</b><span>{esc(d)}</span><span class="price">£{p}</span>', ln)
+                        f'<b>{esc(t)}</b><span>{esc(d)}</span><span class="price">£{money(p)}</span>', ln)
         out.append(ln)
     h = '\n'.join(out)
     for i, k in enumerate(keys):
@@ -71,7 +75,7 @@ def build(c):
         h = re.sub(rf"    {k}: \{{ title: '[^']*', detail: '[^']*', price: \d+ \}}",
                    f"    {k}: {{ title: '{js(t)}', detail: '{js(det)}', price: {p} }}", h)
     h = h.replace('<div class="vtitle" id="v-title">A night for two</div>', f'<div class="vtitle" id="v-title">{esc(c["gifts"][0][0])}</div>')
-    h = h.replace('<b id="total">£220.00</b>', f'<b id="total">£{c["gifts"][0][2]}.00</b>')
+    h = h.replace('<b id="total">£220.00</b>', f'<b id="total">£{float(c["gifts"][0][2]):.2f}</b>')
     seed = ',\n    '.join(f"{{ num: '{P}-{n}', title: '{js(t)}', to: '{js(to)}', value: {v}, used: {str(u).lower()} }}"
                            for n, (t, to, v, u) in zip(['418203', '552917'], c['seed']))
     h = re.sub(r"var memory = \[\n.*?\n  \];", "var memory = [\n    " + seed + "\n  ];", h, flags=re.S)

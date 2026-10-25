@@ -1,0 +1,57 @@
+{
+ "slug": "arthaus-broughton",
+ "name": "ArtHaus Hair",
+ "tagline": "111 Broughton Street · Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give the gift of great hair",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Cut & style",
+   "With one of our five experienced stylists",
+   65,
+   "Cut and style"
+  ],
+  [
+   "Blow dry",
+   "Wash and a professional blow dry",
+   45,
+   "Blow dry"
+  ],
+  [
+   "Toner & gloss",
+   "Refresh tone and shine between colours",
+   40,
+   "Toner and gloss"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the salon",
+ "message": "Happy Christmas! Coffee, a Tunnock's and a fresh new look on me.",
+ "accent": "#3A3A3A",
+ "cta": "#F5C400",
+ "on_cta": "#1A1A1A",
+ "hero_bg": "#2B2B2B",
+ "hero_eyebrow": "#F5C400",
+ "prefix": "AH",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Cut & style",
+   "Morag",
+   65,
+   true
+  ],
+  [
+   "Blow dry",
+   "Ailsa",
+   45,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "111 Broughton Street, Edinburgh EH1 3RZ · 0131 556 6858",
+  "hours": "Tuesday and Wednesday 9am to 6pm, Thursday 10am to 7pm, Friday 9am to 6pm, Saturday 9am to 4pm.",
+  "maps_query": "ArtHaus Hair 111 Broughton Street Edinburgh"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "ishi-marchmont",
+ "name": "ISHI Salon",
+ "tagline": "4 Roseneath Street · Marchmont",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give someone an hour of calm",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Ladies cut & blow dry",
+   "Wash, precision cut and finish tailored to you",
+   48.5,
+   "Ladies cut and blow dry"
+  ],
+  [
+   "Gents cut & blow dry",
+   "Clean, consistent cut with wash and finish",
+   33,
+   "Gents cut and blow dry"
+  ],
+  [
+   "Balayage",
+   "Hand-painted highlights with toner included",
+   95,
+   "Balayage"
+  ]
+ ],
+ "amount_desc": "Spend on any hair or beauty service",
+ "message": "Happy Christmas! Book yourself in for some proper me-time.",
+ "accent": "#1F3D33",
+ "cta": "#1F3D33",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1F3D33",
+ "hero_eyebrow": "#D8BE86",
+ "prefix": "IS",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Ladies cut & blow dry",
+   "Morag",
+   48.5,
+   true
+  ],
+  [
+   "Gents cut & blow dry",
+   "Ailsa",
+   33,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Roseneath Street, Edinburgh EH9 1JH · 0131 229 4111",
+  "hours": "Monday to Wednesday 9am to 6pm, Thursday 9am to 8pm, Friday 9am to 6pm, Saturday 9am to 5pm.",
+  "maps_query": "ISHI Salon 4 Roseneath Street Edinburgh"
+ }
+}

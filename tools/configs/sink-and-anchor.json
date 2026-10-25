@@ -1,0 +1,57 @@
+{
+ "slug": "sink-and-anchor",
+ "name": "Sink & Anchor",
+ "tagline": "48 East Fountainbridge · Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give him a proper haircut",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Haircut",
+   "One of the finest cuts in Edinburgh",
+   25,
+   "Haircut"
+  ],
+  [
+   "Haircut & beard trim",
+   "Hair and beard matched up properly",
+   33,
+   "Haircut and beard trim"
+  ],
+  [
+   "Haircut & shave",
+   "A sharp haircut and a classic shave",
+   55,
+   "Haircut and shave"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, trim, shave or product",
+ "message": "Merry Christmas! Time to tidy up that beard.",
+ "accent": "#C9562C",
+ "cta": "#E0673A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#232323",
+ "hero_eyebrow": "#E0673A",
+ "prefix": "SA",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Haircut",
+   "Morag",
+   25,
+   true
+  ],
+  [
+   "Haircut & beard trim",
+   "Ailsa",
+   33,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "48 East Fountainbridge, Edinburgh EH3 9BH · 0131 259 0551",
+  "hours": "Call 0131 259 0551 or book online.",
+  "maps_query": "Sink and Anchor Barbershop 48 East Fountainbridge Edinburgh"
+ }
+}

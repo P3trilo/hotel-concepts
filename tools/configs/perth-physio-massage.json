@@ -1,0 +1,57 @@
+{
+ "slug": "perth-physio-massage",
+ "name": "Perth Physio Clinic",
+ "tagline": "34-36 Glover Street · Perth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an hour to relax",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Massage, 1 hour",
+   "A full hour of massage",
+   57,
+   "One hour massage"
+  ],
+  [
+   "Clinical reflexology",
+   "One hour of reflexology",
+   52,
+   "Clinical reflexology, one hour"
+  ],
+  [
+   "Indian head massage",
+   "Thirty minutes to switch off",
+   37,
+   "Indian head massage, 30 minutes"
+  ]
+ ],
+ "amount_desc": "Spend on any complementary therapy",
+ "message": "Happy Christmas! Something just for you after a long year.",
+ "accent": "#1E2D78",
+ "cta": "#1E2D78",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1A2560",
+ "hero_eyebrow": "#C9D3FF",
+ "prefix": "PP",
+ "guest": "client",
+ "biz": "clinic",
+ "seed": [
+  [
+   "Massage, 1 hour",
+   "Morag",
+   57,
+   true
+  ],
+  [
+   "Clinical reflexology",
+   "Ailsa",
+   52,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "34-36 Glover Street, Perth PH2 0JR · 01738 626707",
+  "hours": "Clinics in Perth, Pitlochry and Blairgowrie. Call 01738 626707 or book online.",
+  "maps_query": "Perth Physio Clinic 34 Glover Street Perth"
+ }
+}
