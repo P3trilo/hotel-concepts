@@ -83,7 +83,7 @@ def build(c):
     h = re.sub(r'--accent: #[0-9A-Fa-f]{6}; --cta: #[0-9A-Fa-f]{6}; --on-cta: #[0-9A-Fa-f]{6}; --hero-bg: #[0-9A-Fa-f]{6};',
                f'--accent: {c["accent"]}; --cta: {c["cta"]}; --on-cta: {c["on_cta"]}; --hero-bg: {c["hero_bg"]};', h)
     h = h.replace('.intro .eyebrow { color: #E3BD7A; }', f'.intro .eyebrow {{ color: {c["hero_eyebrow"]}; }}')
-    h = h.replace('--brass: #B07A2E;', f'--brass: {c["cta"]};')
+    h = h.replace('--brass: #B07A2E;', f'--brass: {c.get("brass", c["accent"])};')
     h = h.replace('.demo-bar { background: #7A2E2E;', '.demo-bar { background: #2A2A2A;')
     # optional "Visit us" block: address, hours, free Google Maps and reviews links (no API key)
     v = c.get('visit')
