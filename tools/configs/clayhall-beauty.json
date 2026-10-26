@@ -1,0 +1,57 @@
+{
+ "slug": "clayhall-beauty",
+ "name": "Clayhall Beauty",
+ "tagline": "5 Claybury Broadway · Ilford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Treat a loved one this Christmas",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Rose facial",
+   "Treat a loved one, or even better treat yourself",
+   60,
+   "Rose facial"
+  ],
+  [
+   "Deep cleansing facial",
+   "45 minutes with exfoliation and a face mask",
+   40,
+   "Deep cleansing facial"
+  ],
+  [
+   "Deluxe pedicure",
+   "With foot mask and heated booties",
+   38,
+   "Deluxe pedicure"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment in the salon",
+ "message": "Happy Christmas! Treat yourself to that rose facial.",
+ "accent": "#2B6E5E",
+ "cta": "#AFEDD2",
+ "on_cta": "#111111",
+ "hero_bg": "#151515",
+ "hero_eyebrow": "#AFEDD2",
+ "prefix": "CB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Rose facial",
+   "Sarah",
+   60,
+   true
+  ],
+  [
+   "Deep cleansing facial",
+   "Emma",
+   40,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Claybury Broadway, Clayhall, Ilford IG5 0LQ · 020 8551 5811",
+  "hours": "Wednesday 10am to 5pm, Thursday 11am to 7pm, Friday 10am to 5pm, Saturday 9am to 5pm.",
+  "maps_query": "Clayhall Beauty 5 Claybury Broadway Ilford"
+ }
+}

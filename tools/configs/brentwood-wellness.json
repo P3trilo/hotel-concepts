@@ -1,0 +1,57 @@
+{
+ "slug": "brentwood-wellness",
+ "name": "Brentwood Wellness Centre",
+ "tagline": "Rejuvenation and renewal · Brentwood",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an hour of rejuvenation",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Massage, 60 minutes",
+   "Traditional Thai, deep tissue or Swedish",
+   60,
+   "One hour massage"
+  ],
+  [
+   "Massage, 90 minutes",
+   "Traditional Thai, deep tissue or Swedish",
+   90,
+   "Ninety minute massage"
+  ],
+  [
+   "Foot massage",
+   "Thirty minutes of foot massage",
+   40,
+   "Foot massage, 30 minutes"
+  ]
+ ],
+ "amount_desc": "Spend on any massage treatment",
+ "message": "Happy Christmas! Time for some rejuvenation and renewal.",
+ "accent": "#2A2A2A",
+ "cta": "#2A2A2A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1C1C1C",
+ "hero_eyebrow": "#E8C8B3",
+ "prefix": "BW",
+ "guest": "client",
+ "biz": "centre",
+ "seed": [
+  [
+   "Massage, 60 minutes",
+   "Sarah",
+   60,
+   true
+  ],
+  [
+   "Massage, 90 minutes",
+   "Emma",
+   90,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Brentwood, Essex · 01277 500280 / 07711 955229",
+  "hours": "Book online or call 01277 500280.",
+  "maps_query": "Brentwood Wellness Centre CM14 4EG"
+ }
+}

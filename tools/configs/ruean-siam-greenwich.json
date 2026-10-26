@@ -1,0 +1,57 @@
+{
+ "slug": "ruean-siam-greenwich",
+ "name": "Ruean Siam Steam Sauna & Massage",
+ "tagline": "193 Trafalgar Road · Greenwich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an escape this Christmas",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Thai oil massage",
+   "Sixty minutes to relieve stress",
+   70,
+   "Thai oil massage, 60 minutes"
+  ],
+  [
+   "Hot stones massage",
+   "Sixty minutes with warm stones",
+   70,
+   "Hot stones massage, 60 minutes"
+  ],
+  [
+   "Steam sauna",
+   "Sixty minutes in the steam sauna",
+   30,
+   "Steam sauna, 60 minutes"
+  ]
+ ],
+ "amount_desc": "Spend on any massage or sauna session",
+ "message": "Happy Christmas! Escape, relax, renew.",
+ "accent": "#A8161F",
+ "cta": "#CE1B28",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2A1612",
+ "hero_eyebrow": "#D4AF37",
+ "prefix": "RS",
+ "guest": "client",
+ "biz": "spa",
+ "seed": [
+  [
+   "Thai oil massage",
+   "Sarah",
+   70,
+   true
+  ],
+  [
+   "Hot stones massage",
+   "Emma",
+   70,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "193 Trafalgar Road, London SE10 9EQ · 020 3971 8078",
+  "hours": "Open every day, 11am to 11pm.",
+  "maps_query": "Ruean Siam Steam Sauna 193 Trafalgar Road London"
+ }
+}

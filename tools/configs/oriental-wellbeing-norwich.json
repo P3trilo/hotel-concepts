@@ -1,0 +1,57 @@
+{
+ "slug": "oriental-wellbeing-norwich",
+ "name": "Oriental Wellbeing",
+ "tagline": "101 Ber Street · Norwich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give the gift of a proper massage",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Massage, 60 minutes",
+   "Full body, deep tissue, Chinese or Swedish",
+   50,
+   "One hour massage"
+  ],
+  [
+   "Massage, 90 minutes",
+   "A longer session to really unwind",
+   80,
+   "Ninety minute massage"
+  ],
+  [
+   "Four hands massage",
+   "Sixty minutes with two therapists",
+   90,
+   "Four hands massage, 60 minutes"
+  ]
+ ],
+ "amount_desc": "Spend on any massage treatment",
+ "message": "Happy Christmas! Book that massage you keep putting off.",
+ "accent": "#2F6B45",
+ "cta": "#65BC7B",
+ "on_cta": "#0F2416",
+ "hero_bg": "#1E2B23",
+ "hero_eyebrow": "#9FD9AE",
+ "prefix": "OW",
+ "guest": "client",
+ "biz": "clinic",
+ "seed": [
+  [
+   "Massage, 60 minutes",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "Massage, 90 minutes",
+   "Emma",
+   80,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "101 Ber Street, Norwich NR1 3EY · 07815 666 800",
+  "hours": "Call 07815 666 800 to book your massage.",
+  "maps_query": "Oriental Wellbeing 101 Ber Street Norwich"
+ }
+}

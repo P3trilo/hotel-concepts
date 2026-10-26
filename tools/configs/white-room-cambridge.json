@@ -1,0 +1,57 @@
+{
+ "slug": "white-room-cambridge",
+ "name": "The White Room Beauty Lounge",
+ "tagline": "Beauty & skin · Central Cambridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an hour in the White Room",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "LVL lash lift",
+   "Lift and tint for naturally longer lashes",
+   56,
+   "LVL lash lift"
+  ],
+  [
+   "Luxury manicure",
+   "Luxury manicure with polish",
+   50,
+   "Luxury manicure with polish"
+  ],
+  [
+   "Eyebrow & lash tint",
+   "Brow and lash tint together",
+   32,
+   "Eyebrow and lash tint"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment in the salon",
+ "message": "Happy Christmas! An hour of calm, just for you.",
+ "accent": "#5E6E50",
+ "cta": "#6F7F5F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4D5843",
+ "hero_eyebrow": "#E9E3D3",
+ "prefix": "WR",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "LVL lash lift",
+   "Sarah",
+   56,
+   true
+  ],
+  [
+   "Luxury manicure",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The White Room Beauty Lounge, central Cambridge",
+  "hours": "Book online or get in touch to arrange your treatment.",
+  "maps_query": "The White Room Beauty Lounge Cambridge"
+ }
+}
