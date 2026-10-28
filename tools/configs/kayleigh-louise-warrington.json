@@ -1,0 +1,58 @@
+{
+ "slug": "kayleigh-louise-warrington",
+ "name": "Kayleigh Louise Hair & Beauty",
+ "tagline": "4 Martin Avenue · Warrington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a little luxury this Christmas",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Olaplex, cut & blow-dry",
+   "Hot towel Olaplex, cut and blow-dry with a Salon Director",
+   56,
+   "Hot towel Olaplex, cut and blow-dry"
+  ],
+  [
+   "Luxury manicure",
+   "With heated mitts",
+   40,
+   "Luxury manicure with heated mitts"
+  ],
+  [
+   "Aromatherapy facial",
+   "A full hour in our cosy beauty room",
+   45.5,
+   "Aromatherapy facial, one hour"
+  ]
+ ],
+ "amount_desc": "Spend on any hair, nails or beauty service",
+ "message": "Happy Christmas! You deserve a little luxury.",
+ "accent": "#9C7A3F",
+ "cta": "#9C7A3F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3A2F28",
+ "hero_eyebrow": "#E8D3A8",
+ "prefix": "KL",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Olaplex, cut & blow-dry",
+   "Sarah",
+   56,
+   true
+  ],
+  [
+   "Luxury manicure",
+   "Emma",
+   40,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Martin Avenue, Warrington WA2 0HQ · 01925 550766",
+  "hours": "Book through our app or call 01925 550766.",
+  "maps_query": "Kayleigh Louise Hair and Beauty 4 Martin Avenue Warrington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/kayleigh.jpg"
+}

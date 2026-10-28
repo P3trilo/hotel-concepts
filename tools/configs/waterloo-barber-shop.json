@@ -1,0 +1,58 @@
+{
+ "slug": "waterloo-barber-shop",
+ "name": "The Waterloo Barber Shop",
+ "tagline": "22 Kennington Road · Waterloo",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper haircut this Christmas",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Haircut",
+   "With one of our barbers",
+   28,
+   "Haircut"
+  ],
+  [
+   "Wash & cut",
+   "Wash, cut and finish",
+   32,
+   "Wash and cut"
+  ],
+  [
+   "Skin fade",
+   "Skin fade with foil razor",
+   33,
+   "Skin fade with foil razor"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the shop",
+ "message": "Happy Christmas! Your next haircut is on me.",
+ "accent": "#8A5523",
+ "cta": "#D9822B",
+ "on_cta": "#1A1209",
+ "hero_bg": "#241A12",
+ "hero_eyebrow": "#E9B477",
+ "prefix": "WB",
+ "guest": "client",
+ "biz": "barbershop",
+ "seed": [
+  [
+   "Haircut",
+   "Sarah",
+   28,
+   true
+  ],
+  [
+   "Wash & cut",
+   "Emma",
+   32,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "22 Kennington Road, London SE1 7BL · 020 7928 6518",
+  "hours": "Monday to Friday 9am to 6pm, Saturday 8.30am to 5.30pm.",
+  "maps_query": "The Waterloo Barber Shop 22 Kennington Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/waterloo.jpg"
+}

@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Didee Diva Hair &amp; Beauty Salon Gift Vouchers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Figtree:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="../../assets/base.css">
+<style>
+/* A fictional Highland inn selling gift vouchers before Christmas: pine green, brass, a paper voucher card. */
+:root {
+  --mist: #EFF2EE; --paper: #FBFCFA; --ink: #1A231E; --ink-soft: #4E5B53; --line: #D5DDD6;
+  --accent: #9A7A2C; --cta: #C9A24A; --on-cta: #111111; --hero-bg: #111111;
+  --why-bg: #22392E; --why-ink: #F1F4F0; --why-soft: #C2CEC6; --why-accent: #E3BD7A;
+  --offer-bg: #2F5D47; --offer-ink: #fff;
+  --card: #FFFDF7; --card-ink: #2A2216; --brass: #9A7A2C;
+  --display: "Fraunces", Georgia, serif; --display-weight: 600;
+  --body: "Figtree", "Segoe UI", Helvetica, Arial, sans-serif;
+  --label: "Figtree", "Segoe UI", sans-serif;
+}
+.demo-bar { background: #2A2A2A; color: #fff; font-size: 0.9rem; }
+.demo-bar .wrap { padding-block: 9px; }
+.intro { background: linear-gradient(180deg, rgba(0,0,0,.45), rgba(0,0,0,.72)), url(photo.jpg) center/cover no-repeat, var(--hero-bg); color: #fff; }
+.intro .wrap { padding-block: 72px 44px; }
+.intro p { color: #EEE !important; }
+.intro .wrap { padding-block: 40px 34px; display: grid; gap: 12px; }
+.intro .eyebrow { color: #E2C47A; }
+.intro h1 { font-size: var(--step-4); max-width: 16ch; }
+.intro p { color: #D7E1DA; max-width: 52ch; font-size: var(--step-1); }
+
+.tabs { display: flex; gap: 6px; border-bottom: 1px solid var(--line); background: var(--paper); }
+.tabs .wrap { display: flex; gap: 6px; padding-block: 0; }
+.tab { font: 600 1rem var(--body); background: none; border: 0; padding: 14px 10px; color: var(--ink-soft); cursor: pointer; border-bottom: 3px solid transparent; }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--cta); }
+
+.shop { display: grid; gap: 28px; padding-block: 32px 60px; }
+.steps { display: grid; gap: 26px; min-width: 0; }
+fieldset { border: 0; padding: 0; margin: 0; display: grid; gap: 12px; min-width: 0; }
+legend { font-family: var(--display); font-size: var(--step-2); font-weight: 600; margin-bottom: 10px; padding: 0; }
+.options { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr)); gap: 10px; }
+.opt { position: relative; }
+.opt input { position: absolute; opacity: 0; inset: 0; pointer-events: none; }
+.opt label { display: grid; gap: 4px; padding: 14px 16px; background: var(--paper); border: 1.5px solid var(--line); border-radius: var(--radius); cursor: pointer; height: 100%; }
+.opt label b { font-family: var(--display); font-size: 1.15rem; font-weight: 600; }
+.opt label span { color: var(--ink-soft); font-size: 0.95rem; line-height: 1.35; }
+.opt label .price { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; }
+.opt input:checked + label { border-color: var(--cta); box-shadow: 0 0 0 2px var(--cta) inset; }
+.opt input:focus-visible + label { outline: 3px solid var(--cta); outline-offset: 2px; }
+.field { display: grid; gap: 6px; }
+.field label { font-weight: 600; font-size: 0.95rem; }
+.field small { color: var(--ink-soft); }
+.field input, .field textarea, .field select { font: 1rem var(--body); padding: 11px 12px; border: 1.5px solid var(--line); border-radius: var(--radius); background: var(--paper); color: var(--ink); width: 100%; }
+.field textarea { min-height: 84px; resize: vertical; }
+.field input:focus, .field textarea:focus, .field select:focus { outline: none; border-color: var(--accent); }
+.row2 { display: grid; gap: 12px; }
+
+/* voucher card preview */
+.preview { align-self: start; display: grid; gap: 14px; min-width: 0; }
+@media (min-width: 900px) { .preview { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 74px); } }
+.voucher {
+  background: var(--card); color: var(--card-ink); border-radius: 10px; padding: 22px 22px 18px;
+  border: 1px solid #E6DCC6; box-shadow: 0 10px 30px rgba(26,35,30,0.12);
+  display: grid; gap: 12px; position: relative; overflow: hidden;
+}
+.voucher::before { content: ""; position: absolute; inset: 8px; border: 1px solid #D9C69C; border-radius: 6px; pointer-events: none; }
+.voucher .vh { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.voucher .vh b { font-family: var(--display); font-size: 1.25rem; }
+.voucher .vh span { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--brass); font-weight: 700; }
+.voucher .vtitle { font-family: var(--display); font-size: clamp(1.6rem, 6vw, 2.1rem); line-height: 1.1; }
+.voucher .vmsg { font-family: var(--display); font-style: italic; color: #5A4A30; min-height: 1.4em; overflow-wrap: anywhere; }
+.voucher dl { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 14px; margin: 0; font-size: 0.95rem; }
+.voucher dt { color: #8A7652; font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; padding-top: 3px; }
+.voucher dd { margin: 0; overflow-wrap: anywhere; }
+.voucher .vnum { font-variant-numeric: tabular-nums; letter-spacing: 0.08em; font-weight: 700; }
+.total { display: flex; justify-content: space-between; align-items: baseline; padding: 14px 16px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); }
+.total b { font-family: var(--display); font-size: 1.5rem; font-variant-numeric: tabular-nums; }
+.error { color: #9B2C2C; font-weight: 600; font-size: 0.95rem; }
+
+/* payment sheet (simulated) */
+.sheet-back { position: fixed; inset: 0; background: rgba(10,16,12,0.55); z-index: 20; display: grid; place-items: end center; padding: 0 var(--gutter-r) env(safe-area-inset-bottom, 0px) var(--gutter-l); }
+.sheet { background: var(--paper); width: min(460px, 100%); border-radius: 14px 14px 0 0; padding: 22px; display: grid; gap: 14px; margin-top: 40px; }
+.sheet h2 { font-size: var(--step-2); }
+.sheet .note { margin: 0; }
+.cardrow { display: grid; grid-template-columns: 1.6fr 1fr 0.8fr; gap: 8px; }
+@media (min-width: 560px) { .sheet-back { place-items: center; } .sheet { border-radius: 14px; } }
+
+.success { display: grid; gap: 18px; padding-block: 34px 70px; max-width: 640px; margin: 0 auto; }
+.success h2 { font-size: var(--step-3); }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.btn-line { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1.5px var(--line); }
+
+/* hotel view */
+.admin { padding-block: 32px 70px; display: grid; gap: 22px; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.stat { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; display: grid; gap: 2px; }
+.stat b { font-family: var(--display); font-size: 1.5rem; font-variant-numeric: tabular-nums; }
+.stat span { color: var(--ink-soft); font-size: 0.85rem; }
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+table.list { width: 100%; border-collapse: collapse; min-width: 560px; font-size: 0.95rem; }
+table.list th, table.list td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+table.list th { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); }
+table.list td.num { font-variant-numeric: tabular-nums; }
+.pill { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 0.82rem; font-weight: 700; }
+.pill.valid { background: #DDEFE3; color: #22543A; }
+.pill.used { background: #ECE7DD; color: #6B5B3E; }
+.check { display: flex; gap: 8px; flex-wrap: wrap; }
+.check input { flex: 1 1 180px; }
+.small-btn { padding: 7px 12px; font-size: 0.88rem; }
+
+@media (min-width: 900px) {
+  .shop { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); align-items: start; }
+  .row2 { grid-template-columns: 1fr 1fr; }
+}
+@media print {
+  .demo-bar, header, .intro, .tabs, .success .actions, footer, .note { display: none !important; }
+  .voucher { box-shadow: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="demo-bar"><div class="wrap">Concept prepared for Didee Diva Hair &amp; Beauty Salon by Petr Ivan. Nothing here is live: no payment is taken and no email is sent.</div></div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="#top"><b>Didee Diva Hair &amp; Beauty Salon</b><span>96 Lancaster Road · Enfield</span></a>
+  <a class="btn btn-book" href="#shop">Buy a voucher</a>
+</div></header>
+
+<main id="top">
+  <section class="intro"><div class="wrap">
+    <span class="eyebrow">Gift vouchers</span>
+    <h1>Reveal the diva in you</h1>
+    <p>Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.</p>
+  </div></section>
+
+  <nav class="tabs" aria-label="Demo views"><div class="wrap" role="tablist">
+    <button class="tab" role="tab" id="tab-shop" aria-selected="true" aria-controls="view-shop">What the client sees</button>
+    <button class="tab" role="tab" id="tab-admin" aria-selected="false" aria-controls="view-admin">What the salon sees</button>
+  </div></nav>
+
+  <div id="view-shop" role="tabpanel" aria-labelledby="tab-shop">
+    <form class="wrap shop" id="shop" novalidate>
+      <div class="steps">
+        <fieldset>
+          <legend>1. Choose a gift</legend>
+          <div class="options" id="gifts">
+            <div class="opt"><input type="radio" name="gift" id="g-night" value="night" checked><label for="g-night"><b>Keratin treatment</b><span>Smooth, healthy hair that lasts</span><span class="price">£125</span></label></div>
+            <div class="opt"><input type="radio" name="gift" id="g-dinner" value="dinner"><label for="g-dinner"><b>Full head colour</b><span>Full head tint or semi colour</span><span class="price">£45</span></label></div>
+            <div class="opt"><input type="radio" name="gift" id="g-tea" value="tea"><label for="g-tea"><b>Dry cut</b><span>Shaped by our skilled stylists</span><span class="price">£25</span></label></div>
+            <div class="opt"><input type="radio" name="gift" id="g-amount" value="amount"><label for="g-amount"><b>An amount</b><span>Spend on any style or treatment in the salon</span><span class="price">£25 to £500</span></label></div>
+          </div>
+          <div class="field" id="amount-field" hidden>
+            <label for="amount">Amount in pounds</label>
+            <input type="number" id="amount" min="25" max="500" step="5" value="100" inputmode="numeric">
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>2. Make it personal</legend>
+          <div class="row2">
+            <div class="field"><label for="to">To</label><input id="to" autocomplete="off" value="Fiona"></div>
+            <div class="field"><label for="from">From</label><input id="from" autocomplete="name" value="Callum"></div>
+          </div>
+          <div class="field"><label for="message">Message</label><textarea id="message" maxlength="160">Happy Christmas! Book that new look you have been dreaming of.</textarea><small><span id="count">0</span> of 160 characters</small></div>
+        </fieldset>
+
+        <fieldset>
+          <legend>3. Delivery</legend>
+          <div class="options">
+            <div class="opt"><input type="radio" name="delivery" id="d-recipient" value="recipient" checked><label for="d-recipient"><b>Email to them</b><span>On the date you choose</span><span class="price">Free</span></label></div>
+            <div class="opt"><input type="radio" name="delivery" id="d-me" value="me"><label for="d-me"><b>Email to me</b><span>To print or give in person</span><span class="price">Free</span></label></div>
+            <div class="opt"><input type="radio" name="delivery" id="d-post" value="post"><label for="d-post"><b>A card by post</b><span>Printed card in a gift envelope</span><span class="price">+£3.50</span></label></div>
+          </div>
+          <div class="row2">
+            <div class="field" id="email-field"><label for="email" id="email-label">Their email</label><input type="email" id="email" value="fiona@example.com" autocomplete="off"></div>
+            <div class="field" id="date-field"><label for="senddate">Send on</label><input type="date" id="senddate"></div>
+          </div>
+          <div class="field" id="address-field" hidden><label for="address">Postal address</label><textarea id="address">12 Example Street&#10;Inverness IV1 1AA</textarea></div>
+        </fieldset>
+
+        <p class="error" id="error" role="alert" hidden></p>
+      </div>
+
+      <aside class="preview" aria-label="Voucher preview">
+        <div class="voucher" id="card">
+          <div class="vh"><b>Didee Diva Hair &amp; Beauty Salon</b><span>Gift voucher</span></div>
+          <div class="vtitle" id="v-title">Keratin treatment</div>
+          <div class="vmsg" id="v-msg"></div>
+          <dl>
+            <dt>For</dt><dd id="v-to"></dd>
+            <dt>From</dt><dd id="v-from"></dd>
+            <dt>Valid until</dt><dd id="v-valid"></dd>
+            <dt>Number</dt><dd class="vnum" id="v-num">DD-••••••</dd>
+          </dl>
+        </div>
+        <div class="total"><span>Total</span><b id="total">£125.00</b></div>
+        <button class="btn btn-book" type="submit" id="pay">Continue to payment</button>
+        <p class="note" style="margin:0">Payment would be taken securely by card through Stripe. In this demo nothing is charged.</p>
+      </aside>
+    </form>
+
+    <section class="wrap success" id="done" hidden aria-live="polite">
+      <span class="eyebrow">Thank you</span>
+      <h2>Your voucher is ready</h2>
+      <p id="done-text"></p>
+      <div id="done-card"></div>
+      <div class="actions">
+        <button class="btn btn-book" type="button" id="print">Print voucher</button>
+        <button class="btn btn-line" type="button" id="another">Buy another</button>
+        <button class="btn btn-line" type="button" id="see-admin">See the salon's view</button>
+      </div>
+    </section>
+  </div>
+
+  <div id="view-admin" role="tabpanel" aria-labelledby="tab-admin" hidden>
+    <div class="wrap admin">
+      <div class="head" style="margin:0">
+        <span class="eyebrow">For the salon</span>
+        <h2>Vouchers sold</h2>
+        <p>Every voucher arrives here with its number. When a client comes to use one, check the number and mark it as used, so it cannot be used twice.</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><b id="s-count">0</b><span>Sold</span></div>
+        <div class="stat"><b id="s-value">£0</b><span>Value sold</span></div>
+        <div class="stat"><b id="s-open">0</b><span>Still to use</span></div>
+      </div>
+      <div class="field">
+        <label for="lookup">Check a voucher number</label>
+        <div class="check"><input id="lookup" placeholder="DD-123456" autocomplete="off"><button class="btn btn-book small-btn" type="button" id="lookup-btn">Check</button></div>
+        <small id="lookup-msg" aria-live="polite"></small>
+      </div>
+      <div class="tablewrap">
+        <table class="list">
+          <thead><tr><th>Number</th><th>Gift</th><th>For</th><th>Value</th><th>Status</th><th></th></tr></thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+      <p class="note" style="margin:0">In a real setup the salon also gets an email for every sale, and the money goes straight to your own Stripe account.</p>
+    </div>
+  </div>
+<section class="block" id="visit"><div class="wrap two"><div><div class="head"><span class="eyebrow">Visit us</span><h2>Didee Diva Hair &amp; Beauty Salon</h2><p>96 Lancaster Road, Enfield EN2 0BX · 020 3345 8758</p></div><p class="note" style="margin-top:0">Walk-ins welcome. Book online or call us to arrange your appointment.</p></div><div class="contact"><h2>Find us</h2><a class="btn btn-book" href="https://www.google.com/maps/search/?api=1&amp;query=Didee+Diva+Hair+Salon+96+Lancaster+Road+Enfield" target="_blank" rel="noopener">Open in Google Maps</a><a class="btn btn-line" href="https://www.google.com/maps/search/?api=1&amp;query=Didee+Diva+Hair+Salon+96+Lancaster+Road+Enfield" target="_blank" rel="noopener">Read our Google reviews</a></div></div></section>
+</main>
+
+<div class="sheet-back" id="sheet" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title">
+    <h2 id="sheet-title">Pay <span id="sheet-total"></span></h2>
+    <p class="note">Demo card details are filled in. Nothing will be charged.</p>
+    <div class="field"><label for="cardno">Card number</label><input id="cardno" value="4242 4242 4242 4242" inputmode="numeric"></div>
+    <div class="cardrow">
+      <div class="field"><label for="cardname">Name on card</label><input id="cardname" value="Callum Example"></div>
+      <div class="field"><label for="exp">Expiry</label><input id="exp" value="12/29"></div>
+      <div class="field"><label for="cvc">CVC</label><input id="cvc" value="123"></div>
+    </div>
+    <button class="btn btn-book" type="button" id="confirm-pay">Pay now</button>
+    <button class="btn btn-line" type="button" id="cancel-pay">Back</button>
+  </div>
+</div>
+
+<footer><div class="wrap">
+  <p>Concept prepared for Didee Diva Hair &amp; Beauty Salon by Petr Ivan. Not the official website of Didee Diva Hair &amp; Beauty Salon.</p>
+  <p>Demo by Petr Ivan, freelance web designer · ing.petr.ivan@gmail.com</p>
+</div></footer>
+
+<script>
+(function () {
+  var GIFTS = {
+    night: { title: 'Keratin treatment', detail: 'Keratin treatment', price: 125 },
+    dinner: { title: 'Full head colour', detail: 'Full head colour', price: 45 },
+    tea: { title: 'Dry cut', detail: 'Dry cut', price: 25 },
+    amount: { title: '', detail: 'Spend on any style or treatment in the salon', price: 0 }
+  };
+  var KEY = 'vouchers_didee-enfield';
+  var $ = function (id) { return document.getElementById(id); };
+  var gbp = function (n) { return '£' + n.toFixed(2); };
+  var esc = function (s) { return String(s).replace(/[&<>"']/g, function (c) { return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]; }); };
+
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) { return memory; } }
+  function save(list) { memory = list; try { localStorage.setItem(KEY, JSON.stringify(list)); } catch (e) {} }
+  var memory = [
+    { num: 'DD-418203', title: 'Keratin treatment', to: 'Sarah', value: 125, used: true },
+    { num: 'DD-552917', title: 'Full head colour', to: 'Emma', value: 45, used: false }
+  ];
+  if (!load().length) save(memory.slice());
+
+  // default send date: Christmas morning
+  var now = new Date();
+  var xmasYear = (now.getMonth() === 11 && now.getDate() > 25) ? now.getFullYear() + 1 : now.getFullYear();
+  $('senddate').value = xmasYear + '-12-25';
+
+  function state() {
+    var g = document.querySelector('input[name=gift]:checked').value;
+    var d = document.querySelector('input[name=delivery]:checked').value;
+    var amt = Math.round(parseFloat($('amount').value) || 0);
+    var item = GIFTS[g];
+    var value = g === 'amount' ? amt : item.price;
+    var title = g === 'amount' ? (amt ? '£' + amt + ' to spend' : 'An amount to spend') : item.title;
+    return { gift: g, delivery: d, value: value, title: title, total: value + (d === 'post' ? 3.5 : 0) };
+  }
+
+  function validUntil() {
+    var d = new Date($('senddate').value || Date.now());
+    if (isNaN(d)) d = new Date();
+    d.setFullYear(d.getFullYear() + 1);
+    return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  }
+
+  function render() {
+    var s = state();
+    $('amount-field').hidden = s.gift !== 'amount';
+    $('address-field').hidden = s.delivery !== 'post';
+    $('email-field').hidden = s.delivery === 'post';
+    $('date-field').hidden = s.delivery !== 'recipient';
+    $('email-label').textContent = s.delivery === 'me' ? 'Your email' : 'Their email';
+    $('v-title').textContent = s.title;
+    $('v-msg').textContent = $('message').value ? '“' + $('message').value + '”' : '';
+    $('v-to').textContent = $('to').value || '—';
+    $('v-from').textContent = $('from').value || '—';
+    $('v-valid').textContent = validUntil();
+    $('total').textContent = gbp(s.total);
+    $('count').textContent = $('message').value.length;
+  }
+
+  function check() {
+    var s = state();
+    if (s.gift === 'amount' && (s.value < 25 || s.value > 500)) return 'Please choose an amount between £25 and £500.';
+    if (!$('to').value.trim()) return 'Please add who the voucher is for.';
+    if (!$('from').value.trim()) return 'Please add who the voucher is from.';
+    if (s.delivery !== 'post' && !/^\S+@\S+\.\S+$/.test($('email').value)) return 'Please enter a valid email address.';
+    if (s.delivery === 'post' && !$('address').value.trim()) return 'Please add the postal address.';
+    return '';
+  }
+
+  document.querySelectorAll('#shop input, #shop textarea').forEach(function (el) { el.addEventListener('input', render); el.addEventListener('change', render); });
+
+  $('shop').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var msg = check();
+    $('error').hidden = !msg; $('error').textContent = msg;
+    if (msg) return;
+    $('sheet-total').textContent = gbp(state().total);
+    $('sheet').hidden = false; $('confirm-pay').focus();
+  });
+  $('cancel-pay').addEventListener('click', function () { $('sheet').hidden = true; $('pay').focus(); });
+
+  $('confirm-pay').addEventListener('click', function () {
+    var b = this; b.disabled = true; b.textContent = 'Processing…';
+    setTimeout(function () {
+      var s = state();
+      var num = 'DD-' + String(Math.floor(100000 + Math.random() * 900000));
+      var list = load(); list.unshift({ num: num, title: s.title, to: $('to').value.trim(), value: s.value, used: false }); save(list);
+      $('v-num').textContent = num;
+      var when = s.delivery === 'recipient' ? 'We will email it to ' + $('email').value + ' on ' + new Date($('senddate').value).toLocaleDateString('en-GB', { day: 'numeric', month: 'long' }) + '.'
+        : s.delivery === 'me' ? 'We have emailed it to ' + $('email').value + ' so you can print it.'
+        : 'We will post a printed card to the address you gave.';
+      $('done-text').textContent = 'Voucher ' + num + ' for ' + gbp(s.total) + '. ' + when + ' In this demo no email is sent and no payment is taken.';
+      $('done-card').innerHTML = ''; $('done-card').appendChild($('card').cloneNode(true));
+      $('sheet').hidden = true; $('shop').hidden = true; $('done').hidden = false;
+      b.disabled = false; b.textContent = 'Pay now';
+      window.scrollTo({ top: $('done').offsetTop - 80, behavior: 'smooth' });
+      renderAdmin();
+    }, 900);
+  });
+
+  $('print').addEventListener('click', function () { window.print(); });
+  $('another').addEventListener('click', function () { $('done').hidden = true; $('shop').hidden = false; $('v-num').textContent = 'DD-••••••'; render(); });
+  $('see-admin').addEventListener('click', function () { show('admin'); });
+
+  function renderAdmin() {
+    var list = load();
+    var rows = list.map(function (v, i) {
+      return '<tr><td class="num">' + esc(v.num) + '</td><td>' + esc(v.title) + '</td><td>' + esc(v.to) + '</td><td class="num">£' + v.value + '</td><td><span class="pill ' + (v.used ? 'used">Used' : 'valid">Valid') + '</span></td><td>' + (v.used ? '' : '<button class="btn btn-line small-btn" type="button" data-use="' + i + '">Mark as used</button>') + '</td></tr>';
+    }).join('');
+    $('rows').innerHTML = rows || '<tr><td colspan="6">No vouchers yet.</td></tr>';
+    $('s-count').textContent = list.length;
+    $('s-value').textContent = '£' + list.reduce(function (a, v) { return a + v.value; }, 0);
+    $('s-open').textContent = list.filter(function (v) { return !v.used; }).length;
+  }
+  $('rows').addEventListener('click', function (e) {
+    var i = e.target.getAttribute('data-use'); if (i === null) return;
+    var list = load(); list[+i].used = true; save(list); renderAdmin();
+  });
+  $('lookup-btn').addEventListener('click', function () {
+    var q = $('lookup').value.trim().toUpperCase();
+    var v = load().filter(function (x) { return x.num === q; })[0];
+    $('lookup-msg').textContent = !q ? 'Type a voucher number first.' : !v ? 'No voucher with that number. Check the number and try again.'
+      : v.used ? v.num + ' has already been used.' : v.num + ' is valid: ' + v.title + ' for ' + v.to + '.';
+  });
+
+  function show(which) {
+    var admin = which === 'admin';
+    $('view-admin').hidden = !admin; $('view-shop').hidden = admin;
+    $('tab-admin').setAttribute('aria-selected', admin); $('tab-shop').setAttribute('aria-selected', !admin);
+    if (admin) renderAdmin();
+  }
+  $('tab-shop').addEventListener('click', function () { show('shop'); });
+  $('tab-admin').addEventListener('click', function () { show('admin'); });
+
+  render();
+})();
+</script>
+</body>
+</html>

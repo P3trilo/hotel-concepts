@@ -1,0 +1,59 @@
+{
+ "slug": "reflection-ealing",
+ "name": "Reflection Hair and Beauty",
+ "tagline": "26 Northfields Avenue · Ealing",
+ "eyebrow": "Gift vouchers",
+ "headline": "Refresh, restyle, reflect",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Ladies cut & blow-dry",
+   "Starts with a free consultation",
+   62,
+   "Ladies cut and blow-dry"
+  ],
+  [
+   "Restyle",
+   "Time for something new",
+   75,
+   "Restyle"
+  ],
+  [
+   "Shampoo & blow-dry",
+   "Long hair, for a special evening",
+   37,
+   "Shampoo and blow-dry, long hair"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the salon",
+ "message": "Happy Christmas! Time for a fresh new look.",
+ "accent": "#1A1A1A",
+ "cta": "#111111",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0E0E0E",
+ "hero_eyebrow": "#D9D9D9",
+ "prefix": "RF",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Ladies cut & blow-dry",
+   "Sarah",
+   62,
+   true
+  ],
+  [
+   "Restyle",
+   "Emma",
+   75,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "26 Northfields Avenue, London W13 9RL · 020 8579 3000",
+  "hours": "Monday to Wednesday 10am to 6pm, Thursday and Friday 10am to 7.30pm, Saturday 10am to 6pm.",
+  "maps_query": "Reflection Hair and Beauty 26 Northfields Avenue London W13 9RL"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/reflection.jpg",
+ "brass": "#555555"
+}

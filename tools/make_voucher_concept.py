@@ -6,6 +6,7 @@ Output: v/<slug>/index.html  (served at https://p3trilo.github.io/hotel-concepts
 config keys: slug, name, tagline, eyebrow, headline, intro, gifts [[title, desc, price, detail]] x3,
 amount_desc, message, accent, cta, on_cta, hero_bg, hero_eyebrow, prefix, guest ("client"), biz ("salon"),
 seed [[title, to, value, used]] x2
+optional: brass, visit {address, hours, maps_query}, photo (local path to a photo from their own site -> intro background)
 """
 import json, os, re, sys
 
@@ -85,6 +86,11 @@ def build(c):
     h = h.replace('.intro .eyebrow { color: #E3BD7A; }', f'.intro .eyebrow {{ color: {c["hero_eyebrow"]}; }}')
     h = h.replace('--brass: #B07A2E;', f'--brass: {c.get("brass", c["accent"])};')
     h = h.replace('.demo-bar { background: #7A2E2E;', '.demo-bar { background: #2A2A2A;')
+    # optional photo from the business's own website as intro background (copied next to index.html)
+    if c.get('photo'):
+        h = h.replace('.intro { background: var(--hero-bg); color: #fff; }',
+                      '.intro { background: linear-gradient(180deg, rgba(0,0,0,.45), rgba(0,0,0,.72)), url(photo.jpg) center/cover no-repeat, var(--hero-bg); color: #fff; }\n'
+                      '.intro .wrap { padding-block: 72px 44px; }\n.intro p { color: #EEE !important; }')
     # optional "Visit us" block: address, hours, free Google Maps and reviews links (no API key)
     v = c.get('visit')
     if v:
@@ -107,6 +113,10 @@ def main():
     c = json.load(open(sys.argv[1], encoding='utf-8'))
     d = os.path.join(ROOT, 'v', c['slug']); os.makedirs(d, exist_ok=True)
     open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(build(c))
+    if c.get('photo'):  # local image downloaded from their site -> v/<slug>/photo.jpg (max 1400px)
+        from PIL import Image
+        im = Image.open(c['photo']).convert('RGB'); im.thumbnail((1400, 1400))
+        im.save(os.path.join(d, 'photo.jpg'), quality=78, optimize=True)
     print('built', f'v/{c["slug"]}/index.html')
 
 

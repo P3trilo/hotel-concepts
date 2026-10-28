@@ -1,0 +1,58 @@
+{
+ "slug": "didee-enfield",
+ "name": "Didee Diva Hair & Beauty Salon",
+ "tagline": "96 Lancaster Road · Enfield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Reveal the diva in you",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Keratin treatment",
+   "Smooth, healthy hair that lasts",
+   125,
+   "Keratin treatment"
+  ],
+  [
+   "Full head colour",
+   "Full head tint or semi colour",
+   45,
+   "Full head colour"
+  ],
+  [
+   "Dry cut",
+   "Shaped by our skilled stylists",
+   25,
+   "Dry cut"
+  ]
+ ],
+ "amount_desc": "Spend on any style or treatment in the salon",
+ "message": "Happy Christmas! Book that new look you have been dreaming of.",
+ "accent": "#9A7A2C",
+ "cta": "#C9A24A",
+ "on_cta": "#111111",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#E2C47A",
+ "prefix": "DD",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Keratin treatment",
+   "Sarah",
+   125,
+   true
+  ],
+  [
+   "Full head colour",
+   "Emma",
+   45,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "96 Lancaster Road, Enfield EN2 0BX · 020 3345 8758",
+  "hours": "Walk-ins welcome. Book online or call us to arrange your appointment.",
+  "maps_query": "Didee Diva Hair Salon 96 Lancaster Road Enfield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/didee.jpg"
+}

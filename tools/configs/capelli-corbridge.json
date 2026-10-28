@@ -1,0 +1,58 @@
+{
+ "slug": "capelli-corbridge",
+ "name": "Capelli Hair Design",
+ "tagline": "16 Watling Street · Corbridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an afternoon at Capelli",
+ "intro": "Choose a treatment or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Ladies cut & style",
+   "With one of our Artistic Designers",
+   67.5,
+   "Ladies cut and style, Artistic Designer"
+  ],
+  [
+   "Hair up",
+   "For a wedding, a party or a night out",
+   55,
+   "Hair up"
+  ],
+  [
+   "Style for long hair",
+   "Wash and blow-dry style, Artistic Designer",
+   45.5,
+   "Style, long hair"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the salon",
+ "message": "Happy Christmas! Treat yourself to a proper afternoon at Capelli.",
+ "accent": "#8A1E44",
+ "cta": "#8A1E44",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2B2226",
+ "hero_eyebrow": "#E7B3C6",
+ "prefix": "CP",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Ladies cut & style",
+   "Sarah",
+   67.5,
+   true
+  ],
+  [
+   "Hair up",
+   "Emma",
+   55,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "16 Watling Street, Corbridge, Northumberland NE45 5AH · 01434 633700",
+  "hours": "Tuesday, Wednesday and Friday 9am to 5pm, Thursday 10am to 7pm, Saturday 9am to 4pm.",
+  "maps_query": "Capelli Hair Design 16 Watling Street Corbridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/capelli.jpg"
+}
