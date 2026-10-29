@@ -1,0 +1,58 @@
+{
+ "slug": "da-luca-marlow",
+ "name": "Da Luca",
+ "tagline": "Marlow Bottom · Buckinghamshire",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Calabria",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Spaghetti allo Scoglio",
+   "Mussels, clams, squid and prawns",
+   17,
+   "Spaghetti allo Scoglio"
+  ],
+  [
+   "Antipasto Calabrese to share",
+   "Cured meat, cheese, olives and sun-dried tomatoes",
+   24,
+   "Antipasto Calabrese, large"
+  ],
+  [
+   "Fusilli alla Calabrese",
+   "With 'nduja, porcini and ricotta",
+   15,
+   "Fusilli alla Calabrese"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or the wine list",
+ "message": "Buon Natale! Dinner at Da Luca, whenever you like.",
+ "accent": "#B7281C",
+ "cta": "#B7281C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#211D19",
+ "hero_eyebrow": "#F2C9A0",
+ "prefix": "DL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Spaghetti allo Scoglio",
+   "Sarah",
+   17,
+   true
+  ],
+  [
+   "Antipasto Calabrese to share",
+   "Emma",
+   24,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Kingswood Parade, Marlow Bottom SL7 3NT · 01628 478150",
+  "hours": "Open Tuesday to Sunday.",
+  "maps_query": "Da Luca Kingswood Parade Marlow Bottom"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/daluca.jpg"
+}

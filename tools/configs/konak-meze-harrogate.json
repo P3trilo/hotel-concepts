@@ -1,0 +1,58 @@
+{
+ "slug": "konak-meze-harrogate",
+ "name": "Konak Meze",
+ "tagline": "Mount Parade · Harrogate",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Turkish feast this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Two courses",
+   "Starter and main from the à la carte menu",
+   22.95,
+   "Two courses from the à la carte menu"
+  ],
+  [
+   "Two courses for two",
+   "Starter and main each, from the à la carte menu",
+   45.9,
+   "Two courses from the à la carte menu, for two"
+  ],
+  [
+   "Meze lunch",
+   "Three hot or cold meze with a glass of wine",
+   16.95,
+   "Lunch: three meze with a glass of house wine or a soft drink"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Meze and a glass of wine, my treat.",
+ "accent": "#264755",
+ "cta": "#CBDC81",
+ "on_cta": "#1C2F38",
+ "hero_bg": "#264755",
+ "hero_eyebrow": "#CBDC81",
+ "prefix": "KM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Two courses",
+   "Sarah",
+   22.95,
+   true
+  ],
+  [
+   "Two courses for two",
+   "Emma",
+   45.9,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "11-13 Mount Parade, Harrogate HG1 1BX",
+  "hours": "Open Tuesday to Sunday, in Harrogate and on Town Street in Horsforth.",
+  "maps_query": "Konak Meze Mount Parade Harrogate"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/konak.jpg"
+}

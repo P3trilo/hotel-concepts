@@ -1,0 +1,58 @@
+{
+ "slug": "romanellis-milton-keynes",
+ "name": "Romanelli's",
+ "tagline": "Chandos Place · Bletchley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper Italian dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "All you can eat pasta",
+   "Monday evenings, from 5pm",
+   16.99,
+   "All you can eat pasta, adult"
+  ],
+  [
+   "Controfiletto alla griglia",
+   "Grass-fed sirloin with fries and a vegetable skewer",
+   23.99,
+   "Controfiletto alla griglia"
+  ],
+  [
+   "Lasagne alla Bolognese",
+   "Fresh egg pasta and slow-cooked ragù",
+   14.99,
+   "Lasagne alla Bolognese"
+  ]
+ ],
+ "amount_desc": "Spend in the restaurant or the café",
+ "message": "Happy Christmas! Pasta night is on me.",
+ "accent": "#6B4A3A",
+ "cta": "#35302D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E1B19",
+ "hero_eyebrow": "#D9C3A5",
+ "prefix": "RO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "All you can eat pasta",
+   "Sarah",
+   16.99,
+   true
+  ],
+  [
+   "Controfiletto alla griglia",
+   "Emma",
+   23.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "3A Chandos Place, Bletchley, Milton Keynes MK2 2SQ · 01908 411370",
+  "hours": "Monday to Friday 7.30am to 2pm and 5pm to 9pm, Saturday 10am to 2pm and 5pm to 9pm.",
+  "maps_query": "Romanelli's Chandos Place Bletchley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/romanelli.jpg"
+}

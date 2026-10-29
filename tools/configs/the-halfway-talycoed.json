@@ -1,0 +1,58 @@
+{
+ "slug": "the-halfway-talycoed",
+ "name": "The Halfway",
+ "tagline": "Tal-y-coed · near Abergavenny",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper pub dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "12oz local sirloin",
+   "Local steak from the Monmouthshire countryside",
+   29.95,
+   "12oz local sirloin"
+  ],
+  [
+   "Steak & ale pie",
+   "With a large jug of gravy, of course",
+   18.95,
+   "Steak and ale pie"
+  ],
+  [
+   "Winter charcuterie board",
+   "Perfect for two to pick, graze and enjoy",
+   19.95,
+   "Winter charcuterie board for two"
+  ]
+ ],
+ "amount_desc": "Spend on food, drink or a night in a bell tent",
+ "message": "Happy Christmas! Sunday lunch at The Halfway is on me.",
+ "accent": "#B8741A",
+ "cta": "#FFB238",
+ "on_cta": "#1A1617",
+ "hero_bg": "#221C1D",
+ "hero_eyebrow": "#FFB238",
+ "prefix": "HW",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "12oz local sirloin",
+   "Sarah",
+   29.95,
+   true
+  ],
+  [
+   "Steak & ale pie",
+   "Emma",
+   18.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Halfway, Tal-y-coed, Abergavenny NP7 8TL · 01600 780396",
+  "hours": "Friday 4pm to 11pm, Saturday 6pm to 11pm, Sunday 12 noon to 10pm.",
+  "maps_query": "The Halfway Tal-y-coed Abergavenny"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/halfway.jpg"
+}
