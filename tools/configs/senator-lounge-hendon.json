@@ -1,0 +1,58 @@
+{
+ "slug": "senator-lounge-hendon",
+ "name": "Senator Lounge",
+ "tagline": "Persian restaurant · Bell Lane, Hendon",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Persian feast this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Mixed starter to share",
+   "Three cold and two hot starters",
+   28.5,
+   "Mixed Starter: three cold and two hot starters"
+  ],
+  [
+   "Dizi",
+   "Tender baby lamb, with taftoon bread from the clay oven",
+   18.95,
+   "Dizi with taftoon bread"
+  ],
+  [
+   "Chello koobideh saffrani",
+   "Two skewers with steamed saffron rice",
+   15.5,
+   "Chello Koobideh Saffrani"
+  ]
+ ],
+ "amount_desc": "Spend in the restaurant or the lounge",
+ "message": "Happy Christmas! Koobideh and saffron rice at Senator, my treat.",
+ "accent": "#493D3C",
+ "cta": "#FF5722",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#493D3C",
+ "hero_eyebrow": "#E4B95B",
+ "prefix": "SL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Mixed starter to share",
+   "Sarah",
+   28.5,
+   true
+  ],
+  [
+   "Dizi",
+   "Emma",
+   18.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "11 Bell Lane, Hendon, London NW4 2BP · 020 8203 9595",
+  "hours": "Monday to Friday 12 noon to 11.30pm, Saturday from 10am, Sunday from 9am.",
+  "maps_query": "Senator Lounge Bell Lane Hendon"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/senator.jpg"
+}

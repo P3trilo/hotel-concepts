@@ -1,0 +1,58 @@
+{
+ "slug": "turaa-melbourne",
+ "name": "Turaa",
+ "tagline": "Indian streatery · Derby Road, Melbourne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at Turaa this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Thali",
+   "Sunday to Thursday: small plate, bhaji, daal, rice, naan and two curries",
+   30,
+   "Thali, for one"
+  ],
+  [
+   "Thali for two",
+   "Two thalis, Sunday to Thursday",
+   60,
+   "Thali, for two"
+  ],
+  [
+   "Lamb tikka rogan",
+   "Medium strength, cooked with tomatoes and garlic",
+   20,
+   "Lamb Tikka Rogan"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the à la carte menu",
+ "message": "Happy Christmas! A thali at Turaa, my treat.",
+ "accent": "#A00343",
+ "cta": "#929B04",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#040809",
+ "hero_eyebrow": "#929B04",
+ "prefix": "TU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Thali",
+   "Sarah",
+   30,
+   true
+  ],
+  [
+   "Thali for two",
+   "Emma",
+   60,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "71 Derby Road, Melbourne, Derby DE73 8FE · 01332 501 645",
+  "hours": "Monday 6pm to 10pm, Wednesday to Saturday 5.30pm to 10.30pm, Sunday 5.30pm to 9pm. Closed on Tuesdays.",
+  "maps_query": "Turaa Derby Road Melbourne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/turaa.jpg"
+}

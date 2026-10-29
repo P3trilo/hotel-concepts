@@ -1,0 +1,58 @@
+{
+ "slug": "olio-didsbury",
+ "name": "Olio",
+ "tagline": "Mediterranean kitchen · Wilmslow Road, Didsbury",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by the fire this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Hot mezze platter for two",
+   "Hot mezze to share, from the charcoal grill and the kitchen",
+   18.0,
+   "Hot Mezze Platter for two"
+  ],
+  [
+   "Lamb shish",
+   "Straight off the charcoal grill",
+   22.95,
+   "Lamb Shish"
+  ],
+  [
+   "Weekend breakfast",
+   "A Full English, Saturday or Sunday from 9am",
+   10.0,
+   "Full English Breakfast"
+  ]
+ ],
+ "amount_desc": "Spend on breakfast, dinner or cocktails at the bar",
+ "message": "Happy Christmas! Dinner by the fire at Olio is on me.",
+ "accent": "#8A6D3B",
+ "cta": "#B49359",
+ "on_cta": "#1B1917",
+ "hero_bg": "#1B1917",
+ "hero_eyebrow": "#DCB27A",
+ "prefix": "OL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Hot mezze platter for two",
+   "Sarah",
+   18.0,
+   true
+  ],
+  [
+   "Lamb shish",
+   "Emma",
+   22.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "747 Wilmslow Road, Didsbury, Manchester M20 6RN · 0161 400 8112",
+  "hours": "Open every day from 12 noon to 10pm, and from 9am on Saturday and Sunday for breakfast.",
+  "maps_query": "Olio Wilmslow Road Didsbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/olio_d.jpg"
+}

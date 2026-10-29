@@ -1,0 +1,58 @@
+{
+ "slug": "roochi-forest-row",
+ "name": "Roochi",
+ "tagline": "Indian restaurant · Hartfield Road, Forest Row",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an Indian feast this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Sunday banquet",
+   "Four courses: starter, main, side and rice or bread",
+   15.95,
+   "Sunday Banquet, dine in"
+  ],
+  [
+   "Sunday banquet for two",
+   "Four courses each, dine in",
+   31.9,
+   "Sunday Banquet for two, dine in"
+  ],
+  [
+   "Thursday banquet",
+   "Main, side and rice or bread",
+   13.5,
+   "Thursday Banquet, dine in"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Sunday banquet at Roochi, my treat.",
+ "accent": "#892731",
+ "cta": "#892731",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#892731",
+ "hero_eyebrow": "#EFC46B",
+ "prefix": "RC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Sunday banquet",
+   "Sarah",
+   15.95,
+   true
+  ],
+  [
+   "Sunday banquet for two",
+   "Emma",
+   31.9,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "9 Hartfield Road, Forest Row RH18 5DN · 01342 825251",
+  "hours": "Monday to Thursday 5.30pm to 11pm, Friday and Saturday to 11.30pm, Sunday 12 noon to 2.30pm and 5pm to 10pm.",
+  "maps_query": "Roochi Hartfield Road Forest Row"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/roochi_a.jpg"
+}

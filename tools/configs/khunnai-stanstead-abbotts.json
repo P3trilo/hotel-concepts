@@ -1,0 +1,58 @@
+{
+ "slug": "khunnai-stanstead-abbotts",
+ "name": "Khunnai",
+ "tagline": "Thai & Japanese · High Street, Stanstead Abbotts",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thai dinner this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Set menu A for two",
+   "Elle's Platter, three mains and fragrant rice",
+   58,
+   "Set menu A, for two"
+  ],
+  [
+   "Set menu B for two",
+   "Crispy duck with pancakes, beef massaman and more",
+   62,
+   "Set menu B, for two"
+  ],
+  [
+   "Stir-fried pink noodles",
+   "Elle's favourite since her primary school days",
+   12.95,
+   "Stir-fried pink noodles"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the eat-in menu",
+ "message": "Happy Christmas! Dinner at Khunnai, my treat.",
+ "accent": "#393C53",
+ "cta": "#AF9F6D",
+ "on_cta": "#1E1E24",
+ "hero_bg": "#1E1E24",
+ "hero_eyebrow": "#AF9F6D",
+ "prefix": "KH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Set menu A for two",
+   "Sarah",
+   58,
+   true
+  ],
+  [
+   "Set menu B for two",
+   "Emma",
+   62,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "73 High Street, Stanstead Abbotts, Ware SG12 8AS · 01920 870032",
+  "hours": "Tuesday 5.30pm to 10.30pm, Wednesday to Sunday 11.30am to 3pm and 5.30pm to 10.30pm. Closed on Mondays.",
+  "maps_query": "Khunnai 73 High Street Stanstead Abbotts"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/khunnai.jpg"
+}
