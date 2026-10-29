@@ -1,0 +1,58 @@
+{
+ "slug": "overwater-hall",
+ "name": "Overwater Hall",
+ "tagline": "Ireby · Northern Lake District",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at Overwater",
+ "intro": "Choose an experience or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Dinner, bed & breakfast",
+   "For two in a Junior Room, selected Wednesdays and Sundays",
+   315,
+   "Dinner, bed and breakfast for two, Junior Room"
+  ],
+  [
+   "Red Carpet Treatment",
+   "Flowers, chocolates and House Champagne on arrival",
+   120,
+   "Red Carpet Treatment: flowers, chocolates and House Champagne"
+  ],
+  [
+   "Four night break for two",
+   "Junior Room, 3-course dinner and Cumbrian breakfast",
+   1080,
+   "Four nights for two, Junior Room, dinner and breakfast"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, dinner or the Red Carpet Treatment",
+ "message": "Happy Christmas! A few quiet days in the fells, just the two of us.",
+ "accent": "#3F7C80",
+ "cta": "#75ABAE",
+ "on_cta": "#111111",
+ "hero_bg": "#161616",
+ "hero_eyebrow": "#A9D4D6",
+ "prefix": "OW",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Dinner, bed & breakfast",
+   "Sarah",
+   315,
+   true
+  ],
+  [
+   "Red Carpet Treatment",
+   "Emma",
+   120,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Overwater Hall, Ireby, Cumbria CA7 1HH · 017687 76566",
+  "hours": "Dinner from 6.30pm, five nights a week. We are closed on most Mondays and Tuesdays.",
+  "maps_query": "Overwater Hall Ireby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/overwater.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "caerwylan-criccieth",
+ "name": "Caerwylan Hotel",
+ "tagline": "Criccieth · Llŷn Peninsula",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the sea in Criccieth",
+ "intro": "Choose an experience or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "A night for two",
+   "Standard Double with full breakfast",
+   150,
+   "One night for two, Standard Double, bed and breakfast"
+  ],
+  [
+   "Superior room for two",
+   "A Superior room with full breakfast",
+   195,
+   "One night for two, Superior room, bed and breakfast"
+  ],
+  [
+   "Executive room for two",
+   "Our finest rooms, with full breakfast",
+   235,
+   "One night for two, Executive room, bed and breakfast"
+  ]
+ ],
+ "amount_desc": "Spend on rooms, dinner at Tonnau or drinks at the bar",
+ "message": "Happy Christmas! Let us wake up to the sea at Criccieth.",
+ "accent": "#1E2D4C",
+ "cta": "#1E2D4C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E2D4C",
+ "hero_eyebrow": "#C9D3E8",
+ "prefix": "CW",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "A night for two",
+   "Sarah",
+   150,
+   true
+  ],
+  [
+   "Superior room for two",
+   "Emma",
+   195,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Caerwylan Hotel & Tonnau Restaurant, Criccieth LL52 0HW · 01766 522547",
+  "hours": "Check-in from 3pm, check-out by 10am. We welcome guests aged 12 and over.",
+  "maps_query": "Caerwylan Hotel Criccieth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/caerwylan.jpg"
+}

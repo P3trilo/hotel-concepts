@@ -1,0 +1,58 @@
+{
+ "slug": "glan-aber-betws-y-coed",
+ "name": "Glan Aber Hotel",
+ "tagline": "Holyhead Road · Betws-y-Coed",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a warm welcome in Snowdonia",
+ "intro": "Choose an experience or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Steak night for two",
+   "Two 8oz steaks with all the trimmings",
+   29.5,
+   "Steak & Burger Night: two 8oz steaks with all the trimmings"
+  ],
+  [
+   "Steak night with wine",
+   "Steaks for two and a bottle of house red or white",
+   44,
+   "Two 8oz steaks with all the trimmings and a bottle of house wine"
+  ],
+  [
+   "Burger night for two",
+   "Two half-pound Glan Aber burgers with all the trimmings",
+   24.5,
+   "Steak & Burger Night: two half-pound Glan Aber burgers"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, a meal or drinks at the bar",
+ "message": "Happy Christmas! Dinner is on me after our next walk.",
+ "accent": "#4A8A1C",
+ "cta": "#60A125",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1F2A17",
+ "hero_eyebrow": "#B9DD8F",
+ "prefix": "GA",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Steak night for two",
+   "Sarah",
+   29.5,
+   true
+  ],
+  [
+   "Steak night with wine",
+   "Emma",
+   44,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Gwesty Glan Aber Hotel, Holyhead Road, Betws-y-Coed LL24 0AB · 01690 710325",
+  "hours": "Breakfast 8am to 3pm, lunch 12pm to 3pm, dinner 5pm to 8.30pm. Sunday roast from 12pm.",
+  "maps_query": "Glan Aber Hotel Betws-y-Coed"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/glanaber.jpg"
+}
