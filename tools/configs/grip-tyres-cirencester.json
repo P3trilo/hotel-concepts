@@ -1,0 +1,70 @@
+{
+ "slug": "grip-tyres-cirencester",
+ "name": "Grip Tyres",
+ "tagline": "Love Lane Trading Estate · Cirencester",
+ "eyebrow": "Tyres · MOT · Servicing",
+ "headline": "Book your tyres or MOT online",
+ "intro": "Pick a service, enter your registration and choose a time. Drop the car off early if you like, even before we open.",
+ "trust": [
+  "Family friendly business",
+  "MOT testing and servicing",
+  "Free hot drinks while you wait",
+  "Night drop available"
+ ],
+ "phone": "01285 640282",
+ "services": [
+  [
+   "Tyres",
+   "Tyres",
+   "Supplied and fitted",
+   "Quote",
+   60
+  ],
+  [
+   "MOT",
+   "MOT test",
+   "Book a time that suits you",
+   "Quote",
+   60
+  ],
+  [
+   "Service",
+   "Car service",
+   "General servicing",
+   "Quote",
+   180
+  ],
+  [
+   "Battery",
+   "Battery",
+   "Fitted in store or at your home",
+   "Quote",
+   30
+  ],
+  [
+   "Exhaust",
+   "Exhaust",
+   "Supplied and fitted",
+   "Quote",
+   90
+  ],
+  [
+   "Puncture at home",
+   "Puncture repair at home",
+   "Our tyre experts come to you",
+   "Quote",
+   60
+  ]
+ ],
+ "accent": "#C4120A",
+ "cta": "#E3170A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1A1A1A",
+ "visit": {
+  "address": "Love Lane Trading Estate, Cirencester GL7 1YT · 01285 640282",
+  "hours": "Monday to Friday 8am to 5.30pm, Saturday 8am to 12.30pm. Night drop available.",
+  "maps_query": "Grip Tyres Love Lane Cirencester"
+ },
+ "footer_note": "The list of services and prices is set up for each garage. Prices are shown as \"Quote\" here because they are not listed on your current website.",
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/garages_en/shots29/grip.jpg"
+}

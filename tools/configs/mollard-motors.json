@@ -1,0 +1,69 @@
+{
+ "slug": "mollard-motors",
+ "name": "Mollard Motors",
+ "tagline": "Nantwich · Congleton",
+ "eyebrow": "Servicing · MOT · Tyres · Brakes",
+ "headline": "Book your MOT or service online",
+ "intro": "Pick a service, enter your registration and choose a time that suits you. We confirm by text, usually within the hour.",
+ "trust": [
+  "Run by the people who own the business",
+  "Experience from a main dealer workshop",
+  "Cars and light commercial vehicles",
+  "Branches in Nantwich and Congleton"
+ ],
+ "phone": "01270 610405",
+ "services": [
+  [
+   "MOT",
+   "MOT test",
+   "By appointment",
+   "£49",
+   60
+  ],
+  [
+   "Interim service",
+   "Interim service",
+   "From £99, petrol models up to 2004 and 1600cc",
+   "From £99",
+   120
+  ],
+  [
+   "Full service",
+   "Full service",
+   "Cars and light commercial vehicles",
+   "Quote",
+   180
+  ],
+  [
+   "Brakes",
+   "Brakes",
+   "Fitted and serviced",
+   "Quote",
+   90
+  ],
+  [
+   "Tyres",
+   "Tyres",
+   "Almost any tyre for any car or van",
+   "Quote",
+   60
+  ],
+  [
+   "Repair or other",
+   "Something else",
+   "Exhausts, oil and filter, repairs",
+   "Quote",
+   60
+  ]
+ ],
+ "accent": "#B71C1C",
+ "cta": "#D32F2F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111111",
+ "visit": {
+  "address": "Unit 2a Beam Heath Way, Nantwich, Cheshire CW5 6PQ · Rood Hill, Lower Heath, Congleton CW12 1NJ",
+  "hours": "Monday to Friday 8.30am to 5.30pm, Saturday 8am to 12.30pm.",
+  "maps_query": "Mollard Motors Beam Heath Way Nantwich"
+ },
+ "footer_note": "The list of services, prices and branches is set up for each garage. The MOT and interim service prices are the offers shown on your current website."
+}
