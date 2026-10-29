@@ -1,0 +1,58 @@
+{
+ "slug": "glen-rothay-rydal",
+ "name": "Glen Rothay",
+ "tagline": "Badger Bar · Rydal, near Ambleside",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Sunday roast by the fire",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Sunday roast",
+   "Roast topside of beef with Yorkshire pudding",
+   19.95,
+   "Sunday roast: roast topside of beef"
+  ],
+  [
+   "Pie of the day",
+   "A proper pastry pie, not a stew with a hat on",
+   21.95,
+   "Pie of the day"
+  ],
+  [
+   "Badger Bar burger",
+   "Classic beef burger with onion ring and chips",
+   20.5,
+   "Classic beef burger"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a pint in the Badger Bar",
+ "message": "Happy Christmas! Sunday roast at the Badger Bar, my treat.",
+ "accent": "#2A3344",
+ "cta": "#2A3344",
+ "on_cta": "#FFFAF0",
+ "hero_bg": "#2A3344",
+ "hero_eyebrow": "#FFF2CB",
+ "prefix": "GR",
+ "guest": "guest",
+ "biz": "inn",
+ "seed": [
+  [
+   "Sunday roast",
+   "Sarah",
+   19.95,
+   true
+  ],
+  [
+   "Pie of the day",
+   "Emma",
+   21.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Glen Rothay Hotel and Badger Bar, Rydal, Ambleside LA22 9LR · 015394 34500",
+  "hours": "Bar open 12 noon to 10pm every day. Lunch 12 noon to 2.30pm, evening meals 5.30pm to 8pm.",
+  "maps_query": "Glen Rothay Hotel Rydal"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/glenrothay.jpg"
+}

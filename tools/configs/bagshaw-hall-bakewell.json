@@ -1,0 +1,58 @@
+{
+ "slug": "bagshaw-hall-bakewell",
+ "name": "Bagshaw Hall",
+ "tagline": "Boutique suites · Bakewell",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a break in the Peak District",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "Towards a stay at Bagshaw Hall or Bagshaw Lodge",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Towards a stay at Bagshaw Hall or Bagshaw Lodge",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "Towards a stay at Bagshaw Hall or Bagshaw Lodge",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay at the Hall or the Lodge",
+ "message": "Happy Christmas! A weekend in Bakewell, my treat.",
+ "accent": "#1E2738",
+ "cta": "#337AB7",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E2738",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "BH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Bagshaw Hall, Bagshaw Hill, Bakewell DE45 1DL · 01629 810333",
+  "hours": "Bookings by phone 8.30am to 7pm on weekdays, 8.30am to 5.30pm at weekends.",
+  "maps_query": "Bagshaw Hall Bakewell"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/bagshaw.jpg"
+}

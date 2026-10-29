@@ -1,0 +1,58 @@
+{
+ "slug": "ashburnham-pembrey",
+ "name": "The Ashburnham Hotel",
+ "tagline": "The Ash Bar & Grill · Pembrey",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a coastal break in Pembrey",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on a stay, food or drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on a stay, food or drink",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "To spend on a stay, food or drink",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, the Sunday carvery or drinks at the bar",
+ "message": "Happy Christmas! A night by the coast in Pembrey, my treat.",
+ "accent": "#2B2B2B",
+ "cta": "#2B2B2B",
+ "on_cta": "#F5F1E2",
+ "hero_bg": "#2B2B2B",
+ "hero_eyebrow": "#F5F1E2",
+ "prefix": "AH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Ashburnham Road, Pembrey, Burry Port SA16 0TH · 01554 834455",
+  "hours": "Sunday carvery every week. Please call to book a table.",
+  "maps_query": "Ashburnham Hotel Pembrey"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/ashburnham.jpg"
+}

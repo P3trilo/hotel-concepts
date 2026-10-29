@@ -1,0 +1,58 @@
+{
+ "slug": "blue-salt-woodbridge",
+ "name": "Blue Salt",
+ "tagline": "Woodfired grill · Cumberland Street, Woodbridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a steak from the fire",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Tomahawk for two",
+   "Dry-aged bone-in ribeye with sauces and sides",
+   89.75,
+   "Tomahawk for two"
+  ],
+  [
+   "Dry-aged sirloin",
+   "10oz, matured 30 to 50 days",
+   32.95,
+   "Dry-aged sirloin (10oz)"
+  ],
+  [
+   "British Wagyu sirloin",
+   "10oz, from Trenchmore Farm",
+   37.5,
+   "British Wagyu sirloin (10oz)"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A steak at Blue Salt, my treat.",
+ "accent": "#8C6B3F",
+ "cta": "#B4894F",
+ "on_cta": "#1F0F0A",
+ "hero_bg": "#1F0F0A",
+ "hero_eyebrow": "#C79A5C",
+ "prefix": "BS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Tomahawk for two",
+   "Sarah",
+   89.75,
+   true
+  ],
+  [
+   "Dry-aged sirloin",
+   "Emma",
+   32.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Cumberland Street, Woodbridge IP12 4AH · 01394 383883",
+  "hours": "Monday to Thursday 5pm to 10pm, Friday 5pm to 11pm, Saturday 12 noon to 11pm. Closed on Sundays.",
+  "maps_query": "Blue Salt Cumberland Street Woodbridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/bluesalt_d.jpg"
+}
