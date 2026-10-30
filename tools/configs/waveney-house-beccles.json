@@ -1,0 +1,58 @@
+{
+ "slug": "waveney-house-beccles",
+ "name": "Waveney House Hotel",
+ "tagline": "The hotel by the river · Beccles",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by the river",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Picanha rump steak",
+   "Chargrilled, with cowboy butter and triple cooked chips",
+   29,
+   "Chargrilled picanha rump steak"
+  ],
+  [
+   "Smoked duck breast",
+   "Locally smoked, with a five spice duck leg bon bon",
+   27,
+   "Locally smoked duck breast"
+  ],
+  [
+   "Fillet of hake",
+   "Herb crusted, with a tomato, chickpea and bean stew",
+   25,
+   "Herb crusted fillet of hake"
+  ]
+ ],
+ "amount_desc": "Spend on dinner, Sunday lunch or a stay",
+ "message": "Happy Christmas! Dinner by the river at Waveney House, my treat.",
+ "accent": "#003C40",
+ "cta": "#003C40",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#003C40",
+ "hero_eyebrow": "#96BE96",
+ "prefix": "WH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Picanha rump steak",
+   "Sarah",
+   29,
+   true
+  ],
+  [
+   "Smoked duck breast",
+   "Emma",
+   27,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Puddingmoor, Beccles NR34 9PL · 01502 712270",
+  "hours": "Lunch 12 noon to 2.30pm, dinner 6pm to 8pm. Sunday roast all year round.",
+  "maps_query": "Waveney House Hotel Puddingmoor Beccles"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/waveney_a.jpg"
+}

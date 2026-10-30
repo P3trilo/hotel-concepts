@@ -1,0 +1,58 @@
+{
+ "slug": "crown-fakenham",
+ "name": "The Crown",
+ "tagline": "Coaching inn · Market Place, Fakenham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at The Crown",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "8oz steak",
+   "With chips, grilled tomato, mushrooms, peas and onion rings",
+   22.95,
+   "8oz steak"
+  ],
+  [
+   "Mixed grill",
+   "Steak, gammon, sausage, chicken and a fried egg",
+   26.95,
+   "Mixed grill"
+  ],
+  [
+   "Beer battered cod",
+   "With chips, peas and tartare sauce",
+   16.5,
+   "Beer battered cod and chips"
+  ]
+ ],
+ "amount_desc": "Spend on a meal, a drink or a room",
+ "message": "Happy Christmas! Dinner at The Crown, my treat.",
+ "accent": "#33373D",
+ "cta": "#C9AB85",
+ "on_cta": "#2B2926",
+ "hero_bg": "#2B2926",
+ "hero_eyebrow": "#C9AB85",
+ "prefix": "CF",
+ "guest": "guest",
+ "biz": "inn",
+ "seed": [
+  [
+   "8oz steak",
+   "Sarah",
+   22.95,
+   true
+  ],
+  [
+   "Mixed grill",
+   "Emma",
+   26.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6 Market Place, Fakenham NR21 9BP · 01328 855278",
+  "hours": "Sunday carvery every week. Call 01328 855278 to book a table.",
+  "maps_query": "The Crown Hotel Market Place Fakenham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/crown_g2.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "white-rock-hastings",
+ "name": "The White Rock Hotel",
+ "tagline": "Seafront hotel and Café Bar · Hastings",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the sea",
+ "intro": "Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on a stay or in the Café Bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on a stay or in the Café Bar",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "To spend on a stay or in the Café Bar",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay or in the Café Bar",
+ "message": "Happy Christmas! A night by the sea in Hastings, my treat.",
+ "accent": "#A080A5",
+ "cta": "#A080A5",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4B4A4A",
+ "hero_eyebrow": "#78D3D8",
+ "prefix": "WR",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "White Rock, Hastings TN34 1JU · 01424 422240",
+  "hours": "Café Bar open all day, breakfast from 7.30am, drinks until 11pm.",
+  "maps_query": "The White Rock Hotel Hastings"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/whiterock.jpg"
+}
