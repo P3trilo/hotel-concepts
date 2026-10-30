@@ -1,0 +1,58 @@
+{
+ "slug": "easby-hall-richmond",
+ "name": "Easby Hall",
+ "tagline": "Georgian country house · Richmond",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at Easby Hall",
+ "intro": "Choose an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£100 gift voucher",
+   "Towards a stay at Easby Hall",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£250 gift voucher",
+   "Towards a stay at Easby Hall",
+   250,
+   "£250 to spend"
+  ],
+  [
+   "£500 gift voucher",
+   "Towards a stay at Easby Hall",
+   500,
+   "£500 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay or a private dinner",
+ "message": "Happy Christmas! A night at Easby Hall, my treat.",
+ "accent": "#555F4B",
+ "cta": "#555F4B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#555F4B",
+ "hero_eyebrow": "#E1D9D3",
+ "prefix": "EH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£100 gift voucher",
+   "Sarah",
+   100,
+   true
+  ],
+  [
+   "£250 gift voucher",
+   "Emma",
+   250,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Easby Hall, Easby, Richmond, North Yorkshire DL10 7EU · 07990 032660",
+  "hours": "Book by phone on 07990 032660 or by email.",
+  "maps_query": "Easby Hall Richmond North Yorkshire"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/easby_c.jpg"
+}

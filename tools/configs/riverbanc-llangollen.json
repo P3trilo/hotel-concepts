@@ -1,0 +1,58 @@
+{
+ "slug": "riverbanc-llangollen",
+ "name": "Riverbanc",
+ "tagline": "Café · boutique hotel · Llangollen",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night above the River Dee",
+ "intro": "Choose an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on a stay or in the café",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on a stay or in the café",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "To spend on a stay or in the café",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay or in the café",
+ "message": "Happy Christmas! A night in Llangollen and brunch on the deck, my treat.",
+ "accent": "#64842F",
+ "cta": "#64842F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#64842F",
+ "hero_eyebrow": "#C3D0AF",
+ "prefix": "RB",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Bridge Street, Llangollen LL20 8PF · 01978 799903",
+  "hours": "Café open 8am to 4pm, seven days a week. Check-in from 3pm.",
+  "maps_query": "Riverbanc Bridge Street Llangollen"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/river_a.jpg"
+}

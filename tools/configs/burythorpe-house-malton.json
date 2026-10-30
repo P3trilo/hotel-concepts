@@ -1,0 +1,58 @@
+{
+ "slug": "burythorpe-house-malton",
+ "name": "Burythorpe House",
+ "tagline": "Country house hotel · Yorkshire Wolds",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a country house break",
+ "intro": "Choose an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "Towards a stay, dinner or lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Towards a stay, dinner or lunch",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£200 gift voucher",
+   "Towards a stay, dinner or lunch",
+   200,
+   "£200 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, dinner or lunch",
+ "message": "Happy Christmas! A night by the fire at Burythorpe House, my treat.",
+ "accent": "#295567",
+ "cta": "#295567",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1F495A",
+ "hero_eyebrow": "#B6DEED",
+ "prefix": "BU",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Burythorpe House, Burythorpe, Malton YO17 9LB · 01653 658200",
+  "hours": "Reservations on 01653 658200 or info@burythorpehouse.co.uk.",
+  "maps_query": "Burythorpe House Malton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/bury_b.jpg"
+}
