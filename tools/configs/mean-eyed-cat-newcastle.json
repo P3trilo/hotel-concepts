@@ -1,0 +1,58 @@
+{
+ "slug": "mean-eyed-cat-newcastle",
+ "name": "Mean-Eyed Cat",
+ "tagline": "Independent bar · St Thomas Street, Newcastle",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Cat",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on beers or anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on beers or anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on beers or anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A round at the Mean-Eyed Cat, my treat.",
+ "accent": "#212529",
+ "cta": "#8FB3B3",
+ "on_cta": "#212529",
+ "hero_bg": "#212529",
+ "hero_eyebrow": "#8FB3B3",
+ "prefix": "MC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 St Thomas Street, Newcastle upon Tyne NE1 4LE · 0191 222 0952",
+  "hours": "A very small bar, just left of centre.",
+  "maps_query": "Mean-Eyed Cat St Thomas Street Newcastle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos5/meancat_0.jpg"
+}

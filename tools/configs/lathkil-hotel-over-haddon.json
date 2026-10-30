@@ -1,0 +1,58 @@
+{
+ "slug": "lathkil-hotel-over-haddon",
+ "name": "The Lathkil Hotel",
+ "tagline": "Pub, restaurant & rooms · Over Haddon, Bakewell",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night above Lathkill Dale",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at the Lathkil, my treat.",
+ "accent": "#1B272E",
+ "cta": "#1B272E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1B272E",
+ "hero_eyebrow": "#C0C0C0",
+ "prefix": "LH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Over Haddon, Bakewell DE45 1JE · 01629 304127",
+  "hours": "Call 01629 304127 to book.",
+  "maps_query": "The Lathkil Hotel Over Haddon"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos5/lathkil_0.jpg"
+}

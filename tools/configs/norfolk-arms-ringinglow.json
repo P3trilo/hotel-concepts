@@ -1,0 +1,58 @@
+{
+ "slug": "norfolk-arms-ringinglow",
+ "name": "The Norfolk Arms",
+ "tagline": "Inn with rooms · Ringinglow, Sheffield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of the Peaks",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Norfolk Arms, my treat.",
+ "accent": "#822E2E",
+ "cta": "#822E2E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#FCFFF4",
+ "prefix": "NA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Ringinglow Village, Sheffield S11 7TS · 0114 230 2197",
+  "hours": "Open for breakfast, lunch and dinner every day.",
+  "maps_query": "The Norfolk Arms Ringinglow Sheffield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos5/norfolk_0.jpg"
+}
