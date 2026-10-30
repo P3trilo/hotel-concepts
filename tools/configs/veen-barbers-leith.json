@@ -1,0 +1,58 @@
+{
+ "slug": "veen-barbers-leith",
+ "name": "Veen Barbers",
+ "tagline": "Barbershop · Elm Row, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper haircut this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Skin fade",
+   "Scissor cut on top, foil around the sides",
+   24,
+   "Skin fade"
+  ],
+  [
+   "Standard cut",
+   "Cut and style, with an optional wash",
+   21,
+   "Standard cut and style"
+  ],
+  [
+   "Hot towel shave",
+   "Straight razor, hot towel and a head massage",
+   18,
+   "Hot towel shave"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, shave or beard trim",
+ "message": "Happy Christmas! Your next cut at Veen is on me.",
+ "accent": "#E03A3C",
+ "cta": "#E03A3C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#E03A3C",
+ "prefix": "VB",
+ "guest": "client",
+ "biz": "barber shop",
+ "seed": [
+  [
+   "Skin fade",
+   "Sarah",
+   24,
+   true
+  ],
+  [
+   "Standard cut",
+   "Emma",
+   21,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "64 Elm Row, Edinburgh EH7 4AQ · 0131 556 6611",
+  "hours": "Book in the Veen Barbers app or call 0131 556 6611.",
+  "maps_query": "Veen Barbers 64 Elm Row Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/salons/photos/veen_2.jpg"
+}

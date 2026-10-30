@@ -1,0 +1,58 @@
+{
+ "slug": "babu-hair-marchmont",
+ "name": "Babu Hair & Beauty",
+ "tagline": "Hair salon · Marchmont, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Cut & blow dry",
+   "Starts with a free consultation",
+   60,
+   "Cut and blow dry"
+  ],
+  [
+   "Glamour blow dry",
+   "Bouncy, for a night out",
+   45,
+   "Bouncy glamour blow dry"
+  ],
+  [
+   "Balayage",
+   "Hand-painted colour",
+   85,
+   "Balayage"
+  ]
+ ],
+ "amount_desc": "Spend on any hair or beauty treatment",
+ "message": "Happy Christmas! A cut and blow dry at Babu, my treat.",
+ "accent": "#F4524D",
+ "cta": "#111111",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#FE6C61",
+ "prefix": "BA",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Cut & blow dry",
+   "Sarah",
+   60,
+   true
+  ],
+  [
+   "Glamour blow dry",
+   "Emma",
+   45,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "104 Marchmont Crescent, Edinburgh EH9 1HD · 0131 477 9116",
+  "hours": "Tuesday to Friday 9am to 6pm, Thursday until 8pm, Saturday 9am to 5pm.",
+  "maps_query": "Babu Hair 104 Marchmont Crescent Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/salons/photos/babu_3.jpg"
+}
