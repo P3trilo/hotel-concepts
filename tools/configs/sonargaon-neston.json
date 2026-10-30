@@ -1,0 +1,58 @@
+{
+ "slug": "sonargaon-neston",
+ "name": "Sonargaon",
+ "tagline": "Indian restaurant · Bridge Street, Neston",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a curry night",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A curry night at Sonargaon, my treat.",
+ "accent": "#C59D5F",
+ "cta": "#C59D5F",
+ "on_cta": "#262626",
+ "hero_bg": "#262626",
+ "hero_eyebrow": "#C59D5F",
+ "prefix": "SN",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Bridge Street, Neston CH64 9UJ · 0151 353 8090",
+  "hours": "Bring your own drinks. Call 0151 353 8090 to book a table.",
+  "maps_query": "Sonargaon 2 Bridge Street Neston"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/sonar_6.jpg"
+}

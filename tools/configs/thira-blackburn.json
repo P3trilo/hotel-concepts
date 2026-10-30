@@ -1,0 +1,58 @@
+{
+ "slug": "thira-blackburn",
+ "name": "Thira",
+ "tagline": "Kerala restaurant · Darwen Street, Blackburn",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Kerala",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A masala dosa at Thira, my treat.",
+ "accent": "#1C3563",
+ "cta": "#1C3563",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1C3563",
+ "hero_eyebrow": "#EDF1F5",
+ "prefix": "TH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "32 Darwen Street, Blackburn BB2 2BY · 01254 485641",
+  "hours": "Call 01254 485641 to book a table.",
+  "maps_query": "Thira Restaurant Darwen Street Blackburn"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/thira_7.jpg"
+}

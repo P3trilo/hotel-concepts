@@ -1,0 +1,58 @@
+{
+ "slug": "thai-rama-colwall",
+ "name": "Thai Rama IV",
+ "tagline": "Thai restaurant · Colwall, Malvern",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thai feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dinner or the Sunday buffet",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dinner or the Sunday buffet",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dinner or the Sunday buffet",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on dinner or the Sunday buffet",
+ "message": "Happy Christmas! Dinner at Thai Rama IV, my treat.",
+ "accent": "#232323",
+ "cta": "#F9E2AF",
+ "on_cta": "#141414",
+ "hero_bg": "#141414",
+ "hero_eyebrow": "#F9E2AF",
+ "prefix": "TR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Oddfellows, Walwyn Road, Colwall WR13 6QX · 01684 541563",
+  "hours": "Call 01684 541563 to book a table. Sunday buffet every week.",
+  "maps_query": "Thai Rama IV Colwall Malvern"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/rama_1.jpg"
+}

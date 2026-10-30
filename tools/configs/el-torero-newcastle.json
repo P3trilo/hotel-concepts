@@ -1,0 +1,58 @@
+{
+ "slug": "el-torero-newcastle",
+ "name": "El Torero",
+ "tagline": "Spanish restaurant · The Side, Newcastle",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night of tapas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on tapas, paella or wine",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on tapas, paella or wine",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on tapas, paella or wine",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on tapas, paella or wine",
+ "message": "Happy Christmas! Tapas and sangría at El Torero, my treat.",
+ "accent": "#CF1A39",
+ "cta": "#CF1A39",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0F0606",
+ "hero_eyebrow": "#E71B3C",
+ "prefix": "ET",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Milburn House, The Side, Newcastle NE1 1PR · 0191 233 1122",
+  "hours": "Call 0191 233 1122 or email us to book a table.",
+  "maps_query": "El Torero The Side Newcastle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/torero_0.jpg"
+}

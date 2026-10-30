@@ -1,0 +1,58 @@
+{
+ "slug": "zap-thai-bury",
+ "name": "Zap Thai Cuisine",
+ "tagline": "Thai restaurant · St John's Street, Bury St Edmunds",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thai dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Zap Thai, my treat.",
+ "accent": "#E7272D",
+ "cta": "#E7272D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E1E1E",
+ "hero_eyebrow": "#E0AF44",
+ "prefix": "ZT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "63 St John's Street, Bury St Edmunds IP33 1SJ · 01284 755794",
+  "hours": "Dinner Wednesday to Saturday 5pm to 10pm, lunch Thursday to Saturday 12 noon to 3pm.",
+  "maps_query": "Zap Thai Cuisine St John's Street Bury St Edmunds"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/zap_2.jpg"
+}
