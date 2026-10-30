@@ -7,7 +7,7 @@ config keys: slug, name, tagline, eyebrow, headline, intro, trust [4 short verif
 services [[svc_key, title, desc, price_text, minutes]] (1-6; price_text like "£54.85" or "Quote"; never invent prices),
 accent, cta, on_cta, hero_bg
 optional: photo (local path to a photo from their own site -> intro background), visit {address, hours, maps_query},
-footer_note (replaces the MOT/pre-MOT note)
+footer_note (replaces the MOT/pre-MOT note), no_mot (true for businesses that do not test MOTs: removes MOT reminders)
 """
 import json, os, re, sys
 
@@ -64,6 +64,16 @@ def build(c):
                       '.intro { background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,.78)), url(photo.jpg) center/cover no-repeat, var(--hero-bg); color: #fff; }\n'
                       '.intro p { color: #EEE !important; }\n'
                       '.intro .eyebrow { color: #FFFFFF !important; text-shadow: 0 1px 3px rgba(0,0,0,.6); }')
+    if c.get('no_mot'):  # bodyshops, transmission and restoration specialists: no MOT promises in the concept
+        for a, b in [
+            ('I would like to wait while the work is done (MOT and short jobs only)', 'I would like to wait while the work is done (short jobs only)'),
+            ('Text me a reminder when my next MOT is due', 'Text me when the car is ready to collect'),
+            ('<span>MOT reminders</span>', '<span>Ready texts</span>'),
+            ('MOT reminders: customers who ticked the box get a text a month before their next MOT is due, which brings them back to you rather than to a chain.',
+             'Ready texts: customers who ticked the box get a text as soon as the car is ready, so nobody has to ring to ask.')]:
+            if a not in h:
+                raise SystemExit(f'template text not found: {a[:60]}')
+            h = h.replace(a, b)
     v = c.get('visit')
     if v:
         from urllib.parse import quote_plus

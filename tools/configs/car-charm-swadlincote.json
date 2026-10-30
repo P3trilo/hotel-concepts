@@ -1,0 +1,71 @@
+{
+ "slug": "car-charm-swadlincote",
+ "name": "Car Charm",
+ "tagline": "Bodywork and spray paint · Swadlincote",
+ "eyebrow": "Bodywork · Resprays · Accident repairs",
+ "headline": "Book a free estimate online",
+ "intro": "Pick a repair, enter your registration and choose a time to bring the car in. We confirm by text.",
+ "trust": [
+  "Cars and vans up to Sprinter size",
+  "Free estimates",
+  "Insurance and lease hire work",
+  "Collection and delivery"
+ ],
+ "phone": "01283 221081",
+ "services": [
+  [
+   "Estimate",
+   "Free estimate",
+   "For any repair, large or small",
+   "Free",
+   30
+  ],
+  [
+   "Scratches",
+   "Scratches and stone chips",
+   "Paint matched to your car",
+   "Quote",
+   120
+  ],
+  [
+   "Dents",
+   "Dent removal",
+   "Including paintless dent removal",
+   "Quote",
+   120
+  ],
+  [
+   "Bumper",
+   "Bumper repair",
+   "Plastic welds and respray",
+   "Quote",
+   240
+  ],
+  [
+   "Accident",
+   "Accident damage",
+   "Insurance work welcome",
+   "Quote",
+   480
+  ],
+  [
+   "Respray",
+   "Full respray",
+   "Or a complete colour change",
+   "Quote",
+   480
+  ]
+ ],
+ "accent": "#571404",
+ "cta": "#ED702E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "visit": {
+  "address": "Unit 8-10 Sharpes Industrial Estate, Alexandra Road, Swadlincote DE11 9AZ · 01283 221081",
+  "hours": "Call 01283 221081 or email repairs@carcharm.co.uk.",
+  "maps_query": "Car Charm Sharpes Industrial Estate Swadlincote"
+ },
+ "footer_note": "The list of services is set up for each business. Prices are shown as \"Quote\" because they are not listed on your current website.",
+ "no_mot": true,
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/garages_en/shots30/charm_2.jpg"
+}

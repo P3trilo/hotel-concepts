@@ -1,0 +1,63 @@
+{
+ "slug": "densley-charles-cambridge",
+ "name": "Densley Charles",
+ "tagline": "Coachcraft · Ditton Walk, Cambridge",
+ "eyebrow": "Accident repair · Paintwork · Free estimates",
+ "headline": "Book a free estimate online",
+ "intro": "Pick a repair, enter your registration and choose a time to bring the car in. We confirm by text.",
+ "trust": [
+  "Trading since 1982",
+  "Free estimates",
+  "Insurance and fleet work",
+  "Du Pont paint mixing"
+ ],
+ "phone": "01223 243369",
+ "services": [
+  [
+   "Estimate",
+   "Free estimate",
+   "For any repair, large or small",
+   "Free",
+   30
+  ],
+  [
+   "Minor",
+   "Scratches, dents and scuffs",
+   "Including bumpers",
+   "Quote",
+   180
+  ],
+  [
+   "Paint",
+   "Paintwork",
+   "Du Pont paint mixing scheme",
+   "Quote",
+   240
+  ],
+  [
+   "Accident",
+   "Accident repair",
+   "We help you through the claim",
+   "Quote",
+   480
+  ],
+  [
+   "Major",
+   "Major body reconstruction",
+   "Jig work and welding",
+   "Quote",
+   480
+  ]
+ ],
+ "accent": "#0078C1",
+ "cta": "#0078C1",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0078C1",
+ "visit": {
+  "address": "95 Ditton Walk, Cambridge CB5 8QD · 01223 243369",
+  "hours": "Call 01223 243369 or email enquiries@densleycharles.co.uk.",
+  "maps_query": "Densley Charles Coachcraft Ditton Walk Cambridge"
+ },
+ "footer_note": "The list of services is set up for each business. Prices are shown as \"Quote\" because they are not listed on your current website.",
+ "no_mot": true
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "miles-classic-huddersfield",
+ "name": "Miles Classic",
+ "tagline": "Classic car restoration · Bradley Mills, Huddersfield",
+ "eyebrow": "Restoration · Servicing · Sales",
+ "headline": "Book your classic in online",
+ "intro": "Pick a job, enter your registration and choose a time to bring the car in. We confirm by text.",
+ "trust": [
+  "Team from GT and prototype racing",
+  "Restored to racing tolerances",
+  "Classic cars for sale",
+  "Free advice"
+ ],
+ "phone": "01484 534636",
+ "services": [
+  [
+   "Advice",
+   "Free advice",
+   "Ask about a car or a project",
+   "Free",
+   30
+  ],
+  [
+   "Service",
+   "Classic car service",
+   "Mechanical work and servicing",
+   "Quote",
+   240
+  ],
+  [
+   "Repair",
+   "Repairs",
+   "Small repairs to your own car",
+   "Quote",
+   240
+  ],
+  [
+   "Bodywork",
+   "Bodywork and paint",
+   "Fabrication and panel beating",
+   "Quote",
+   480
+  ],
+  [
+   "Restoration",
+   "Restoration",
+   "To your own specification",
+   "Quote",
+   480
+  ],
+  [
+   "Finder",
+   "Car finder",
+   "Finders consultancy",
+   "Quote",
+   60
+  ]
+ ],
+ "accent": "#2500AB",
+ "cta": "#2500AB",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "visit": {
+  "address": "Unit 12, Bradley Mills, Bradley Mills Road, Huddersfield HD1 6PQ · 01484 534636",
+  "hours": "Call 01484 534636 or email myles@milesclassic.co.uk.",
+  "maps_query": "Miles Classic Bradley Mills Huddersfield"
+ },
+ "footer_note": "The list of services is set up for each business. Prices are shown as \"Quote\" because they are not listed on your current website.",
+ "no_mot": true,
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/garages_en/shots30/miles_c.jpg"
+}

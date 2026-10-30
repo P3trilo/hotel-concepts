@@ -1,0 +1,64 @@
+{
+ "slug": "central-bodyshop-chorley",
+ "name": "Central Bodyshop",
+ "tagline": "Paint and body repair · Buckingham Street, Chorley",
+ "eyebrow": "Body repair · Paint · Aluminium and composite",
+ "headline": "Book your repair online",
+ "intro": "Pick a repair, enter your registration and choose a time to bring the car in. We confirm by text.",
+ "trust": [
+  "Family run for over 30 years",
+  "Aluminium and composite repairs",
+  "Manufacturer product knowledge",
+  "Supporting local charities"
+ ],
+ "phone": "01257 279972",
+ "services": [
+  [
+   "Estimate",
+   "Repair estimate",
+   "Bring the car in for a look",
+   "Quote",
+   30
+  ],
+  [
+   "Cosmetic",
+   "Cosmetic body repair",
+   "Scratches, dents and scuffs",
+   "Quote",
+   180
+  ],
+  [
+   "Accident",
+   "Accident repair",
+   "Restored to the original standard",
+   "Quote",
+   480
+  ],
+  [
+   "Aluminium",
+   "Aluminium and composite repair",
+   "Dedicated technical workshop",
+   "Quote",
+   480
+  ],
+  [
+   "Paint",
+   "Paint repair",
+   "Specialist paint facility",
+   "Quote",
+   240
+  ]
+ ],
+ "accent": "#2A4556",
+ "cta": "#1CB9C3",
+ "on_cta": "#151515",
+ "hero_bg": "#2A4556",
+ "visit": {
+  "address": "Buckingham Street, Chorley PR6 0HD · 01257 279972",
+  "hours": "Call 01257 279972 or email info@centralbodyshop.net.",
+  "maps_query": "Central Bodyshop Buckingham Street Chorley"
+ },
+ "footer_note": "The list of services is set up for each business. Prices are shown as \"Quote\" because they are not listed on your current website.",
+ "no_mot": true,
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/garages_en/shots30/central.jpg"
+}

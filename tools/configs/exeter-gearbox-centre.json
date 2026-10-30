@@ -1,0 +1,71 @@
+{
+ "slug": "exeter-gearbox-centre",
+ "name": "Exeter Gearbox Centre",
+ "tagline": "Transmission specialists · Marsh Barton, Exeter",
+ "eyebrow": "Manual · Automatic · Axles · Diagnostics",
+ "headline": "Book a gearbox check online",
+ "intro": "Tell us what the vehicle is doing, enter your registration and choose a time to bring it in. We confirm by text.",
+ "trust": [
+  "Family run, three generations",
+  "On this site since 1982",
+  "All work fully guaranteed",
+  "Cars, 4x4s, vans and motorhomes"
+ ],
+ "phone": "01392 434049",
+ "services": [
+  [
+   "Diagnosis",
+   "Fault diagnosis",
+   "Gearbox and transmission diagnostics",
+   "Quote",
+   60
+  ],
+  [
+   "Manual",
+   "Manual gearbox",
+   "Repaired or rebuilt in house",
+   "Quote",
+   480
+  ],
+  [
+   "Automatic",
+   "Automatic transmission",
+   "Repaired, rebuilt or serviced",
+   "Quote",
+   480
+  ],
+  [
+   "Service",
+   "Transmission service",
+   "Automatic transmission servicing",
+   "Quote",
+   120
+  ],
+  [
+   "Clutch",
+   "Clutch and flywheel",
+   "Supplied and fitted",
+   "Quote",
+   300
+  ],
+  [
+   "Axle",
+   "Axles and differentials",
+   "Including transfer boxes",
+   "Quote",
+   300
+  ]
+ ],
+ "accent": "#333333",
+ "cta": "#FF0000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "visit": {
+  "address": "Grace Road Central, Marsh Barton, Exeter EX2 8QA · 01392 434049",
+  "hours": "Call 01392 434049 to talk to the team.",
+  "maps_query": "Exeter Gearbox Centre Grace Road Marsh Barton"
+ },
+ "footer_note": "The list of services is set up for each business. Prices are shown as \"Quote\" because they are not listed on your current website.",
+ "no_mot": true,
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/garages_en/shots30/exeter.jpg"
+}
