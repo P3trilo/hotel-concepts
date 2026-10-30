@@ -1,0 +1,58 @@
+{
+ "slug": "fika-barnt-green",
+ "name": "Fika",
+ "tagline": "Café · Hewell Road, Barnt Green",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper coffee break",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£15 gift voucher",
+   "To spend on brunch, coffee or cake",
+   15,
+   "£15 to spend"
+  ],
+  [
+   "£25 gift voucher",
+   "To spend on brunch, coffee or cake",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on brunch, coffee or cake",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "To spend on brunch, coffee or cake",
+ "message": "Happy Christmas! Brunch at Fika, my treat.",
+ "accent": "#675949",
+ "cta": "#675949",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D1D26",
+ "hero_eyebrow": "#EA9964",
+ "prefix": "FK",
+ "guest": "guest",
+ "biz": "tea room",
+ "seed": [
+  [
+   "£15 gift voucher",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "£25 gift voucher",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "14-16 Hewell Road, Barnt Green B45 8NE · 0121 820 1004",
+  "hours": "Monday to Saturday 9am to 5pm, Sunday 9am to 4pm.",
+  "maps_query": "Fika Cafe Hewell Road Barnt Green"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/tea_uk/photos/fika_7.jpg"
+}

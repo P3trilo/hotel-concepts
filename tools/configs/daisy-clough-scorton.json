@@ -1,0 +1,58 @@
+{
+ "slug": "daisy-clough-scorton",
+ "name": "Daisy Clough Tearoom",
+ "tagline": "Nurseries & tearoom · Station Lane, Scorton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch at Daisy Clough",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£15 gift voucher",
+   "To spend in the tearoom",
+   15,
+   "£15 to spend"
+  ],
+  [
+   "£25 gift voucher",
+   "To spend in the tearoom",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend in the tearoom",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "To spend in the tearoom",
+ "message": "Happy Christmas! Lunch at Daisy Clough, my treat.",
+ "accent": "#686A4A",
+ "cta": "#686A4A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#686A4A",
+ "hero_eyebrow": "#EEEFEF",
+ "prefix": "DC",
+ "guest": "guest",
+ "biz": "tea room",
+ "seed": [
+  [
+   "£15 gift voucher",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "£25 gift voucher",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Lane, Scorton, Preston PR3 1AN · 01524 587066",
+  "hours": "Monday to Saturday 9am to 5pm, Sunday 10am to 4pm.",
+  "maps_query": "Daisy Clough Nurseries Scorton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/tea_uk/photos/daisy_0.jpg"
+}

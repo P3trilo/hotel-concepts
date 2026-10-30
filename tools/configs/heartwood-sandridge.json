@@ -1,0 +1,58 @@
+{
+ "slug": "heartwood-sandridge",
+ "name": "Heartwood Café & Tea Rooms",
+ "tagline": "Tea rooms · High Street, Sandridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£15 gift voucher",
+   "To spend on afternoon tea, breakfast or lunch",
+   15,
+   "£15 to spend"
+  ],
+  [
+   "£25 gift voucher",
+   "To spend on afternoon tea, breakfast or lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on afternoon tea, breakfast or lunch",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "To spend on afternoon tea, breakfast or lunch",
+ "message": "Happy Christmas! Afternoon tea at Heartwood, my treat.",
+ "accent": "#333333",
+ "cta": "#1A1A1A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1A1A1A",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "HW",
+ "guest": "guest",
+ "biz": "tea room",
+ "seed": [
+  [
+   "£15 gift voucher",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "£25 gift voucher",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "27-29 High Street, Sandridge, St Albans AL4 9DD · 01727 641064",
+  "hours": "Breakfast, lunch, cakes and afternoon tea. Book online.",
+  "maps_query": "Heartwood Tea Rooms Sandridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/tea_uk/photos/heart_0.jpg"
+}

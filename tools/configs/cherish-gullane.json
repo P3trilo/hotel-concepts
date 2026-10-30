@@ -1,0 +1,58 @@
+{
+ "slug": "cherish-gullane",
+ "name": "Cherish Vintage Tearoom",
+ "tagline": "Tearoom & emporium · Gullane, East Lothian",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea at Cherish",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£15 gift voucher",
+   "To spend on afternoon tea, lunch or cake",
+   15,
+   "£15 to spend"
+  ],
+  [
+   "£25 gift voucher",
+   "To spend on afternoon tea, lunch or cake",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on afternoon tea, lunch or cake",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "To spend on afternoon tea, lunch or cake",
+ "message": "Happy Christmas! Afternoon tea at Cherish, my treat.",
+ "accent": "#EE88AA",
+ "cta": "#1779BA",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0A0A0A",
+ "hero_eyebrow": "#FCF0F5",
+ "prefix": "CV",
+ "guest": "guest",
+ "biz": "tea room",
+ "seed": [
+  [
+   "£15 gift voucher",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "£25 gift voucher",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6a Lammerview Terrace, Gullane EH31 2HB · 01620 248182",
+  "hours": "Open Monday to Saturday, 10am to 4pm. Closed on Sundays.",
+  "maps_query": "Cherish Vintage Tearoom Gullane"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/tea_uk/photos/cherish_4.jpg"
+}
