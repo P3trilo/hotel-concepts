@@ -1,0 +1,58 @@
+{
+ "slug": "cottage-inn-dunstan",
+ "name": "The Cottage Inn",
+ "tagline": "Country inn · Dunstan, near Craster",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night on the Northumberland coast",
+ "intro": "Choose an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "Towards a stay, dinner or Sunday lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Towards a stay, dinner or Sunday lunch",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "Towards a stay, dinner or Sunday lunch",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, dinner or Sunday lunch",
+ "message": "Happy Christmas! A night at The Cottage Inn, my treat.",
+ "accent": "#1B365D",
+ "cta": "#1B365D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1B365D",
+ "hero_eyebrow": "#EDE4D5",
+ "prefix": "CI",
+ "guest": "guest",
+ "biz": "inn",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Cottage Inn, Dunstan, Alnwick NE66 3SZ · 01665 576658",
+  "hours": "Food served Monday to Saturday, Sunday lunch every week.",
+  "maps_query": "The Cottage Inn Dunstan Craster"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hotels_uk/photos/cottage_1.jpg"
+}
