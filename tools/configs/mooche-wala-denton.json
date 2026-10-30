@@ -1,0 +1,58 @@
+{
+ "slug": "mooche-wala-denton",
+ "name": "Mooche Wala",
+ "tagline": "Indian bar & grill · Denton, Northampton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at Mooche Wala",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dinner, cocktails or whisky",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dinner, cocktails or whisky",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dinner, cocktails or whisky",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Mooche Wala, my treat.",
+ "accent": "#C5B274",
+ "cta": "#C5B274",
+ "on_cta": "#191919",
+ "hero_bg": "#191919",
+ "hero_eyebrow": "#C5B274",
+ "prefix": "MW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Main Street, Denton, Northampton NN7 1DQ · 01604 600681",
+  "hours": "Wednesday to Monday, 5pm to 10pm. Closed on Tuesdays.",
+  "maps_query": "Mooche Wala Bar and Grill Denton Northampton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/moo_b.jpg"
+}

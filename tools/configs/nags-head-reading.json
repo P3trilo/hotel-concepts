@@ -1,0 +1,58 @@
+{
+ "slug": "nags-head-reading",
+ "name": "The Nag's Head",
+ "tagline": "CAMRA award-winning pub · Russell Street, Reading",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Nag's",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£15 gift voucher",
+   "To spend on cask, keg, cider or food from the smoker",
+   15,
+   "£15 to spend"
+  ],
+  [
+   "£25 gift voucher",
+   "To spend on cask, keg, cider or food from the smoker",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on cask, keg, cider or food from the smoker",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on beer, cider or food",
+ "message": "Happy Christmas! The first round at the Nag's is on me.",
+ "accent": "#222222",
+ "cta": "#222222",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F0F0F0",
+ "prefix": "NH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£15 gift voucher",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "£25 gift voucher",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Russell Street, Reading RG1 7XD · 07765 880137",
+  "hours": "Twelve hand pumps of craft cask, plus keg, cider and food from the smoker.",
+  "maps_query": "The Nag's Head 5 Russell Street Reading"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/nags.jpg"
+}

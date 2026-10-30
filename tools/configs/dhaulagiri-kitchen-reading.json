@@ -1,0 +1,58 @@
+{
+ "slug": "dhaulagiri-kitchen-reading",
+ "name": "Dhaulagiri Kitchen",
+ "tagline": "Nepalese restaurant · Basingstoke Road, Reading",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thakali thali",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A Thakali thali at Dhaulagiri, my treat.",
+ "accent": "#951414",
+ "cta": "#951414",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D1D1D",
+ "hero_eyebrow": "#DDDDDD",
+ "prefix": "DK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "63 Basingstoke Road, Reading RG2 0ER · 0118 975 9898",
+  "hours": "Open every day from 11am. Call 0118 975 9898 to book a table.",
+  "maps_query": "Dhaulagiri Kitchen 63 Basingstoke Road Reading"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/dhau.jpg"
+}

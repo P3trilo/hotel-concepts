@@ -1,0 +1,58 @@
+{
+ "slug": "hopley-house-middlewich",
+ "name": "Hopley House",
+ "tagline": "Farm shop, café and rooms · Wimboldsley, Cheshire",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in the Cheshire countryside",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Towards a stay, the café or the farm shop",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Towards a stay, the café or the farm shop",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Towards a stay, the café or the farm shop",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, in the café or the farm shop",
+ "message": "Happy Christmas! A night at Hopley House, my treat.",
+ "accent": "#4B4F58",
+ "cta": "#4B4F58",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2A2C3A",
+ "hero_eyebrow": "#F0ECE3",
+ "prefix": "HH",
+ "guest": "guest",
+ "biz": "guest house",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Nantwich Road, Wimboldsley, Middlewich CW10 0LN · 01270 526292",
+  "hours": "Call 01270 526292 or email stay@hopleyhouse.co.uk to book a room.",
+  "maps_query": "Hopley House Wimboldsley Middlewich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/hop_d.jpg"
+}

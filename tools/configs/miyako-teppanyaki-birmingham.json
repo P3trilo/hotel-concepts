@@ -1,0 +1,58 @@
+{
+ "slug": "miyako-teppanyaki-birmingham",
+ "name": "Miyako Teppanyaki",
+ "tagline": "Japanese teppanyaki · Arcadian Centre, Birmingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a seat at the teppan",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£30 gift voucher",
+   "To spend on teppanyaki, sushi or drinks",
+   30,
+   "£30 to spend"
+  ],
+  [
+   "£60 gift voucher",
+   "To spend on teppanyaki, sushi or drinks",
+   60,
+   "£60 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on teppanyaki, sushi or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner around the teppan at Miyako, my treat.",
+ "accent": "#EF0100",
+ "cta": "#EF0100",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#242736",
+ "hero_eyebrow": "#EF0100",
+ "prefix": "MT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£30 gift voucher",
+   "Sarah",
+   30,
+   true
+  ],
+  [
+   "£60 gift voucher",
+   "Emma",
+   60,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Arcadian Centre, Ladywell Walk, Hurst Street, Birmingham B5 4ST · 0121 622 5183",
+  "hours": "Tuesday to Friday 3pm to 10.30pm, Saturday 12 noon to 11pm, Sunday 3pm to 9pm.",
+  "maps_query": "Miyako Teppanyaki Arcadian Centre Birmingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/miy_e.jpg"
+}
