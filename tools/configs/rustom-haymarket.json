@@ -1,0 +1,58 @@
+{
+ "slug": "rustom-haymarket",
+ "name": "Rustom",
+ "tagline": "Indian and Pakistani dining · Grosvenor Street, Haymarket",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a royal feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Rustom, my treat.",
+ "accent": "#CC7314",
+ "cta": "#CC7314",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D1D1E",
+ "hero_eyebrow": "#CC7314",
+ "prefix": "RU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Grosvenor Street, Edinburgh EH12 5EG · 0131 337 7920",
+  "hours": "Monday to Saturday 12 noon to 11pm, Sunday 2pm to 11pm.",
+  "maps_query": "Rustom 2 Grosvenor Street Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_sct/photos/rustom_5.jpg"
+}

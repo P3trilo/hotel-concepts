@@ -1,0 +1,58 @@
+{
+ "slug": "capon-tree-jedburgh",
+ "name": "The Capon Tree",
+ "tagline": "Bar, restaurant & rooms · High Street, Jedburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at The Capon Tree",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dinner, cocktails or a room",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dinner, cocktails or a room",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dinner, cocktails or a room",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A night at The Capon Tree, my treat.",
+ "accent": "#D19F47",
+ "cta": "#D19F47",
+ "on_cta": "#110F0E",
+ "hero_bg": "#110F0E",
+ "hero_eyebrow": "#EBE7E0",
+ "prefix": "CT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "61 High Street, Jedburgh TD8 6DQ · 01835 869596",
+  "hours": "Call 01835 869596 or book a table online.",
+  "maps_query": "The Capon Tree Jedburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_sct/photos/capon_3.jpg"
+}

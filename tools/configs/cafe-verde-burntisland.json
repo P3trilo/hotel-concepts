@@ -1,0 +1,58 @@
+{
+ "slug": "cafe-verde-burntisland",
+ "name": "Cafe Verde",
+ "tagline": "Eats, beats, vibes · High Street, Burntisland",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch or a night out",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, coffee or cocktails",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, coffee or cocktails",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, coffee or cocktails",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A night at Cafe Verde, my treat.",
+ "accent": "#A4A68E",
+ "cta": "#333333",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#EFEADB",
+ "prefix": "CV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "253A High Street, Burntisland KY3 9AQ · 01592 421108",
+  "hours": "Open seven days a week.",
+  "maps_query": "Cafe Verde 253A High Street Burntisland"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_sct/photos/verde_0.jpg"
+}

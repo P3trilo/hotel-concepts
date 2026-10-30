@@ -1,0 +1,58 @@
+{
+ "slug": "hoi-an-bruntsfield",
+ "name": "Hoi An",
+ "tagline": "Vietnamese restaurant · Bruntsfield Place, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a bowl of pho",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pho at Hoi An, my treat.",
+ "accent": "#2C0D03",
+ "cta": "#2C0D03",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2C0D03",
+ "hero_eyebrow": "#F3D9B6",
+ "prefix": "HA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4-5 Bruntsfield Place, Edinburgh EH10 4HN · 0131 629 0870",
+  "hours": "Book a table online or call 0131 629 0870.",
+  "maps_query": "Hoi An Vietnamese Restaurant Bruntsfield Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_sct/photos/hoian_5.jpg"
+}
