@@ -1,0 +1,58 @@
+{
+ "slug": "gira-capelli-tewkesbury",
+ "name": "Gira Capelli",
+ "tagline": "Hair & beauty · High Street, Tewkesbury",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on hair or beauty",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£75 gift voucher",
+   "To spend on hair or beauty",
+   75,
+   "£75 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on hair or beauty",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any hair or beauty service",
+ "message": "Happy Christmas! A treat at Gira Capelli, my treat.",
+ "accent": "#BC844C",
+ "cta": "#BC844C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#C1AC5E",
+ "prefix": "GC",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£75 gift voucher",
+   "Emma",
+   75,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "125 High Street, Tewkesbury GL20 5JU · 01684 299753",
+  "hours": "Call 01684 299753 or email to book.",
+  "maps_query": "Gira Capelli 125 High Street Tewkesbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/gira_4.jpg"
+}

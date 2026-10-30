@@ -1,0 +1,58 @@
+{
+ "slug": "john-lester-downham-market",
+ "name": "John Lester Hair Design",
+ "tagline": "Hair salon · High Street, Downham Market",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on a cut, colour or styling",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£75 gift voucher",
+   "To spend on a cut, colour or styling",
+   75,
+   "£75 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on a cut, colour or styling",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the salon",
+ "message": "Happy Christmas! A new look at John Lester, my treat.",
+ "accent": "#2B3A3F",
+ "cta": "#2B3A3F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "JL",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£75 gift voucher",
+   "Emma",
+   75,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Cannon House, 57 High Street, Downham Market PE38 9HF · 01366 382575",
+  "hours": "Call 01366 382575 to book an appointment.",
+  "maps_query": "John Lester Hair Design Downham Market"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/lester_1.jpg"
+}

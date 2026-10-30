@@ -1,0 +1,58 @@
+{
+ "slug": "rumour-hair-chelmsford",
+ "name": "Rumour Hair",
+ "tagline": "Hair salon · Moulsham Street, Chelmsford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Japanese head spa",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on a cut, colour or head spa",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on a cut, colour or head spa",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "To spend on a cut, colour or head spa",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the salon",
+ "message": "Happy Christmas! A Japanese head spa at Rumour, my treat.",
+ "accent": "#CC9933",
+ "cta": "#CC9933",
+ "on_cta": "#0D0D0D",
+ "hero_bg": "#0D0D0D",
+ "hero_eyebrow": "#CC9933",
+ "prefix": "RH",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "162 Moulsham Street, Chelmsford CM2 0LD · 01245 269 611",
+  "hours": "Book an appointment online or call 01245 269 611.",
+  "maps_query": "Rumour Hair 162 Moulsham Street Chelmsford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/rumour_1.jpg"
+}
