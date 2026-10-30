@@ -1,0 +1,58 @@
+{
+ "slug": "latino-woking",
+ "name": "Latino",
+ "tagline": "Ristorante italiano · Commercial Way, Woking",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a real Italian dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Latino, my treat.",
+ "accent": "#333333",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F0F0F0",
+ "prefix": "LA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "44 Commercial Way, Woking GU21 6HW · 01483 773097",
+  "hours": "Monday to Friday 12 noon to 2.30pm and 5pm to 10.30pm, Saturday until 10.30pm, Sunday until 9pm.",
+  "maps_query": "Latino Ristorante Italiano Commercial Way Woking"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/latino_0.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "natsuya-leamington",
+ "name": "Natsuya",
+ "tagline": "Japanese restaurant · The Parade, Leamington Spa",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a bowl of ramen",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on ramen, sushi or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on ramen, sushi or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on ramen, sushi or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Ramen at Natsuya, my treat.",
+ "accent": "#B49383",
+ "cta": "#B49383",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#232323",
+ "hero_eyebrow": "#C49A8F",
+ "prefix": "NA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "100 The Parade, Leamington Spa CV32 4AQ · 01926 774762",
+  "hours": "Open every day, 12 noon to 9.30pm.",
+  "maps_query": "Natsuya 100 The Parade Leamington Spa"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/nats_7.jpg"
+}

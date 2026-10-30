@@ -1,0 +1,58 @@
+{
+ "slug": "lupes-cantina-leeds",
+ "name": "Lupe's Cantina Mexicana",
+ "tagline": "Mexican street food · Cardigan Road, Leeds",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Mexico",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food and cocktails",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food and cocktails",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food and cocktails",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food and cocktails",
+ "message": "Happy Christmas! Tacos at Lupe's, my treat.",
+ "accent": "#0D8E36",
+ "cta": "#D55C37",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#7CC68D",
+ "prefix": "LC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "204-206 Cardigan Road, Leeds LS6 1LF · 0113 548 7984",
+  "hours": "Tuesday to Thursday 12 noon to 9pm, Friday and Saturday 12 noon to 9.30pm.",
+  "maps_query": "Lupe's Cantina Mexicana Cardigan Road Leeds"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/lupe_0.jpg"
+}

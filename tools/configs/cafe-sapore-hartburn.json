@@ -1,0 +1,58 @@
+{
+ "slug": "cafe-sapore-hartburn",
+ "name": "Cafe Sapore",
+ "tagline": "Cafe bistro · Hartburn, Stockton-on-Tees",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Hartburn's hidden gem",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on brunch, lunch or dinner",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on brunch, lunch or dinner",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on brunch, lunch or dinner",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on brunch, lunch or dinner",
+ "message": "Happy Christmas! Dinner at Cafe Sapore, my treat.",
+ "accent": "#CCB0A2",
+ "cta": "#CCB0A2",
+ "on_cta": "#141617",
+ "hero_bg": "#141617",
+ "hero_eyebrow": "#CCB0A2",
+ "prefix": "CS",
+ "guest": "guest",
+ "biz": "bistro",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Hartburn, Stockton-on-Tees TS18 5EQ · 01642 585141",
+  "hours": "Brunch Tuesday to Sunday from 10am, dinner Wednesday to Saturday.",
+  "maps_query": "Cafe Sapore Hartburn Stockton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/sapore_5.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "stubbys-pizza-sheringham",
+ "name": "Stubby's Pizza",
+ "tagline": "Wood-fired pizzeria · High Street, Sheringham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a wood-fired pizza night",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on pizza, cold beer or coffee",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on pizza, cold beer or coffee",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on pizza, cold beer or coffee",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on pizza, beer or coffee",
+ "message": "Happy Christmas! Pizza at Stubby's, my treat.",
+ "accent": "#328F5F",
+ "cta": "#2EA3F2",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#97E65B",
+ "prefix": "SP",
+ "guest": "guest",
+ "biz": "pizzeria",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "41 High Street, Sheringham NR26 8DS · 01263 826251",
+  "hours": "Coffee from 10.30am. Walk in at lunchtime, booking advisable for dinner.",
+  "maps_query": "Stubby's Pizza 41 High Street Sheringham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/stub_3.jpg"
+}

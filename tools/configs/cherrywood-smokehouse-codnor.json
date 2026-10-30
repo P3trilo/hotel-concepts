@@ -1,0 +1,58 @@
+{
+ "slug": "cherrywood-smokehouse-codnor",
+ "name": "Cherrywood Smoke House",
+ "tagline": "English and Indian-Nepalese grill · Codnor, Nottingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at the smokehouse",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on grills, curries or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on grills, curries or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on grills, curries or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Cherrywood, my treat.",
+ "accent": "#0D141A",
+ "cta": "#FFEBB7",
+ "on_cta": "#0D141A",
+ "hero_bg": "#0D141A",
+ "hero_eyebrow": "#FFEBB7",
+ "prefix": "CW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "246 Nottingham Road, Codnor, Nottingham NG16 4HG · 0115 648 3085",
+  "hours": "Kitchen open every day from 12 noon, until 11pm on Friday and Saturday.",
+  "maps_query": "Cherrywood Smoke House Codnor Nottingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/cherryw_2.jpg"
+}

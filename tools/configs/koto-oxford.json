@@ -1,0 +1,58 @@
+{
+ "slug": "koto-oxford",
+ "name": "Koto",
+ "tagline": "Japanese restaurant · Walton Street, Jericho",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an izakaya evening",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on sushi, ramen or sake",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on sushi, ramen or sake",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on sushi, ramen or sake",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Koto, my treat.",
+ "accent": "#EF6554",
+ "cta": "#EF6554",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E1C1C",
+ "hero_eyebrow": "#EF6554",
+ "prefix": "KO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Walton Street, Jericho, Oxford OX2 6AJ · 01865 553000",
+  "hours": "Call 01865 553000 to book a table.",
+  "maps_query": "Koto Japanese Restaurant Walton Street Oxford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/koto_1.jpg"
+}

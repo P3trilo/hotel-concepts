@@ -1,0 +1,58 @@
+{
+ "slug": "tres-corazones-wendover",
+ "name": "Tres Corazones",
+ "tagline": "Tapas, bar & grill · Pound Street, Wendover",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night of tapas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on tapas, steaks or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on tapas, steaks or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on tapas, steaks or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Tapas at Tres Corazones, my treat.",
+ "accent": "#008080",
+ "cta": "#008080",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#AABDF6",
+ "prefix": "TC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Pound Street, Wendover HP22 6EJ · 01296 622092",
+  "hours": "Food Tuesday to Saturday. Closed on Sundays and Mondays.",
+  "maps_query": "Tres Corazones 4 Pound Street Wendover"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/tres_2.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "arkwright-arms-chesterfield",
+ "name": "The Arkwright Arms",
+ "tagline": "Real ale and home-cooked food · Duckmanton, Chesterfield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Arkwright",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, real ale or Sunday lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, real ale or Sunday lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, real ale or Sunday lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, real ale or Sunday lunch",
+ "message": "Happy Christmas! Sunday lunch at the Arkwright Arms, my treat.",
+ "accent": "#B32126",
+ "cta": "#B32126",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "AA",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Chesterfield Road, Duckmanton, Chesterfield S44 5JG · 01246 602224",
+  "hours": "Sunday lunch from midday until 3pm. Snacks Wednesday to Saturday.",
+  "maps_query": "Arkwright Arms Duckmanton Chesterfield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/ark_0.jpg"
+}
