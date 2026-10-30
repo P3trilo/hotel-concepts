@@ -1,0 +1,58 @@
+{
+ "slug": "fat-cat-sheffield",
+ "name": "The Fat Cat",
+ "tagline": "Award-winning real ale pub · Kelham Island, Sheffield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Fat Cat",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£15 gift voucher",
+   "To spend on real ale, food or drinks",
+   15,
+   "£15 to spend"
+  ],
+  [
+   "£25 gift voucher",
+   "To spend on real ale, food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on real ale, food or drinks",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on real ale, food or drinks",
+ "message": "Happy Christmas! The first round at the Fat Cat is on me.",
+ "accent": "#C59D5F",
+ "cta": "#C59D5F",
+ "on_cta": "#262526",
+ "hero_bg": "#262526",
+ "hero_eyebrow": "#C59D5F",
+ "prefix": "FC",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£15 gift voucher",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "£25 gift voucher",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "23 Alma Street, Sheffield S3 8SA · 0114 249 4803",
+  "hours": "Open every day from 12 noon.",
+  "maps_query": "The Fat Cat 23 Alma Street Sheffield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/fatcat_5.jpg"
+}

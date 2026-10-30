@@ -1,0 +1,58 @@
+{
+ "slug": "dining-club-deal",
+ "name": "The Dining Club",
+ "tagline": "Private dining rooms · Middle Street, Deal",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a dinner party for two",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "Towards dinner in one of our private rooms",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Towards dinner in one of our private rooms",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "Towards dinner in one of our private rooms",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on dinner in one of our rooms",
+ "message": "Happy Christmas! Dinner at The Dining Club, my treat.",
+ "accent": "#3C4858",
+ "cta": "#118D91",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2F2F30",
+ "hero_eyebrow": "#FBFBFB",
+ "prefix": "DC",
+ "guest": "guest",
+ "biz": "dining club",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "69 Middle Street, Deal CT14 6HP · 01304 373569",
+  "hours": "Set menus change weekly. Book with our booking form or call.",
+  "maps_query": "The Dining Club 69 Middle Street Deal"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/dclub_2.jpg"
+}

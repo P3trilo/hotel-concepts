@@ -1,0 +1,58 @@
+{
+ "slug": "five-bells-bassingham",
+ "name": "The Five Bells",
+ "tagline": "Village pub · High Street, Bassingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Five Bells",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or Sunday lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or Sunday lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or Sunday lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, drinks or Sunday lunch",
+ "message": "Happy Christmas! Sunday lunch at the Five Bells, my treat.",
+ "accent": "#6E7160",
+ "cta": "#6E7160",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3D3A34",
+ "hero_eyebrow": "#A1B5A9",
+ "prefix": "FB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "17 High Street, Bassingham, Lincoln LN5 9JZ · 01522 788269",
+  "hours": "Food served from 12 noon, until 8pm Monday to Saturday and 7pm on Sunday.",
+  "maps_query": "The Five Bells Bassingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/bells_0.jpg"
+}

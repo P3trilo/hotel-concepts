@@ -1,0 +1,58 @@
+{
+ "slug": "dosa-bar-swansea",
+ "name": "Dosa Bar",
+ "tagline": "South Indian kitchen · Green Dragon Lane, Swansea",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of South India",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A dosa at Dosa Bar, my treat.",
+ "accent": "#F07C00",
+ "cta": "#F07C00",
+ "on_cta": "#281D15",
+ "hero_bg": "#281D15",
+ "hero_eyebrow": "#F07C00",
+ "prefix": "DB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Unit 1, Green Dragon Lane, Swansea SA1 1DG · 01792 951309",
+  "hours": "Book a table online or call 01792 951309.",
+  "maps_query": "Dosa Bar Green Dragon Lane Swansea"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/dosa_3.jpg"
+}

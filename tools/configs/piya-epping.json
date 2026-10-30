@@ -1,0 +1,58 @@
+{
+ "slug": "piya-epping",
+ "name": "Piya",
+ "tagline": "Anatolian bar & kitchen · High Street, Epping",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an Anatolian feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dinner or cocktails",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dinner or cocktails",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dinner or cocktails",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on dinner or cocktails",
+ "message": "Happy Christmas! Dinner and cocktails at Piya, my treat.",
+ "accent": "#C59D5F",
+ "cta": "#C59D5F",
+ "on_cta": "#111111",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#C59D5F",
+ "prefix": "PI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "74-76 High Street, Epping CM16 4AE · 01992 577588",
+  "hours": "Open every day from 12 noon.",
+  "maps_query": "Piya Bar and Kitchen Epping"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/piya_7.jpg"
+}

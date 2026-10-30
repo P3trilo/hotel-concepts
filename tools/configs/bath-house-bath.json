@@ -1,0 +1,58 @@
+{
+ "slug": "bath-house-bath",
+ "name": "The Bath House",
+ "tagline": "Boutique B&B and apartment · Crescent Gardens, Bath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a weekend in Bath",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£100 gift voucher",
+   "Towards a stay at The Bath House",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£200 gift voucher",
+   "Towards a stay at The Bath House",
+   200,
+   "£200 to spend"
+  ],
+  [
+   "£300 gift voucher",
+   "Towards a stay at The Bath House",
+   300,
+   "£300 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay in a room or the apartment",
+ "message": "Happy Christmas! A weekend in Bath, my treat.",
+ "accent": "#8A6D5B",
+ "cta": "#8A6D5B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#6D5647",
+ "hero_eyebrow": "#D6C6B5",
+ "prefix": "BH",
+ "guest": "guest",
+ "biz": "guest house",
+ "seed": [
+  [
+   "£100 gift voucher",
+   "Sarah",
+   100,
+   true
+  ],
+  [
+   "£200 gift voucher",
+   "Emma",
+   200,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "40 Crescent Gardens, Bath BA1 2NB · 07711 119847",
+  "hours": "Book directly by phone or email for the best price.",
+  "maps_query": "The Bath House Crescent Gardens Bath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/bathh_3.jpg"
+}
