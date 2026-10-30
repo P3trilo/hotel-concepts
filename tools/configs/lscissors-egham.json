@@ -1,0 +1,58 @@
+{
+ "slug": "lscissors-egham",
+ "name": "L'Scissors",
+ "tagline": "Hair & beauty · High Street, Egham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on a cut, colour or treatment",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£75 gift voucher",
+   "To spend on a cut, colour or treatment",
+   75,
+   "£75 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on a cut, colour or treatment",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the salon",
+ "message": "Happy Christmas! A cut and blow dry at L'Scissors, my treat.",
+ "accent": "#E00000",
+ "cta": "#111111",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#FF5A5A",
+ "prefix": "LS",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£75 gift voucher",
+   "Emma",
+   75,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "165 High Street, Egham TW20 9HP · 01784 437211",
+  "hours": "Tuesday to Friday 9.30am to 6.30pm, Saturday 9.30am to 5pm.",
+  "maps_query": "L'Scissors 165 High Street Egham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/lscissors.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "frobisher-stowmarket",
+ "name": "Frobisher Hair Designs",
+ "tagline": "Barber shop · Stowupland Street, Stowmarket",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper haircut this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "General haircut",
+   "With one of our barbers",
+   13,
+   "General haircut"
+  ],
+  [
+   "Cut & wash",
+   "A cut with a wash",
+   17,
+   "Cut and wash"
+  ],
+  [
+   "£50 gift voucher",
+   "Towards any service, including a hair piece fitting",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any service in the shop",
+ "message": "Happy Christmas! Your next haircut at Frobishers is on me.",
+ "accent": "#1D83A8",
+ "cta": "#1D83A8",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D83A8",
+ "hero_eyebrow": "#C9E1EA",
+ "prefix": "FH",
+ "guest": "client",
+ "biz": "barber shop",
+ "seed": [
+  [
+   "General haircut",
+   "Sarah",
+   13,
+   true
+  ],
+  [
+   "Cut & wash",
+   "Emma",
+   17,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "39 Stowupland Street, Stowmarket IP14 1EG · 01449 674605",
+  "hours": "Tuesday to Friday 8.45am to 5.30pm, Saturday 8.30am to 1pm.",
+  "maps_query": "Frobisher Hair Designs 39 Stowupland Street Stowmarket"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/frobisher.jpg"
+}

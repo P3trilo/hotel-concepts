@@ -1,0 +1,58 @@
+{
+ "slug": "bohemian-barbers-cheadle-hulme",
+ "name": "The Bohemian Barbers",
+ "tagline": "Barber shop · Station Road, Cheadle Hulme",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a hot towel shave this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Hot towel full shave",
+   "The classic wet shave",
+   35,
+   "Hot towel full shave"
+  ],
+  [
+   "Gents cut & beard trim",
+   "The full tidy-up",
+   25,
+   "Gents cut and beard trim"
+  ],
+  [
+   "Scissor cut",
+   "Shaped with scissors",
+   27,
+   "Scissor cut"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, trim or shave",
+ "message": "Happy Christmas! A hot towel shave at The Bohemian Barbers, my treat.",
+ "accent": "#3D5C3E",
+ "cta": "#3D5C3E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2B2B2B",
+ "hero_eyebrow": "#B9CDB0",
+ "prefix": "BB",
+ "guest": "client",
+ "biz": "barber shop",
+ "seed": [
+  [
+   "Hot towel full shave",
+   "Sarah",
+   35,
+   true
+  ],
+  [
+   "Gents cut & beard trim",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "16 Station Road, Cheadle Hulme SK8 5AP · 0161 485 1029",
+  "hours": "Tuesday to Thursday 10am to 8pm, Friday 10am to 7pm, Saturday 9am to 4pm.",
+  "maps_query": "The Bohemian Barbers 16 Station Road Cheadle Hulme"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/bohem.jpg"
+}

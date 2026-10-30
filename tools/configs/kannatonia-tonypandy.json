@@ -1,0 +1,58 @@
+{
+ "slug": "kannatonia-tonypandy",
+ "name": "Kannatonia",
+ "tagline": "Hair salon · Dunraven Street, Tonypandy",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Cut & style",
+   "With one of our stylists",
+   35,
+   "Cut and style"
+  ],
+  [
+   "Goldwell treatment",
+   "A treatment to keep hair healthy",
+   50,
+   "Goldwell treatment"
+  ],
+  [
+   "Crazy hair colour",
+   "Something bold for the new year",
+   80,
+   "Crazy hair colour"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! Treat yourself to a new look at Kannatonia.",
+ "accent": "#E19A58",
+ "cta": "#E19A58",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#E19A58",
+ "prefix": "KT",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Cut & style",
+   "Sarah",
+   35,
+   true
+  ],
+  [
+   "Goldwell treatment",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "94 Dunraven Street, Tonypandy CF40 1AP · 01443 709949",
+  "hours": "Walk-in Monday to Friday 9am to 4pm, by appointment until 8pm. Saturday by appointment 9am to 8pm.",
+  "maps_query": "Kannatonia 94 Dunraven Street Tonypandy"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/hair_uk/photos/kanna.jpg"
+}
