@@ -1,0 +1,58 @@
+{
+ "slug": "fays-bistro-calne",
+ "name": "Fay's Bistro",
+ "tagline": "Bistro · Beach Terrace, Calne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch at Fay's",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on breakfast, lunch or coffee",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on breakfast, lunch or coffee",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on breakfast, lunch or coffee",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Fay's, my treat.",
+ "accent": "#472A2B",
+ "cta": "#472A2B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#472A2B",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "FB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "3 Beach Terrace, Calne SN11 0RD · 01249 812508",
+  "hours": "Open every day from 9am.",
+  "maps_query": "Fay's Bistro 3 Beach Terrace Calne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/fays_12.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "le-viet-social-liverpool",
+ "name": "Le Viet Social",
+ "tagline": "Vietnamese restaurant · Parliament Square, Liverpool",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Vietnamese feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Le Viet Social, my treat.",
+ "accent": "#0D4947",
+ "cta": "#0D4947",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "LV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Parliament Square, Parliament Street, Liverpool L1 0BS · 0151 808 7120",
+  "hours": "Book a table online or call 0151 808 7120.",
+  "maps_query": "Le Viet Social Parliament Street Liverpool"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/leviet_10.jpg"
+}

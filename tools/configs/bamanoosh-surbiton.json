@@ -1,0 +1,58 @@
+{
+ "slug": "bamanoosh-surbiton",
+ "name": "Bamanoosh",
+ "tagline": "Persian kitchen · Ewell Road, Surbiton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Persian feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Bamanoosh, my treat.",
+ "accent": "#18312E",
+ "cta": "#E6B15F",
+ "on_cta": "#18312E",
+ "hero_bg": "#18312E",
+ "hero_eyebrow": "#E6B15F",
+ "prefix": "BM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "163 Ewell Road, Surbiton KT6 6AW · 020 8399 9336",
+  "hours": "Call 020 8399 9336 to book a table.",
+  "maps_query": "Bamanoosh 163 Ewell Road Surbiton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/bamanoosh_3.jpg"
+}

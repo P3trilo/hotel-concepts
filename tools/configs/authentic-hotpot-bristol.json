@@ -1,0 +1,58 @@
+{
+ "slug": "authentic-hotpot-bristol",
+ "name": "Authentic Hot Pot",
+ "tagline": "Hand-pulled noodles & hotpot · Redcliffe, Bristol",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give hand-pulled noodles",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Authentic Hot Pot, my treat.",
+ "accent": "#991B1B",
+ "cta": "#D97706",
+ "on_cta": "#1C1917",
+ "hero_bg": "#1C1917",
+ "hero_eyebrow": "#D97706",
+ "prefix": "AH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Redcliffe, Bristol · 0117 985 1036",
+  "hours": "Hotpot buffet in the evenings. Book online.",
+  "maps_query": "Authentic Hot Pot Bristol"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/hotpot_0.jpg"
+}

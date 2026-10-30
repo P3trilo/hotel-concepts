@@ -1,0 +1,58 @@
+{
+ "slug": "amish-chobham",
+ "name": "Amish",
+ "tagline": "Indian restaurant · Chertsey Road, Chobham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Chobham's finest Indian",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Amish, my treat.",
+ "accent": "#00192A",
+ "cta": "#DCA26B",
+ "on_cta": "#00192A",
+ "hero_bg": "#00192A",
+ "hero_eyebrow": "#DCA26B",
+ "prefix": "AM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "36 Chertsey Road, Chobham GU24 8PQ · 01276 855 559",
+  "hours": "Lunch and dinner every day. Book a table online.",
+  "maps_query": "Amish 36 Chertsey Road Chobham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/amish_4.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "jinnah-leeds",
+ "name": "Jinnah",
+ "tagline": "Kashmiri restaurant · York Road, Leeds",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Kashmiri feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Jinnah, my treat.",
+ "accent": "#D3B04C",
+ "cta": "#D3B04C",
+ "on_cta": "#0D0D0D",
+ "hero_bg": "#0D0D0D",
+ "hero_eyebrow": "#D3B04C",
+ "prefix": "JI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "845 York Road, Leeds LS14 6AA · 0113 232 6121",
+  "hours": "Call 0113 232 6121 to book a table.",
+  "maps_query": "Jinnah 845 York Road Leeds"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/jinnah_1.jpg"
+}

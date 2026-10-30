@@ -1,0 +1,58 @@
+{
+ "slug": "chef-canton-colchester",
+ "name": "Chef Canton",
+ "tagline": "Chinese restaurant · Crouch Street, Colchester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an all-you-can-eat feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Chef Canton, my treat.",
+ "accent": "#E09900",
+ "cta": "#E09900",
+ "on_cta": "#171717",
+ "hero_bg": "#171717",
+ "hero_eyebrow": "#E09900",
+ "prefix": "CC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2a Crouch Street, Colchester CO3 3ES · 01206 572703",
+  "hours": "Call 01206 572703 to book a table.",
+  "maps_query": "Chef Canton 2a Crouch Street Colchester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/canton_0.jpg"
+}

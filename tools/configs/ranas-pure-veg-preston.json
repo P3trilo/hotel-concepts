@@ -1,0 +1,58 @@
+{
+ "slug": "ranas-pure-veg-preston",
+ "name": "Rana's Pure Veg",
+ "tagline": "Indian vegetarian street food · Fylde Road, Preston",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an Indian street food feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Rana's Pure Veg, my treat.",
+ "accent": "#ED1C24",
+ "cta": "#ED1C24",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#161616",
+ "hero_eyebrow": "#ED1C24",
+ "prefix": "RP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "83-85 Fylde Road, Preston PR1 2XQ · 01772 822262",
+  "hours": "Open every day from 10am. Book a table online.",
+  "maps_query": "Rana's Pure Veg Fylde Road Preston"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/rana_1.jpg"
+}

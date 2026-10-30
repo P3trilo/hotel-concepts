@@ -1,0 +1,58 @@
+{
+ "slug": "indian-empire-caldicot",
+ "name": "Indian Empire",
+ "tagline": "Indian restaurant · Parkwall, Caldicot",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a dinner fit for rock stars",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Indian Empire, my treat.",
+ "accent": "#F2C400",
+ "cta": "#F2C400",
+ "on_cta": "#0C0C0C",
+ "hero_bg": "#0C0C0C",
+ "hero_eyebrow": "#F2C400",
+ "prefix": "IE",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Parkwall Roundabout, Caldicot NP26 5UT · 01291 431 972",
+  "hours": "Book a table online or call 01291 431 972.",
+  "maps_query": "Indian Empire Parkwall Caldicot"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/empire_0.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "rams-pure-veg-harrow",
+ "name": "Ram's",
+ "tagline": "Pure vegetarian restaurant · Kenton Road, Harrow",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a vegetarian feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Ram's, my treat.",
+ "accent": "#CDA45E",
+ "cta": "#CDA45E",
+ "on_cta": "#1A1814",
+ "hero_bg": "#1A1814",
+ "hero_eyebrow": "#CDA45E",
+ "prefix": "RM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "203 Kenton Road, Harrow HA3 0HD",
+  "hours": "Open Tuesday to Sunday.",
+  "maps_query": "Ram's 203 Kenton Road Harrow"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/rams_0.jpg"
+}

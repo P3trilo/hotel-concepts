@@ -1,0 +1,58 @@
+{
+ "slug": "pooh-corner-hartfield",
+ "name": "Pooh Corner Tearoom",
+ "tagline": "Tearoom · High Street, Hartfield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give tea at Pooh Corner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on tea, cakes or lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on tea, cakes or lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on tea, cakes or lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Tea at Pooh Corner, my treat.",
+ "accent": "#262626",
+ "cta": "#BE9C79",
+ "on_cta": "#262626",
+ "hero_bg": "#262626",
+ "hero_eyebrow": "#BE9C79",
+ "prefix": "PC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "High Street, Hartfield TN7 4AE",
+  "hours": "Walk-in tearoom, first come, first served.",
+  "maps_query": "Pooh Corner High Street Hartfield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/pooh_1.jpg"
+}

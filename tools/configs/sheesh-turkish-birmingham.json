@@ -1,0 +1,58 @@
+{
+ "slug": "sheesh-turkish-birmingham",
+ "name": "Sheesh",
+ "tagline": "Turkish meze & grill · Hagley Road, Birmingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Turkish feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Sheesh, my treat.",
+ "accent": "#005D3D",
+ "cta": "#005D3D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#09291E",
+ "hero_eyebrow": "#FFCF7A",
+ "prefix": "ST",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "201a Hagley Road, Birmingham B16 9RE · 0121 285 5060",
+  "hours": "Book a table online.",
+  "maps_query": "Sheesh Turkish 201a Hagley Road Birmingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/sheesh_5.jpg"
+}

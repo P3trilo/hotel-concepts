@@ -1,0 +1,58 @@
+{
+ "slug": "derby-spice",
+ "name": "The Derby Spice",
+ "tagline": "Indian restaurant · Curzon Street, Derby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of India",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Derby Spice, my treat.",
+ "accent": "#E9232A",
+ "cta": "#E9232A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#E9232A",
+ "prefix": "DS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "17-19 Curzon Street, Derby DE1 1LH · 01332 501700",
+  "hours": "Book a table online.",
+  "maps_query": "The Derby Spice 17 Curzon Street Derby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos2/derbyspice_2.jpg"
+}
