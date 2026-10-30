@@ -1,0 +1,58 @@
+{
+ "slug": "oceans-edge-trearddur",
+ "name": "The Ocean's Edge",
+ "tagline": "Restaurant & bar · Trearddur Bay, Anglesey",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch by the sea",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, cocktails or wine",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, cocktails or wine",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, cocktails or wine",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, cocktails or wine",
+ "message": "Happy Christmas! Lunch at The Ocean's Edge, my treat.",
+ "accent": "#14487E",
+ "cta": "#14487E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#244073",
+ "hero_eyebrow": "#D6EBF0",
+ "prefix": "OE",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Lon Isallt, Trearddur Bay, Anglesey LL65 2UP · 01407 861785",
+  "hours": "Food served Tuesday to Saturday 12 noon to 8.30pm, Sunday 12 noon to 6pm. Closed on Mondays.",
+  "maps_query": "The Ocean's Edge Trearddur Bay"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/ocean_0.jpg"
+}

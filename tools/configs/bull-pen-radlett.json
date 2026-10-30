@@ -1,0 +1,58 @@
+{
+ "slug": "bull-pen-radlett",
+ "name": "The Bull Pen",
+ "tagline": "Farm kitchen · Battlers Green Farm, Radlett",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at the farm",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on breakfast, lunch or cake",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on breakfast, lunch or cake",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on breakfast, lunch or cake",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on breakfast, lunch or cake",
+ "message": "Happy Christmas! Brunch at The Bull Pen, my treat.",
+ "accent": "#721E1E",
+ "cta": "#721E1E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3D2222",
+ "hero_eyebrow": "#FAE1DF",
+ "prefix": "BP",
+ "guest": "guest",
+ "biz": "farm kitchen",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Battlers Green Farm, Radlett WD7 8PH · 01923 857505",
+  "hours": "Open every day, 8.30am to 5pm.",
+  "maps_query": "The Bull Pen Battlers Green Farm Radlett"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/bull_0.jpg"
+}

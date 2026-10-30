@@ -1,0 +1,58 @@
+{
+ "slug": "rye-fish-market",
+ "name": "Rye Fish Market & Seafood Bar",
+ "tagline": "Fish market and seafood bar · Rock Channel, Rye",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give oysters and lobster",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend in the seafood bar or at the fish counter",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend in the seafood bar or at the fish counter",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend in the seafood bar or at the fish counter",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend in the seafood bar or at the fish counter",
+ "message": "Happy Christmas! Oysters at the Rye Seafood Bar, my treat.",
+ "accent": "#1D3557",
+ "cta": "#1D3557",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D3557",
+ "hero_eyebrow": "#F5F3EE",
+ "prefix": "RF",
+ "guest": "guest",
+ "biz": "seafood bar",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Rye Fish Market, Rock Channel, Rye TN31 7HJ · 01797 222900",
+  "hours": "Fresh fish counter and seafood bar. Check today's opening hours on the website.",
+  "maps_query": "Rye Fish Market Rock Channel Rye"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/rye_5.jpg"
+}

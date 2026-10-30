@@ -1,0 +1,58 @@
+{
+ "slug": "old-gate-hebden-bridge",
+ "name": "Old Gate",
+ "tagline": "Bar & restaurant · Hebden Bridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Old Gate",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or Sunday lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or Sunday lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or Sunday lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, drinks or Sunday lunch",
+ "message": "Happy Christmas! Dinner at Old Gate, my treat.",
+ "accent": "#356979",
+ "cta": "#ED8056",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#356979",
+ "hero_eyebrow": "#B39868",
+ "prefix": "OG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1-5 Old Gate, Hebden Bridge HX7 8JP · 01422 843993",
+  "hours": "Food served Monday to Saturday until 9pm, Sunday until 7.30pm.",
+  "maps_query": "Old Gate Bar and Restaurant Hebden Bridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/oldgate_5.jpg"
+}

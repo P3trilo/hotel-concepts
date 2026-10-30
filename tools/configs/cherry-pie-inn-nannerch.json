@@ -1,0 +1,58 @@
+{
+ "slug": "cherry-pie-inn-nannerch",
+ "name": "The Cherry Pie Inn",
+ "tagline": "Restaurant and wine bar · Nannerch, Flintshire",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at the Cherry Pie",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on lunch, dinner or Sunday lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on lunch, dinner or Sunday lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on lunch, dinner or Sunday lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on lunch, dinner or Sunday lunch",
+ "message": "Happy Christmas! Dinner at the Cherry Pie Inn, my treat.",
+ "accent": "#A33333",
+ "cta": "#A33333",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4A0C0C",
+ "hero_eyebrow": "#FFF8F2",
+ "prefix": "CP",
+ "guest": "guest",
+ "biz": "inn",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Denbigh Road, Nannerch, Flintshire CH7 5RH · 01352 741142",
+  "hours": "Call 01352 741142 to book a table.",
+  "maps_query": "The Cherry Pie Inn Nannerch"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/cherry_0.jpg"
+}
