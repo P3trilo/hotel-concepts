@@ -1,0 +1,58 @@
+{
+ "slug": "naija-corner-brighton",
+ "name": "Naija Corner",
+ "tagline": "Nigerian restaurant · Preston Street, Brighton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Nigeria",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Jollof rice",
+   "With fried beef, fish or chicken",
+   16,
+   "Jollof rice with chicken"
+  ],
+  [
+   "Suya",
+   "Spicy grilled meat with onions and tomatoes",
+   16,
+   "Suya"
+  ],
+  [
+   "Grilled tilapia",
+   "With fried yam or plantain and salad",
+   20,
+   "Grilled tilapia with plantain"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Jollof and suya at Naija Corner, my treat.",
+ "accent": "#9F9209",
+ "cta": "#9F9209",
+ "on_cta": "#111111",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#9F9209",
+ "prefix": "NC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Jollof rice",
+   "Sarah",
+   16,
+   true
+  ],
+  [
+   "Suya",
+   "Emma",
+   16,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "60 Preston Street, Brighton BN1 2HE · 01273 751682",
+  "hours": "Open every day 1.30pm to 11pm. Sunday buffet 2pm to 6pm, booking only.",
+  "maps_query": "Naija Corner Restaurant 60 Preston Street Brighton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/naija_c.jpg"
+}

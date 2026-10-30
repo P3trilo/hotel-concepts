@@ -1,0 +1,58 @@
+{
+ "slug": "han-court-fremington",
+ "name": "Han Court",
+ "tagline": "Chinese restaurant · Fremington, Barnstaple",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Chinese banquet this Christmas",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend in the restaurant or at the lunchtime buffet",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend in the restaurant or at the lunchtime buffet",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend in the restaurant or at the lunchtime buffet",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend in the restaurant or at the buffet",
+ "message": "Happy Christmas! Dinner at Han Court, my treat.",
+ "accent": "#D41D1F",
+ "cta": "#D41D1F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#D41D1F",
+ "hero_eyebrow": "#F7EEE1",
+ "prefix": "HC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Milton House, Fremington, Barnstaple EX31 2NX · 01271 373865",
+  "hours": "Buffet 12 noon to 3pm, Sunday to Thursday. Restaurant 5pm to 10pm. Closed on Tuesdays.",
+  "maps_query": "Han Court Chinese Restaurant Fremington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/hancourt.jpg"
+}
