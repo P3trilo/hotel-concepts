@@ -1,0 +1,58 @@
+{
+ "slug": "sotto-sotto-bath",
+ "name": "Sotto Sotto",
+ "tagline": "Italian restaurant · North Parade, Bath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by candlelight",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Linguine con gamberi",
+   "Prawns, sun-dried tomatoes, olives and capers",
+   18.25,
+   "Linguine con gamberi"
+  ],
+  [
+   "Fettucce al ragù",
+   "Beef ragout on a Pecorino fondue",
+   18.75,
+   "Fettucce al ragù di manzo"
+  ],
+  [
+   "Cicchetti della casa",
+   "Venison bresaola, wild boar salame, speck and cheese",
+   13.75,
+   "Cicchetti della casa"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Sotto Sotto, my treat.",
+ "accent": "#FF9900",
+ "cta": "#FF9900",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#FF9900",
+ "prefix": "SS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Linguine con gamberi",
+   "Sarah",
+   18.25,
+   true
+  ],
+  [
+   "Fettucce al ragù",
+   "Emma",
+   18.75,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "12a North Parade, Bath BA2 4AL · 01225 330236",
+  "hours": "Tuesday to Saturday, 12 noon to 2pm and 5pm to 10pm.",
+  "maps_query": "Sotto Sotto 12a North Parade Bath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/sotto_b.jpg"
+}

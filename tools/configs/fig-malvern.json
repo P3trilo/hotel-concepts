@@ -1,0 +1,58 @@
+{
+ "slug": "fig-malvern",
+ "name": "The Fig",
+ "tagline": "Restaurant and wine bar · Church Street, Malvern",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an evening of small plates",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "3 small plates & fries",
+   "Pick any three small plates",
+   32.5,
+   "Three small plates and skinny fries"
+  ],
+  [
+   "Steak & frites",
+   "8oz steak with chimichurri",
+   26.95,
+   "Steak and frites"
+  ],
+  [
+   "Antipasti board for two",
+   "Cured meats, cheese, olives and warm sourdough",
+   25.95,
+   "Antipasti board for two"
+  ]
+ ],
+ "amount_desc": "Spend on food, cocktails or wine",
+ "message": "Happy Christmas! Tapas at The Fig, my treat.",
+ "accent": "#8D8A55",
+ "cta": "#8D8A55",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#33373D",
+ "hero_eyebrow": "#EDEDED",
+ "prefix": "FG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "3 small plates & fries",
+   "Sarah",
+   32.5,
+   true
+  ],
+  [
+   "Steak & frites",
+   "Emma",
+   26.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "99 Church Street, Malvern WR14 2AE · 01684 569909",
+  "hours": "Weekday lunches, weekend all-day brunch, pre-theatre and tapas evenings.",
+  "maps_query": "The Fig Malvern Church Street"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/fig_b.jpg"
+}

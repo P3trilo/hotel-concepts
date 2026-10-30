@@ -1,0 +1,58 @@
+{
+ "slug": "venezia-bourton",
+ "name": "Venezia",
+ "tagline": "Italian restaurant · Riverside, Bourton-on-the-Water",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Venice",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Venezia, my treat.",
+ "accent": "#222222",
+ "cta": "#F9C229",
+ "on_cta": "#000000",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#B2D8B7",
+ "prefix": "VE",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Riverside, Bourton-on-the-Water GL54 2DP · 01451 822005",
+  "hours": "Open every day, 11am to 10pm.",
+  "maps_query": "Venezia Riverside Bourton-on-the-Water"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/venezia.jpg"
+}

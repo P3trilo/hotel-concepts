@@ -1,0 +1,58 @@
+{
+ "slug": "birdies-whitstable",
+ "name": "Birdies",
+ "tagline": "French bistro · Harbour Street, Whitstable",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a French dinner by the harbour",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Half a dozen oysters",
+   "Six fresh oysters with lemon and mignonette",
+   17,
+   "Half a dozen oysters"
+  ],
+  [
+   "Mussels",
+   "In white wine, cream and parsley",
+   12.5,
+   "Mussels with white wine and cream"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Oysters at Birdies, my treat.",
+ "accent": "#990808",
+ "cta": "#990808",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#212529",
+ "hero_eyebrow": "#FFEDB0",
+ "prefix": "BI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Half a dozen oysters",
+   "Sarah",
+   17,
+   true
+  ],
+  [
+   "Mussels",
+   "Emma",
+   12.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "41 Harbour Street, Whitstable CT5 1AH · 01227 265337",
+  "hours": "Dinner every day, lunch Tuesday to Sunday. Call 01227 265337 to book.",
+  "maps_query": "Birdies Restaurant 41 Harbour Street Whitstable"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/birdies.jpg"
+}

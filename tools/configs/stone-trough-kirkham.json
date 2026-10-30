@@ -1,0 +1,58 @@
+{
+ "slug": "stone-trough-kirkham",
+ "name": "The Stone Trough Inn",
+ "tagline": "Country pub · Kirkham Abbey, York",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch by the fire",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Sunday lunch, 3 courses",
+   "Roast beef, chicken or pork with all the trimmings",
+   32.95,
+   "Sunday lunch, three courses"
+  ],
+  [
+   "Rump steak",
+   "With mushroom, tomato, chips and your choice of sauce",
+   29.5,
+   "Rump steak"
+  ],
+  [
+   "Beef & mushroom pie",
+   "With chips or mash and vegetables",
+   20,
+   "Beef and mushroom pie"
+  ]
+ ],
+ "amount_desc": "Spend on food or drink at the Inn",
+ "message": "Happy Christmas! Sunday lunch at the Stone Trough, my treat.",
+ "accent": "#C4842D",
+ "cta": "#C4842D",
+ "on_cta": "#2C2C2C",
+ "hero_bg": "#2C2C2C",
+ "hero_eyebrow": "#C4842D",
+ "prefix": "ST",
+ "guest": "guest",
+ "biz": "inn",
+ "seed": [
+  [
+   "Sunday lunch, 3 courses",
+   "Sarah",
+   32.95,
+   true
+  ],
+  [
+   "Rump steak",
+   "Emma",
+   29.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Stone Trough Inn, Kirkham Abbey, York YO60 7JS · 01653 618713",
+  "hours": "Food served from 11am to 8pm. Call 01653 618713 to book a table.",
+  "maps_query": "The Stone Trough Inn Kirkham Abbey"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/stone_b.jpg"
+}

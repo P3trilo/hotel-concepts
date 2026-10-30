@@ -1,0 +1,58 @@
+{
+ "slug": "lugana-beckenham",
+ "name": "Restaurant Lugana",
+ "tagline": "Ristorante italiano · Elmers End, Beckenham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Italy",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Sunday roast, 3 courses",
+   "Starter, roast and dessert",
+   31,
+   "Sunday roast, three courses"
+  ],
+  [
+   "Sunday roast, 2 courses",
+   "Two courses from the Sunday menu",
+   26,
+   "Sunday roast, two courses"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Lugana, my treat.",
+ "accent": "#B2293A",
+ "cta": "#B2293A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3A3A34",
+ "hero_eyebrow": "#FCFCFC",
+ "prefix": "LU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Sunday roast, 3 courses",
+   "Sarah",
+   31,
+   true
+  ],
+  [
+   "Sunday roast, 2 courses",
+   "Emma",
+   26,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8 Eden Park Avenue, Beckenham BR3 3HN · 020 8650 3959",
+  "hours": "Call 020 8650 3959 to book a table.",
+  "maps_query": "Restaurant Lugana Eden Park Avenue Beckenham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/lugana.jpg"
+}
