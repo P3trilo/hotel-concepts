@@ -1,0 +1,58 @@
+{
+ "slug": "tynemouth-lodge",
+ "name": "The Tynemouth Lodge",
+ "tagline": "Georgian public bar · Correction House Bank, Tynemouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint at the Lodge",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on real ale or anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on real ale or anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on real ale or anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A pint at the Lodge, my treat.",
+ "accent": "#21759B",
+ "cta": "#21759B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#444444",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "TL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Tynemouth Road, Tynemouth NE30 4AA",
+  "hours": "No TV, no music, no short measures.",
+  "maps_query": "Tynemouth Lodge Hotel Tynemouth Road"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos5/tyne_12.jpg"
+}

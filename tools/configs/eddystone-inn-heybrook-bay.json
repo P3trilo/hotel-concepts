@@ -1,0 +1,58 @@
+{
+ "slug": "eddystone-inn-heybrook-bay",
+ "name": "The Eddystone Inn",
+ "tagline": "Village inn with sea views · Heybrook Bay, Plymouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch with a sea view",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at the Eddy, my treat.",
+ "accent": "#4A4A4A",
+ "cta": "#4A4A4A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4A4A4A",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "EI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Heybrook Drive, Heybrook Bay, Plymouth PL9 0BN · 01752 862572",
+  "hours": "Lunch and dinner. Call 01752 862572 to book.",
+  "maps_query": "The Eddystone Inn Heybrook Bay"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos5/eddy_11.jpg"
+}
