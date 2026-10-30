@@ -1,0 +1,58 @@
+{
+ "slug": "model-behaviour-bothwell",
+ "name": "Model Behaviour",
+ "tagline": "Beauty and aesthetics · Main Street, Bothwell",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a little luxury this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£50 gift voucher",
+   "To spend on brows, lashes, skin or make-up",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on brows, lashes, skin or make-up",
+   100,
+   "£100 to spend"
+  ],
+  [
+   "£150 gift voucher",
+   "To spend on brows, lashes, skin or make-up",
+   150,
+   "£150 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment in the clinic",
+ "message": "Happy Christmas! Book yourself something lovely at Model Behaviour.",
+ "accent": "#333333",
+ "cta": "#333333",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#ECE9E2",
+ "prefix": "MB",
+ "guest": "client",
+ "biz": "clinic",
+ "seed": [
+  [
+   "£50 gift voucher",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "£100 gift voucher",
+   "Emma",
+   100,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "65 Main Street, Bothwell G71 8ER · 01698 760060",
+  "hours": "Book by phone on 01698 760060 or send us a message on Instagram.",
+  "maps_query": "Model Behaviour 65 Main Street Bothwell"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/salons/photos/modelb.jpg"
+}

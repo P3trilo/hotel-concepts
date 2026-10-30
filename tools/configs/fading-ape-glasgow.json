@@ -1,0 +1,58 @@
+{
+ "slug": "fading-ape-glasgow",
+ "name": "The Fading Ape",
+ "tagline": "Male grooming · Tollcross Road, Glasgow",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper cut this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Gent's cut & beard tidy",
+   "The full tidy-up, about an hour in the chair",
+   27,
+   "Gent's cut and beard tidy"
+  ],
+  [
+   "Skin fade",
+   "Sharp and clean",
+   22,
+   "Skin fade"
+  ],
+  [
+   "Re-style",
+   "Time for something new",
+   25,
+   "Re-style"
+  ]
+ ],
+ "amount_desc": "Spend on any cut in the shop",
+ "message": "Happy Christmas! Your next cut at The Fading Ape is on me.",
+ "accent": "#111111",
+ "cta": "#111111",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#DDDDDD",
+ "prefix": "FA",
+ "guest": "client",
+ "biz": "barber shop",
+ "seed": [
+  [
+   "Gent's cut & beard tidy",
+   "Sarah",
+   27,
+   true
+  ],
+  [
+   "Skin fade",
+   "Emma",
+   22,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "941 Tollcross Road, Glasgow G32 8UR · 0141 778 7999",
+  "hours": "Tuesday and Wednesday 9am to 5.30pm, Thursday 9am to 7pm, Friday 9am to 6pm, Saturday 7.30am to 3.30pm.",
+  "maps_query": "The Fading Ape 941 Tollcross Road Glasgow"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/salons/photos/fadingape.jpg"
+}

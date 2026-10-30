@@ -1,0 +1,58 @@
+{
+ "slug": "outliers-barber-edinburgh",
+ "name": "Outliers Barber & Co",
+ "tagline": "Barber shop · Haddington Place, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a fresh cut this Christmas",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on a haircut or a beard trim",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on a haircut or a beard trim",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£75 gift voucher",
+   "To spend on a haircut or a beard trim",
+   75,
+   "£75 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any cut or beard trim",
+ "message": "Happy Christmas! Your next cut at Outliers is on me.",
+ "accent": "#96885F",
+ "cta": "#96885F",
+ "on_cta": "#1A1A1A",
+ "hero_bg": "#252525",
+ "hero_eyebrow": "#E1DAC5",
+ "prefix": "OB",
+ "guest": "client",
+ "biz": "barber shop",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "28A Haddington Place, Edinburgh EH7 4AF · 0131 557 3467",
+  "hours": "Tuesday to Friday from 8.30am, Saturday 8.30am to 3pm. Closed on Sunday and Monday.",
+  "maps_query": "Outliers Barber Co 28A Haddington Place Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/salons/photos/outliers_c.jpg"
+}

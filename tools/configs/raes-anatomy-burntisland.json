@@ -1,0 +1,58 @@
+{
+ "slug": "raes-anatomy-burntisland",
+ "name": "Rae's Anatomy Physiotherapy",
+ "tagline": "Burntisland · Glenrothes",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give someone a head start on their recovery",
+ "intro": "Choose a treat or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "Initial assessment & treatment",
+   "45 minutes with one of our physiotherapists",
+   70,
+   "Initial assessment and treatment, 45 min"
+  ],
+  [
+   "Express Recovery Plan",
+   "Three 30 minute treatment sessions",
+   135,
+   "Express Recovery Plan, 3 sessions"
+  ],
+  [
+   "Rehab & movement coaching",
+   "A 45 minute one-to-one session",
+   52,
+   "Rehabilitation and movement coaching, 45 min"
+  ]
+ ],
+ "amount_desc": "Spend on any session at either clinic",
+ "message": "Happy Christmas! Time to get that shoulder sorted, my treat.",
+ "accent": "#1E3A8A",
+ "cta": "#0D9488",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E3A8A",
+ "hero_eyebrow": "#5EEAD4",
+ "prefix": "RA",
+ "guest": "client",
+ "biz": "clinic",
+ "seed": [
+  [
+   "Initial assessment & treatment",
+   "Sarah",
+   70,
+   true
+  ],
+  [
+   "Express Recovery Plan",
+   "Emma",
+   135,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Old Station Buildings, Forth Place, Burntisland KY3 9DR · 07588 468380",
+  "hours": "Monday to Friday 8am to 8pm, Saturday 9am to 12 noon. Also at Balbirnie Fitness Centre, Glenrothes.",
+  "maps_query": "Rae's Anatomy Physiotherapy Burntisland"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/salons/photos/raes_a.jpg"
+}
