@@ -1,0 +1,58 @@
+{
+ "slug": "arvelli-darlington",
+ "name": "Arvelli",
+ "tagline": "Contemporary Indian & Bangladeshi · Northgate, Darlington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at Arvelli",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dinner, cocktails or desserts",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dinner, cocktails or desserts",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dinner, cocktails or desserts",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Arvelli, my treat.",
+ "accent": "#816F2C",
+ "cta": "#B3972F",
+ "on_cta": "#232323",
+ "hero_bg": "#232323",
+ "hero_eyebrow": "#B3972F",
+ "prefix": "AR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "192 Northgate, Darlington DL1 1QU · 01325 480252",
+  "hours": "Open seven days a week, 5pm to 11pm.",
+  "maps_query": "Arvelli 192 Northgate Darlington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/arv_e.jpg"
+}

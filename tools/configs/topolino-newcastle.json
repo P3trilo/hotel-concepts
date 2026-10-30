@@ -1,0 +1,58 @@
+{
+ "slug": "topolino-newcastle",
+ "name": "Topolino",
+ "tagline": "Italian restaurant · Dean Street, Newcastle",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Italy",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Topolino, my treat.",
+ "accent": "#04938A",
+ "cta": "#04938A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#C5AB6B",
+ "prefix": "TP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "44 Dean Street, Newcastle NE1 1PG · 0191 649 4700",
+  "hours": "Monday to Friday 12 noon to 3pm and 5pm to 10pm, Saturday 12 noon to 10pm, Sunday 12 noon to 8pm.",
+  "maps_query": "Topolino 44 Dean Street Newcastle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/topo_b.jpg"
+}

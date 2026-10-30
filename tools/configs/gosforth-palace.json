@@ -1,0 +1,58 @@
+{
+ "slug": "gosforth-palace",
+ "name": "Gosforth Palace",
+ "tagline": "Chinese restaurant · Salters Road, Gosforth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Chinese banquet",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dim sum, dinner or a banquet",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dim sum, dinner or a banquet",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dim sum, dinner or a banquet",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Gosforth Palace, my treat.",
+ "accent": "#1E73BE",
+ "cta": "#1E73BE",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#323246",
+ "hero_eyebrow": "#B4A08C",
+ "prefix": "GP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6a Salters Road, Gosforth, Newcastle NE3 1DJ · 0191 285 2288",
+  "hours": "Closed on Tuesdays. Book online or call 0191 285 2288.",
+  "maps_query": "Gosforth Palace Salters Road Newcastle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/gos.jpg"
+}

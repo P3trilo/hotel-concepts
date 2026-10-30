@@ -1,0 +1,58 @@
+{
+ "slug": "betto-balham",
+ "name": "Betto",
+ "tagline": "Tapas restaurant & cocktail bar · Balham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give tapas and cocktails",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on tapas, brunch or cocktails",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on tapas, brunch or cocktails",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on tapas, brunch or cocktails",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on tapas, brunch or cocktails",
+ "message": "Happy Christmas! Tapas and cocktails at Betto, my treat.",
+ "accent": "#0E1730",
+ "cta": "#0E1730",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0E1730",
+ "hero_eyebrow": "#CED8D8",
+ "prefix": "BE",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Fernlea Road, London SW12 9RT · 020 3700 1097",
+  "hours": "Breakfast, brunch, lunch and dinner. Book online or call 020 3700 1097.",
+  "maps_query": "Betto Tapas Restaurant Fernlea Road Balham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/betto_b.jpg"
+}
