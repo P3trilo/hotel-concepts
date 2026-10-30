@@ -1,0 +1,58 @@
+{
+ "slug": "boot-inn-houghton",
+ "name": "The Boot Inn",
+ "tagline": "Country pub · Houghton, Hampshire",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give more than just a pub",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Boot, my treat.",
+ "accent": "#B79D14",
+ "cta": "#B79D14",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#212121",
+ "hero_eyebrow": "#B79D14",
+ "prefix": "BI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Houghton, Stockbridge SO20 6LH · 01794 388310",
+  "hours": "Closed on Mondays. Call 01794 388310 to book.",
+  "maps_query": "The Boot Inn Houghton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos3/boot_0.jpg"
+}

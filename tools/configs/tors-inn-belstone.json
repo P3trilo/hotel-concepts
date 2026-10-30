@@ -1,0 +1,58 @@
+{
+ "slug": "tors-inn-belstone",
+ "name": "The Tors",
+ "tagline": "Dartmoor pub with rooms · Belstone",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Dartmoor pub lunch",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at The Tors, my treat.",
+ "accent": "#121E1F",
+ "cta": "#121E1F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#121E1F",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "TT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Belstone, Okehampton EX20 1QZ · 01837 840689",
+  "hours": "Book your visit online.",
+  "maps_query": "The Tors Inn Belstone"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos3/tors_1.jpg"
+}

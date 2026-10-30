@@ -1,0 +1,58 @@
+{
+ "slug": "fingle-bridge-inn",
+ "name": "Fingle Bridge Inn",
+ "tagline": "Riverside bar & restaurant · Drewsteignton, Devon",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a day by the river",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or a cream tea",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or a cream tea",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or a cream tea",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Fingle Bridge, my treat.",
+ "accent": "#963331",
+ "cta": "#963331",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#281E19",
+ "hero_eyebrow": "#E8E6E6",
+ "prefix": "FB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Fingle Bridge, Drewsteignton EX6 6PW · 01647 281287",
+  "hours": "Open every day from 11am. Cream teas daily.",
+  "maps_query": "Fingle Bridge Inn Drewsteignton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos3/fingle_2.jpg"
+}

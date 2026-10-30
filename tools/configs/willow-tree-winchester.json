@@ -1,0 +1,58 @@
+{
+ "slug": "willow-tree-winchester",
+ "name": "The Willow Tree",
+ "tagline": "Riverside pub · Durngate, Winchester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a riverside pub lunch",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at The Willow Tree, my treat.",
+ "accent": "#1B1B1B",
+ "cta": "#1B1B1B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1B1B1B",
+ "hero_eyebrow": "#E2E2E2",
+ "prefix": "WT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "14 Durngate Terrace, Winchester SO23 8QX",
+  "hours": "Food every day. Book a table online.",
+  "maps_query": "The Willow Tree Durngate Winchester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos3/willow_1.jpg"
+}

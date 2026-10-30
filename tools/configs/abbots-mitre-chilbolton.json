@@ -1,0 +1,58 @@
+{
+ "slug": "abbots-mitre-chilbolton",
+ "name": "Abbots Mitre",
+ "tagline": "Village pub · Chilbolton, Hampshire",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a village pub dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the Abbots Mitre, my treat.",
+ "accent": "#333333",
+ "cta": "#333333",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "AM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Chilbolton, Stockbridge SO20 6BA · 01264 860348",
+  "hours": "Open every day from 11am, food from midday.",
+  "maps_query": "Abbots Mitre Chilbolton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos3/abbots_7.jpg"
+}

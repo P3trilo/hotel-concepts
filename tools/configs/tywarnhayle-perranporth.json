@@ -1,0 +1,58 @@
+{
+ "slug": "tywarnhayle-perranporth",
+ "name": "The Tywarnhayle Inn",
+ "tagline": "Pub · Tywarnhayle Square, Perranporth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper Cornish pub lunch",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Sunday carvery at the Tywarnhayle, my treat.",
+ "accent": "#1E2A3A",
+ "cta": "#1E2A3A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E2A3A",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "TI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Tywarnhayle Square, Perranporth TR6 0ER · 01872 572215",
+  "hours": "Food every day; Sunday carvery from 11.30am to 7pm.",
+  "maps_query": "Tywarnhayle Inn Perranporth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos3/tywarn_4.jpg"
+}
