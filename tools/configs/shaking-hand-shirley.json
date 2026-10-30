@@ -1,0 +1,58 @@
+{
+ "slug": "shaking-hand-shirley",
+ "name": "The Shaking Hand",
+ "tagline": "Micro bar · Stratford Road, Shirley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night of great beer",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on beer, wine, gin or anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on beer, wine, gin or anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on beer, wine, gin or anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Beers at The Shaking Hand, my treat.",
+ "accent": "#01AD42",
+ "cta": "#01AD42",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#FCC736",
+ "prefix": "SH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Parkgate, Stratford Road, Shirley, Solihull B90 3GG · 0121 733 1176",
+  "hours": "Call 0121 733 1176 to book a table.",
+  "maps_query": "The Shaking Hand Parkgate Shirley Solihull"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/shake_0.jpg"
+}

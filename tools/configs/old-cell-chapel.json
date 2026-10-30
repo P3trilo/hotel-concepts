@@ -1,0 +1,58 @@
+{
+ "slug": "old-cell-chapel",
+ "name": "The Old Cell",
+ "tagline": "Real ale bar · Market Place, Chapel-en-le-Frith",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round of award-winning ale",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on ales, whisky, gin or anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on ales, whisky, gin or anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on ales, whisky, gin or anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A round at The Old Cell, my treat.",
+ "accent": "#55606E",
+ "cta": "#55606E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#11202A",
+ "hero_eyebrow": "#A7ABB1",
+ "prefix": "OC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "10-12 Market Place, Chapel-en-le-Frith SK23 0EN",
+  "hours": "Cask ales, whiskies and gins on the historic market place.",
+  "maps_query": "The Old Cell Market Place Chapel-en-le-Frith"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/cell_0.jpg"
+}

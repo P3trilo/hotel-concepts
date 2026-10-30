@@ -1,0 +1,58 @@
+{
+ "slug": "red-cow-allestree",
+ "name": "The Red Cow",
+ "tagline": "Country pub · Allestree, Derby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a country pub dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the Red Cow, my treat.",
+ "accent": "#A45352",
+ "cta": "#A45352",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#DDD6C7",
+ "prefix": "RC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 St Edmunds Close, Allestree, Derby DE22 2DZ · 01332 553279",
+  "hours": "Call 01332 553279 to book a table.",
+  "maps_query": "The Red Cow Allestree Derby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/cow_0.jpg"
+}

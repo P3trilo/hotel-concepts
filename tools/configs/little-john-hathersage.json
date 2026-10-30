@@ -1,0 +1,58 @@
+{
+ "slug": "little-john-hathersage",
+ "name": "The Little John",
+ "tagline": "Village pub with rooms · Hathersage, Peak District",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper village pub",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Sunday roast at the Little John, my treat.",
+ "accent": "#1B2E34",
+ "cta": "#C8A65F",
+ "on_cta": "#1B2E34",
+ "hero_bg": "#1B2E34",
+ "hero_eyebrow": "#C8A65F",
+ "prefix": "LJ",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Road, Hathersage S32 1DD · 01433 650225",
+  "hours": "Book a table or a stay online.",
+  "maps_query": "Little John Hotel Station Road Hathersage"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/lj_2.jpg"
+}

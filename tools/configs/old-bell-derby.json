@@ -1,0 +1,58 @@
+{
+ "slug": "old-bell-derby",
+ "name": "The Old Bell Hotel",
+ "tagline": "Bar, restaurant & hotel · Sadler Gate, Derby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an evening at Derby's oldest inn",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! An evening at The Old Bell, my treat.",
+ "accent": "#121212",
+ "cta": "#DBB654",
+ "on_cta": "#121212",
+ "hero_bg": "#121212",
+ "hero_eyebrow": "#DBB654",
+ "prefix": "OB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "51 Sadler Gate, Derby DE1 3NQ · 01332 723090",
+  "hours": "Open every day from 12 noon.",
+  "maps_query": "The Old Bell Hotel 51 Sadler Gate Derby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/bell_0.jpg"
+}

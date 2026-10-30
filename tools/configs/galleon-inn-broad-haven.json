@@ -1,0 +1,58 @@
+{
+ "slug": "galleon-inn-broad-haven",
+ "name": "The Galleon Inn",
+ "tagline": "Pub by the beach · Broad Haven, Pembrokeshire",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a meal by the beach",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A meal at The Galleon, my treat.",
+ "accent": "#0170B9",
+ "cta": "#0170B9",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4B4F58",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "GI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Broad Haven, Haverfordwest SA62 3JW · 01437 781157",
+  "hours": "Food every day, 10am to 2.30pm and 5.30pm to 8.30pm.",
+  "maps_query": "The Galleon Inn Broad Haven"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/galleon_0.jpg"
+}

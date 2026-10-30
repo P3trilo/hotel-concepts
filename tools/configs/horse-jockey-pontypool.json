@@ -1,0 +1,58 @@
+{
+ "slug": "horse-jockey-pontypool",
+ "name": "The Horse & Jockey",
+ "tagline": "Pub & restaurant · Usk Road, Pontypool",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper pub lunch",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at The Horse & Jockey, my treat.",
+ "accent": "#244438",
+ "cta": "#244438",
+ "on_cta": "#FFFAF0",
+ "hero_bg": "#1F1B18",
+ "hero_eyebrow": "#B78C58",
+ "prefix": "HJ",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Usk Road, New Inn, Pontypool NP4 0JB · 01495 762 723",
+  "hours": "Book a table online or call 01495 762 723.",
+  "maps_query": "Horse and Jockey Usk Road Pontypool"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_uk/photos/hj_5.jpg"
+}
