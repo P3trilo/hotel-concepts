@@ -1,0 +1,58 @@
+{
+ "slug": "george-dragon-thringstone",
+ "name": "The George & Dragon",
+ "tagline": "Village pub · Ashby Road, Thringstone",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper pub dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the George & Dragon, my treat.",
+ "accent": "#2C2433",
+ "cta": "#CF5F1A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2C2433",
+ "hero_eyebrow": "#F2A65A",
+ "prefix": "GD",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Ashby Road, Thringstone LE67 8UH · 01530 222282",
+  "hours": "Open every day from 8am. Book a table online.",
+  "maps_query": "George and Dragon Ashby Road Thringstone"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/gnd_4.jpg"
+}

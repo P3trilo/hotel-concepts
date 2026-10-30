@@ -1,0 +1,58 @@
+{
+ "slug": "ferry-tavern-penketh",
+ "name": "The Ferry Tavern",
+ "tagline": "Pub on its own island · Penketh, Warrington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an afternoon at the Ferry",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A pint at the Ferry, my treat.",
+ "accent": "#407048",
+ "cta": "#407048",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2F2F2F",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "FT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Road, Penketh, Warrington WA5 2UJ · 01925 791117",
+  "hours": "Open every day until midnight.",
+  "maps_query": "The Ferry Tavern Penketh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/ferry_4.jpg"
+}

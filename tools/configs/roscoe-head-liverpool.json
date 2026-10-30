@@ -1,0 +1,58 @@
+{
+ "slug": "roscoe-head-liverpool",
+ "name": "The Roscoe Head",
+ "tagline": "Free house · Roscoe Street, Liverpool",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint at the Roscoe",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on ales, wine or a hot pie",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on ales, wine or a hot pie",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on ales, wine or a hot pie",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A pint at the Roscoe, my treat.",
+ "accent": "#4A4A4A",
+ "cta": "#4A4A4A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4A4A4A",
+ "hero_eyebrow": "#A3A287",
+ "prefix": "RH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "24 Roscoe Street, Liverpool L1 2SX",
+  "hours": "Open every day from 11.30am, Sundays from 12 noon.",
+  "maps_query": "The Roscoe Head 24 Roscoe Street Liverpool"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/roscoe_26.jpg"
+}

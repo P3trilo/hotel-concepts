@@ -1,0 +1,58 @@
+{
+ "slug": "admiral-wells-holme",
+ "name": "The Admiral Wells",
+ "tagline": "Free house · Holme, Cambridgeshire Fens",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a family pub dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Admiral Wells, my treat.",
+ "accent": "#102850",
+ "cta": "#102850",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "AW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "41 Station Road, Holme PE7 3PH · 01487 831214",
+  "hours": "Call 01487 831214 to book a table.",
+  "maps_query": "The Admiral Wells Holme Peterborough"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/admiral_2.jpg"
+}

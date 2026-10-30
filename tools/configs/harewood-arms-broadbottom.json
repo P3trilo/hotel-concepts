@@ -1,0 +1,58 @@
+{
+ "slug": "harewood-arms-broadbottom",
+ "name": "The Harewood Arms",
+ "tagline": "Pub & Greenmill Brewery · Broadbottom",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint brewed on the premises",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on ales, food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on ales, food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on ales, food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A pint at the Harewood, my treat.",
+ "accent": "#212529",
+ "cta": "#212529",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#212529",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "HA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Market Street, Broadbottom SK14 6AX · 01457 762 500",
+  "hours": "Real fires in winter. Call 01457 762 500.",
+  "maps_query": "Harewood Arms 2 Market Street Broadbottom"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/harewood_0.jpg"
+}

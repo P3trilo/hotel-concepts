@@ -1,0 +1,58 @@
+{
+ "slug": "inn-1888-marylebone",
+ "name": "Inn 1888",
+ "tagline": "Victorian pub · Devonshire Street, Marylebone",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the fire",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on pizza, food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on pizza, food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on pizza, food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pizza at Inn 1888, my treat.",
+ "accent": "#C27C2A",
+ "cta": "#C27C2A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0B0B0B",
+ "hero_eyebrow": "#FFC123",
+ "prefix": "IN",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "21a Devonshire Street, London W1G 6PD · 020 7486 7420",
+  "hours": "Book a table online.",
+  "maps_query": "Inn 1888 21a Devonshire Street Marylebone"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/inn1888_1.jpg"
+}

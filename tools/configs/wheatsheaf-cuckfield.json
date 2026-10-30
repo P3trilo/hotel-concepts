@@ -1,0 +1,58 @@
+{
+ "slug": "wheatsheaf-cuckfield",
+ "name": "The Wheatsheaf",
+ "tagline": "Pub, restaurant & hotel · Broad Street, Cuckfield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Sunday roast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Sunday roast at The Wheatsheaf, my treat.",
+ "accent": "#DD9933",
+ "cta": "#DD9933",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#DD9933",
+ "prefix": "WS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Broad Street, Cuckfield RH17 5DW · 01444 454078",
+  "hours": "Food every day. Call 01444 454078 to book a table.",
+  "maps_query": "The Wheatsheaf Broad Street Cuckfield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/wheat_5.jpg"
+}

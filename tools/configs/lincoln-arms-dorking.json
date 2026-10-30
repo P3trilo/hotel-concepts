@@ -1,0 +1,58 @@
+{
+ "slug": "lincoln-arms-dorking",
+ "name": "The Lincoln Arms",
+ "tagline": "Pub with rooms · Station Approach, Dorking",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a proper local pub",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on food, drinks or a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on food, drinks or a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on food, drinks or a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A night out at the Lincoln Arms, my treat.",
+ "accent": "#111827",
+ "cta": "#111827",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#111827",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "LA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Approach, Dorking RH4 1TF · 01306 882820",
+  "hours": "Book a room online, or call 01306 882820.",
+  "maps_query": "The Lincoln Arms Station Approach Dorking"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/pub_en2a/photos4/lincoln_0.jpg"
+}
