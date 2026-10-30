@@ -1,0 +1,58 @@
+{
+ "slug": "nutmeg-clifton",
+ "name": "Nutmeg",
+ "tagline": "Regional Indian dining · Clifton Village, Bristol",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a journey across India",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on dinner, cocktails or a tasting menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on dinner, cocktails or a tasting menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on dinner, cocktails or a tasting menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Nutmeg, my treat.",
+ "accent": "#192624",
+ "cta": "#192624",
+ "on_cta": "#FFFAF0",
+ "hero_bg": "#192624",
+ "hero_eyebrow": "#F7F0E8",
+ "prefix": "NU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "10 The Mall, Clifton Village, Bristol BS8 4DR · 0117 360 0288",
+  "hours": "Dinner, cocktails, tasting menus and private dining.",
+  "maps_query": "Nutmeg 10 The Mall Clifton Bristol"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/nutmeg_0.jpg"
+}

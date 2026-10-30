@@ -1,0 +1,58 @@
+{
+ "slug": "turkuaz-catford",
+ "name": "Turkuaz",
+ "tagline": "Turkish restaurant · Bromley Road, Catford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Turkish feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Turkuaz, my treat.",
+ "accent": "#58ADB1",
+ "cta": "#58ADB1",
+ "on_cta": "#1D1B20",
+ "hero_bg": "#1D1B20",
+ "hero_eyebrow": "#58ADB1",
+ "prefix": "TK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "163 Bromley Road, Catford, London SE6 2NZ · 020 8697 4545",
+  "hours": "Open every day from 12 noon. Call 020 8697 4545 to book.",
+  "maps_query": "Turkuaz 163 Bromley Road Catford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/turk_3.jpg"
+}

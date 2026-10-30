@@ -1,0 +1,58 @@
+{
+ "slug": "grillado-salisbury",
+ "name": "Grillado",
+ "tagline": "Italian restaurant · Castle Street, Salisbury",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a dinner to remember",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Grillado, my treat.",
+ "accent": "#7D583D",
+ "cta": "#7D583D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "GR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "66 Castle Street, Salisbury SP1 3TS · 01722 324350",
+  "hours": "Book online, or call 01722 324350 for groups of more than 10.",
+  "maps_query": "Grillado 66 Castle Street Salisbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/grill_0.jpg"
+}

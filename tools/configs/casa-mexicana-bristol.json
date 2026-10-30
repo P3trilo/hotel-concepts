@@ -1,0 +1,58 @@
+{
+ "slug": "casa-mexicana-bristol",
+ "name": "Casa Mexicana",
+ "tagline": "Mexican restaurant · Zetland Road, Bristol",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a fiesta",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Casa Mexicana, my treat.",
+ "accent": "#C16F2D",
+ "cta": "#C16F2D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2E2E2E",
+ "hero_eyebrow": "#C16F2D",
+ "prefix": "CM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "29-31 Zetland Road, Redland, Bristol BS6 7AH · 0117 924 3901",
+  "hours": "Open every evening from 6pm, lunch Friday to Sunday. Book online.",
+  "maps_query": "Casa Mexicana Zetland Road Bristol"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/casamex_5.jpg"
+}

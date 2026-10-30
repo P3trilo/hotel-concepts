@@ -1,0 +1,58 @@
+{
+ "slug": "hondo-sushi-bath",
+ "name": "Hondo Sushi",
+ "tagline": "Japanese restaurant · St James's Parade, Bath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a sushi feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on sushi, ramen or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on sushi, ramen or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on sushi, ramen or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Sushi at Hondo, my treat.",
+ "accent": "#EE2C2D",
+ "cta": "#EE2C2D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D1D1D",
+ "hero_eyebrow": "#EE2C2D",
+ "prefix": "HS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8-9 St James's Parade, Bath BA1 1UL · 01225 920420",
+  "hours": "Open every day, 12 noon to 10pm.",
+  "maps_query": "Hondo Sushi St James's Parade Bath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/hondo_1.jpg"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "misbah-monmouth",
+ "name": "The Misbah",
+ "tagline": "Indian restaurant · Priory Street, Monmouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at The Misbah",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Misbah, my treat.",
+ "accent": "#F7AA16",
+ "cta": "#F7AA16",
+ "on_cta": "#0C0C0C",
+ "hero_bg": "#0C0C0C",
+ "hero_eyebrow": "#F7AA16",
+ "prefix": "MI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "9 Priory Street, Monmouth NP25 3BR · 01600 714940",
+  "hours": "Book a table online or call 01600 714940.",
+  "maps_query": "The Misbah 9 Priory Street Monmouth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/misbah_5.jpg"
+}

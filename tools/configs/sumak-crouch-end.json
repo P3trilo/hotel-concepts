@@ -1,0 +1,58 @@
+{
+ "slug": "sumak-crouch-end",
+ "name": "Sumak",
+ "tagline": "Turkish restaurant · Tottenham Lane, North London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Turkish feast",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Sumak, my treat.",
+ "accent": "#6689B4",
+ "cta": "#6689B4",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1D1D1D",
+ "hero_eyebrow": "#B9B9BA",
+ "prefix": "SU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "139-141 Tottenham Lane, London N8 9BJ · 020 8341 6261",
+  "hours": "Breakfast, lunch and dinner. Book a table online.",
+  "maps_query": "Sumak 139 Tottenham Lane London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/sumak_6.jpg"
+}

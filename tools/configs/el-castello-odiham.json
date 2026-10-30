@@ -1,0 +1,58 @@
+{
+ "slug": "el-castello-odiham",
+ "name": "El Castello",
+ "tagline": "Italian restaurant · High Street, Odiham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an Italian dinner",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at El Castello, my treat.",
+ "accent": "#842B49",
+ "cta": "#842B49",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#313131",
+ "hero_eyebrow": "#969696",
+ "prefix": "EC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "83 High Street, Odiham RG29 1LB · 01256 704281",
+  "hours": "Call 01256 704281 or book online.",
+  "maps_query": "El Castello 83 High Street Odiham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/castello_3.jpg"
+}

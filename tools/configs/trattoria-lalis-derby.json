@@ -1,0 +1,58 @@
+{
+ "slug": "trattoria-lalis-derby",
+ "name": "Trattoria Lalis",
+ "tagline": "Italian trattoria · Friar Gate, Derby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a wood-fired pizza night",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pizza at Trattoria Lalis, my treat.",
+ "accent": "#B83829",
+ "cta": "#B83829",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3D2F28",
+ "hero_eyebrow": "#C9A96E",
+ "prefix": "TL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "38 Friar Gate, Derby DE1 1DA · 07709 038200",
+  "hours": "Book a table online.",
+  "maps_query": "Trattoria Lalis 38 Friar Gate Derby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/lalis_3.jpg"
+}

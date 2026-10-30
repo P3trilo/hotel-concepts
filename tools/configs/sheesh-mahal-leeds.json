@@ -1,0 +1,58 @@
+{
+ "slug": "sheesh-mahal-leeds",
+ "name": "Sheesh Mahal",
+ "tagline": "Indian restaurant · Kirkstall Road, Leeds",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a curry night",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Sheesh Mahal, my treat.",
+ "accent": "#CCAD52",
+ "cta": "#CCAD52",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#CCAD52",
+ "prefix": "SM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "348 Kirkstall Road, Leeds LS4 2DS · 0113 230 4161",
+  "hours": "Book a table online or call.",
+  "maps_query": "Sheesh Mahal 348 Kirkstall Road Leeds"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/sheesh_6.jpg"
+}

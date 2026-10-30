@@ -1,0 +1,58 @@
+{
+ "slug": "la-salute-aylesbury",
+ "name": "La Salute",
+ "tagline": "Italian restaurant & pizzeria · Kingsbury, Aylesbury",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give bottomless antipasti",
+ "intro": "Choose a dish or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "To spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "To spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "To spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at La Salute, my treat.",
+ "accent": "#C7A254",
+ "cta": "#C7A254",
+ "on_cta": "#282828",
+ "hero_bg": "#282828",
+ "hero_eyebrow": "#C7A254",
+ "prefix": "LS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "3 Kingsbury, Aylesbury HP20 2JA · 01296 399135",
+  "hours": "Book a table online or call 01296 399135.",
+  "maps_query": "La Salute 3 Kingsbury Aylesbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/rest_uk/photos/salute_7.jpg"
+}
