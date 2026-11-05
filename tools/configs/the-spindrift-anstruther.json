@@ -1,0 +1,57 @@
+{
+ "slug": "the-spindrift-anstruther",
+ "name": "The Spindrift Guest House",
+ "tagline": "Victorian residence built in 1870 · Anstruther",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in the East Neuk",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay",
+ "message": "Happy Christmas! A night at The Spindrift, my treat.",
+ "accent": "#727272",
+ "cta": "#110d14",
+ "on_cta": "#ffffff",
+ "hero_bg": "#110d14",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "SPG",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Pittenweem Road, Anstruther, Fife KY10 3DT",
+  "hours": "",
+  "maps_query": "The Spindrift Guest House Anstruther"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-spindrift-anstruther_1.jpg"
+}

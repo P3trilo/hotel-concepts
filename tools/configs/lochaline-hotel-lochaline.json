@@ -1,0 +1,57 @@
+{
+ "slug": "lochaline-hotel-lochaline",
+ "name": "Lochaline Hotel",
+ "tagline": "Small hotel in a wildlife wonderland · Lochaline, Morvern",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the Sound of Mull",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay",
+ "message": "Happy Christmas! A night at Lochaline Hotel, my treat.",
+ "accent": "#4a7ea5",
+ "cta": "#4a7ea5",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "LOH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Lochaline, Morvern, Oban PA80 5XT",
+  "hours": "",
+  "maps_query": "Lochaline Hotel Lochaline"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/lochaline-hotel-lochaline_1.jpg"
+}

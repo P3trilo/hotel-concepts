@@ -1,0 +1,57 @@
+{
+ "slug": "no1-charlotte-street-port-ellen",
+ "name": "No1 Charlotte Street",
+ "tagline": "Bed, breakfast & bar · Port Ellen, Islay",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night on Islay",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room or a dram in the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room or a dram in the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room or a dram in the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room or a dram in the bar",
+ "message": "Happy Christmas! A night on Islay at No1 Charlotte Street, my treat.",
+ "accent": "#3a84bc",
+ "cta": "#020441",
+ "on_cta": "#ffffff",
+ "hero_bg": "#020441",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "NCS",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "No1 Charlotte St, Port Ellen, Isle of Islay PA42 7DF",
+  "hours": "Bar open early 'til midnight",
+  "maps_query": "No1 Charlotte Street Port Ellen Islay"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/no1-charlotte-street-port-ellen_1.jpg"
+}

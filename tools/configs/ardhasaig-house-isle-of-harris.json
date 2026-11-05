@@ -1,0 +1,57 @@
+{
+ "slug": "ardhasaig-house-isle-of-harris",
+ "name": "Ardhasaig House",
+ "tagline": "Hotel & restaurant · Isle of Harris",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner on Harris",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on dinner, a stay or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on dinner, a stay or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on dinner, a stay or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on dinner, a stay or a drink",
+ "message": "Happy Christmas! Dinner at Ardhasaig House, my treat.",
+ "accent": "#563c63",
+ "cta": "#bdc085",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#e8e7c3",
+ "prefix": "ARH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Ardhasaig, Isle of Harris HS3 3AJ",
+  "hours": "Dinner by advance booking only; breakfast 7.30am-9.30am",
+  "maps_query": "Ardhasaig House Isle of Harris"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ardhasaig-house-isle-of-harris_1.jpg"
+}

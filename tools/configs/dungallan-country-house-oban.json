@@ -1,0 +1,57 @@
+{
+ "slug": "dungallan-country-house-oban",
+ "name": "Dungallan Country House",
+ "tagline": "Victorian country house overlooking Oban Bay · Oban",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a stay above Oban Bay",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay, afternoon tea or a dram",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay, afternoon tea or a dram",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay, afternoon tea or a dram",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, afternoon tea or a dram",
+ "message": "Happy Christmas! A stay at Dungallan, my treat.",
+ "accent": "#5e7b7e",
+ "cta": "#852f2c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "DCH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Gallanach Road, Oban PA34 4PD",
+  "hours": "Bar open 10am-11pm daily, non-residents welcome",
+  "maps_query": "Dungallan Country House Oban"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/dungallan-country-house-oban_1.jpg"
+}
