@@ -1,0 +1,57 @@
+{
+ "slug": "middleton-hall-belford",
+ "name": "Middleton Hall",
+ "tagline": "Self-catering estate by the lakes · Northumberland",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a stay by the lake",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay in any of the estate's houses and cottages",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay in any of the estate's houses and cottages",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay in any of the estate's houses and cottages",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay in any of the estate's houses and cottages",
+ "message": "Happy Christmas! A stay at Middleton Hall, my treat.",
+ "accent": "#d1bc00",
+ "cta": "#333333",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#edd504",
+ "prefix": "MH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Middleton Hall, Middleton, Belford, Northumberland, NE70 7LF",
+  "hours": "",
+  "maps_query": "Middleton Hall Belford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/middleton-hall-belford_1.jpg"
+}

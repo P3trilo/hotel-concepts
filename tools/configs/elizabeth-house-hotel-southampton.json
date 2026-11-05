@@ -1,0 +1,57 @@
+{
+ "slug": "elizabeth-house-hotel-southampton",
+ "name": "Elizabeth House Hotel",
+ "tagline": "Victorian hotel, restaurant and Charlie's Bar · Southampton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner and a night away",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, dinner or a drink in Charlie's Bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, dinner or a drink in Charlie's Bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, dinner or a drink in Charlie's Bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, dinner or a drink in Charlie's Bar",
+ "message": "Happy Christmas! Dinner and a night at the Elizabeth House Hotel, my treat.",
+ "accent": "#734343",
+ "cta": "#734343",
+ "on_cta": "#ffffff",
+ "hero_bg": "#4c1010",
+ "hero_eyebrow": "#f08324",
+ "prefix": "EH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "42-44 The Avenue, Southampton, SO17 1XP",
+  "hours": "Dining and Charlie's Bar Mon-Sat 6pm-10pm (Saturday summer only); closed Sunday",
+  "maps_query": "Elizabeth House Hotel Southampton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/elizabeth-house-hotel-southampton_1.jpg"
+}
