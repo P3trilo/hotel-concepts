@@ -1,0 +1,57 @@
+{
+ "slug": "makani-edinburgh",
+ "name": "Makani",
+ "tagline": "Indian & Arabic fusion · Haymarket, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Makani",
+ "gifts": [
+  [
+   "Makani Royal Dum Biriyani",
+   "Slow-cooked layered biriyani with extra whole deep-fried quail, boiled egg, chicken 65 and popadom",
+   18.99,
+   "Makani Royal Dum Biriyani"
+  ],
+  [
+   "Salkara Choru (meal for 4)",
+   "A special Kerala platter with chicken mandi, chicken biriyani, ghee rice, beef roast, porotta and more",
+   59.99,
+   "Salkara Choru Kerala platter for four"
+  ],
+  [
+   "Chicken Kuzhi Mandi (full)",
+   "Arabic mandi of meat and rice with a special blend of spices, cooked in a pit",
+   43.99,
+   "Full Chicken Kuzhi Mandi"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Makani, my treat.",
+ "accent": "#d4af37",
+ "cta": "#d4af37",
+ "on_cta": "#1a1814",
+ "hero_bg": "#1a1814",
+ "hero_eyebrow": "#d4af37",
+ "prefix": "MK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Makani Royal Dum Biriyani",
+   "Sarah",
+   18.99,
+   true
+  ],
+  [
+   "Salkara Choru (meal for 4)",
+   "Emma",
+   59.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "88 Haymarket Terrace, Edinburgh",
+  "hours": "Mon - Sun 1pm - 10:30pm",
+  "maps_query": "Makani Restaurant Haymarket Terrace Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/makani-edinburgh_1.jpg"
+}

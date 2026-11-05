@@ -1,0 +1,57 @@
+{
+ "slug": "nanyang-edinburgh",
+ "name": "Nanyang Malaysian Restaurant",
+ "tagline": "Malaysian restaurant · Quartermile, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Nanyang",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Nanyang, my treat.",
+ "accent": "#7c6853",
+ "cta": "#503008",
+ "on_cta": "#ffffff",
+ "hero_bg": "#503008",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "NY",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6 - 7 Lister Square, Quartermile, Edinburgh EH3 9GL",
+  "hours": "Lunch 12pm-2:30pm (closed Monday lunch), dinner 5pm-9pm every day",
+  "maps_query": "Nanyang Malaysian Restaurant Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nanyang-edinburgh_1.jpg"
+}

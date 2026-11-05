@@ -1,0 +1,57 @@
+{
+ "slug": "curry-pot-glasgow",
+ "name": "Curry Pot",
+ "tagline": "Home-style Indian cooking · West End, Glasgow",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a curry night at Curry Pot",
+ "gifts": [
+  [
+   "Menu for two",
+   "2 poppadoms and spiced onions, 2 starters, any 2 chicken or vegetable dishes, 2 rice or naans",
+   38.95,
+   "Menu for two"
+  ],
+  [
+   "Menu for four",
+   "4 poppadoms, 4 starters, any 4 chicken or vegetable dishes, 4 rice or naan",
+   74.95,
+   "Menu for four"
+  ],
+  [
+   "Delhi style butter chicken",
+   "Chicken tikka cooked in creamy butter sauce and fenugreek",
+   12.5,
+   "Delhi style butter chicken"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Curry Pot, my treat.",
+ "accent": "#9f435e",
+ "cta": "#9f435e",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#fad451",
+ "prefix": "CP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Menu for two",
+   "Sarah",
+   38.95,
+   true
+  ],
+  [
+   "Menu for four",
+   "Emma",
+   74.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "139 Dumbarton Road, Glasgow, G11 6PR",
+  "hours": "Monday - Sunday 4pm - 10:30pm",
+  "maps_query": "Curry Pot Dumbarton Road Glasgow"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/curry-pot-glasgow_1.jpg"
+}

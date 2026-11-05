@@ -1,0 +1,57 @@
+{
+ "slug": "hospitalfield-garden-cafe-arbroath",
+ "name": "Garden Café at Hospitalfield",
+ "tagline": "Garden café · Hospitalfield, Arbroath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch in the Garden Café",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on brunch, lunch, coffee and cake",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on brunch, lunch, coffee and cake",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on brunch, lunch, coffee and cake",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on brunch, lunch, coffee and cake",
+ "message": "Happy Christmas! Brunch at Hospitalfield, my treat.",
+ "accent": "#551c25",
+ "cta": "#551c25",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1a1919",
+ "hero_eyebrow": "#cf92b7",
+ "prefix": "HF",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Hospitalfield House, Westway, Arbroath DD11 2NH",
+  "hours": "Thursday to Sunday 10am - 4pm",
+  "maps_query": "Hospitalfield Garden Cafe Arbroath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/hospitalfield-garden-cafe-arbroath_1.jpg"
+}

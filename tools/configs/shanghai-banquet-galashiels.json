@@ -1,0 +1,57 @@
+{
+ "slug": "shanghai-banquet-galashiels",
+ "name": "Shanghai Banquet",
+ "tagline": "All-you-can-eat Chinese buffet · Tweedbank",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a feast at Shanghai Banquet",
+ "gifts": [
+  [
+   "Christmas buffet",
+   "Roast turkey with all the trimmings, festive starters, more than 50 Chinese buffet dishes, sushi, pizza, Christmas puddings and a chocolate fountain",
+   37.99,
+   "Christmas buffet for one adult"
+  ],
+  [
+   "Saturday dinner buffet",
+   "All-you-can-eat dinner buffet, adult, Saturday 4:30pm - 9:30pm",
+   22.99,
+   "Saturday dinner buffet for one adult"
+  ],
+  [
+   "Sunday lunch buffet",
+   "All-you-can-eat lunch buffet, adult, Sunday 12pm - 4:30pm",
+   17.99,
+   "Sunday lunch buffet for one adult"
+  ]
+ ],
+ "amount_desc": "Spend on a buffet lunch or dinner",
+ "message": "Happy Christmas! A feast at Shanghai Banquet, my treat.",
+ "accent": "#dcbd6e",
+ "cta": "#dcbd6e",
+ "on_cta": "#242524",
+ "hero_bg": "#4b4f58",
+ "hero_eyebrow": "#f6e99f",
+ "prefix": "SB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Christmas buffet",
+   "Sarah",
+   37.99,
+   true
+  ],
+  [
+   "Saturday dinner buffet",
+   "Emma",
+   22.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Tweedbank Drive, Tweedbank, TD1 3RP",
+  "hours": "Lunch from 12pm, dinner 4:30pm - 9:30pm (Sun to 9pm)",
+  "maps_query": "Shanghai Banquet Tweedbank"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/shanghai-banquet-galashiels_1.jpg"
+}

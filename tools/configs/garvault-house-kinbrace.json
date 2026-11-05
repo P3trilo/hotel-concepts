@@ -1,0 +1,57 @@
+{
+ "slug": "garvault-house-kinbrace",
+ "name": "Garvault House",
+ "tagline": "Remote country house hotel · Flow Country, Sutherland",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a stay at the back of beyond",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, a meal or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, a meal or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, a meal or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A stay at Garvault House, my treat.",
+ "accent": "#64702c",
+ "cta": "#64702c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#303030",
+ "hero_eyebrow": "#f7f7f7",
+ "prefix": "GH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Garvault House, Kinbrace, Highland KW11 6UF",
+  "hours": "",
+  "maps_query": "Garvault House Kinbrace"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/garvault-house-kinbrace_1.jpg"
+}

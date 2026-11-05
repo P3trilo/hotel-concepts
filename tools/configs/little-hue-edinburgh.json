@@ -1,0 +1,57 @@
+{
+ "slug": "little-hue-edinburgh",
+ "name": "Little Huế",
+ "tagline": "Vietnamese cuisine · Leith, Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a bowl of hot-stone phở",
+ "gifts": [
+  [
+   "Signature Hot Stone Phở",
+   "Phở served in a sizzling hot stone bowl with rich broth, rice noodles, egg yolk and herbs (dine-in only)",
+   21.65,
+   "Signature Hot Stone Phở"
+  ],
+  [
+   "Spicy Huế Noodle Soup",
+   "Bún Huế: bold spicy noodle soup from Central Vietnam with lemongrass and chilli",
+   15.25,
+   "Bún Huế noodle soup"
+  ],
+  [
+   "Vietnamese Coffee",
+   "Traditional phin-brewed coffee, hot or iced",
+   5.2,
+   "Vietnamese phin coffee"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Phở at Little Huế, my treat.",
+ "accent": "#2e6b3a",
+ "cta": "#2e6b3a",
+ "on_cta": "#ffffff",
+ "hero_bg": "#22301f",
+ "hero_eyebrow": "#faf7ef",
+ "prefix": "LH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Signature Hot Stone Phở",
+   "Sarah",
+   21.65,
+   true
+  ],
+  [
+   "Spicy Huế Noodle Soup",
+   "Emma",
+   15.25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "47-49 Duke Street, Leith, Edinburgh EH6 8HH",
+  "hours": "Open every day 12:00 - 21:00",
+  "maps_query": "Little Hue Duke Street Leith Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/little-hue-edinburgh_1.jpg"
+}
