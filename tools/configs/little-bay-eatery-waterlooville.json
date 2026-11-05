@@ -1,0 +1,57 @@
+{
+ "slug": "little-bay-eatery-waterlooville",
+ "name": "Little Bay Eatery",
+ "tagline": "Your favourite Waterlooville eatery · Waterlooville",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cream tea for two",
+ "gifts": [
+  [
+   "Cream Tea for Two",
+   "Sweet or savoury cream tea, served with tea, for two",
+   11.0,
+   "Cream tea for two, sweet or savoury, served with tea"
+  ],
+  [
+   "Little Bay Traditional breakfast",
+   "Sausage, bacon, fried egg, mushrooms, beans, grilled tomato and toast",
+   9.25,
+   "One Little Bay Traditional breakfast"
+  ],
+  [
+   "Lunch Special of the Day",
+   "The day's special from the specials board",
+   12.95,
+   "One Lunch Special of the Day"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A cream tea at Little Bay Eatery, my treat.",
+ "accent": "#a3a983",
+ "cta": "#2f5944",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1a312c",
+ "hero_eyebrow": "#a3a983",
+ "prefix": "LB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Cream Tea for Two",
+   "Sarah",
+   11.0,
+   true
+  ],
+  [
+   "Little Bay Traditional breakfast",
+   "Emma",
+   9.25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Queens Parade, 121-123 London Rd, Waterlooville PO7 7EB",
+  "hours": "Breakfast 9.30am-11.30am, lunch 11.30am-2.30pm",
+  "maps_query": "Little Bay Eatery Waterlooville"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/little-bay-eatery-waterlooville_1.jpg"
+}

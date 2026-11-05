@@ -1,0 +1,57 @@
+{
+ "slug": "tanifiki-portobello",
+ "name": "Tanifiki",
+ "tagline": "Specialty coffee bar · Portobello",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and cake in Portobello",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, tea and treats in the cafe",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, tea and treats in the cafe",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, tea and treats in the cafe",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, tea and treats in the cafe",
+ "message": "Happy Christmas! Coffee and cake at Tanifiki, my treat.",
+ "accent": "#5b2e03",
+ "cta": "#5b2e03",
+ "on_cta": "#fee9d3",
+ "hero_bg": "#404540",
+ "hero_eyebrow": "#fee9d3",
+ "prefix": "TF",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "44 Portobello High Street, Edinburgh EH15 1DA",
+  "hours": "Every day 9am-5pm",
+  "maps_query": "Tanifiki Portobello Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/tanifiki-portobello_1.jpg"
+}

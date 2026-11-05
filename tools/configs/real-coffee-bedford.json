@@ -1,0 +1,57 @@
+{
+ "slug": "real-coffee-bedford",
+ "name": "Real Coffee",
+ "tagline": "Specialty coffee shop · Bedford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and cake in Bedford",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu, from coffee and cake to cocktails",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu, from coffee and cake to cocktails",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu, from coffee and cake to cocktails",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu, from coffee and cake to cocktails",
+ "message": "Happy Christmas! Coffee and cake at Real Coffee, my treat.",
+ "accent": "#ff5a00",
+ "cta": "#ff5a00",
+ "on_cta": "#0a0a0a",
+ "hero_bg": "#0a0a0a",
+ "hero_eyebrow": "#ff5a00",
+ "prefix": "RC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "68 High Street, Bedford MK40 1NT",
+  "hours": "Mon-Sat 9am-5pm, Sun 10am-3pm",
+  "maps_query": "Real Coffee Bedford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/real-coffee-bedford_2.jpg"
+}

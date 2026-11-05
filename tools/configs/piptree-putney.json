@@ -1,0 +1,57 @@
+{
+ "slug": "piptree-putney",
+ "name": "Piptree",
+ "tagline": "Café and caterers · East Putney",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Piptree",
+ "gifts": [
+  [
+   "Eggs Royale or Bacon Bene",
+   "Smoked salmon or bacon, hollandaise and poached eggs on toasted country malt",
+   16,
+   "Eggs Royale or Bacon Benedict at Piptree"
+  ],
+  [
+   "Alabama Shakes",
+   "Smoked beef brisket, poached eggs and jerk hollandaise on toasted country malt",
+   18,
+   "Alabama Shakes brunch at Piptree"
+  ],
+  [
+   "Espresso Martini",
+   "Espresso, coffee liqueur and vodka",
+   12,
+   "An Espresso Martini at Piptree"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the café menu",
+ "message": "Happy Christmas! Brunch at Piptree, my treat.",
+ "accent": "#978f62",
+ "cta": "#3e2e1c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#3e2e1c",
+ "hero_eyebrow": "#f3e8d8",
+ "prefix": "PT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Eggs Royale or Bacon Bene",
+   "Sarah",
+   16,
+   true
+  ],
+  [
+   "Alabama Shakes",
+   "Emma",
+   18,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "40 Upper Richmond Road, London SW15 2RX",
+  "hours": "Mon-Fri 7:30am-3pm, Sat-Sun 9am-4pm",
+  "maps_query": "Piptree Cafe Putney"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/piptree-putney_1.jpg"
+}

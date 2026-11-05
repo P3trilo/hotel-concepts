@@ -1,0 +1,57 @@
+{
+ "slug": "the-greenwich-nest-greenwich",
+ "name": "The Greenwich Nest",
+ "tagline": "Neighbourhood cafe · Greenwich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at the Nest",
+ "gifts": [
+  [
+   "English Breakfast",
+   "Eggs your way with Cumberland sausage, bacon, black pudding, cherry tomatoes, beans, mushrooms, rotis and toasted sourdough",
+   14.5,
+   "English Breakfast at the Greenwich Nest"
+  ],
+  [
+   "Eggs Royale",
+   "Smoked salmon, soft poached eggs and classic hollandaise on an English muffin",
+   12.5,
+   "Eggs Royale at the Greenwich Nest"
+  ],
+  [
+   "Espresso Martini",
+   "Cocktail, served from 12pm",
+   9.5,
+   "An Espresso Martini at the Greenwich Nest"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at the Greenwich Nest, my treat.",
+ "accent": "#222f4f",
+ "cta": "#222f4f",
+ "on_cta": "#ffffff",
+ "hero_bg": "#222f4f",
+ "hero_eyebrow": "#f4f0e8",
+ "prefix": "GN",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "English Breakfast",
+   "Sarah",
+   14.5,
+   true
+  ],
+  [
+   "Eggs Royale",
+   "Emma",
+   12.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8 Victoria Parade, London SE10 9FR",
+  "hours": "Mon-Fri 7am-5pm, Sat-Sun 8am-5pm (kitchen 8am-3pm)",
+  "maps_query": "The Greenwich Nest Greenwich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-greenwich-nest-greenwich_1.jpg"
+}

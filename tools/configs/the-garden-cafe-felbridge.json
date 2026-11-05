@@ -1,0 +1,57 @@
+{
+ "slug": "the-garden-cafe-felbridge",
+ "name": "The Garden Cafe",
+ "tagline": "Garden cafe · Felbridge, East Grinstead",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast in the garden",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast at the Garden Cafe, my treat.",
+ "accent": "#28c828",
+ "cta": "#382018",
+ "on_cta": "#ffffff",
+ "hero_bg": "#382018",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "GC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Doves Barn Nursery, Copthorne Road, Felbridge RH19 2PB",
+  "hours": "Mon-Fri 9am-3:30pm, Sat-Sun 9am-3pm",
+  "maps_query": "The Garden Cafe Doves Barn Nursery Felbridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-garden-cafe-felbridge_1.jpg"
+}

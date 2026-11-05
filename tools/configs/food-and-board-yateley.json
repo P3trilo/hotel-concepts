@@ -1,0 +1,57 @@
+{
+ "slug": "food-and-board-yateley",
+ "name": "Food and Board",
+ "tagline": "Board game cafe · Yateley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a games night in Yateley",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on table hire, food and drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on table hire, food and drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on table hire, food and drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on table hire, food and drink",
+ "message": "Happy Christmas! A games night at Food and Board, my treat.",
+ "accent": "#47543b",
+ "cta": "#47543b",
+ "on_cta": "#ffffff",
+ "hero_bg": "#f4f7f3",
+ "hero_eyebrow": "#82986f",
+ "prefix": "FB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Elizabeth Parade, Tudor Drive, Yateley, Hampshire, GU46 6BY",
+  "hours": "Tue-Sun (hours differ in term time and school holidays), closed Mondays",
+  "maps_query": "Food and Board Yateley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/food-and-board-yateley_1.jpg"
+}

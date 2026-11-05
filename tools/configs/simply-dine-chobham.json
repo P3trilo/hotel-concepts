@@ -1,0 +1,57 @@
+{
+ "slug": "simply-dine-chobham",
+ "name": "Simply Dine",
+ "tagline": "Cafe and event venue · Chobham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast in Chobham",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on breakfast, lunch, coffee or cake in the cafe",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on breakfast, lunch, coffee or cake in the cafe",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on breakfast, lunch, coffee or cake in the cafe",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on breakfast, lunch, coffee or cake in the cafe",
+ "message": "Happy Christmas! Breakfast at Simply Dine, my treat.",
+ "accent": "#cc3366",
+ "cta": "#cc3366",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#f38a03",
+ "prefix": "SD",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "18 Windsor Road, Chobham GU24 8LA",
+  "hours": "Tue-Fri 8.30am-3pm, Sat-Sun 9am-2pm, closed Mondays",
+  "maps_query": "Simply Dine Chobham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/simply-dine-chobham_1.jpg"
+}

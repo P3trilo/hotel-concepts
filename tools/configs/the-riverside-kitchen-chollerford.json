@@ -1,0 +1,57 @@
+{
+ "slug": "the-riverside-kitchen-chollerford",
+ "name": "The Riverside Kitchen",
+ "tagline": "Home-cooked food by Chollerford Bridge · Hexham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch by the bridge",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at The Riverside Kitchen, my treat.",
+ "accent": "#9da88a",
+ "cta": "#005fa3",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1c1f21",
+ "hero_eyebrow": "#9da88a",
+ "prefix": "RK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "By the bridge at Chollerford, Hexham, NE46 4EW",
+  "hours": "",
+  "maps_query": "The Riverside Kitchen Chollerford Hexham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-riverside-kitchen-chollerford_1.jpg"
+}

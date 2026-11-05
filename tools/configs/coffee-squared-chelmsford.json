@@ -1,0 +1,57 @@
+{
+ "slug": "coffee-squared-chelmsford",
+ "name": "Coffee Squared",
+ "tagline": "Family-run coffee shop and bar · Beaulieu, Chelmsford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Coffee Squared",
+ "gifts": [
+  [
+   "Smoked Salmon & Smashed Avocado",
+   "On sourdough toast, brunch served till 2pm",
+   13,
+   "Smoked salmon and smashed avocado brunch at Coffee Squared"
+  ],
+  [
+   "Toasted Triple Decker Club Sandwich",
+   "Served with crisps",
+   12.5,
+   "A triple decker club sandwich at Coffee Squared"
+  ],
+  [
+   "Diablo pizza",
+   "Chilli tomato base, mozzarella, chorizo, ham, pepperoni, chilli oil and basil (Pizza Fridays)",
+   15,
+   "A Friday night pizza at Coffee Squared"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Brunch at Coffee Squared, my treat.",
+ "accent": "#b08d57",
+ "cta": "#211c17",
+ "on_cta": "#ffffff",
+ "hero_bg": "#211c17",
+ "hero_eyebrow": "#d2b486",
+ "prefix": "CSQ",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Smoked Salmon & Smashed Avocado",
+   "Sarah",
+   13,
+   true
+  ],
+  [
+   "Toasted Triple Decker Club Sandwich",
+   "Emma",
+   12.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "61 Centenary Way, Beaulieu, Chelmsford, Essex CM1 6AU",
+  "hours": "Mon-Fri 8am-5pm (Fri to 10pm from 6 Nov), Sat 9am-10pm, Sun 9am-4pm",
+  "maps_query": "Coffee Squared Beaulieu Chelmsford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/coffee-squared-chelmsford_1.jpg"
+}

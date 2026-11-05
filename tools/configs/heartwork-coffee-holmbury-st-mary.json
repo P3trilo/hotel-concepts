@@ -1,0 +1,57 @@
+{
+ "slug": "heartwork-coffee-holmbury-st-mary",
+ "name": "Heartwork Coffee Bar",
+ "tagline": "Coffee bar in the Surrey Hills · Holmbury St Mary",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee in the Surrey Hills",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, cake or anything at the coffee bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, cake or anything at the coffee bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, cake or anything at the coffee bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, cake or anything at the coffee bar",
+ "message": "Happy Christmas! Coffee and cake at Heartwork, my treat.",
+ "accent": "#5c5c5c",
+ "cta": "#333333",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#dbcfc0",
+ "prefix": "HW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Pasturewood Road, Holmbury St Mary, Surrey RH5 6LG",
+  "hours": "Every day 8am-3pm",
+  "maps_query": "Heartwork Coffee Bar Holmbury St Mary"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/heartwork-coffee-holmbury-st-mary_1.jpg"
+}
