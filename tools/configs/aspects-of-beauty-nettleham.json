@@ -1,0 +1,57 @@
+{
+ "slug": "aspects-of-beauty-nettleham",
+ "name": "Aspects of Beauty",
+ "tagline": "Skincare and aesthetic beauty · Nettleham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a facial in Nettleham",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any treatment or skincare",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any treatment or skincare",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any treatment or skincare",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment or skincare",
+ "message": "Happy Christmas! A treatment at Aspects of Beauty, my treat.",
+ "accent": "#824162",
+ "cta": "#824162",
+ "on_cta": "#ffffff",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#cbb38a",
+ "prefix": "AOB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Vicarage Lane, Lincoln, LN2 2RH",
+  "hours": "Mon, Tue, Wed, Fri 9:30am-6:00pm",
+  "maps_query": "Aspects of Beauty Nettleham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/aspects-of-beauty-nettleham_1.jpg"
+}

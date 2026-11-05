@@ -1,0 +1,57 @@
+{
+ "slug": "tma2-exeter",
+ "name": "TMa2",
+ "tagline": "Independent hair salon · Exeter",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an afternoon at TMa2",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any cut, colour or treatment",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any cut, colour or treatment",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any cut, colour or treatment",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! An appointment at TMa2, my treat.",
+ "accent": "#333333",
+ "cta": "#212121",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1c1b1b",
+ "hero_eyebrow": "#eeeeee",
+ "prefix": "TMA",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "40-41 New Bridge Street, Exeter, EX4 3AH",
+  "hours": "Tue-Wed 08:00-17:00, Thu 10:00-19:00, Fri-Sat 08:00-17:00",
+  "maps_query": "TMa2 Hair New Bridge Street Exeter"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/tma2-exeter_1.jpg"
+}

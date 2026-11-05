@@ -1,0 +1,57 @@
+{
+ "slug": "mr-snippers-kings-lynn",
+ "name": "Mr Snippers",
+ "tagline": "Gentlemen's hairdresser since 1945 · King's Lynn",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a haircut at Mr Snippers",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any haircut or beard trim",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any haircut or beard trim",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any haircut or beard trim",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any haircut or beard trim",
+ "message": "Happy Christmas! A haircut at Mr Snippers, my treat.",
+ "accent": "#20303c",
+ "cta": "#242323",
+ "on_cta": "#ffffff",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#dfe6e9",
+ "prefix": "MRS",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 St James St, King's Lynn PE30 5DA",
+  "hours": "Mon-Wed 8.00am-4.30pm, Thu-Fri 8.00am-5.30pm, Sat 6.00am-2.30pm",
+  "maps_query": "Mr Snippers King's Lynn"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/mr-snippers-kings-lynn_1.jpg"
+}

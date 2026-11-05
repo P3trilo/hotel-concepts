@@ -1,0 +1,57 @@
+{
+ "slug": "koko-hair-ossett",
+ "name": "Koko Hair Ossett",
+ "tagline": "Hair salon · Ossett",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a fresh look at Koko",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any cut, colour or styling",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any cut, colour or styling",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any cut, colour or styling",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or styling",
+ "message": "Happy Christmas! A new look at Koko, my treat.",
+ "accent": "#383838",
+ "cta": "#000000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#f1f1f1",
+ "prefix": "KOK",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "40 Station Road, Ossett, West Yorkshire, WF5 8AY",
+  "hours": "",
+  "maps_query": "Koko Hair Ossett Station Road"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/koko-hair-ossett_1.jpg"
+}

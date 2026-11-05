@@ -1,0 +1,57 @@
+{
+ "slug": "sirishas-health-and-beauty-twickenham",
+ "name": "Sirisha's Health and Beauty",
+ "tagline": "Skincare centre · St Margarets, Twickenham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a signature facial",
+ "gifts": [
+  [
+   "Sirisha's signature facial",
+   "Skin scan and face mapping, a tailored Dermalogica facial and a warm steam towel compress, 90 to 120 minutes",
+   170,
+   "Sirisha's signature facial (90-120 min)"
+  ],
+  [
+   "Full body massage",
+   "Relaxing or stimulating massage, full body or customised, 60 minutes",
+   72,
+   "60-minute full body massage"
+  ],
+  [
+   "Indian head massage",
+   "Traditional scalp, upper back and facial pressure point massage, 30 minutes",
+   40,
+   "30-minute Indian head massage"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment",
+ "message": "Happy Christmas! A facial at Sirisha's, my treat.",
+ "accent": "#77ba52",
+ "cta": "#986945",
+ "on_cta": "#ffffff",
+ "hero_bg": "#262626",
+ "hero_eyebrow": "#77ba52",
+ "prefix": "SHB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Sirisha's signature facial",
+   "Sarah",
+   170,
+   true
+  ],
+  [
+   "Full body massage",
+   "Emma",
+   72,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "145 St Margaret's Road, Twickenham, Middlesex, TW1 1RG",
+  "hours": "",
+  "maps_query": "Sirisha's Health and Beauty St Margarets Twickenham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/sirishas-health-and-beauty-twickenham_1.jpg"
+}

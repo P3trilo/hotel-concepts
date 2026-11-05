@@ -1,0 +1,57 @@
+{
+ "slug": "loui-hair-studio-colchester",
+ "name": "Loui Hair Studio",
+ "tagline": "Award-winning hair salon · Colchester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cut and colour at Loui",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any cut, colour or treatment",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any cut, colour or treatment",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any cut, colour or treatment",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! A cut and colour at Loui, my treat.",
+ "accent": "#8fa032",
+ "cta": "#d3e05d",
+ "on_cta": "#101010",
+ "hero_bg": "#101010",
+ "hero_eyebrow": "#d3e05d",
+ "prefix": "LHS",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "33 North Station Rd, Colchester, CO1 1RQ",
+  "hours": "Tue 09:00-17:30, Wed 09:30-17:00, Thu 09:30-20:30, Fri 09:30-18:30, Sat 09:00-16:00",
+  "maps_query": "Loui Hair Studio Colchester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/loui-hair-studio-colchester_1.jpg"
+}
