@@ -1,0 +1,57 @@
+{
+ "slug": "the-dinney-bridgnorth",
+ "name": "The Dinney",
+ "tagline": "Farmhouse B&B and holiday cottages · Bridgnorth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a stay in the Shropshire countryside",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a B&B room or a cottage stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a B&B room or a cottage stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a B&B room or a cottage stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a B&B room or a cottage stay",
+ "message": "Happy Christmas! A stay at The Dinney, my treat.",
+ "accent": "#7ebc42",
+ "cta": "#3a3f24",
+ "on_cta": "#ffffff",
+ "hero_bg": "#3a3f24",
+ "hero_eyebrow": "#d6dec7",
+ "prefix": "DN",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Dinney, Chelmarsh, Bridgnorth, Shropshire WV16 6AU",
+  "hours": "",
+  "maps_query": "The Dinney Chelmarsh Bridgnorth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-dinney-bridgnorth_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "ricky-road-guest-house-watford",
+ "name": "Ricky Road Guest House",
+ "tagline": "Family-run guest house · Watford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a magical night in Watford",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay",
+ "message": "Happy Christmas! A magical night in Watford, my treat.",
+ "accent": "#76923c",
+ "cta": "#76923c",
+ "on_cta": "#000000",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "RR",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "73 Rickmansworth Road, Watford, Hertfordshire WD18 7ED",
+  "hours": "Check-in 2pm-6pm, check-out 10am",
+  "maps_query": "Ricky Road Guest House Watford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ricky-road-guest-house-watford_1.jpg"
+}

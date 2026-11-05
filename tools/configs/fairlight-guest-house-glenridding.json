@@ -1,0 +1,57 @@
+{
+ "slug": "fairlight-guest-house-glenridding",
+ "name": "Fairlight Guest House and Cafe",
+ "tagline": "Guest house and cafe · Glenridding, Ullswater",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by Ullswater",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay, or breakfast and lunch in the cafe",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay, or breakfast and lunch in the cafe",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay, or breakfast and lunch in the cafe",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay, or breakfast and lunch in the cafe",
+ "message": "Happy Christmas! A night at Fairlight by Ullswater, my treat.",
+ "accent": "#3c7f92",
+ "cta": "#3c7f92",
+ "on_cta": "#ffffff",
+ "hero_bg": "#3c7f92",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "FL",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Fairlight Guest House & Cafe, Glenridding, Penrith, Cumbria CA11 0PD",
+  "hours": "Cafe 08:00-15:30, 6 days a week (may vary in winter)",
+  "maps_query": "Fairlight Guest House Glenridding"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/fairlight-guest-house-glenridding_1.jpg"
+}

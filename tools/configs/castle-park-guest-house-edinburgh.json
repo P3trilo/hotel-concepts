@@ -1,0 +1,57 @@
+{
+ "slug": "castle-park-guest-house-edinburgh",
+ "name": "Castle Park Guest House",
+ "tagline": "Victorian townhouse guest house · Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in Edinburgh",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay",
+ "message": "Happy Christmas! A night in Edinburgh, my treat.",
+ "accent": "#337ab7",
+ "cta": "#111827",
+ "on_cta": "#ffffff",
+ "hero_bg": "#111827",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "CP",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "75 Gilmore Place, Edinburgh EH3 9NU",
+  "hours": "Check-in 3pm-7pm, check-out 11am",
+  "maps_query": "Castle Park Guest House Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/castle-park-guest-house-edinburgh_1.jpg"
+}

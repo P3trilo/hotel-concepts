@@ -1,0 +1,57 @@
+{
+ "slug": "low-nest-holidays-keswick",
+ "name": "Low Nest Holidays",
+ "tagline": "Self-catering cottages and hut on a Lakeland farm · Keswick",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in the Helvellyn Hut",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay in a cottage or the Helvellyn Hut",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay in a cottage or the Helvellyn Hut",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay in a cottage or the Helvellyn Hut",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay in a cottage or the Helvellyn Hut",
+ "message": "Happy Christmas! A night in the Helvellyn Hut, my treat.",
+ "accent": "#9e5c4a",
+ "cta": "#9e5c4a",
+ "on_cta": "#ffffff",
+ "hero_bg": "#143f4d",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "LN",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Low Nest Farm, Keswick CA12 4TF",
+  "hours": "Check-in from 3pm, check-out 10am",
+  "maps_query": "Low Nest Farm Keswick"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/low-nest-holidays-keswick_1.jpg"
+}

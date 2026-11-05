@@ -1,0 +1,57 @@
+{
+ "slug": "allerton-house-jedburgh",
+ "name": "Allerton House",
+ "tagline": "Georgian guest house · Jedburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in the Borders",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay",
+ "message": "Happy Christmas! A night at Allerton House, my treat.",
+ "accent": "#364a70",
+ "cta": "#364a70",
+ "on_cta": "#ffffff",
+ "hero_bg": "#364a70",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "AH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Allerton House, Oxnam Road, Jedburgh TD8 6QQ",
+  "hours": "Check-in 4pm-6pm, check-out 10am",
+  "maps_query": "Allerton House Jedburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/allerton-house-jedburgh_1.jpg"
+}

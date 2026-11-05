@@ -1,0 +1,57 @@
+{
+ "slug": "kirkcroft-guest-house-gretna-green",
+ "name": "Kirkcroft Guest House",
+ "tagline": "Bed and breakfast · Gretna Green",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in Gretna Green",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a stay",
+ "message": "Happy Christmas! A night in Gretna Green, my treat.",
+ "accent": "#75c5cf",
+ "cta": "#272727",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#75c5cf",
+ "prefix": "KC",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Kirkcroft Guest House, Glasgow Road, Gretna Green DG16 5DU",
+  "hours": "Rooms from 4pm, check-out 10.30am",
+  "maps_query": "Kirkcroft Guest House Gretna Green"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/kirkcroft-guest-house-gretna-green_1.jpg"
+}
