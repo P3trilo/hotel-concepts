@@ -1,0 +1,57 @@
+{
+ "slug": "double-dutch-pancake-house-york",
+ "name": "Double Dutch Pancake House",
+ "tagline": "Family-run Dutch pancake café · York",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give pancakes on Church Street",
+ "gifts": [
+  [
+   "Amsterdammer pancake",
+   "Dutch savoury pancake with turkey bacon, thinly sliced apple and 100% maple syrup or Stroop",
+   13.95,
+   "An Amsterdammer pancake at Double Dutch"
+  ],
+  [
+   "Fruits of the Forest Mess",
+   "Sweet Dutch pancake with fruits of the forest, meringue and white chocolate sauce, served with vanilla ice cream or whipped cream",
+   13.25,
+   "A Fruits of the Forest Mess pancake at Double Dutch"
+  ],
+  [
+   "Afternoon Special",
+   "A pancake with one topping and a hot or cold drink, Monday to Friday from 2pm",
+   8.5,
+   "An Afternoon Special pancake and drink at Double Dutch"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pancakes at Double Dutch, my treat.",
+ "accent": "#c9a24e",
+ "cta": "#d0ad4f",
+ "on_cta": "#061337",
+ "hero_bg": "#060b44",
+ "hero_eyebrow": "#d0ad4f",
+ "prefix": "DDP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Amsterdammer pancake",
+   "Sarah",
+   13.95,
+   true
+  ],
+  [
+   "Fruits of the Forest Mess",
+   "Emma",
+   13.25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 Church Street, York YO1 8BG",
+  "hours": "Mon-Fri 9am-3pm, Sat-Sun 9am-4pm",
+  "maps_query": "Double Dutch Pancake House York"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/double-dutch-pancake-house-york_1.jpg"
+}

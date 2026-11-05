@@ -1,0 +1,57 @@
+{
+ "slug": "coffee-end-hawick",
+ "name": "Coffee End",
+ "tagline": "Breakfast, lunch, cakes & coffee · Hawick",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast at Coffee End",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast at Coffee End, my treat.",
+ "accent": "#0e1318",
+ "cta": "#000000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#0e1318",
+ "hero_eyebrow": "#e3e3e2",
+ "prefix": "CEH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 North Bridge Street, Hawick TD9 9BD",
+  "hours": "",
+  "maps_query": "Coffee End Hawick"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/coffee-end-hawick_1.jpg"
+}

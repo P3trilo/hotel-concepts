@@ -1,0 +1,57 @@
+{
+ "slug": "black-dog-coffee-co-devizes",
+ "name": "Black Dog Coffee Co.",
+ "tagline": "Family-run coffee shop · Devizes",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and cake at Black Dog",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, cake or anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, cake or anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, cake or anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, cake or anything on the menu",
+ "message": "Happy Christmas! Coffee and cake at Black Dog, my treat.",
+ "accent": "#90643f",
+ "cta": "#4a5a73",
+ "on_cta": "#ffffff",
+ "hero_bg": "#90643f",
+ "hero_eyebrow": "#fff2ea",
+ "prefix": "BDC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7a Wharfside, Couch Lane, Devizes SN10 1EB",
+  "hours": "Tue-Fri 8am-4pm, Sat-Sun 9am-3pm, closed Monday",
+  "maps_query": "Black Dog Coffee Co Devizes"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/black-dog-coffee-co-devizes_1.jpg"
+}

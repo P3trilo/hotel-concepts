@@ -1,0 +1,57 @@
+{
+ "slug": "in-via-lactea-bristol",
+ "name": "In Via Lactea",
+ "tagline": "Independent café · Bristol Old Town",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast by the Christmas Steps",
+ "gifts": [
+  [
+   "The Full Monty",
+   "Black pudding, 2 hash browns, 2 sausages, 2 bacon, 2 eggs, mushrooms, tomato, baked beans and toast, served with tea or coffee",
+   17.5,
+   "The Full Monty breakfast with tea or coffee at In Via Lactea"
+  ],
+  [
+   "Eggs Royale",
+   "Poached eggs, smoked salmon and creamy Hollandaise sauce on a toasted muffin",
+   11.5,
+   "Eggs Royale at In Via Lactea"
+  ],
+  [
+   "Premium Shake",
+   "Thick shake made with real ice cream, candy, whipped cream and candy topping",
+   6.9,
+   "A Premium Shake at In Via Lactea"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast at In Via Lactea, my treat.",
+ "accent": "#946d5d",
+ "cta": "#000000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1b1b1b",
+ "hero_eyebrow": "#bd9280",
+ "prefix": "IVL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "The Full Monty",
+   "Sarah",
+   17.5,
+   true
+  ],
+  [
+   "Eggs Royale",
+   "Emma",
+   11.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Ground Floor, St Bartholomew's House, Lewins Mead, Bristol BS1 2NH",
+  "hours": "",
+  "maps_query": "In Via Lactea Bristol"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/in-via-lactea-bristol_1.jpg"
+}

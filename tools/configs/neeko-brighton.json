@@ -1,0 +1,57 @@
+{
+ "slug": "neeko-brighton",
+ "name": "Neeko",
+ "tagline": "Japanese-inspired café and cakes · Brighton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Neeko cake",
+ "gifts": [
+  [
+   "Matcha Mille Crêpes",
+   "Whole layered matcha crêpe cake, serves approx. 10-12",
+   72.0,
+   "A whole Matcha Mille Crêpes cake from Neeko"
+  ],
+  [
+   "Strawberry Cream Cake",
+   "Fluffy sponge with fresh cream and strawberries, 7 inch serves 5-6",
+   47.0,
+   "A 7 inch Strawberry Cream Cake from Neeko"
+  ],
+  [
+   "Pistachio Cheesecake",
+   "Whole pistachio cheesecake, smallest size",
+   37.0,
+   "A Pistachio Cheesecake from Neeko"
+  ]
+ ],
+ "amount_desc": "Spend in the café or on a whole cake",
+ "message": "Happy Christmas! A Neeko cake, my treat.",
+ "accent": "#8d735f",
+ "cta": "#212121",
+ "on_cta": "#ffffff",
+ "hero_bg": "#212121",
+ "hero_eyebrow": "#c4b4a7",
+ "prefix": "NKO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Matcha Mille Crêpes",
+   "Sarah",
+   72.0,
+   true
+  ],
+  [
+   "Strawberry Cream Cake",
+   "Emma",
+   47.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "36 Duke Street, Brighton BN1 1AG",
+  "hours": "Daily 9am-9pm (Saturday from 8am)",
+  "maps_query": "Neeko Duke Street Brighton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/neeko-brighton_1.jpg"
+}
