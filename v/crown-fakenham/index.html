@@ -133,7 +133,7 @@ table.list td.num { font-variant-numeric: tabular-nums; }
   <section class="intro"><div class="wrap">
     <span class="eyebrow">Gift vouchers</span>
     <h1>Give dinner at The Crown</h1>
-    <p>Choose a gift or an amount, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.</p>
+    <p>Choose a gift or an amount and add a personal message. You get the voucher straight away, ready to print or send on.</p>
   </div></section>
 
   <nav class="tabs" aria-label="Demo views"><div class="wrap" role="tablist">
@@ -167,19 +167,7 @@ table.list td.num { font-variant-numeric: tabular-nums; }
           <div class="field"><label for="message">Message</label><textarea id="message" maxlength="160">Happy Christmas! Dinner at The Crown, my treat.</textarea><small><span id="count">0</span> of 160 characters</small></div>
         </fieldset>
 
-        <fieldset>
-          <legend>3. Delivery</legend>
-          <div class="options">
-            <div class="opt"><input type="radio" name="delivery" id="d-recipient" value="recipient" checked><label for="d-recipient"><b>Email to them</b><span>On the date you choose</span><span class="price">Free</span></label></div>
-            <div class="opt"><input type="radio" name="delivery" id="d-me" value="me"><label for="d-me"><b>Email to me</b><span>To print or give in person</span><span class="price">Free</span></label></div>
-            <div class="opt"><input type="radio" name="delivery" id="d-post" value="post"><label for="d-post"><b>A card by post</b><span>Printed card in a gift envelope</span><span class="price">+£3.50</span></label></div>
-          </div>
-          <div class="row2">
-            <div class="field" id="email-field"><label for="email" id="email-label">Their email</label><input type="email" id="email" value="fiona@example.com" autocomplete="off"></div>
-            <div class="field" id="date-field"><label for="senddate">Send on</label><input type="date" id="senddate"></div>
-          </div>
-          <div class="field" id="address-field" hidden><label for="address">Postal address</label><textarea id="address">12 Example Street&#10;Inverness IV1 1AA</textarea></div>
-        </fieldset>
+        <p class="note" style="margin:0">After paying you get the voucher straight away, ready to print, or to send on by email or message.</p>
 
         <p class="error" id="error" role="alert" hidden></p>
       </div>
@@ -209,6 +197,7 @@ table.list td.num { font-variant-numeric: tabular-nums; }
       <div id="done-card"></div>
       <div class="actions">
         <button class="btn btn-book" type="button" id="print">Print voucher</button>
+        <button class="btn btn-line" type="button" id="copy">Copy voucher link</button>
         <button class="btn btn-line" type="button" id="another">Buy another</button>
         <button class="btn btn-line" type="button" id="see-admin">See the inn's view</button>
       </div>
@@ -238,7 +227,7 @@ table.list td.num { font-variant-numeric: tabular-nums; }
           <tbody id="rows"></tbody>
         </table>
       </div>
-      <p class="note" style="margin:0">In a real setup the inn also gets an email for every sale, and the money goes straight to your own Stripe account.</p>
+      <p class="note" style="margin:0">In a real setup the money goes straight to your own Stripe account, and Stripe emails each buyer a receipt.</p>
     </div>
   </div>
 <section class="block" id="visit"><div class="wrap two"><div><div class="head"><span class="eyebrow">Visit us</span><h2>The Crown</h2><p>6 Market Place, Fakenham NR21 9BP · 01328 855278</p></div><p class="note" style="margin-top:0">Sunday carvery every week. Call 01328 855278 to book a table.</p></div><div class="contact"><h2>Find us</h2><a class="btn btn-book" href="https://www.google.com/maps/search/?api=1&amp;query=The+Crown+Hotel+Market+Place+Fakenham" target="_blank" rel="noopener">Open in Google Maps</a><a class="btn btn-line" href="https://www.google.com/maps/search/?api=1&amp;query=The+Crown+Hotel+Market+Place+Fakenham" target="_blank" rel="noopener">Read our Google reviews</a></div></div></section>
@@ -285,24 +274,17 @@ table.list td.num { font-variant-numeric: tabular-nums; }
   ];
   if (!load().length) save(memory.slice());
 
-  // default send date: Christmas morning
-  var now = new Date();
-  var xmasYear = (now.getMonth() === 11 && now.getDate() > 25) ? now.getFullYear() + 1 : now.getFullYear();
-  $('senddate').value = xmasYear + '-12-25';
-
   function state() {
     var g = document.querySelector('input[name=gift]:checked').value;
-    var d = document.querySelector('input[name=delivery]:checked').value;
     var amt = Math.round(parseFloat($('amount').value) || 0);
     var item = GIFTS[g];
     var value = g === 'amount' ? amt : item.price;
     var title = g === 'amount' ? (amt ? '£' + amt + ' to spend' : 'An amount to spend') : item.title;
-    return { gift: g, delivery: d, value: value, title: title, total: value + (d === 'post' ? 3.5 : 0) };
+    return { gift: g, value: value, title: title, total: value };
   }
 
   function validUntil() {
-    var d = new Date($('senddate').value || Date.now());
-    if (isNaN(d)) d = new Date();
+    var d = new Date();
     d.setFullYear(d.getFullYear() + 1);
     return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
   }
@@ -310,10 +292,6 @@ table.list td.num { font-variant-numeric: tabular-nums; }
   function render() {
     var s = state();
     $('amount-field').hidden = s.gift !== 'amount';
-    $('address-field').hidden = s.delivery !== 'post';
-    $('email-field').hidden = s.delivery === 'post';
-    $('date-field').hidden = s.delivery !== 'recipient';
-    $('email-label').textContent = s.delivery === 'me' ? 'Your email' : 'Their email';
     $('v-title').textContent = s.title;
     $('v-msg').textContent = $('message').value ? '“' + $('message').value + '”' : '';
     $('v-to').textContent = $('to').value || '—';
@@ -328,8 +306,6 @@ table.list td.num { font-variant-numeric: tabular-nums; }
     if (s.gift === 'amount' && (s.value < 25 || s.value > 500)) return 'Please choose an amount between £25 and £500.';
     if (!$('to').value.trim()) return 'Please add who the voucher is for.';
     if (!$('from').value.trim()) return 'Please add who the voucher is from.';
-    if (s.delivery !== 'post' && !/^\S+@\S+\.\S+$/.test($('email').value)) return 'Please enter a valid email address.';
-    if (s.delivery === 'post' && !$('address').value.trim()) return 'Please add the postal address.';
     return '';
   }
 
@@ -352,10 +328,7 @@ table.list td.num { font-variant-numeric: tabular-nums; }
       var num = 'CF-' + String(Math.floor(100000 + Math.random() * 900000));
       var list = load(); list.unshift({ num: num, title: s.title, to: $('to').value.trim(), value: s.value, used: false }); save(list);
       $('v-num').textContent = num;
-      var when = s.delivery === 'recipient' ? 'We will email it to ' + $('email').value + ' on ' + new Date($('senddate').value).toLocaleDateString('en-GB', { day: 'numeric', month: 'long' }) + '.'
-        : s.delivery === 'me' ? 'We have emailed it to ' + $('email').value + ' so you can print it.'
-        : 'We will post a printed card to the address you gave.';
-      $('done-text').textContent = 'Voucher ' + num + ' for ' + gbp(s.total) + '. ' + when + ' In this demo no email is sent and no payment is taken.';
+      $('done-text').textContent = 'Voucher ' + num + ' for ' + gbp(s.total) + '. Print it, or copy the link and send it on. Stripe also emails you a receipt. In this demo no payment is taken.';
       $('done-card').innerHTML = ''; $('done-card').appendChild($('card').cloneNode(true));
       $('sheet').hidden = true; $('shop').hidden = true; $('done').hidden = false;
       b.disabled = false; b.textContent = 'Pay now';
@@ -365,6 +338,11 @@ table.list td.num { font-variant-numeric: tabular-nums; }
   });
 
   $('print').addEventListener('click', function () { window.print(); });
+  $('copy').addEventListener('click', function () {
+    var b = this, link = location.href.split('#')[0] + '#voucher-' + $('v-num').textContent;
+    var done = function () { b.textContent = 'Link copied'; setTimeout(function () { b.textContent = 'Copy voucher link'; }, 2000); };
+    if (navigator.clipboard) navigator.clipboard.writeText(link).then(done, done); else done();
+  });
   $('another').addEventListener('click', function () { $('done').hidden = true; $('shop').hidden = false; $('v-num').textContent = 'CF-••••••'; render(); });
   $('see-admin').addEventListener('click', function () { show('admin'); });
 

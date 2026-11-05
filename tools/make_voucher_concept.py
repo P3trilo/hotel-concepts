@@ -12,6 +12,7 @@ import json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TPL = os.path.join(ROOT, 'demo', 'gift-vouchers', 'index.html')
+INTRO = 'Choose a gift or an amount and add a personal message. You get the voucher straight away, ready to print or send on.'
 
 
 def esc(s):
@@ -29,6 +30,11 @@ def money(p):
 def build(c):
     h = open(TPL, encoding='utf-8').read()
     name, P = c['name'], c['prefix']
+    # the real system sends no emails (voucher shown straight away, Stripe sends the receipt): old configs promised
+    # "we email the voucher on the day you pick" -> always use the wording that matches the real system
+    intro = c.get('intro') or INTRO
+    if 'email' in intro.lower() or 'christmas morning' in intro.lower():
+        intro = INTRO
     rep = [
         ('<title>Gift Vouchers Demo</title>', f'<title>{esc(name)} Gift Vouchers</title>'),
         ('Demo with a fictional inn by Petr Ivan. No payment is taken and no email is sent.',
@@ -36,15 +42,15 @@ def build(c):
         ('<b>The Glen Ardour Inn</b><span>A fictional Highland inn</span>', f'<b>{esc(name)}</b><span>{esc(c["tagline"])}</span>'),
         ('<span class="eyebrow">Gift vouchers</span>\n    <h1>Give a night in the Highlands</h1>',
          f'<span class="eyebrow">{esc(c["eyebrow"])}</span>\n    <h1>{esc(c["headline"])}</h1>'),
-        ('<p>Choose an amount or an experience, add a personal message, and we email the voucher on the day you pick, ready for Christmas morning.</p>',
-         f'<p>{esc(c["intro"])}</p>'),
+        ('<p>Choose a gift or an amount and add a personal message. You get the voucher straight away, ready to print or send on.</p>',
+         f'<p>{esc(intro)}</p>'),
         ('What the guest sees', f'What the {c["guest"]} sees'),
         ('What the hotel sees', f'What the {c["biz"]} sees'),
         ("See the hotel's view", f"See the {c['biz']}'s view"),
         ('<span class="eyebrow">For the hotel</span>', f'<span class="eyebrow">For the {c["biz"]}</span>'),
         ('When a guest comes to use one', f'When a {c["guest"]} comes to use one'),
-        ("the hotel also gets an email for every sale, and the money goes straight to the hotel's own Stripe account",
-         f"the {c['biz']} also gets an email for every sale, and the money goes straight to your own Stripe account"),
+        ("the money goes straight to the hotel's own Stripe account",
+         f"the money goes straight to your own Stripe account"),
         ('<div class="vh"><b>The Glen Ardour Inn</b><span>Gift voucher</span></div>', f'<div class="vh"><b>{esc(name)}</b><span>Gift voucher</span></div>'),
         ("Happy Christmas! Let's finally have that weekend away.", esc(c['message'])),
         ('<span>Spend on rooms, food or drink</span><span class="price">£25 to £500</span>', f'<span>{esc(c["amount_desc"])}</span><span class="price">£25 to £500</span>'),
