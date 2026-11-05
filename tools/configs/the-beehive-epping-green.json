@@ -1,0 +1,57 @@
+{
+ "slug": "the-beehive-epping-green",
+ "name": "The Beehive",
+ "tagline": "18th-century country pub · Epping Green",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Beehive",
+ "gifts": [
+  [
+   "Beehive Fish Platter",
+   "Choose 4: garlic tiger prawns, whitebait, calamari, fresh crab meat, crayfish, scampi and more, with salad and sauce",
+   22.95,
+   "A Beehive Fish Platter"
+  ],
+  [
+   "Garlic & Lemon Scallops",
+   "From the fresh seafood section of the menu",
+   24.95,
+   "Garlic and lemon scallops"
+  ],
+  [
+   "Roast Sirloin of Beef",
+   "Sunday roast, Sundays only",
+   17.95,
+   "Sunday roast sirloin of beef"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at The Beehive, my treat.",
+ "accent": "#2a5989",
+ "cta": "#2a5989",
+ "on_cta": "#ffffff",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "BH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Beehive Fish Platter",
+   "Sarah",
+   22.95,
+   true
+  ],
+  [
+   "Garlic & Lemon Scallops",
+   "Emma",
+   24.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Epping Green, Hertford, SG13 8NB",
+  "hours": "Tue-Sat 12pm-11pm, Sun 12pm-7pm, closed Mon",
+  "maps_query": "The Beehive Epping Green"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-beehive-epping-green_1.jpg"
+}

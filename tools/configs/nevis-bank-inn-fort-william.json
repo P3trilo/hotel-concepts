@@ -1,0 +1,57 @@
+{
+ "slug": "nevis-bank-inn-fort-william",
+ "name": "Nevis Bank Inn",
+ "tagline": "Small hotel & Browns Restaurant · Fort William",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by the River Nevis",
+ "gifts": [
+  [
+   "Pan Roasted Duck Breast",
+   "Duck breast with orange and chilli sauce, pickled red onion, wilted courgette ribbons and fondant potato",
+   25.95,
+   "Pan roasted duck breast at Browns Restaurant"
+  ],
+  [
+   "10oz Lochaber Larder Sirloin Steak",
+   "28 day aged sirloin with beer battered onion rings, salad and hand cut chunky chips",
+   43.95,
+   "10oz 28-day aged Lochaber Larder sirloin steak"
+  ],
+  [
+   "Browns Sticky Toffee Pudding",
+   "Rich toffee sauce, vanilla ice cream",
+   9.95,
+   "Browns sticky toffee pudding"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! Dinner at the Nevis Bank Inn, my treat.",
+ "accent": "#4a2222",
+ "cta": "#f25f5c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#252b2d",
+ "hero_eyebrow": "#f25f5c",
+ "prefix": "NB",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Pan Roasted Duck Breast",
+   "Sarah",
+   25.95,
+   true
+  ],
+  [
+   "10oz Lochaber Larder Sirloin Steak",
+   "Emma",
+   43.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Belford Road, Fort William, PH33 6PF",
+  "hours": "Restaurant 5.30pm to 9.30pm (last orders)",
+  "maps_query": "Nevis Bank Inn Fort William"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nevis-bank-inn-fort-william_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "the-gate-great-missenden",
+ "name": "The Gate",
+ "tagline": "Country pub & dining · Chiltern Hills",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch in the Chilterns",
+ "gifts": [
+  [
+   "8oz 28 day aged prime sirloin steak",
+   "With garlic roasted beef tomato, flat mushroom, chunky chips and onion rings",
+   24.95,
+   "8oz 28-day aged sirloin steak at The Gate"
+  ],
+  [
+   "Dirty Desi Burger",
+   "8oz spicy lamb burger, mint yoghurt chutney and chilli sauce, with fries",
+   18.5,
+   "Dirty Desi lamb burger"
+  ],
+  [
+   "Beer battered fish and chips",
+   "With tartar sauce and peas or mushy peas",
+   15.95,
+   "Beer battered fish and chips"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at The Gate, my treat.",
+ "accent": "#ab3f1b",
+ "cta": "#ab3f1b",
+ "on_cta": "#ffffff",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "GT",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "8oz 28 day aged prime sirloin steak",
+   "Sarah",
+   24.95,
+   true
+  ],
+  [
+   "Dirty Desi Burger",
+   "Emma",
+   18.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Bryants Bottom Road, Bryants Bottom, HP16 0JS",
+  "hours": "Mon-Sat 12pm-10pm, Sun 12pm-8pm",
+  "maps_query": "The Gate Pub Bryants Bottom"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-gate-great-missenden_1.jpg"
+}

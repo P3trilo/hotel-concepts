@@ -1,0 +1,57 @@
+{
+ "slug": "wynnstay-machynlleth",
+ "name": "The Wynnstay Hotel & Restaurant",
+ "tagline": "Georgian coaching inn · Machynlleth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at the Wynnstay",
+ "gifts": [
+  [
+   "A night in the Four-Poster Room",
+   "Their signature room with an elegant four-poster bed, bed and Welsh breakfast",
+   175,
+   "One night B&B in the Four-Poster Room"
+  ],
+  [
+   "A night in a Standard Double Room",
+   "Double room with en-suite, bed and Welsh breakfast",
+   130,
+   "One night B&B in a double room"
+  ],
+  [
+   "Three-course Sunday Roast",
+   "Sunday roast, three courses",
+   30,
+   "Three-course Sunday roast at the Wynnstay"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A night at the Wynnstay, my treat.",
+ "accent": "#0b1d44",
+ "cta": "#db8a00",
+ "on_cta": "#0b1d44",
+ "hero_bg": "#0b1d44",
+ "hero_eyebrow": "#db8a00",
+ "prefix": "WY",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "A night in the Four-Poster Room",
+   "Sarah",
+   175,
+   true
+  ],
+  [
+   "A night in a Standard Double Room",
+   "Emma",
+   130,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Heol Maengwyn, Machynlleth, Powys SY20 8AE",
+  "hours": "",
+  "maps_query": "Wynnstay Hotel Machynlleth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/wynnstay-machynlleth_1.jpg"
+}

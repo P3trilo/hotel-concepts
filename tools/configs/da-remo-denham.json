@@ -1,0 +1,57 @@
+{
+ "slug": "da-remo-denham",
+ "name": "Da Remo",
+ "tagline": "Italian restaurant since 1988 · Denham Village",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an Italian dinner in Denham",
+ "gifts": [
+  [
+   "Two-course dinner or Sunday lunch",
+   "Set menu, Tuesday to Friday dinner and Sunday lunch, e.g. sea bass with asparagus or calf's liver with sage",
+   27.5,
+   "Two-course set dinner or Sunday lunch at Da Remo"
+  ],
+  [
+   "Spaghetti alla Marinara",
+   "Spaghetti with squid, tiger prawns and clams in a light tomato sauce and garlic",
+   20.5,
+   "Spaghetti alla marinara"
+  ],
+  [
+   "Girasoli con polpa di granchio",
+   "Fresh egg pasta filled with crab meat and ricotta, with prawns, asparagus and cream sauce",
+   17.5,
+   "Girasoli filled with crab and ricotta"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Da Remo, my treat.",
+ "accent": "#5e0d0d",
+ "cta": "#5e0d0d",
+ "on_cta": "#ffffff",
+ "hero_bg": "#5e0d0d",
+ "hero_eyebrow": "#bc861b",
+ "prefix": "DR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Two-course dinner or Sunday lunch",
+   "Sarah",
+   27.5,
+   true
+  ],
+  [
+   "Spaghetti alla Marinara",
+   "Emma",
+   20.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Village Road, Denham Village, Uxbridge UB9 5BE",
+  "hours": "Closed Mon; lunch Tue-Fri 12-2.30pm, dinner Tue-Sat 6.30-10pm, Sun lunch 12-3pm",
+  "maps_query": "Da Remo Denham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/da-remo-denham_1.jpg"
+}

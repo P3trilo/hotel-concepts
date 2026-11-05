@@ -1,0 +1,57 @@
+{
+ "slug": "long-man-inn-wilmington",
+ "name": "Long Man Inn",
+ "tagline": "Edwardian pub with rooms · Wilmington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night under the South Downs",
+ "gifts": [
+  [
+   "A night in the Folkington Room",
+   "Bright dusky green front room, double bed, ensuite with walk-in shower, breakfast included",
+   150,
+   "One night B&B in the Folkington Room"
+  ],
+  [
+   "A night in the Arlington Room",
+   "Their largest room, king-size bed, ensuite with bath and walk-in shower, breakfast included",
+   175,
+   "One night B&B in the Arlington Room"
+  ],
+  [
+   "Venison Bourguignon",
+   "With mustard dumplings, from the winter dinner menu",
+   19,
+   "Venison bourguignon with mustard dumplings"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A night at the Long Man Inn, my treat.",
+ "accent": "#000000",
+ "cta": "#000000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1f1f1f",
+ "hero_eyebrow": "#efefef",
+ "prefix": "LM",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "A night in the Folkington Room",
+   "Sarah",
+   150,
+   true
+  ],
+  [
+   "A night in the Arlington Room",
+   "Emma",
+   175,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Street, Wilmington, Polegate BN26 5SQ",
+  "hours": "Open daily; lunch Mon-Fri 12-2.30pm, dinner 6-8pm; Sat 12-8pm; Sun 12-6pm",
+  "maps_query": "Long Man Inn Wilmington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/long-man-inn-wilmington_1.jpg"
+}

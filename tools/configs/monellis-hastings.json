@@ -1,0 +1,57 @@
+{
+ "slug": "monellis-hastings",
+ "name": "Monellis",
+ "tagline": "Family-run sourdough pizzeria · Hastings Old Town",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a sourdough pizza night",
+ "gifts": [
+  [
+   "Margherita",
+   "Natural sourdough pizza with fiordilatte mozzarella, Puglia tomato sauce and fresh basil",
+   13.5,
+   "A Margherita sourdough pizza"
+  ],
+  [
+   "Calabrese",
+   "Fiordilatte mozzarella, Puglia tomato sauce, Calabrian nduja and fresh Italian pepperoni",
+   22,
+   "A Calabrese sourdough pizza"
+  ],
+  [
+   "Principessa",
+   "Puglia tomato sauce, fiordilatte, black truffle cream, gorgonzola, mushrooms, violetto artichokes and rocket",
+   26,
+   "A Principessa sourdough pizza"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pizza at Monellis, my treat.",
+ "accent": "#cf2e2e",
+ "cta": "#cf2e2e",
+ "on_cta": "#ffffff",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "MO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Margherita",
+   "Sarah",
+   13.5,
+   true
+  ],
+  [
+   "Calabrese",
+   "Emma",
+   22,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "43A George St, Hastings TN34 3EA",
+  "hours": "Thu-Sat 12.30-9pm, Sun 12.30-5.30pm, closed Mon-Wed",
+  "maps_query": "Monellis Hastings"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/monellis-hastings_1.jpg"
+}

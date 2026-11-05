@@ -1,0 +1,57 @@
+{
+ "slug": "blue-naan-felixstowe",
+ "name": "The Blue Naan",
+ "tagline": "Indian fusion dining · Felixstowe",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a fusion dinner at the Blue Naan",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the Blue Naan, my treat.",
+ "accent": "#0c5ac9",
+ "cta": "#0c5ac9",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1f1f1f",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "BN",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 Hamilton Rd, Felixstowe IP11 7AX",
+  "hours": "Sun 3.30-9.30pm, Tue-Thu 5-10pm, Fri-Sat 4.30-10.30pm, closed Mon",
+  "maps_query": "Blue Naan Felixstowe"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/blue-naan-felixstowe_1.jpg"
+}
