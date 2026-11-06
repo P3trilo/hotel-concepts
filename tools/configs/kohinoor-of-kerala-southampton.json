@@ -1,0 +1,57 @@
+{
+ "slug": "kohinoor-of-kerala-southampton",
+ "name": "Kohinoor of Kerala",
+ "tagline": "Real south Indian cuisine · Portswood, Southampton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner from Kerala",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Kohinoor of Kerala, my treat.",
+ "accent": "#ce1a26",
+ "cta": "#ce1a26",
+ "on_cta": "#ffffff",
+ "hero_bg": "#4a4e57",
+ "hero_eyebrow": "#fcdc31",
+ "prefix": "KOK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 The Broadway, Portswood Road, Southampton SO17 2WE",
+  "hours": "Evenings daily 6pm to 11pm, lunch Thursday to Saturday 12pm to 2pm",
+  "maps_query": "Kohinoor of Kerala Southampton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/kohinoor-of-kerala-southampton_1.jpg"
+}

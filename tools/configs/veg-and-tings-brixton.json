@@ -1,0 +1,57 @@
+{
+ "slug": "veg-and-tings-brixton",
+ "name": "Veg&Tings",
+ "tagline": "Caribbean vegetarian kitchen · Brixton Village",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of the Caribbean",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food, cocktails or drinks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food, cocktails or drinks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food, cocktails or drinks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, cocktails or drinks",
+ "message": "Happy Christmas! Lunch at Veg&Tings, my treat.",
+ "accent": "#204b4a",
+ "cta": "#cc3366",
+ "on_cta": "#ffffff",
+ "hero_bg": "#204b4a",
+ "hero_eyebrow": "#dff1d8",
+ "prefix": "VT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Unit 4, Brixton Village, Coldharbour Lane, London SW9 8PR",
+  "hours": "Closed Monday, open Tuesday to Sunday",
+  "maps_query": "Veg and Tings Brixton Village"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/veg-and-tings-brixton_1.jpg"
+}

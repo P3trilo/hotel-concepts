@@ -1,0 +1,57 @@
+{
+ "slug": "etles-uyghur-restaurant-london",
+ "name": "Etles Uyghur Restaurant",
+ "tagline": "Uyghur restaurant · Walthamstow",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Uyghur feast at Etles",
+ "gifts": [
+  [
+   "Etles Large Plate Chicken",
+   "Extra large plate of spicy chicken, potatoes, garlic and ginger in special peppered sauce served with flat noodles",
+   39.99,
+   "The Etles Large Plate Chicken to share"
+  ],
+  [
+   "Etles Kordak",
+   "Tender pieces of lamb and onion on a bed of naan bread",
+   54.99,
+   "The Etles Kordak lamb platter to share"
+  ],
+  [
+   "Traditional Leghmen",
+   "Hand-pulled noodles topped with vegetables and peppery sauce",
+   14.99,
+   "A bowl of hand-pulled Leghmen noodles"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Etles, my treat.",
+ "accent": "#d0963e",
+ "cta": "#d0963e",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#ff6d4f",
+ "prefix": "ETL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Etles Large Plate Chicken",
+   "Sarah",
+   39.99,
+   true
+  ],
+  [
+   "Etles Kordak",
+   "Emma",
+   54.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "235 Hoe Street, Walthamstow, London, E17 9PP",
+  "hours": "Tue-Sun 11:30-21:30, Mon closed",
+  "maps_query": "Etles Uyghur Restaurant Walthamstow"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/etles-uyghur-restaurant-london_1.jpg"
+}

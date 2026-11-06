@@ -1,0 +1,57 @@
+{
+ "slug": "da-shack-london",
+ "name": "Da Shack",
+ "tagline": "Hawaiian poke restaurant · Ealing",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Hawaii at Da Shack",
+ "gifts": [
+  [
+   "The Big Mix",
+   "Ahi tuna, salmon, giant corn, charred sweetcorn, edamame, mango, guacamole, ginger, chillies, shoyu, Sriracha mayo",
+   13.95,
+   "The Big Mix poke bowl"
+  ],
+  [
+   "Ahi Original",
+   "Ahi tuna, gari ginger, charred sweet corn, edamame, cucumber, a hint of chillies, carrots, shoyu sauce",
+   12.75,
+   "An Ahi Original poke bowl"
+  ],
+  [
+   "O'ahu Chicken",
+   "Hawaiian style grilled chicken, pineapple, edamame, red cabbage, shredded carrots, chillies, shoyu and Sriracha mayo",
+   12.5,
+   "An O'ahu Chicken poke bowl"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Da Shack, my treat.",
+ "accent": "#2061b7",
+ "cta": "#2061b7",
+ "on_cta": "#ffffff",
+ "hero_bg": "#281a39",
+ "hero_eyebrow": "#bde9fb",
+ "prefix": "DSH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "The Big Mix",
+   "Sarah",
+   13.95,
+   true
+  ],
+  [
+   "Ahi Original",
+   "Emma",
+   12.75,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "156 South Ealing Road, London, W5 4QL",
+  "hours": "Mon-Fri 10:00-21:00, Sat 11:00-21:00, Sun closed",
+  "maps_query": "Da Shack South Ealing Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/da-shack-london_1.jpg"
+}

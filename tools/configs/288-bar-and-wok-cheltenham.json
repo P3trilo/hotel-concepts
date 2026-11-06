@@ -1,0 +1,57 @@
+{
+ "slug": "288-bar-and-wok-cheltenham",
+ "name": "288 Bar & Wok",
+ "tagline": "Hong Kong style noodle bar · Cheltenham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a bowl of noodles at 288",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu, food or drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu, food or drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu, food or drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu, food or drink",
+ "message": "Happy Christmas! Noodles at 288 Bar & Wok, my treat.",
+ "accent": "#ef3e42",
+ "cta": "#ef3e42",
+ "on_cta": "#ffffff",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#ef3e42",
+ "prefix": "BW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "288 High Street, Cheltenham GL50 3HQ",
+  "hours": "Closed Monday; dinner Tuesday to Sunday, lunch Thursday to Sunday",
+  "maps_query": "288 Bar & Wok Cheltenham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/288-bar-and-wok-cheltenham_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "you-me-and-umami-lechlade",
+ "name": "You Me and Umami",
+ "tagline": "Pan-Asian restaurant · Lechlade",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner to share",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at You Me and Umami, my treat.",
+ "accent": "#df1515",
+ "cta": "#df1515",
+ "on_cta": "#ffffff",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#fff8ef",
+ "prefix": "YMU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "High Street, Lechlade, GL7 3AD",
+  "hours": "Tue-Wed 5pm-9.30pm, Thu-Fri 4pm-9.30pm, Sat 12pm-9.30pm, Sun 4pm-9.30pm, closed Monday",
+  "maps_query": "You Me and Umami Lechlade"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/you-me-and-umami-lechlade_1.jpg"
+}

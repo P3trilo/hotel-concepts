@@ -1,0 +1,57 @@
+{
+ "slug": "spice-deli-london",
+ "name": "Spice Deli",
+ "tagline": "Family-run spice cafe and deli · West Hampstead",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Spice Deli",
+ "gifts": [
+  [
+   "Cardamom pancakes",
+   "With caramelised bananas, yoghurt, pistachio and jaggery syrup",
+   13,
+   "Cardamom pancakes at Spice Deli"
+  ],
+  [
+   "Shakshuka",
+   "Baked eggs on homemade harissa spiced roasted pepper sauce, topped with feta and za'atar",
+   14,
+   "Shakshuka brunch at Spice Deli"
+  ],
+  [
+   "The Meaty one",
+   "Green chilli fried eggs, masala baked beans, fennel bacon, merguez sausage and mushrooms",
+   17,
+   "The Meaty one brunch plate at Spice Deli"
+  ]
+ ],
+ "amount_desc": "Spend on brunch, coffee, cakes or anything at the counter",
+ "message": "Happy Christmas! Brunch at Spice Deli, my treat.",
+ "accent": "#af7657",
+ "cta": "#af7657",
+ "on_cta": "#ffffff",
+ "hero_bg": "#f6f5f1",
+ "hero_eyebrow": "#af7657",
+ "prefix": "SPD",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Cardamom pancakes",
+   "Sarah",
+   13,
+   true
+  ],
+  [
+   "Shakshuka",
+   "Emma",
+   14,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "11 Goldhurst Terrace, London NW6 3HX",
+  "hours": "8am to 4pm weekdays, 9.30am to 4pm weekends and bank holidays",
+  "maps_query": "Spice Deli Goldhurst Terrace London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/spice-deli-london_1.jpg"
+}

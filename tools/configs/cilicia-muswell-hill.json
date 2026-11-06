@@ -1,0 +1,57 @@
+{
+ "slug": "cilicia-muswell-hill",
+ "name": "Cilicia Cafe & Restaurant",
+ "tagline": "Family-owned Mediterranean cafe and restaurant · Muswell Hill",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Cilicia",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on breakfast, lunch or dinner, food or drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on breakfast, lunch or dinner, food or drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on breakfast, lunch or dinner, food or drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on breakfast, lunch or dinner, food or drink",
+ "message": "Happy Christmas! Dinner at Cilicia, my treat.",
+ "accent": "#bd9a57",
+ "cta": "#bd9a57",
+ "on_cta": "#1b1d1f",
+ "hero_bg": "#1b1d1f",
+ "hero_eyebrow": "#bd9a57",
+ "prefix": "CIL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "440 Muswell Hill Broadway, London N10 1BS",
+  "hours": "Monday to Thursday 11am to 10.30pm, Friday 11am to 11pm, Saturday 10am to 11pm, Sunday 10am to 10pm",
+  "maps_query": "Cilicia Cafe Muswell Hill"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cilicia-muswell-hill_1.jpg"
+}

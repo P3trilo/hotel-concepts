@@ -1,0 +1,57 @@
+{
+ "slug": "saffron-lounge-cheltenham",
+ "name": "Saffron Lounge",
+ "tagline": "Indian restaurant · Woodmancote, Cheltenham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Saffron Lounge",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Saffron Lounge, my treat.",
+ "accent": "#993720",
+ "cta": "#993720",
+ "on_cta": "#ffffff",
+ "hero_bg": "#640c0e",
+ "hero_eyebrow": "#fdd587",
+ "prefix": "SFL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Road, Woodmancote, Cheltenham, Gloucestershire, GL52 9JG",
+  "hours": "Tue-Sun 12:00-13:00 and 17:30-22:30, closed Mondays (open bank holiday Mondays)",
+  "maps_query": "Saffron Lounge Woodmancote Cheltenham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/saffron-lounge-cheltenham_1.jpg"
+}

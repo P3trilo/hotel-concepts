@@ -1,0 +1,57 @@
+{
+ "slug": "gurkha-village-kidlington",
+ "name": "Gurkha Village",
+ "tagline": "Nepalese restaurant & bar · Kidlington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Nepalese dinner",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Dinner at Gurkha Village, my treat.",
+ "accent": "#dcbb55",
+ "cta": "#dcbb55",
+ "on_cta": "#252525",
+ "hero_bg": "#252525",
+ "hero_eyebrow": "#dcbb55",
+ "prefix": "GV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "174 Oxford Road, Kidlington, OX5 1EA",
+  "hours": "Mon-Tue 5pm-10pm, Wed-Thu 12-2.30pm and 5pm-10.30pm, Fri-Sat 12pm-11pm, Sun 12pm-10pm",
+  "maps_query": "Gurkha Village Kidlington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/gurkha-village-kidlington_1.jpg"
+}

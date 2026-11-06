@@ -1,0 +1,57 @@
+{
+ "slug": "namaste-johney-gurkha-aldershot",
+ "name": "Namaste Johney Gurkha",
+ "tagline": "Nepalese & Indian restaurant · Aldershot",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Johney Gurkha",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Namaste Johney Gurkha, my treat.",
+ "accent": "#d0a772",
+ "cta": "#d0a772",
+ "on_cta": "#1f1f1f",
+ "hero_bg": "#1f1f1f",
+ "hero_eyebrow": "#d0a772",
+ "prefix": "NJG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "186 Victoria Road, Aldershot, GU11 1JZ",
+  "hours": "Mon-Sat 17:00-22:30, Sun closed",
+  "maps_query": "Namaste Johney Gurkha Aldershot"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/namaste-johney-gurkha-aldershot_1.jpg"
+}

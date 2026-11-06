@@ -1,0 +1,57 @@
+{
+ "slug": "mukkebi-london",
+ "name": "Mukkebi",
+ "tagline": "Korean restaurant · Finsbury Park",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Korean dinner at Mukkebi",
+ "gifts": [
+  [
+   "Samgetang",
+   "Boiled chicken soup with ginseng and red date",
+   16.5,
+   "A bowl of Samgetang ginseng chicken soup"
+  ],
+  [
+   "Bulgogi",
+   "Stir fried thin sliced beef marinated in soy based Bulgogi sauce",
+   12.5,
+   "Bulgogi beef with rice"
+  ],
+  [
+   "Makgeolli",
+   "Korean rice wine",
+   13.5,
+   "A bottle of Makgeolli rice wine"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Mukkebi, my treat.",
+ "accent": "#c34d12",
+ "cta": "#c34d12",
+ "on_cta": "#ffffff",
+ "hero_bg": "#0a0a0a",
+ "hero_eyebrow": "#e07a45",
+ "prefix": "MKB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Samgetang",
+   "Sarah",
+   16.5,
+   true
+  ],
+  [
+   "Bulgogi",
+   "Emma",
+   12.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "152a Seven Sisters Road, Finsbury Park, London, N7 7PL",
+  "hours": "Tue-Sat 11:00-15:00 and 17:30-22:30, Sun 17:30-22:00, Mon closed",
+  "maps_query": "Mukkebi Finsbury Park London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/mukkebi-london_2.jpg"
+}

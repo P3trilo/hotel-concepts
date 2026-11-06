@@ -1,0 +1,57 @@
+{
+ "slug": "aracelis-woking",
+ "name": "Araceli's",
+ "tagline": "Mexican street food, eat in and takeaway · Woking",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give tacos at Araceli's",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Araceli's, my treat.",
+ "accent": "#237f97",
+ "cta": "#237f97",
+ "on_cta": "#ffffff",
+ "hero_bg": "#444444",
+ "hero_eyebrow": "#ff5500",
+ "prefix": "ARA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "16 Commercial Way, Woking GU21 6ET",
+  "hours": "Monday to Thursday 11am to 9pm, Friday and Saturday 11am to 10pm, Sunday and bank holidays 11am to 6pm",
+  "maps_query": "Araceli's Woking"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/aracelis-woking_1.jpg"
+}

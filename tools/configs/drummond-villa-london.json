@@ -1,0 +1,57 @@
+{
+ "slug": "drummond-villa-london",
+ "name": "Drummond Villa",
+ "tagline": "Indian restaurant · Regent's Park",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner on Drummond Street",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Drummond Villa, my treat.",
+ "accent": "#c80000",
+ "cta": "#c80000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#111827",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "DV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "118 Drummond Street, London, NW1 2HN",
+  "hours": "Monday to Saturday 12pm to 11.30pm, Sunday 4pm to 11.30pm",
+  "maps_query": "Drummond Villa Drummond Street London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/drummond-villa-london_1.jpg"
+}

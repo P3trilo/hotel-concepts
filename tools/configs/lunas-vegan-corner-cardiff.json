@@ -1,0 +1,57 @@
+{
+ "slug": "lunas-vegan-corner-cardiff",
+ "name": "Luna's Vegan Corner",
+ "tagline": "Vegan restaurant · Wellfield Road, Cardiff",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Luna's",
+ "gifts": [
+  [
+   "Luna's Mega Brunch",
+   "Scrambled tofu, veggie patty, smoked beans, marinated mushrooms and tomatoes served with crusty bread",
+   12.0,
+   "Luna's Mega Brunch (served 12pm-3pm, Monday to Friday)"
+  ],
+  [
+   "Sunday Roast Dinner",
+   "Roasted potatoes, parsnip, carrot, broccoli, cauliflower, chickpea pudding, seitan, with homemade sauce (Sundays only)",
+   13.5,
+   "A plant-based Sunday roast dinner"
+  ],
+  [
+   "Luna's Staple Burger",
+   "Homemade veggie burger patty, onion rings, tomato, lettuce, sheeze in a brioche bun with garlic mayo and hand cut chunky chips",
+   14.0,
+   "Luna's Staple Burger and chips"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at Luna's, my treat.",
+ "accent": "#ff785b",
+ "cta": "#ff785b",
+ "on_cta": "#161616",
+ "hero_bg": "#161616",
+ "hero_eyebrow": "#ff785b",
+ "prefix": "LVC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Luna's Mega Brunch",
+   "Sarah",
+   12.0,
+   true
+  ],
+  [
+   "Sunday Roast Dinner",
+   "Emma",
+   13.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "26 Wellfield Road, Cardiff, CF24 3PB",
+  "hours": "Mon 12:00-15:00, Tue-Sat 12:00-15:00 and 17:00-21:00, Sun 12:00-16:00",
+  "maps_query": "Luna's Vegan Corner Cardiff"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/lunas-vegan-corner-cardiff_1.jpg"
+}

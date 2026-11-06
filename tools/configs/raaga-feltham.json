@@ -1,0 +1,57 @@
+{
+ "slug": "raaga-feltham",
+ "name": "Raaga",
+ "tagline": "Indian dining with live music · Feltham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner with live music",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Raaga, my treat.",
+ "accent": "#dd8700",
+ "cta": "#f5b62e",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#f5b62e",
+ "prefix": "RGA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "333 Staines Road, Feltham TW14 9HF",
+  "hours": "Monday 4pm to 11pm, Tuesday to Thursday and Sunday 12pm to 11pm, Friday and Saturday 12pm to midnight",
+  "maps_query": "Raaga 333 Staines Road Feltham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/raaga-feltham_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "campden-coffee-chipping-campden",
+ "name": "Campden Coffee",
+ "tagline": "Licensed café & coffee shop · Chipping Campden",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and cake at the Old Silk Mill",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the café menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the café menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the café menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the café menu",
+ "message": "Happy Christmas! Coffee and cake at Campden Coffee, my treat.",
+ "accent": "#d28736",
+ "cta": "#d28736",
+ "on_cta": "#1e120a",
+ "hero_bg": "#1e120a",
+ "hero_eyebrow": "#d28736",
+ "prefix": "CCF",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Old Silk Mill, Sheep Street, Chipping Campden, GL55 6DS",
+  "hours": "Monday to Friday 9am to 4pm",
+  "maps_query": "Campden Coffee Chipping Campden"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/campden-coffee-chipping-campden_1.jpg"
+}
