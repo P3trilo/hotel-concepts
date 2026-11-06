@@ -1,0 +1,57 @@
+{
+ "slug": "klass-kuts-chesham",
+ "name": "Klass Kuts",
+ "tagline": "Family-run hair salon · Chesham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cut and blow dry",
+ "gifts": [
+  [
+   "Cut & blow dry",
+   "A cut and blow dry with one of the stylists",
+   45,
+   "Cut & Blow dry (from £45)"
+  ],
+  [
+   "Blow dry",
+   "A blow dry with one of the stylists",
+   27,
+   "Blow dry (from £27)"
+  ],
+  [
+   "Hair treatment",
+   "A hair treatment in the salon",
+   20,
+   "Treatment (from £20)"
+  ]
+ ],
+ "amount_desc": "Spend on any hair service or products in the salon",
+ "message": "Happy Christmas! A cut and blow dry at Klass Kuts, my treat.",
+ "accent": "#1aa79c",
+ "cta": "#1aa79c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#003448",
+ "hero_eyebrow": "#7fd6cf",
+ "prefix": "KK",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Cut & blow dry",
+   "Sarah",
+   45,
+   true
+  ],
+  [
+   "Blow dry",
+   "Emma",
+   27,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "13 Market Square, Chesham HP5 1HG",
+  "hours": "Tue 9am-3pm; Wed 9am-8pm; Thu 9am-5.30pm; Fri 9am-6pm; Sat 8.30am-3.30pm; Sun and Mon closed",
+  "maps_query": "Klass Kuts Chesham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/klass-kuts-chesham_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "the-coffee-cabinet-edinburgh",
+ "name": "The Coffee Cabinet",
+ "tagline": "Speciality coffee & brunch · Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at the Cabby",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on brunch, cake and coffee",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on brunch, cake and coffee",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on brunch, cake and coffee",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on brunch, cake and coffee",
+ "message": "Happy Christmas! Brunch at The Coffee Cabinet, my treat.",
+ "accent": "#c59764",
+ "cta": "#2b2620",
+ "on_cta": "#ffffff",
+ "hero_bg": "#2b2620",
+ "hero_eyebrow": "#c59764",
+ "prefix": "TCC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "49 Broughton Street, Edinburgh EH1 3RJ",
+  "hours": "Mon 9am-4pm; Tue-Fri 8.30am-4pm; Sat 9am-5pm; Sun 9am-4pm",
+  "maps_query": "The Coffee Cabinet Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-coffee-cabinet-edinburgh_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "the-mexican-exmouth",
+ "name": "The Mexican",
+ "tagline": "Mexican restaurant · Exmouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Mexican night out",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A night at The Mexican, my treat.",
+ "accent": "#d04d15",
+ "cta": "#d04d15",
+ "on_cta": "#ffffff",
+ "hero_bg": "#881e12",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "MEX",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "17-19 The Parade, Exmouth, EX8 1RS",
+  "hours": "Mon-Sat 11:30-2pm and 5pm-9:30pm, Sun 5pm-9pm (winter times may change)",
+  "maps_query": "The Mexican Exmouth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-mexican-exmouth_1.jpg"
+}

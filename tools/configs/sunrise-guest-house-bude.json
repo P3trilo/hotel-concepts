@@ -1,0 +1,57 @@
+{
+ "slug": "sunrise-guest-house-bude",
+ "name": "Sunrise Guest House",
+ "tagline": "Bed and breakfast · Bude",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a break by the sea in Bude",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a bed and breakfast stay",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a bed and breakfast stay",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a bed and breakfast stay",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a bed and breakfast stay",
+ "message": "Happy Christmas! A break at Sunrise in Bude, my treat.",
+ "accent": "#7f778f",
+ "cta": "#7f778f",
+ "on_cta": "#ffffff",
+ "hero_bg": "#252525",
+ "hero_eyebrow": "#fefce5",
+ "prefix": "SGH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Sunrise Guest House, 6 Burn View, Bude, Cornwall, EX23 8BY",
+  "hours": "",
+  "maps_query": "Sunrise Guest House Bude"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/sunrise-guest-house-bude_1.jpg"
+}

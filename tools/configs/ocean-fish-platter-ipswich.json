@@ -1,0 +1,57 @@
+{
+ "slug": "ocean-fish-platter-ipswich",
+ "name": "Ocean Fish Platter",
+ "tagline": "Seafood restaurant · Ipswich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a seafood dinner in Ipswich",
+ "gifts": [
+  [
+   "Ocean Meze Platter for two",
+   "Hummus, spicy muhammara, calamari salad, grilled halloumi, tempura prawns and grilled whole shell king prawns with bread",
+   24.95,
+   "Ocean Meze Platter for 2 at Ocean Fish Platter"
+  ],
+  [
+   "Sea bass fillet",
+   "Cooked gently on the grill with olive oil and their special sumac seasoning, with a side",
+   26.95,
+   "Grilled sea bass fillet at Ocean Fish Platter"
+  ],
+  [
+   "Fresh cod and chips",
+   "Deep fried the traditional way in beef dripping, with homemade tartar sauce and two sides",
+   15.95,
+   "Fresh cod (regular) at Ocean Fish Platter"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Ocean Fish Platter, my treat.",
+ "accent": "#0084ff",
+ "cta": "#0084ff",
+ "on_cta": "#ffffff",
+ "hero_bg": "#3e4449",
+ "hero_eyebrow": "#2f9bff",
+ "prefix": "OFP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Ocean Meze Platter for two",
+   "Sarah",
+   24.95,
+   true
+  ],
+  [
+   "Sea bass fillet",
+   "Emma",
+   26.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "43 Upper Brook St, Ipswich, IP4 1DU",
+  "hours": "",
+  "maps_query": "Ocean Fish Platter Ipswich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ocean-fish-platter-ipswich_1.jpg"
+}

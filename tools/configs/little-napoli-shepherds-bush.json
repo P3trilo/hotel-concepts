@@ -1,0 +1,57 @@
+{
+ "slug": "little-napoli-shepherds-bush",
+ "name": "Little Napoli",
+ "tagline": "Neapolitan sourdough pizza · Shepherd's Bush",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give pizza from Naples",
+ "gifts": [
+  [
+   "Antipasti platter to share",
+   "Cured meats, artisan cheeses, olives, grilled vegetables and fruit for three to four",
+   29.95,
+   "Antipasti Misto platter to share at Little Napoli"
+  ],
+  [
+   "A bottle of prosecco",
+   "A bottle of prosecco with your pizza",
+   35.0,
+   "A bottle of prosecco at Little Napoli"
+  ],
+  [
+   "The Little Napoli pizza",
+   "Buffalo mozzarella, sauteed mushrooms, truffle oil and parmesan shavings",
+   16.95,
+   "The Little Napoli pizza"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pizza at Little Napoli, my treat.",
+ "accent": "#f5c61c",
+ "cta": "#f5c61c",
+ "on_cta": "#1a1a1a",
+ "hero_bg": "#1a1a1a",
+ "hero_eyebrow": "#f5c61c",
+ "prefix": "LNP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Antipasti platter to share",
+   "Sarah",
+   29.95,
+   true
+  ],
+  [
+   "A bottle of prosecco",
+   "Emma",
+   35.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "428 Uxbridge Rd, Shepherd's Bush, London, W12 0NR",
+  "hours": "Monday to Sunday 12:00-23:00",
+  "maps_query": "Little Napoli Pizza Restaurant Shepherds Bush"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/little-napoli-shepherds-bush_1.jpg"
+}

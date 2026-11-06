@@ -1,0 +1,57 @@
+{
+ "slug": "rivers-and-roads-milnthorpe",
+ "name": "Rivers and Roads",
+ "tagline": "Coffee shop, kitchen & music nights · Milnthorpe",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Rivers and Roads",
+ "gifts": [
+  [
+   "Eggs Royale",
+   "Salmon, two poached eggs and hollandaise on sourdough",
+   15,
+   "Eggs Royale (salmon, horseradish cream cheese, 2 poached eggs, baby spinach and hollandaise on sourdough)"
+  ],
+  [
+   "Espresso Martini",
+   "A cocktail from the bar",
+   9,
+   "Espresso Martini"
+  ],
+  [
+   "A bottle of Prosecco",
+   "Cantina del Garda, Italy, to share",
+   28,
+   "Bottle of Prosecco (Cantina del Garda)"
+  ]
+ ],
+ "amount_desc": "Spend on food, coffee or drinks, day or evening",
+ "message": "Happy Christmas! Brunch at Rivers and Roads, my treat.",
+ "accent": "#c7a17a",
+ "cta": "#8f6e4c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#232323",
+ "hero_eyebrow": "#c7a17a",
+ "prefix": "RR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Eggs Royale",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "Espresso Martini",
+   "Emma",
+   9,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Bridge End House, Park Road, Milnthorpe, Cumbria LA7 7AN",
+  "hours": "Daily 9am-4pm (food 9am-3pm); evening opening on music and event nights",
+  "maps_query": "Rivers and Roads Milnthorpe"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/rivers-and-roads-milnthorpe_1.jpg"
+}

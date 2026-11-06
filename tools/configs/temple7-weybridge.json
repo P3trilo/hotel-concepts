@@ -1,0 +1,57 @@
+{
+ "slug": "temple7-weybridge",
+ "name": "Temple 7",
+ "tagline": "Modern Indian fine dining · Weybridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch at Temple 7",
+ "gifts": [
+  [
+   "Two-course lunch",
+   "Starter and main from the lunch menu, served with plain rice or naan",
+   15.0,
+   "Two-course lunch for one at Temple 7"
+  ],
+  [
+   "Sunday Funday Lunch",
+   "Starter, main and side, served with pilau rice or naan",
+   18.0,
+   "Sunday Funday Lunch for one at Temple 7"
+  ],
+  [
+   "Monday Dinner Special",
+   "Starter, main and side on Monday evenings, served with pilau rice or naan",
+   25.0,
+   "Monday Dinner Special for one at Temple 7"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Temple 7, my treat.",
+ "accent": "#bf9444",
+ "cta": "#bf9444",
+ "on_cta": "#1a1a1a",
+ "hero_bg": "#09161d",
+ "hero_eyebrow": "#bf9444",
+ "prefix": "T7W",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Two-course lunch",
+   "Sarah",
+   15.0,
+   true
+  ],
+  [
+   "Sunday Funday Lunch",
+   "Emma",
+   18.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "No.7 Temple Market, Queens Road, Weybridge, KT13 9DL",
+  "hours": "Open seven days, lunch 12pm-2:30pm, dinner from 5:30pm",
+  "maps_query": "Temple 7 Weybridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/temple7-weybridge_1.jpg"
+}

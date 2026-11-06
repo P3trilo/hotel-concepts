@@ -1,0 +1,57 @@
+{
+ "slug": "thaidine-wrexham",
+ "name": "ThaiDine",
+ "tagline": "Contemporary Thai cuisine · Wrexham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thai dinner in Wrexham",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at ThaiDine, my treat.",
+ "accent": "#dd5903",
+ "cta": "#dd5903",
+ "on_cta": "#ffffff",
+ "hero_bg": "#0e0d0a",
+ "hero_eyebrow": "#ea6430",
+ "prefix": "TDW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "30 Bridge Street, Wrexham, LL13 7HP",
+  "hours": "",
+  "maps_query": "ThaiDine Wrexham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/thaidine-wrexham_1.jpg"
+}
