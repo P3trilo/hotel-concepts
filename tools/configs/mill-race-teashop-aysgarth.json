@@ -1,0 +1,57 @@
+{
+ "slug": "mill-race-teashop-aysgarth",
+ "name": "Mill Race Teashop",
+ "tagline": "Family run teashop at Aysgarth Falls · Wensleydale",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea by the falls",
+ "gifts": [
+  [
+   "Cream Tea",
+   "Sweet scone served with jam and freshly whipped double cream, with a pot of tea or coffee",
+   7.5,
+   "A cream tea at the Mill Race Teashop"
+  ],
+  [
+   "Mill Race Platter",
+   "Yorkshire ham, local cheeses and pork pie with a dressed salad, Raydale Chutney and a warm bread roll",
+   13.5,
+   "The Mill Race Platter"
+  ],
+  [
+   "Mill Race Platter for two",
+   "The Mill Race Platter upgraded for two to share",
+   22.5,
+   "The Mill Race Platter for two to share"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the teashop menu",
+ "message": "Happy Christmas! Afternoon tea at the Mill Race Teashop, my treat.",
+ "accent": "#4c784e",
+ "cta": "#556455",
+ "on_cta": "#ffffff",
+ "hero_bg": "#556455",
+ "hero_eyebrow": "#f1f1f1",
+ "prefix": "MRT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Cream Tea",
+   "Sarah",
+   7.5,
+   true
+  ],
+  [
+   "Mill Race Platter",
+   "Emma",
+   13.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Yore Mill, Aysgarth, DL8 3SR",
+  "hours": "Monday to Saturday 11.30am to 4pm, closed Sunday",
+  "maps_query": "Mill Race Teashop Aysgarth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/mill-race-teashop-aysgarth_1.jpg"
+}

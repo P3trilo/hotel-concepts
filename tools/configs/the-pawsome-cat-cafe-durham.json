@@ -1,0 +1,57 @@
+{
+ "slug": "the-pawsome-cat-cafe-durham",
+ "name": "The Pawsome Cat Café",
+ "tagline": "Cat café with resident and rescue cats · Durham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an hour with the cats",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on entry, drinks and cakes",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on entry, drinks and cakes",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on entry, drinks and cakes",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on entry, drinks and cakes",
+ "message": "Happy Christmas! An hour with the cats at The Pawsome Cat Café, my treat.",
+ "accent": "#f1705c",
+ "cta": "#f1705c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#252525",
+ "hero_eyebrow": "#f1705c",
+ "prefix": "PCC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 North Road, Durham, DH1 4SH",
+  "hours": "Wed to Fri 11am to 5.30pm, Sat and Sun 10am to 5.30pm, closed Mon and Tue",
+  "maps_query": "The Pawsome Cat Cafe Durham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-pawsome-cat-cafe-durham_1.jpg"
+}

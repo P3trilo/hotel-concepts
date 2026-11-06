@@ -1,0 +1,57 @@
+{
+ "slug": "the-bothy-shipley",
+ "name": "The Bothy",
+ "tagline": "Coffee shop, brunch and lunch since 2020 · Shipley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at The Bothy",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at The Bothy, my treat.",
+ "accent": "#fef04a",
+ "cta": "#463939",
+ "on_cta": "#ffffff",
+ "hero_bg": "#463939",
+ "hero_eyebrow": "#fef04a",
+ "prefix": "TB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "53-55 Otley Rd, Shipley, BD18 3PY",
+  "hours": "Tue to Fri 8am to 3.30pm, Sat 9am to 3.30pm, Sun 10am to 2pm, closed Monday",
+  "maps_query": "The Bothy Shipley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bothy-shipley_1.jpg"
+}

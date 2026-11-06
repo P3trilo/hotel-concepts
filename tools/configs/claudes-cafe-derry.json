@@ -1,0 +1,57 @@
+{
+ "slug": "claudes-cafe-derry",
+ "name": "Claudes Cafe",
+ "tagline": "Cafe in the walled city since 2000 · Derry",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast at Claudes",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast at Claudes, my treat.",
+ "accent": "#bc8d4b",
+ "cta": "#bc8d4b",
+ "on_cta": "#ffffff",
+ "hero_bg": "#252525",
+ "hero_eyebrow": "#bc8d4b",
+ "prefix": "CC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Shipquay Street, Derry, BT48 6DN",
+  "hours": "",
+  "maps_query": "Claudes Cafe Derry"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/claudes-cafe-derry_1.jpg"
+}

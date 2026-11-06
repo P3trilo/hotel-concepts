@@ -1,0 +1,57 @@
+{
+ "slug": "the-wild-olive-gosforth",
+ "name": "The Wild Olive",
+ "tagline": "Italian restaurant and cafe · Gosforth, Cumbria",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner from the wood fired oven",
+ "gifts": [
+  [
+   "Margherita",
+   "Wood-fired pizza on 48-72 hour fermented Caputo dough, finished with fresh mozzarella and basil",
+   12.45,
+   "A wood-fired Margherita at The Wild Olive"
+  ],
+  [
+   "8 Hour Ragu",
+   "Traditional slow cooked beef bolognaise served with tagliatelle",
+   17.45,
+   "The 8 hour ragu at The Wild Olive"
+  ],
+  [
+   "Olive Oil and Salt Bread",
+   "Freshly baked in the wood fired oven, with a roasted red pepper dip and an olive oil and balsamic dip",
+   8.95,
+   "Olive oil and salt bread from the wood fired oven"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Wild Olive, my treat.",
+ "accent": "#7b8953",
+ "cta": "#440812",
+ "on_cta": "#ffffff",
+ "hero_bg": "#440812",
+ "hero_eyebrow": "#cbd0bb",
+ "prefix": "WO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Margherita",
+   "Sarah",
+   12.45,
+   true
+  ],
+  [
+   "8 Hour Ragu",
+   "Emma",
+   17.45,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Gosforth, Cumbria, CA20 1AH",
+  "hours": "Tuesday to Saturday 11am to 10.30pm (lunch 12 to 2pm, evening 5 to 8.30pm)",
+  "maps_query": "The Wild Olive Gosforth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-wild-olive-gosforth_1.jpg"
+}
