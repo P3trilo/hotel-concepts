@@ -1,0 +1,57 @@
+{
+ "slug": "la-cafe-de-blossomroom-northampton",
+ "name": "La'Cafe'De Blossomroom",
+ "tagline": "Lahmacun & pide lounge · Northampton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Turkish feast at Blossomroom",
+ "gifts": [
+  [
+   "Lahmacun set menu for one",
+   "2 lahmacun, cig kofte, salad and a drink",
+   15,
+   "Lahmacun set menu for one"
+  ],
+  [
+   "Mix pide",
+   "Pide with lamb, chicken and cheese",
+   14,
+   "Mix pide"
+  ],
+  [
+   "Classic Turkish breakfast",
+   "Eggs, sucuk, halloumi, feta, jam, olives, tomatoes and cucumber",
+   10,
+   "Classic Turkish breakfast"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Pide and Turkish tea at Blossomroom, my treat.",
+ "accent": "#fac000",
+ "cta": "#fac000",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#fac000",
+ "prefix": "BLR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Lahmacun set menu for one",
+   "Sarah",
+   15,
+   true
+  ],
+  [
+   "Mix pide",
+   "Emma",
+   14,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "67 Abington Street, Northampton NN1 2BH",
+  "hours": "Open every day 7am-7pm",
+  "maps_query": "La'Cafe'De Blossomroom Northampton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/la-cafe-de-blossomroom-northampton_1.jpg"
+}

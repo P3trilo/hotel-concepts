@@ -1,0 +1,57 @@
+{
+ "slug": "ciao-belli-lymington",
+ "name": "Ciao Belli",
+ "tagline": "Italian restaurant & delicatessen · Lymington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch at Ciao Belli",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu, or Italian produce from the deli",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu, or Italian produce from the deli",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu, or Italian produce from the deli",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu, or Italian produce from the deli",
+ "message": "Happy Christmas! Lunch at Ciao Belli, my treat.",
+ "accent": "#ff6005",
+ "cta": "#ce2b37",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#ff9a5e",
+ "prefix": "CB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Gosport Street, Lymington SO41 9BE",
+  "hours": "Tue-Thu 9am-4pm; Fri 9am-3pm & 6.30-10pm; Sat 8.30am-3pm & 6.30-10pm; Sun 9am-4pm; Mon closed",
+  "maps_query": "Ciao Belli Lymington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ciao-belli-lymington_1.jpg"
+}

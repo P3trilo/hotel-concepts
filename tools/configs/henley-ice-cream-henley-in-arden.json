@@ -1,0 +1,57 @@
+{
+ "slug": "henley-ice-cream-henley-in-arden",
+ "name": "Henley Ice Cream",
+ "tagline": "Ice cream parlour and tea rooms since 1934 · Henley-in-Arden",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cream tea at Henley",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on ice cream, a cream tea or anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on ice cream, a cream tea or anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on ice cream, a cream tea or anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on ice cream, a cream tea or anything on the menu",
+ "message": "Happy Christmas! A cream tea and ice cream at Henley, my treat.",
+ "accent": "#234b89",
+ "cta": "#234b89",
+ "on_cta": "#ffffff",
+ "hero_bg": "#313949",
+ "hero_eyebrow": "#f5ebc0",
+ "prefix": "HIC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "152 High Street, Henley in Arden, Warwickshire B95 5BS",
+  "hours": "Oct-Feb: Mon-Fri 9am-4pm, Sat-Sun 9am-4:30pm (call to check in bad weather)",
+  "maps_query": "Henley Ice Cream Henley in Arden"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/henley-ice-cream-henley-in-arden_1.jpg"
+}

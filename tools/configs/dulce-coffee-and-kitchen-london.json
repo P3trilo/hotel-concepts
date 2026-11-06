@@ -1,0 +1,57 @@
+{
+ "slug": "dulce-coffee-and-kitchen-london",
+ "name": "Dulce Coffee & Kitchen",
+ "tagline": "Family coffee shop and brunch · Aldgate East",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Dulce",
+ "gifts": [
+  [
+   "Brooklyn Style",
+   "Pancakes, two eggs any style, turkey rashers and sausages, with mixed fruits, clotted cream and Nutella or Canadian maple syrup",
+   19.95,
+   "Brooklyn Style pancake brunch"
+  ],
+  [
+   "Medi-Special",
+   "Eggs any style, sujuk sausages, feta, olives, hummus, tomato and cucumber with flatbread",
+   13.95,
+   "Medi-Special breakfast"
+  ],
+  [
+   "Brioche French Toast",
+   "Brioche soaked in eggs, cinnamon and cream, with mixed fruits, clotted cream and Nutella or maple syrup",
+   12.95,
+   "Brioche French toast"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at Dulce, my treat.",
+ "accent": "#1a3853",
+ "cta": "#1a3853",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1a3853",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "DCK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Brooklyn Style",
+   "Sarah",
+   19.95,
+   true
+  ],
+  [
+   "Medi-Special",
+   "Emma",
+   13.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "86 Whitechapel High Street, London E1 7QX",
+  "hours": "Mon-Sat 7am-6pm, Sun 7am-5pm",
+  "maps_query": "Dulce Coffee and Kitchen Whitechapel High Street London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/dulce-coffee-and-kitchen-london_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "sliced-n-diced-birmingham",
+ "name": "Sliced n Diced",
+ "tagline": "Board game café · Selly Oak, Birmingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a game day at Sliced n Diced",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on game time, food and drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on game time, food and drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on game time, food and drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on game time, food and drink",
+ "message": "Happy Christmas! A day of games and brunch at Sliced n Diced, my treat.",
+ "accent": "#e43f3f",
+ "cta": "#e43f3f",
+ "on_cta": "#ffffff",
+ "hero_bg": "#232323",
+ "hero_eyebrow": "#e43f3f",
+ "prefix": "SND",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "850 Bristol Road, Selly Oak, Birmingham B29 6HW",
+  "hours": "",
+  "maps_query": "Sliced n Diced board game cafe Selly Oak Birmingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/sliced-n-diced-birmingham_1.jpg"
+}
