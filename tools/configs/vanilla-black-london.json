@@ -1,0 +1,57 @@
+{
+ "slug": "vanilla-black-london",
+ "name": "Vanilla Black Coffee & Books",
+ "tagline": "Coffee, brunch and books · Kennington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch among the books",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on brunch, cake, coffee or books",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on brunch, cake, coffee or books",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on brunch, cake, coffee or books",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on brunch, cake, coffee or books",
+ "message": "Happy Christmas! Brunch at Vanilla Black, my treat.",
+ "accent": "#333333",
+ "cta": "#222222",
+ "on_cta": "#ffffff",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#999999",
+ "prefix": "VB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "306-308 Kennington Road, London SE11 4LD",
+  "hours": "Mon to Fri 8am to 4pm, Sat and Sun 9am to 4pm, kitchen until 3pm",
+  "maps_query": "Vanilla Black Coffee and Books Kennington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/vanilla-black-london_1.jpg"
+}

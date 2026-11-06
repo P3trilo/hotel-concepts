@@ -1,0 +1,57 @@
+{
+ "slug": "fred-and-ginger-coffee-kings-langley",
+ "name": "Fred & Ginger Coffee",
+ "tagline": "Speciality coffee shop · Kings Langley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and lunch",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, food or cake",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, food or cake",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, food or cake",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, food or cake",
+ "message": "Happy Christmas! Coffee and lunch at Fred & Ginger, my treat.",
+ "accent": "#000000",
+ "cta": "#000000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#262626",
+ "hero_eyebrow": "#bababa",
+ "prefix": "FG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "38c High Street, Kings Langley WD4 9HT",
+  "hours": "Mon to Sat 8am to 4pm, Sun 9am to 4pm",
+  "maps_query": "Fred and Ginger Coffee Kings Langley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/fred-and-ginger-coffee-kings-langley_1.jpg"
+}

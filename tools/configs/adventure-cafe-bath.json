@@ -1,0 +1,57 @@
+{
+ "slug": "adventure-cafe-bath",
+ "name": "Adventure Cafe",
+ "tagline": "Cafe, bar and kitchen · Bath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a meal at Adventure",
+ "gifts": [
+  [
+   "The Adventure",
+   "Streaky bacon, sausage, poached egg, mushrooms, black pudding, grilled tomato, Boston beans, hash brown and sourdough toast",
+   12.95,
+   "The Adventure breakfast"
+  ],
+  [
+   "Rotisserie Chicken",
+   "Half a rotisserie chicken in lemon and thyme or peri-peri, with homemade coleslaw, fries and garlic and coriander dip",
+   15.95,
+   "Half rotisserie chicken with fries and slaw"
+  ],
+  [
+   "Steak Frites",
+   "8oz flat iron steak with peppercorn sauce, skinny fries and a tomato and parmesan salad",
+   17.95,
+   "8oz flat iron steak frites"
+  ]
+ ],
+ "amount_desc": "Spend on food, coffee or cocktails",
+ "message": "Happy Christmas! A meal at Adventure Cafe, my treat.",
+ "accent": "#565d4f",
+ "cta": "#565d4f",
+ "on_cta": "#ffffff",
+ "hero_bg": "#20221f",
+ "hero_eyebrow": "#889672",
+ "prefix": "AC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "The Adventure",
+   "Sarah",
+   12.95,
+   true
+  ],
+  [
+   "Rotisserie Chicken",
+   "Emma",
+   15.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Princes Buildings, Bath BA1 2ED",
+  "hours": "Kitchen Mon to Fri 10am to 4pm and 5pm to 9pm, Sat 10am to 9pm, Sun 10am to 4pm",
+  "maps_query": "Adventure Cafe Bar Bath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/adventure-cafe-bath_1.jpg"
+}

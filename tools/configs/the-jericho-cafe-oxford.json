@@ -1,0 +1,57 @@
+{
+ "slug": "the-jericho-cafe-oxford",
+ "name": "The Jericho Café",
+ "tagline": "Family-run café and bistro · Jericho, Oxford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch in Jericho",
+ "gifts": [
+  [
+   "Café Breakfast",
+   "Two free-range eggs, smoked back bacon, Cumberland sausage, hot buttered mushrooms, grilled tomatoes and baked beans with Oxford sourdough toast",
+   15.5,
+   "Café Breakfast at the Jericho Café"
+  ],
+  [
+   "Turkish Eggs",
+   "Poached eggs over a garlicky dill yoghurt with warm chilli butter and toasted sourdough",
+   13.5,
+   "Turkish eggs at the Jericho Café"
+  ],
+  [
+   "Bacon and Egg Waffles",
+   "Waffles with poached or fried eggs, crispy bacon and maple syrup",
+   15.0,
+   "Bacon and egg waffles at the Jericho Café"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at the Jericho Café, my treat.",
+ "accent": "#e20017",
+ "cta": "#e20017",
+ "on_cta": "#ffffff",
+ "hero_bg": "#212121",
+ "hero_eyebrow": "#e20017",
+ "prefix": "JC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Café Breakfast",
+   "Sarah",
+   15.5,
+   true
+  ],
+  [
+   "Turkish Eggs",
+   "Emma",
+   13.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "112 Walton Street, Oxford OX2 6AJ",
+  "hours": "Mon to Fri 8am to 5pm, Sat 8am to 6pm, Sun 9am to 5pm",
+  "maps_query": "The Jericho Cafe Oxford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-jericho-cafe-oxford_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "conuco-london",
+ "name": "Conuco",
+ "tagline": "Venezuelan kitchen · Oval, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Conuco",
+ "gifts": [
+  [
+   "Pabellón Criollo",
+   "Rice topped with slow-cooked pulled chicken or beef, black beans, shredded cheese, avocado and caramelised ripe plantain",
+   14.85,
+   "Pabellón criollo, Venezuela's national dish"
+  ],
+  [
+   "Cachapa Pabellón",
+   "Cachapa with pulled chicken or beef, black beans, shredded cheese, avocado and caramelised plantain",
+   14.85,
+   "Cachapa pabellón"
+  ],
+  [
+   "Tres Leches",
+   "Their signature dessert: sponge soaked in a three-milk blend with whipped cream and cinnamon",
+   6.8,
+   "Tres leches cake"
+  ]
+ ],
+ "amount_desc": "Spend on food or drinks",
+ "message": "Happy Christmas! Dinner at Conuco, my treat.",
+ "accent": "#e7b135",
+ "cta": "#e7b135",
+ "on_cta": "#111111",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#e7b135",
+ "prefix": "CN",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Pabellón Criollo",
+   "Sarah",
+   14.85,
+   true
+  ],
+  [
+   "Cachapa Pabellón",
+   "Emma",
+   14.85,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "14 Brixton Road, London SW9 6BU",
+  "hours": "Tue to Wed 12pm to 9pm, Thu 12pm to 10pm, Fri to Sat 12pm to 11pm, Sun 12pm to 8pm, closed Monday",
+  "maps_query": "Conuco Venezuelan Kitchen London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/conuco-london_1.jpg"
+}

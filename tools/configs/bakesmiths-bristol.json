@@ -1,0 +1,57 @@
+{
+ "slug": "bakesmiths-bristol",
+ "name": "Bakesmiths",
+ "tagline": "Coffee shop and bakery · Clifton, Bristol",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give cake and coffee in Clifton",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything in the coffee shop",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything in the coffee shop",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything in the coffee shop",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything in the coffee shop",
+ "message": "Happy Christmas! Cake and coffee at Bakesmiths, my treat.",
+ "accent": "#e09900",
+ "cta": "#323a46",
+ "on_cta": "#ffffff",
+ "hero_bg": "#323a46",
+ "hero_eyebrow": "#e09900",
+ "prefix": "BS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "65 Whiteladies Road, Bristol BS8 2LY",
+  "hours": "Mon to Fri 7am to 5pm, Sat and Sun 8am to 5pm",
+  "maps_query": "Bakesmiths Whiteladies Road Bristol"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/bakesmiths-bristol_1.jpg"
+}

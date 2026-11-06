@@ -1,0 +1,57 @@
+{
+ "slug": "cafe-continente-london",
+ "name": "Café Continenté",
+ "tagline": "Breakfast all day, cake always · West Kensington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give tea and cake",
+ "gifts": [
+  [
+   "Pot of tea and two slices of cake",
+   "English breakfast tea and your choice of homemade cakes",
+   11.45,
+   "A pot of tea and two slices of homemade cake"
+  ],
+  [
+   "Breakfast platter",
+   "2 free-range eggs, 2 Cumberland sausages, 2 rashers of smoked bacon, beans, mushroom, tomato, hash brown and toast",
+   15.5,
+   "The breakfast platter, served all day"
+  ],
+  [
+   "Whole Blueberry and Vanilla cake",
+   "A whole homemade cake (fresh blueberries and vanilla); whole cakes can be personalised with 48 hours notice",
+   32.0,
+   "A whole Blueberry and Vanilla cake"
+  ]
+ ],
+ "amount_desc": "Spend on breakfast, lunch or cake",
+ "message": "Happy Christmas! Tea and cake at Café Continenté, my treat.",
+ "accent": "#284c52",
+ "cta": "#161917",
+ "on_cta": "#f1ece0",
+ "hero_bg": "#284c52",
+ "hero_eyebrow": "#a6c3c5",
+ "prefix": "CC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Pot of tea and two slices of cake",
+   "Sarah",
+   11.45,
+   true
+  ],
+  [
+   "Breakfast platter",
+   "Emma",
+   15.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "62 North End Road, West Kensington, London W14 9EP",
+  "hours": "Mon to Fri 8am to 4pm, Sat, Sun and bank holidays 9am to 5pm",
+  "maps_query": "Cafe Continente West Kensington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cafe-continente-london_1.jpg"
+}

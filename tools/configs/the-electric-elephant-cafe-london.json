@@ -1,0 +1,57 @@
+{
+ "slug": "the-electric-elephant-cafe-london",
+ "name": "The Electric Elephant Café",
+ "tagline": "Vegan and vegetarian café · Walworth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch at the Electric Elephant",
+ "gifts": [
+  [
+   "Soup of the day",
+   "Made at the café, gluten-free, served with organic spelt bread baked at the café",
+   8,
+   "Soup of the day with spelt bread"
+  ],
+  [
+   "Falafel and hummus salad",
+   "Lebanese falafels with homemade hummus, roasted red peppers and aubergine",
+   12,
+   "Falafel and hummus salad"
+  ],
+  [
+   "Vegan sausages in a poppy seed roll",
+   "Vegan sausages in an organic poppy seed roll with homemade red pepper jelly and salad",
+   8,
+   "Vegan sausage roll with red pepper jelly"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at the Electric Elephant Café, my treat.",
+ "accent": "#9b51e0",
+ "cta": "#ea559d",
+ "on_cta": "#0f172a",
+ "hero_bg": "#454f5e",
+ "hero_eyebrow": "#fb5fab",
+ "prefix": "EE",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Soup of the day",
+   "Sarah",
+   8,
+   true
+  ],
+  [
+   "Falafel and hummus salad",
+   "Emma",
+   12,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "186a Crampton Street, London SE17 3AE",
+  "hours": "Open daily except Wednesdays, 10am to 5pm, Sundays 11am to 4pm",
+  "maps_query": "The Electric Elephant Cafe London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-electric-elephant-cafe-london_1.jpg"
+}

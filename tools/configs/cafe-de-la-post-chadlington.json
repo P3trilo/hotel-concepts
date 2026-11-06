@@ -1,0 +1,57 @@
+{
+ "slug": "cafe-de-la-post-chadlington",
+ "name": "Cafe de la Post",
+ "tagline": "Village café and shop · Chadlington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give tea and cake in Chadlington",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food, drinks, wine or the shop",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food, drinks, wine or the shop",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food, drinks, wine or the shop",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, drinks, wine or the shop",
+ "message": "Happy Christmas! Tea and cake at Cafe de la Post, my treat.",
+ "accent": "#a42a29",
+ "cta": "#a42a29",
+ "on_cta": "#ffffff",
+ "hero_bg": "#483b39",
+ "hero_eyebrow": "#e5d9b5",
+ "prefix": "CP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Horseshoe Lane, Chadlington, Oxfordshire OX7 3BL",
+  "hours": "Mon to Fri 7.30am to 4pm, Sat 8.30am to 8.30pm (pizza night), Sun 9am to 2pm",
+  "maps_query": "Cafe de la Post Chadlington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cafe-de-la-post-chadlington_1.jpg"
+}
