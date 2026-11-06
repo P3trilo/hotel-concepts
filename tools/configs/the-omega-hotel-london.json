@@ -1,0 +1,57 @@
+{
+ "slug": "the-omega-hotel-london",
+ "name": "The Omega Hotel",
+ "tagline": "Family owned Victorian hotel · Paddington, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a stay in London",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room (breakfast included)",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room (breakfast included)",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room (breakfast included)",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room (breakfast included)",
+ "message": "Happy Christmas! A stay in London at The Omega Hotel, my treat.",
+ "accent": "#0D6B3C",
+ "cta": "#0D6B3C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0D6B3C",
+ "hero_eyebrow": "#4ABC82",
+ "prefix": "OMG",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "136 Sussex Gardens, London W2 1UB",
+  "hours": "24-hour reception",
+  "maps_query": "The Omega Hotel Sussex Gardens London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-omega-hotel-london_5.jpg"
+}

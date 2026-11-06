@@ -1,0 +1,57 @@
+{
+ "slug": "lamplight-restaurant-ashbourne",
+ "name": "The Lamplight",
+ "tagline": "Family run restaurant · Ashbourne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner under the old beams",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the Lamplight, my treat.",
+ "accent": "#376bc3",
+ "cta": "#000000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#33373d",
+ "hero_eyebrow": "#999898",
+ "prefix": "LAM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Victoria Square, Market Place, Ashbourne DE6 1GG",
+  "hours": "Wednesday to Saturday 5.30pm to 10.30pm (last orders 8.30pm), closed lunchtimes",
+  "maps_query": "The Lamplight Restaurant Ashbourne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/lamplight-restaurant-ashbourne_1.jpg"
+}

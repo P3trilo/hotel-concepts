@@ -1,0 +1,57 @@
+{
+ "slug": "dolphin-hotel-london",
+ "name": "Dolphin Hotel",
+ "tagline": "Victorian hotel on Norfolk Square · Paddington, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in London",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room and breakfast",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room and breakfast",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room and breakfast",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room and breakfast",
+ "message": "Happy Christmas! A night in London at the Dolphin Hotel, my treat.",
+ "accent": "#C65040",
+ "cta": "#284985",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#284985",
+ "hero_eyebrow": "#F5F5F5",
+ "prefix": "DOL",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "32-34 Norfolk Square, Paddington, London W2 1RS",
+  "hours": "",
+  "maps_query": "Dolphin Hotel Norfolk Square London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/dolphin-hotel-london_4.jpg"
+}

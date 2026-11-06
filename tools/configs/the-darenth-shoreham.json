@@ -1,0 +1,57 @@
+{
+ "slug": "the-darenth-shoreham",
+ "name": "The Darenth",
+ "tagline": "Golf course, clubhouse and rooms · Shoreham, Sevenoaks",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at The Darenth",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a round of golf, a meal in the clubhouse or a room",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a round of golf, a meal in the clubhouse or a room",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a round of golf, a meal in the clubhouse or a room",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a round of golf, a meal in the clubhouse or a room",
+ "message": "Happy Christmas! A round at The Darenth, my treat.",
+ "accent": "#8B5BA1",
+ "cta": "#8B5BA1",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#6D6E71",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "DAR",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Road, Shoreham, Sevenoaks, Kent TN14 7SA",
+  "hours": "",
+  "maps_query": "The Darenth Shoreham Sevenoaks"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-darenth-shoreham_1.jpg"
+}

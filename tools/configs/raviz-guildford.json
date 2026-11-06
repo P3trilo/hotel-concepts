@@ -1,0 +1,57 @@
+{
+ "slug": "raviz-guildford",
+ "name": "Raviz",
+ "tagline": "Restaurant · Jeffries Passage, Guildford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Raviz",
+ "gifts": [
+  [
+   "Kuttanadan Duck Curry",
+   "Kerala style slow cooked Gressingham duck breast with aromatic spices and baby potatoes",
+   18.95,
+   "The Kuttanadan duck curry at Raviz"
+  ],
+  [
+   "Ostrich",
+   "Pan-seared ostrich steaks with cassava and basil mash, finished with a truffle-scented sauce",
+   19.5,
+   "The pan-seared ostrich at Raviz"
+  ],
+  [
+   "Alleppey Prawn Curry",
+   "King prawns cooked with ginger, Kashmiri chillies, tamarind and green mango, simmered in coconut milk",
+   18.95,
+   "The Alleppey prawn curry at Raviz"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Raviz, my treat.",
+ "accent": "#571c19",
+ "cta": "#571c19",
+ "on_cta": "#ffffff",
+ "hero_bg": "#571c19",
+ "hero_eyebrow": "#d4c9c8",
+ "prefix": "RAV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Kuttanadan Duck Curry",
+   "Sarah",
+   18.95,
+   true
+  ],
+  [
+   "Ostrich",
+   "Emma",
+   19.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8/9 Jeffries Passage, Guildford GU1 4AP",
+  "hours": "Monday to Saturday, lunch 12 to 2.30pm, dinner 5.30pm to 10.30pm",
+  "maps_query": "Raviz Guildford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/raviz-guildford_1.jpg"
+}

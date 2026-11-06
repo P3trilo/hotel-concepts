@@ -1,0 +1,57 @@
+{
+ "slug": "kwan-thai-ipswich",
+ "name": "Kwan Thai Restaurant",
+ "tagline": "Family-run Thai restaurant since 1999 · Ipswich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Kwan Thai",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Kwan Thai, my treat.",
+ "accent": "#2444A7",
+ "cta": "#2444A7",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "KT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "14 St Nicholas Street, Ipswich IP1 1TJ",
+  "hours": "Lunch Mon-Sat from 12pm; dinner Mon-Thu 5.30-9.30pm, Fri-Sat 5.30-10.30pm (last bookings)",
+  "maps_query": "Kwan Thai Restaurant Ipswich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/kwan-thai-ipswich_1.jpg"
+}

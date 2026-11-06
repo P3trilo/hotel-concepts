@@ -1,0 +1,57 @@
+{
+ "slug": "headlinerz-barbershop-london",
+ "name": "Headlinerz Barbershop",
+ "tagline": "Urban barbers · London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a fresh cut at Headlinerz",
+ "gifts": [
+  [
+   "Men's haircut with scissors and clippers",
+   "Men's haircut with scissors and clippers",
+   30,
+   "Men's haircut with scissors and clippers at Headlinerz"
+  ],
+  [
+   "Men's haircut with scissors",
+   "Men's haircut with scissors",
+   40,
+   "Men's haircut with scissors at Headlinerz"
+  ],
+  [
+   "Women's haircut, one level",
+   "Women's haircut, one level",
+   30,
+   "Women's haircut, one level at Headlinerz"
+  ]
+ ],
+ "amount_desc": "Spend on any haircut or treatment",
+ "message": "Happy Christmas! A fresh cut at Headlinerz, my treat.",
+ "accent": "#8BC34A",
+ "cta": "#8BC34A",
+ "on_cta": "#24272D",
+ "hero_bg": "#24272D",
+ "hero_eyebrow": "#8BC34A",
+ "prefix": "HLZ",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Men's haircut with scissors and clippers",
+   "Sarah",
+   30,
+   true
+  ],
+  [
+   "Men's haircut with scissors",
+   "Emma",
+   40,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "143 Trafalgar Road, London SE10 9TX",
+  "hours": "",
+  "maps_query": "Headlinerz Barbershop Trafalgar Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/headlinerz-barbershop-london_3.jpg"
+}
