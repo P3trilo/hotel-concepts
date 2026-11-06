@@ -1,0 +1,57 @@
+{
+ "slug": "ktm-rox-feltham",
+ "name": "KTM Rox",
+ "tagline": "Nepalese restaurant & bar · Feltham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Nepalese feast at KTM Rox",
+ "gifts": [
+  [
+   "Momo",
+   "A full plate of steamed momo, chicken, pork or veg",
+   9.0,
+   "A plate of steamed momo at KTM Rox"
+  ],
+  [
+   "Newari Platter",
+   "Newari platter, lamb or vegan",
+   15.0,
+   "A Newari platter at KTM Rox"
+  ],
+  [
+   "Espresso Martini",
+   "Espresso, vodka, Kahlua, sugar syrup",
+   10.5,
+   "An Espresso Martini at the KTM Rox bar"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the food or drinks menu",
+ "message": "Happy Christmas! Momo and drinks at KTM Rox, my treat.",
+ "accent": "#D0A371",
+ "cta": "#D0A371",
+ "on_cta": "#0A0A0A",
+ "hero_bg": "#0A0A0A",
+ "hero_eyebrow": "#D0A371",
+ "prefix": "KTM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Momo",
+   "Sarah",
+   9.0,
+   true
+  ],
+  [
+   "Newari Platter",
+   "Emma",
+   15.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "49 High St, Feltham, London TW13 4AB",
+  "hours": "Mon-Thu 12pm-11pm, Fri 12pm-12am, Sat 12pm-1am, Sun 12pm-10pm",
+  "maps_query": "KTM Rox Feltham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ktm-rox-feltham_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "the-bailey-head-oswestry",
+ "name": "The Bailey Head",
+ "tagline": "Multi-award-winning pub · Oswestry",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Bailey Head",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any drink or snack at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any drink or snack at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any drink or snack at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any drink or snack at the bar",
+ "message": "Happy Christmas! The next round at the Bailey Head is on me.",
+ "accent": "#EAC030",
+ "cta": "#EAC030",
+ "on_cta": "#252620",
+ "hero_bg": "#252620",
+ "hero_eyebrow": "#EAC030",
+ "prefix": "BH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Bailey Head, Bailey Head, Oswestry, Shropshire SY11 1PZ",
+  "hours": "Tue-Thu 3pm-11pm, Fri-Sat 12pm-12am, Sun 12pm-10.30pm, closed Mondays",
+  "maps_query": "The Bailey Head Oswestry"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bailey-head-oswestry_1.jpg"
+}

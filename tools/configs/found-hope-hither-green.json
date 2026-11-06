@@ -1,0 +1,57 @@
+{
+ "slug": "found-hope-hither-green",
+ "name": "Found Hope",
+ "tagline": "Neighbourhood café, deli and bottle shop · Hither Green",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch and a good bottle",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, breakfast, lunch, cheese or a bottle of wine",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, breakfast, lunch, cheese or a bottle of wine",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, breakfast, lunch, cheese or a bottle of wine",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, breakfast, lunch, cheese or a bottle of wine",
+ "message": "Happy Christmas! Lunch and something good from the shelves at Found Hope, my treat.",
+ "accent": "#14532d",
+ "cta": "#1c1c1c",
+ "on_cta": "#ffffff",
+ "hero_bg": "#1c1c1c",
+ "hero_eyebrow": "#e6e3de",
+ "prefix": "FH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "216-218 Hither Green Lane, London SE13 6RT",
+  "hours": "Mon-Tue 7am-4.30pm, Wed-Sat 7am-7.30pm, Sun 8am-4.30pm",
+  "maps_query": "Found Hope Hither Green Lane London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/found-hope-hither-green_1.jpg"
+}

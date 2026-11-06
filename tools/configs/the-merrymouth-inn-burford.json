@@ -1,0 +1,57 @@
+{
+ "slug": "the-merrymouth-inn-burford",
+ "name": "The Merrymouth Inn",
+ "tagline": "13th century coaching inn · Cotswolds",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Merrymouth",
+ "gifts": [
+  [
+   "Sunday Carvery",
+   "Merrymouth Carvery with locally sourced meats such as 12 hour slow-roasted sirloin of beef, with all the trimmings",
+   19.95,
+   "Sunday carvery at the Merrymouth Inn"
+  ],
+  [
+   "Merrymouth Signature Beef Goulash",
+   "Slow-braised British beef in a rich paprika sauce with buttery mash and warm buttered beetroot",
+   21,
+   "The Merrymouth signature beef goulash"
+  ],
+  [
+   "Hot Stone Beef Steak",
+   "Premium beef steak served on a sizzling volcanic rock to cook to your liking at the table, with vegetables and fries",
+   28,
+   "A hot stone steak at the Merrymouth Inn"
+  ]
+ ],
+ "amount_desc": "Spend on a meal, a drink or a stay",
+ "message": "Happy Christmas! Sunday lunch at the Merrymouth Inn, my treat.",
+ "accent": "#4b5938",
+ "cta": "#4b5938",
+ "on_cta": "#ffffff",
+ "hero_bg": "#4b5938",
+ "hero_eyebrow": "#7ebec5",
+ "prefix": "MMI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday Carvery",
+   "Sarah",
+   19.95,
+   true
+  ],
+  [
+   "Merrymouth Signature Beef Goulash",
+   "Emma",
+   21,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Cotswold Merrymouth Inn, Stow Road, Burford, OX7 6HR",
+  "hours": "Tue-Thu 9am-9pm, Fri-Sat 9am-10pm, Sunday carvery noon-5pm (close 7pm)",
+  "maps_query": "The Merrymouth Inn Fifield Burford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-merrymouth-inn-burford_1.jpg"
+}

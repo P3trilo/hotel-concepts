@@ -1,0 +1,57 @@
+{
+ "slug": "the-arena-tavern-letchworth",
+ "name": "The Arena Tavern",
+ "tagline": "Popular local pub · Letchworth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a drink by the fire",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any drink at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any drink at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any drink at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any drink at the bar",
+ "message": "Happy Christmas! A few drinks at the Arena Tavern, my treat.",
+ "accent": "#CCB54A",
+ "cta": "#CCB54A",
+ "on_cta": "#222222",
+ "hero_bg": "#383A35",
+ "hero_eyebrow": "#CCB54A",
+ "prefix": "AT",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Arena Tavern, 3 Arena Parade, Letchworth, Hertfordshire SG6 3BY",
+  "hours": "Mon 12pm-10.30pm, Tue-Thu 12pm-11.30pm, Fri-Sun 12pm-12.30am",
+  "maps_query": "Arena Tavern Letchworth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-arena-tavern-letchworth_1.jpg"
+}

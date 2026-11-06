@@ -1,0 +1,57 @@
+{
+ "slug": "the-bell-and-bear-emberton",
+ "name": "The Bell & Bear",
+ "tagline": "Community-owned village pub · Emberton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint at the Bell & Bear",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on drinks, or food from the Village Kitchen",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on drinks, or food from the Village Kitchen",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on drinks, or food from the Village Kitchen",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on drinks, or food from the Village Kitchen",
+ "message": "Happy Christmas! A pint and a Sunday lunch at the Bell & Bear, my treat.",
+ "accent": "#cca738",
+ "cta": "#272b2a",
+ "on_cta": "#ffffff",
+ "hero_bg": "#272b2a",
+ "hero_eyebrow": "#cca738",
+ "prefix": "BB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "12 High Street, Emberton, Buckinghamshire MK46 5DH",
+  "hours": "Mon 4-8pm, Tue 4-10pm, Wed-Thu 4-11pm, Fri 4pm-12am, Sat 11am-12am, Sun 12-10pm",
+  "maps_query": "The Bell and Bear Emberton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bell-and-bear-emberton_1.jpg"
+}

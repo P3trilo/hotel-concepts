@@ -1,0 +1,57 @@
+{
+ "slug": "the-outhouse-brewery-wokingham",
+ "name": "The Outhouse Brewery",
+ "tagline": "Craft beer bar and working brewery · Wokingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Outhouse",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything at the bar",
+ "message": "Happy Christmas! A few pints at the Outhouse, my treat.",
+ "accent": "#ff5400",
+ "cta": "#ff5400",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#ff5400",
+ "prefix": "OHB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Unit 4 Southgate House, Alexandra Court, Wokingham, RG40 2SL",
+  "hours": "Tue-Thu 4.30-10pm, Fri-Sat 12-11pm, Sun 2-9pm, closed Monday",
+  "maps_query": "The Outhouse Brewery Wokingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-outhouse-brewery-wokingham_1.jpg"
+}

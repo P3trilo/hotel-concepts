@@ -1,0 +1,57 @@
+{
+ "slug": "villages-brewery-taproom-deptford",
+ "name": "Villages Brewery Taproom",
+ "tagline": "Brewery taproom in the railway arches · Deptford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the taproom",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on drinks at the taproom",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on drinks at the taproom",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on drinks at the taproom",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on drinks at the taproom",
+ "message": "Happy Christmas! A round at the Villages taproom, my treat.",
+ "accent": "#2e9f88",
+ "cta": "#000000",
+ "on_cta": "#f7ab2d",
+ "hero_bg": "#333232",
+ "hero_eyebrow": "#f7ab2d",
+ "prefix": "VIL",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "21-22 Resolution Way, Deptford, London SE8 4NT",
+  "hours": "Thu 6-11pm, Fri 5-11.30pm, Sat 1-11.30pm, Sun 1-9pm",
+  "maps_query": "Villages Brewery Taproom Deptford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/villages-brewery-taproom-deptford_1.jpg"
+}

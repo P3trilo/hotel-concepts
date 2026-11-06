@@ -1,0 +1,57 @@
+{
+ "slug": "the-bridford-inn-bridford",
+ "name": "The Bridford Inn",
+ "tagline": "Family run 17th century free house · Dartmoor",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch by the inglenook",
+ "gifts": [
+  [
+   "Sunday roast",
+   "Rare Roast Sirloin of Beef with Yorkshire pudding, roast potatoes, seasonal vegetables, cauliflower cheese and pan gravy",
+   18.95,
+   "Sunday lunch at the Bridford Inn"
+  ],
+  [
+   "Slow Roast Belly Pork",
+   "Fondant potato, carrot puree, crispy kale and cider sauce",
+   19.95,
+   "Dinner at the Bridford Inn"
+  ],
+  [
+   "Beer Battered Fish & Chips",
+   "Garden or mushy peas, tartar sauce and lemon",
+   18.5,
+   "Fish and chips at the Bridford Inn"
+  ]
+ ],
+ "amount_desc": "Spend on food or drink at the inn",
+ "message": "Happy Christmas! Sunday lunch at the Bridford Inn, my treat.",
+ "accent": "#008000",
+ "cta": "#008000",
+ "on_cta": "#ffffff",
+ "hero_bg": "#343538",
+ "hero_eyebrow": "#ffffff",
+ "prefix": "BRI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday roast",
+   "Sarah",
+   18.95,
+   true
+  ],
+  [
+   "Slow Roast Belly Pork",
+   "Emma",
+   19.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Bridford Inn, Bridford, Exeter, Devon EX6 7HT",
+  "hours": "Bar Mon-Tue 3.30-8.30pm, Wed-Thu 12-10pm, Fri-Sat 12-11pm, Sun 12-8pm; no food Mon-Tue or Sunday evening",
+  "maps_query": "The Bridford Inn Bridford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bridford-inn-bridford_1.jpg"
+}

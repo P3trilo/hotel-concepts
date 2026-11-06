@@ -1,0 +1,57 @@
+{
+ "slug": "toms-tap-crewe",
+ "name": "Tom's Tap and Brewhouse",
+ "tagline": "Independent brewery and taproom · Crewe",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint at Tom's Tap",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any drink at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any drink at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any drink at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any drink at the bar",
+ "message": "Happy Christmas! The next few pints at Tom's Tap are on me.",
+ "accent": "#FB5FAB",
+ "cta": "#FB5FAB",
+ "on_cta": "#29223C",
+ "hero_bg": "#29223C",
+ "hero_eyebrow": "#FB5FAB",
+ "prefix": "TT",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Thomas St, Crewe CW1 2BD",
+  "hours": "Open Wednesday to Sunday",
+  "maps_query": "Tom's Tap Crewe"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/toms-tap-crewe_1.jpg"
+}

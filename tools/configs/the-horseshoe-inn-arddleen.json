@@ -1,0 +1,57 @@
+{
+ "slug": "the-horseshoe-inn-arddleen",
+ "name": "The Horseshoe Inn",
+ "tagline": "18th century country pub · Arddleen",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Horseshoe",
+ "gifts": [
+  [
+   "Sunday lunch, three courses",
+   "Starter, a roast with roast potatoes and seasonal vegetables, and a homemade dessert",
+   25.95,
+   "Three-course Sunday lunch at the Horseshoe Inn"
+  ],
+  [
+   "10oz sirloin",
+   "Steak with handcut chips, mushrooms, onion rings, grilled tomato and garden peas",
+   25.95,
+   "A 10oz sirloin at the Horseshoe Inn"
+  ],
+  [
+   "Double room with breakfast",
+   "One night in a double en-suite with king-size bed, breakfast included",
+   90.0,
+   "A night in a double en-suite with breakfast at the Horseshoe Inn"
+  ]
+ ],
+ "amount_desc": "Spend on a meal, a drink or a room",
+ "message": "Happy Christmas! Sunday lunch at the Horseshoe, my treat.",
+ "accent": "#E78F00",
+ "cta": "#254F32",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#254F32",
+ "hero_eyebrow": "#E78F00",
+ "prefix": "HI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday lunch, three courses",
+   "Sarah",
+   25.95,
+   true
+  ],
+  [
+   "10oz sirloin",
+   "Emma",
+   25.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Horseshoe Inn, Arddleen, Llanymynech, Powys SY22 6PU",
+  "hours": "Mon-Tue 4.30pm-10pm, Wed 12pm-10pm, Thu 12pm-11pm, Fri-Sat 12pm-12am, Sun 12pm-10pm; kitchen closed Mon, Tue and Sunday evenings",
+  "maps_query": "Horseshoe Inn Arddleen"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-horseshoe-inn-arddleen_1.jpg"
+}
