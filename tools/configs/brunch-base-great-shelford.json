@@ -1,0 +1,57 @@
+{
+ "slug": "brunch-base-great-shelford",
+ "name": "Brunch Base",
+ "tagline": "Independent brunch café · Great Shelford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Brunch Base",
+ "gifts": [
+  [
+   "Full House",
+   "Fried eggs, 2 turkey bacon, 2 beef sausages, portobello mushroom, hash brown, cherry tomatoes, baked beans and 2 artisan bread toasted",
+   13.95,
+   "The Full House all-day brunch"
+  ],
+  [
+   "Massala Brunch",
+   "Omelette or 2 fried eggs, 2 spicy beef sausages, hash brown, cherry tomatoes, spicy massala beans with paratha",
+   12.95,
+   "Massala Brunch for the spice lovers"
+  ],
+  [
+   "Eggs Royale",
+   "Toasted sourdough with 2 poached eggs, smoked salmon and hollandaise",
+   9.9,
+   "Eggs Royale on sourdough"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at Brunch Base, my treat.",
+ "accent": "#af814d",
+ "cta": "#af814d",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#af814d",
+ "prefix": "BB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Full House",
+   "Sarah",
+   13.95,
+   true
+  ],
+  [
+   "Massala Brunch",
+   "Emma",
+   12.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "46B Woollards Lane, Great Shelford, Cambridge CB22 5LZ",
+  "hours": "Mon, Wed to Fri 8.30am to 3.30pm, Sat and Sun 9.30am to 4pm, Tuesday closed",
+  "maps_query": "Brunch Base Great Shelford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/brunch-base-great-shelford_1.jpg"
+}

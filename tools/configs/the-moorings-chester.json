@@ -1,0 +1,57 @@
+{
+ "slug": "the-moorings-chester",
+ "name": "The Moorings",
+ "tagline": "Riverside eatery · The Groves, Chester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch by the River Dee",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on breakfast, brunch, cake or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on breakfast, brunch, cake or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on breakfast, brunch, cake or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on breakfast, brunch, cake or a drink",
+ "message": "Happy Christmas! Brunch at The Moorings, my treat.",
+ "accent": "#131313",
+ "cta": "#131313",
+ "on_cta": "#ffffff",
+ "hero_bg": "#131313",
+ "hero_eyebrow": "#f7f7f7",
+ "prefix": "MO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "23 The Groves, Chester CH1 1SD",
+  "hours": "Mon to Thu 9.30am to 5.30pm, Fri 9.30am to 6pm, Sat 9am to 6pm, Sun 9am to 5.30pm",
+  "maps_query": "The Moorings The Groves Chester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-moorings-chester_1.jpg"
+}

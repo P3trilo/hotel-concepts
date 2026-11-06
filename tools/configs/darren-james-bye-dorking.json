@@ -1,0 +1,57 @@
+{
+ "slug": "darren-james-bye-dorking",
+ "name": "Darren James Bye Hairdressing",
+ "tagline": "Ladies, gents and children's hairdresser · Dorking",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look in Dorking",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any cut, colour or treatment",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any cut, colour or treatment",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any cut, colour or treatment",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! A new look at Darren James Bye, my treat.",
+ "accent": "#e02b20",
+ "cta": "#e02b20",
+ "on_cta": "#ffffff",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#e02b20",
+ "prefix": "DJB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "21 South Street, Dorking, Surrey RH4 2JZ",
+  "hours": "Mon to Sat 7.30am to 8pm (appointments)",
+  "maps_query": "Darren James Bye Hairdressing Dorking"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/darren-james-bye-dorking_1.jpg"
+}

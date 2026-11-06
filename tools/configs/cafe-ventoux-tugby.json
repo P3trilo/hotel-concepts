@@ -1,0 +1,57 @@
+{
+ "slug": "cafe-ventoux-tugby",
+ "name": "Café Ventoux",
+ "tagline": "Destination cycling café · Tugby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Café Ventoux",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at Café Ventoux, my treat.",
+ "accent": "#dba641",
+ "cta": "#dba641",
+ "on_cta": "#000000",
+ "hero_bg": "#323d47",
+ "hero_eyebrow": "#dba641",
+ "prefix": "CV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Tugby Orchards Business Centre, Wood Lane, Tugby, Leicester LE7 9WE",
+  "hours": "Tuesday to Sunday 9am to 4pm, Monday closed (open bank holidays)",
+  "maps_query": "Cafe Ventoux Tugby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cafe-ventoux-tugby_1.jpg"
+}

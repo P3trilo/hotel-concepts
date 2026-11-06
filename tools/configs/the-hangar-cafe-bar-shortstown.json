@@ -1,0 +1,57 @@
+{
+ "slug": "the-hangar-cafe-bar-shortstown",
+ "name": "The Hangar Café & Bar",
+ "tagline": "All-day café and bar · Shortstown, Bedford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at The Hangar",
+ "gifts": [
+  [
+   "The Full Throttle",
+   "Classic full English, but bigger: 2 sausages, 2 bacon, 2 free-range eggs, hash brown, tomato, mushrooms, beans, toast",
+   13,
+   "The Full Throttle breakfast"
+  ],
+  [
+   "Classic 6oz Cheese Burger",
+   "Dressed in the Hangar sauce with mixed leaves and red onions, fries and house coleslaw",
+   12.5,
+   "A Burgers 101 cheese burger for dinner"
+  ],
+  [
+   "Chicken & Salami Pizza",
+   "Neapolitan stone-baked pizza with chicken, salami and mozzarella on a tomato base",
+   13.5,
+   "A Flight Deck stone-baked pizza"
+  ]
+ ],
+ "amount_desc": "Spend on food, coffee or drinks",
+ "message": "Happy Christmas! Dinner at The Hangar, my treat.",
+ "accent": "#0f392c",
+ "cta": "#d4ab54",
+ "on_cta": "#0f392c",
+ "hero_bg": "#0f392c",
+ "hero_eyebrow": "#d4ab54",
+ "prefix": "HG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "The Full Throttle",
+   "Sarah",
+   13,
+   true
+  ],
+  [
+   "Classic 6oz Cheese Burger",
+   "Emma",
+   12.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "15B Beauvais Square, Shortstown, Bedford MK42 0GE",
+  "hours": "Mon to Fri 8.30am to 10pm, Sat 9am to 10pm, Sun 9am to 3pm",
+  "maps_query": "The Hangar Cafe & Bar Shortstown"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-hangar-cafe-bar-shortstown_1.jpg"
+}

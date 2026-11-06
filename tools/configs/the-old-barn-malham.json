@@ -1,0 +1,57 @@
+{
+ "slug": "the-old-barn-malham",
+ "name": "The Old Barn",
+ "tagline": "Tea room and pottery painting · Malham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cream tea in Malham",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend in the tea room or on pottery painting",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend in the tea room or on pottery painting",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend in the tea room or on pottery painting",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend in the tea room or on pottery painting",
+ "message": "Happy Christmas! A cream tea at The Old Barn in Malham, my treat.",
+ "accent": "#96776b",
+ "cta": "#35424a",
+ "on_cta": "#ffffff",
+ "hero_bg": "#35424a",
+ "hero_eyebrow": "#a7c7db",
+ "prefix": "OBM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Old Barn, Malham, Skipton, North Yorkshire, BD23 4DA",
+  "hours": "Mid-February to early November, 9:30am to 4pm",
+  "maps_query": "The Old Barn Tea Room Malham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-old-barn-malham_1.jpg"
+}

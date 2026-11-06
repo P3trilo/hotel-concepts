@@ -1,0 +1,57 @@
+{
+ "slug": "bread-and-butter-chester",
+ "name": "Bread & Butter",
+ "tagline": "Hearty comfort food · Rufus Court, Chester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast at Bread & Butter",
+ "gifts": [
+  [
+   "Bread & Butter Breakfast",
+   "2 slices of buttered toast, fried egg, spiced cannellini beans, smoked bacon, baked sausage, fried black pudding, crispy mushrooms and home-made hash browns",
+   15.35,
+   "The Bread & Butter Breakfast"
+  ],
+  [
+   "Slow Cooked Beef Shin Stew",
+   "5 hour cooked beef shin stew with seasonal veg and a side of bread and butter",
+   16,
+   "Slow cooked beef shin stew for lunch"
+  ],
+  [
+   "Welsh Rarebit",
+   "Melted mature cheddar with a stout and maple rarebit sauce on a slab of Bear Bakery bread",
+   11,
+   "Welsh rarebit on Bear Bakery bread"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast at Bread & Butter, my treat.",
+ "accent": "#000000",
+ "cta": "#000000",
+ "on_cta": "#fff8f1",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#fff8f1",
+ "prefix": "BNB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Bread & Butter Breakfast",
+   "Sarah",
+   15.35,
+   true
+  ],
+  [
+   "Slow Cooked Beef Shin Stew",
+   "Emma",
+   16,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Rufus Court, Chester CH1 2JW",
+  "hours": "Tue to Thu 9am to 5pm, Fri and Sat 9.30am to 6pm, Sun from 9am until sold out, Monday closed",
+  "maps_query": "Bread and Butter Rufus Court Chester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/bread-and-butter-chester_1.jpg"
+}

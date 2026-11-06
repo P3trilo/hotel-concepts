@@ -1,0 +1,57 @@
+{
+ "slug": "dovey-and-broom-romsey",
+ "name": "Dovey & Broom",
+ "tagline": "Luxury hair studio · Romsey",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cut and finish at Dovey & Broom",
+ "gifts": [
+  [
+   "Ladies cut & finish",
+   "Cut and finish with naturally derived Aveda products",
+   55,
+   "Ladies cut & finish at Dovey & Broom"
+  ],
+  [
+   "Ladies blow dry",
+   "Wash and blow dry",
+   34,
+   "Ladies blow dry at Dovey & Broom"
+  ],
+  [
+   "Gentlemen's cut & finish",
+   "Gents' cut and finish",
+   36,
+   "Gentlemen's cut & finish at Dovey & Broom"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! A pamper at Dovey & Broom, my treat.",
+ "accent": "#93a571",
+ "cta": "#4d5849",
+ "on_cta": "#ffffff",
+ "hero_bg": "#161816",
+ "hero_eyebrow": "#dfe6d4",
+ "prefix": "DB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Ladies cut & finish",
+   "Sarah",
+   55,
+   true
+  ],
+  [
+   "Ladies blow dry",
+   "Emma",
+   34,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Unit 4, Abbey Walk, Romsey, Hampshire SO51 8JQ",
+  "hours": "Tue 9:15-6, Wed 10-6, Thu 9:15-8, Fri 9:15-6, Sat 8-3; closed Sun & Mon",
+  "maps_query": "Dovey & Broom Romsey"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/dovey-and-broom-romsey_1.jpg"
+}

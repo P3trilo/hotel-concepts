@@ -1,0 +1,57 @@
+{
+ "slug": "leilas-kitchen-hebden-bridge",
+ "name": "Leila's Kitchen",
+ "tagline": "Persian-inspired vegetarian café-bar · Hebden Bridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch at Leila's Kitchen",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Leila's Kitchen, my treat.",
+ "accent": "#6a2735",
+ "cta": "#6a2735",
+ "on_cta": "#ffffff",
+ "hero_bg": "#6a2735",
+ "hero_eyebrow": "#ece0d9",
+ "prefix": "LK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Old Oxford House, Albert Street, Hebden Bridge HX7 8AH",
+  "hours": "Mon to Sat 9am to about 4pm, Sun 10am to about 4pm",
+  "maps_query": "Leila's Kitchen Hebden Bridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/leilas-kitchen-hebden-bridge_1.jpg"
+}

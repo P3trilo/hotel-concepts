@@ -1,0 +1,57 @@
+{
+ "slug": "carberrys-norwich",
+ "name": "Carberrys",
+ "tagline": "Café with the dog · Tombland, Norwich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea at Carberrys",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on afternoon tea, lunch, cake or coffee",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on afternoon tea, lunch, cake or coffee",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on afternoon tea, lunch, cake or coffee",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on afternoon tea, lunch, cake or coffee",
+ "message": "Happy Christmas! Afternoon tea at Carberrys, my treat.",
+ "accent": "#242447",
+ "cta": "#dfbd00",
+ "on_cta": "#242447",
+ "hero_bg": "#242447",
+ "hero_eyebrow": "#dfbd00",
+ "prefix": "CB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "18 Wensum Street, Norwich, NR3 1HY",
+  "hours": "Mon to Sat 9am to 4pm, Sunday closed",
+  "maps_query": "Carberrys Cafe Norwich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/carberrys-norwich_1.jpg"
+}
