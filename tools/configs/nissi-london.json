@@ -1,0 +1,57 @@
+{
+ "slug": "nissi-london",
+ "name": "Nissi",
+ "tagline": "Contemporary Greek meze restaurant · Palmers Green",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Greek meze dinner",
+ "gifts": [
+  [
+   "Mezedes Greek tasting menu for two",
+   "Mezedes Greek tasting menu, £42 per person, minimum 2 people",
+   84,
+   "Mezedes Greek tasting menu for two at Nissi"
+  ],
+  [
+   "Whole sea bream",
+   "Chargrilled whole sea bream, olive oil, lemon",
+   25,
+   "Chargrilled whole sea bream at Nissi"
+  ],
+  [
+   "Lamb cutlets",
+   "Chargrilled lamb cutlets with herb crumb",
+   30,
+   "Chargrilled lamb cutlets at Nissi"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A meze dinner at Nissi, my treat.",
+ "accent": "#002D62",
+ "cta": "#002D62",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#002D62",
+ "hero_eyebrow": "#2EA3F2",
+ "prefix": "NS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Mezedes Greek tasting menu for two",
+   "Sarah",
+   84,
+   true
+  ],
+  [
+   "Whole sea bream",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "62 Aldermans Hill, London N13 4PP",
+  "hours": "",
+  "maps_query": "Nissi Restaurant Palmers Green"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nissi-london_1.jpg"
+}

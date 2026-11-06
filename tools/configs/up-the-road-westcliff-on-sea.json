@@ -1,0 +1,57 @@
+{
+ "slug": "up-the-road-westcliff-on-sea",
+ "name": "Up The Road",
+ "tagline": "Comedian's cocktail lounge · Westcliff-on-Sea",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cocktail at Up The Road",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any cocktail, mocktail or drink at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any cocktail, mocktail or drink at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any cocktail, mocktail or drink at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any cocktail, mocktail or drink at the bar",
+ "message": "Happy Christmas! The next cocktail at Up The Road is on me.",
+ "accent": "#ED5339",
+ "cta": "#ED5339",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#123634",
+ "hero_eyebrow": "#ED5339",
+ "prefix": "UTR",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "128 Hamlet Court Road, Westcliff-On-Sea, Essex, SS0 7LN",
+  "hours": "",
+  "maps_query": "Up The Road Westcliff-on-Sea"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/up-the-road-westcliff-on-sea_1.jpg"
+}

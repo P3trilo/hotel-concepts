@@ -1,0 +1,57 @@
+{
+ "slug": "peggys-skylight-nottingham",
+ "name": "Peggy's Skylight",
+ "tagline": "Jazz club, bar and kitchen · Nottingham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night of live jazz",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food and drink at Peggy's",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food and drink at Peggy's",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food and drink at Peggy's",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food and drink at Peggy's",
+ "message": "Happy Christmas! A night of jazz at Peggy's, my treat.",
+ "accent": "#568FAE",
+ "cta": "#568FAE",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#568FAE",
+ "prefix": "PS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "3 George Street, Hockley, Nottingham NG1 3BH",
+  "hours": "Wed-Thu 7-11pm, Fri 6pm-midnight, Sat 12.30pm-midnight, Sun 1-10pm",
+  "maps_query": "Peggy's Skylight Nottingham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/peggys-skylight-nottingham_1.jpg"
+}

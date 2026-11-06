@@ -1,0 +1,57 @@
+{
+ "slug": "the-waverley-carisbrooke",
+ "name": "The Waverley",
+ "tagline": "Village pub with rooms · Carisbrooke, Isle of Wight",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Waverley",
+ "gifts": [
+  [
+   "Steak & Ale Pie",
+   "Homemade pie with mash, chips or roast potatoes, vegetables, peas or baked beans and gravy",
+   16.95,
+   "A Steak & Ale Pie at the Waverley"
+  ],
+  [
+   "Homemade Lasagna",
+   "Beef or vegetable, served with salad and garlic bread",
+   14.95,
+   "Homemade lasagna at the Waverley"
+  ],
+  [
+   "Double room",
+   "One double bed with bathroom and bath, from GBP 80",
+   80,
+   "A night in a double room at the Waverley"
+  ]
+ ],
+ "amount_desc": "Spend on food, drinks or a room",
+ "message": "Happy Christmas! Sunday lunch at the Waverley, my treat.",
+ "accent": "#F7A32C",
+ "cta": "#F7A32C",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F7A32C",
+ "prefix": "WAV",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Steak & Ale Pie",
+   "Sarah",
+   16.95,
+   true
+  ],
+  [
+   "Homemade Lasagna",
+   "Emma",
+   14.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Clatterford Road, Carisbrooke, Newport, Isle of Wight, PO30 1PA",
+  "hours": "Mon-Tue 4-9pm, Wed-Thu 12-10pm, Fri-Sat 12-11pm, Sun 12-9pm",
+  "maps_query": "The Waverley Carisbrooke"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-waverley-carisbrooke_1.jpg"
+}

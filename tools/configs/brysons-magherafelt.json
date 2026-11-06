@@ -1,0 +1,57 @@
+{
+ "slug": "brysons-magherafelt",
+ "name": "Bryson's Bar and Restaurant",
+ "tagline": "Bar & restaurant, est. 1864 · Magherafelt",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Bryson's",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a meal or a drink in any of the bars",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a meal or a drink in any of the bars",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a meal or a drink in any of the bars",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a meal or a drink in any of the bars",
+ "message": "Happy Christmas! Dinner at Bryson's, my treat.",
+ "accent": "#AA8939",
+ "cta": "#AA8939",
+ "on_cta": "#16171D",
+ "hero_bg": "#16171D",
+ "hero_eyebrow": "#AA8939",
+ "prefix": "BRY",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "24-28 Union Rd, Magherafelt BT45 5DF",
+  "hours": "Bar Tue 4pm-late, Wed-Sun 12pm-late, closed Mon. Restaurant Wed-Thu 12-3pm, Fri-Sat 12pm-late, Sun 12-7pm",
+  "maps_query": "Bryson's Bar Magherafelt"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/brysons-magherafelt_1.jpg"
+}

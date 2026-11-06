@@ -1,0 +1,57 @@
+{
+ "slug": "the-engine-room-east-grinstead",
+ "name": "The Engine Room",
+ "tagline": "Award-winning cellar bar · East Grinstead",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Engine Room",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any drink at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any drink at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any drink at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any drink at the bar",
+ "message": "Happy Christmas! The next round at the Engine Room is on me.",
+ "accent": "#FFD54F",
+ "cta": "#FFD54F",
+ "on_cta": "#3A3A3A",
+ "hero_bg": "#3A3A3A",
+ "hero_eyebrow": "#FFD54F",
+ "prefix": "ER",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Old Mill, 45 London Road, East Grinstead RH19 1AW",
+  "hours": "Mon 4-9pm, Tue-Thu 4-11pm, Fri 2pm-12am, Sat 1pm-12am, Sun 2-9pm",
+  "maps_query": "The Engine Room East Grinstead"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-engine-room-east-grinstead_1.jpg"
+}

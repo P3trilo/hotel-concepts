@@ -1,0 +1,57 @@
+{
+ "slug": "mimis-thai-bistro-weston-super-mare",
+ "name": "MiMi's Thai Bistro",
+ "tagline": "Independent Thai bistro · Weston-super-Mare",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at MiMi's",
+ "gifts": [
+  [
+   "Mimi's Crying Tiger Steak",
+   "Thai style steak served with salad and jasmine rice",
+   19.5,
+   "Mimi's Crying Tiger Steak"
+  ],
+  [
+   "3 Flavour Sea Bass",
+   "Sea bass (3 flavour or chu-chee) served with salad and jasmine rice",
+   19.5,
+   "3 Flavour Sea Bass"
+  ],
+  [
+   "Mixed Starter for Two",
+   "Mixed Thai starters for two",
+   18.0,
+   "Mixed Starter for Two"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at MiMi's Thai Bistro, my treat.",
+ "accent": "#3490AE",
+ "cta": "#3490AE",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#424242",
+ "hero_eyebrow": "#D5EBF2",
+ "prefix": "MTB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Mimi's Crying Tiger Steak",
+   "Sarah",
+   19.5,
+   true
+  ],
+  [
+   "3 Flavour Sea Bass",
+   "Emma",
+   19.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6 Walliscote Road, Weston-super-Mare BS23 1UG",
+  "hours": "Tue-Sat from 17:30, last orders 21:00",
+  "maps_query": "MiMi's Thai Bistro Weston-super-Mare"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/mimis-thai-bistro-weston-super-mare_1.jpg"
+}

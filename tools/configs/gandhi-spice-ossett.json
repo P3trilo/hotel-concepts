@@ -1,0 +1,57 @@
+{
+ "slug": "gandhi-spice-ossett",
+ "name": "Gandhi Spice",
+ "tagline": "Indian tandoori restaurant · Ossett",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a curry night at Gandhi Spice",
+ "gifts": [
+  [
+   "Tandoori King Prawn",
+   "Tandoori king prawns from the main menu",
+   14.95,
+   "Tandoori King Prawn"
+  ],
+  [
+   "Bengal King Prawn",
+   "King sized prawns cooked with spices and special herbs served with a thick sauce",
+   13.95,
+   "Bengal King Prawn"
+  ],
+  [
+   "Mixed Starter for 2",
+   "Chops, veg pakora, chicken tikka and sheek kebab",
+   9.95,
+   "Mixed Starter for two"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Gandhi Spice, my treat.",
+ "accent": "#7D1645",
+ "cta": "#7D1645",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#151415",
+ "hero_eyebrow": "#FFDC00",
+ "prefix": "GS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Tandoori King Prawn",
+   "Sarah",
+   14.95,
+   true
+  ],
+  [
+   "Bengal King Prawn",
+   "Emma",
+   13.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "31-33 Bank Street, Ossett, Wakefield WF5 8PS",
+  "hours": "5pm-11pm, 7 days a week",
+  "maps_query": "Gandhi Spice Ossett"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/gandhi-spice-ossett_1.jpg"
+}

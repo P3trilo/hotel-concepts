@@ -1,0 +1,57 @@
+{
+ "slug": "itsys-street-food-preston",
+ "name": "Itsy's Street Food",
+ "tagline": "Thai street food restaurant · Preston",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thai feast at Itsy's",
+ "gifts": [
+  [
+   "Sleeping Tiger",
+   "Grilled and sliced sirloin steak served in Thai Massamun curry with coconut milk, potatoes, cashew nuts and onions",
+   20.0,
+   "Sleeping Tiger sirloin in massamun curry"
+  ],
+  [
+   "Tiger Waterfall",
+   "Grilled and sliced sirloin steak, an 'Exotic Thai North Eastern' dish with chilli flakes, lime juice, coriander, red onions, mint and roasted rice",
+   20.0,
+   "Tiger Waterfall sirloin"
+  ],
+  [
+   "Mix Platter for 2",
+   "Chicken satay, prawn on toast, spring rolls, fish cakes and crispy prawn",
+   17.0,
+   "Mix Platter for two"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Itsy's Street Food, my treat.",
+ "accent": "#E5282A",
+ "cta": "#E5282A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#141833",
+ "hero_eyebrow": "#EFB443",
+ "prefix": "ITS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Sleeping Tiger",
+   "Sarah",
+   20.0,
+   true
+  ],
+  [
+   "Tiger Waterfall",
+   "Emma",
+   20.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "139 Friargate, Preston PR1 2EE",
+  "hours": "Tue-Thu & Sun 16:00-22:00, Fri-Sat 16:00-23:00, closed Mon",
+  "maps_query": "Itsy's Street Food Preston"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/itsys-street-food-preston_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "moot-brew-co-upper-halling",
+ "name": "Moot Brew",
+ "tagline": "Brewery and taproom · Upper Halling, Kent",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Moot taproom",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on beer at the taproom",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on beer at the taproom",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on beer at the taproom",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on beer at the taproom",
+ "message": "Happy Christmas! The next round at the Moot taproom is on me.",
+ "accent": "#A42325",
+ "cta": "#A42325",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#A42325",
+ "prefix": "MB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Court Farm, Pilgrims Road, Upper Halling, Kent ME2 1HR",
+  "hours": "Taproom Thu-Sat 12-9pm, Sun 12-7pm",
+  "maps_query": "Moot Brew Upper Halling"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/moot-brew-co-upper-halling_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "peaches-newcastle-under-lyme",
+ "name": "Peaches Restaurant",
+ "tagline": "Chinese and Cantonese restaurant · Newcastle-under-Lyme",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Cantonese banquet at Peaches",
+ "gifts": [
+  [
+   "Banquet C for two",
+   "Crabmeat and sweetcorn soup, crispy aromatic duck with pancakes, then roast pork, garlic king prawns, Szechuan crispy beef, lemon chicken and Young Chow fried rice (minimum 2 persons, £27.50 per person)",
+   55.0,
+   "Banquet C for two people"
+  ],
+  [
+   "Sunday lunch for two",
+   "Sunday lunch, £23.00 per person, starters, main courses and desserts",
+   46.0,
+   "Sunday lunch for two"
+  ],
+  [
+   "Eat as much as you like, Friday or Saturday",
+   "Eat as much as you like menu, £29 per person on Fridays and Saturdays",
+   58.0,
+   "Eat as much as you like for two on a Friday or Saturday"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Peaches, my treat.",
+ "accent": "#D4AF37",
+ "cta": "#D4AF37",
+ "on_cta": "#1A1A1A",
+ "hero_bg": "#1A1A1A",
+ "hero_eyebrow": "#D4AF37",
+ "prefix": "PCH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Banquet C for two",
+   "Sarah",
+   55.0,
+   true
+  ],
+  [
+   "Sunday lunch for two",
+   "Emma",
+   46.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1-2 Silverdale Road, Newcastle-under-Lyme, Staffordshire ST5 2TB",
+  "hours": "Wed-Sat 5-10pm, Sun lunch from 12:15pm and 5-9pm, closed Mon-Tue",
+  "maps_query": "Peaches Restaurant Newcastle-under-Lyme"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/peaches-newcastle-under-lyme_1.jpg"
+}

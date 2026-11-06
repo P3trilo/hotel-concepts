@@ -1,0 +1,57 @@
+{
+ "slug": "monsieur-crepe-cafe-newcastle",
+ "name": "Monsieur Crepe Cafe",
+ "tagline": "French-style crepe cafe · High Heaton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give crepes and afternoon tea",
+ "gifts": [
+  [
+   "Afternoon tea",
+   "A sandwich, a savoury, a fruit scone with jam and fresh cream and a cake from the counter, with unlimited hot drinks",
+   22.5,
+   "Afternoon tea for one at Monsieur Crepe Cafe"
+  ],
+  [
+   "The Big One",
+   "Bacon, Geordie Bangers, hash browns, black pudding, mushrooms, grilled tomato, beans and eggs, served with toast",
+   12.5,
+   "The Big One breakfast at Monsieur Crepe Cafe"
+  ],
+  [
+   "American pancake stack",
+   "A three-stack of fresh American pancakes with your choice of toppings",
+   10.95,
+   "A three-stack of American pancakes at Monsieur Crepe Cafe"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Crepes at Monsieur Crepe, my treat.",
+ "accent": "#E09900",
+ "cta": "#FF9900",
+ "on_cta": "#222222",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#E09900",
+ "prefix": "MC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Afternoon tea",
+   "Sarah",
+   22.5,
+   true
+  ],
+  [
+   "The Big One",
+   "Emma",
+   12.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7-9 Newton Place, High Heaton, Newcastle upon Tyne NE7 7HD",
+  "hours": "Wed-Sat 9am-4pm, Sun 10am-4pm, closed Mon and Tue",
+  "maps_query": "Monsieur Crepe Cafe High Heaton Newcastle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/monsieur-crepe-cafe-newcastle_1.jpg"
+}

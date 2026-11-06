@@ -1,0 +1,57 @@
+{
+ "slug": "dragon-bar-hastings",
+ "name": "Dragon Bar",
+ "tagline": "Casual food and drink in the Old Town · Hastings",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cocktail at the Dragon",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food and drink at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food and drink at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food and drink at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food and drink at the bar",
+ "message": "Happy Christmas! The next round at the Dragon Bar is on me.",
+ "accent": "#0E0E0E",
+ "cta": "#0E0E0E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0E0E0E",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "DB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "71 George Street, Hastings TN34 3EE",
+  "hours": "Mon-Sat 12pm-11pm, Sun 12pm-10pm",
+  "maps_query": "Dragon Bar George Street Hastings"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/dragon-bar-hastings_1.jpg"
+}

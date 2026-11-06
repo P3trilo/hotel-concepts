@@ -1,0 +1,57 @@
+{
+ "slug": "the-boat-inn-stoke-bruerne",
+ "name": "The Boat Inn",
+ "tagline": "Canalside family freehouse since 1877 · Stoke Bruerne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by the canal",
+ "gifts": [
+  [
+   "Three courses in Woodward's Restaurant",
+   "Three-course meal with choices in the canalside restaurant, e.g. slow cooked rump of lamb or twice cooked pork belly",
+   33,
+   "Three courses in Woodward's Restaurant at the Boat Inn"
+  ],
+  [
+   "Two courses in Woodward's Restaurant",
+   "Two-course meal with choices in Woodward's Restaurant, overlooking the Grand Union Canal",
+   25,
+   "Two courses in Woodward's Restaurant at the Boat Inn"
+  ],
+  [
+   "Boat Inn Burger",
+   "6oz Aberdeen Angus beefburger with bacon and cheese, chips and homemade coleslaw",
+   17,
+   "A Boat Inn Burger with chips at the Boat Inn"
+  ]
+ ],
+ "amount_desc": "Spend on food and drink in the bars, bistro or restaurant",
+ "message": "Happy Christmas! Dinner at the Boat Inn, my treat.",
+ "accent": "#2A2F4A",
+ "cta": "#2A2F4A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#242943",
+ "hero_eyebrow": "#838391",
+ "prefix": "BI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Three courses in Woodward's Restaurant",
+   "Sarah",
+   33,
+   true
+  ],
+  [
+   "Two courses in Woodward's Restaurant",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Boat Inn, Bridge Road, Stoke Bruerne, Towcester, Northants NN12 7SB",
+  "hours": "Open daily from 9.30am; Woodward's Restaurant Saturday evening and Sunday lunch",
+  "maps_query": "The Boat Inn Stoke Bruerne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-boat-inn-stoke-bruerne_1.jpg"
+}

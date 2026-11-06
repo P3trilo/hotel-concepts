@@ -1,0 +1,57 @@
+{
+ "slug": "the-regent-edinburgh",
+ "name": "The Regent",
+ "tagline": "LGBT+ and straight-friendly real ale pub · Edinburgh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at the Regent",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on drinks and bar snacks",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on drinks and bar snacks",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on drinks and bar snacks",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on drinks and bar snacks",
+ "message": "Happy Christmas! The next round at the Regent is on me.",
+ "accent": "#2A82A6",
+ "cta": "#2A82A6",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1F1F1F",
+ "hero_eyebrow": "#2A82A6",
+ "prefix": "RG",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Montrose Terrace, Edinburgh EH7 5DL",
+  "hours": "Open daily, 4pm - midnight",
+  "maps_query": "The Regent Bar Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-regent-edinburgh_1.jpg"
+}

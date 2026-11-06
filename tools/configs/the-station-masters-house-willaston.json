@@ -1,0 +1,57 @@
+{
+ "slug": "the-station-masters-house-willaston",
+ "name": "The Station Master's House",
+ "tagline": "Cafe in a Grade II listed station · Willaston, Wirral",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast at the old station",
+ "gifts": [
+  [
+   "Station Master's Breakfast",
+   "Locally sourced sausage, smoked bacon, poached egg, roasted tomato, mushroom, hash browns, black pudding, baked beans and toasted bloomer",
+   13.5,
+   "A Station Master's Breakfast at the Station Master's House"
+  ],
+  [
+   "Eggs Benedict",
+   "Toasted sourdough topped with smoked back bacon, poached eggs and hollandaise sauce",
+   12,
+   "Eggs Benedict brunch at the Station Master's House"
+  ],
+  [
+   "Smashed Avo on Sourdough",
+   "With feta, pico de gallo, crispy onions and balsamic",
+   11.5,
+   "Smashed avo on sourdough at the Station Master's House"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the cafe menu",
+ "message": "Happy Christmas! Breakfast at the Station Master's House, my treat.",
+ "accent": "#5D6F61",
+ "cta": "#5D6F61",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#68706A",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "SMH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Station Master's Breakfast",
+   "Sarah",
+   13.5,
+   true
+  ],
+  [
+   "Eggs Benedict",
+   "Emma",
+   12,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station House, Hadlow Road Station, Hadlow Rd, Willaston CH64 2UQ",
+  "hours": "Cafe Wed-Sun 9:30am-4pm; takeaway hatch Sat-Tue 9:30am-3pm",
+  "maps_query": "The Station Master's House Willaston"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-station-masters-house-willaston_1.jpg"
+}

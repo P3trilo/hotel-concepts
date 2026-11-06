@@ -1,0 +1,57 @@
+{
+ "slug": "kathmandu-valley-tonbridge",
+ "name": "Kathmandu Valley",
+ "tagline": "Nepalese and Indian restaurant · Tonbridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Kathmandu Valley",
+ "gifts": [
+  [
+   "Thali set",
+   "A traditional platter with boiled rice, lentils, curries, pickles and fresh vegetables (veg or chicken)",
+   13.95,
+   "A Nepalese thali set at Kathmandu Valley"
+  ],
+  [
+   "Nepalese special momo",
+   "Steamed dumplings filled with chicken or vegetables, served with homemade chutney",
+   8.95,
+   "Nepalese special momo at Kathmandu Valley"
+  ],
+  [
+   "K Valley mixed grill special",
+   "Lamb tikka, chicken tikka, tandoori chicken, seekh kebab and king prawns from the clay oven",
+   14.95,
+   "The K Valley mixed grill special at Kathmandu Valley"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Kathmandu Valley, my treat.",
+ "accent": "#89153D",
+ "cta": "#89153D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#423F3F",
+ "hero_eyebrow": "#89153D",
+ "prefix": "KV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Thali set",
+   "Sarah",
+   13.95,
+   true
+  ],
+  [
+   "Nepalese special momo",
+   "Emma",
+   8.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "32 High Street, Tonbridge TN9 1EJ",
+  "hours": "Open 7 days: Sun-Thu 17:00-22:30, Fri-Sat 17:00-23:00; closed on Boxing Day",
+  "maps_query": "Kathmandu Valley Tonbridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/kathmandu-valley-tonbridge_1.jpg"
+}

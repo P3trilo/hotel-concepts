@@ -1,0 +1,57 @@
+{
+ "slug": "the-acorn-yeovil",
+ "name": "The Acorn",
+ "tagline": "Independent cafe, bistro and bottleshop · Yeovil",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at the Acorn",
+ "gifts": [
+  [
+   "Somerset breakfast",
+   "Barrett Bros sausage and smoked bacon, St Ewe's fried eggs, hash browns, mushrooms, tomato, beans and toast",
+   14.5,
+   "Somerset breakfast at the Acorn"
+  ],
+  [
+   "Somerset steak frites",
+   "Local 5oz minute steak served pink with garlic and tarragon butter, Koffmann fries and a parmesan and rocket salad",
+   17,
+   "Somerset steak frites at the Acorn"
+  ],
+  [
+   "Confit Devon duck leg",
+   "Confit Devon duck leg with a butter bean, Barrett Bros sausage and tomato cassoulet, kale and Koffmann fries or Hobbs House sourdough",
+   19.5,
+   "Confit Devon duck leg lunch at the Acorn"
+  ]
+ ],
+ "amount_desc": "Spend on brunch, lunch, cheese or wine",
+ "message": "Happy Christmas! Brunch at the Acorn, my treat.",
+ "accent": "#5C664E",
+ "cta": "#5C664E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4A4A4A",
+ "hero_eyebrow": "#E3E9E1",
+ "prefix": "AC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Somerset breakfast",
+   "Sarah",
+   14.5,
+   true
+  ],
+  [
+   "Somerset steak frites",
+   "Emma",
+   17,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8-10 Church Street, Yeovil, Somerset BA20 1HE",
+  "hours": "Mon, Wed, Thu 9:00-15:30; Fri, Sat 9:00-16:00; Sun 10:00-13:00; closed Tuesday",
+  "maps_query": "The Acorn Church Street Yeovil"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-acorn-yeovil_1.jpg"
+}

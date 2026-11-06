@@ -1,0 +1,57 @@
+{
+ "slug": "makers-house-norwich",
+ "name": "Makers House",
+ "tagline": "Tapas bar bistro · Norwich Lanes",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give tapas in the Norwich Lanes",
+ "gifts": [
+  [
+   "Makers Mixed Deli Board",
+   "A great mix of charcuterie, Norfolk cheese and deli surprises",
+   24,
+   "Makers Mixed Deli Board at Makers House"
+  ],
+  [
+   "Seafood Fried Platter",
+   "Calamari, cuttlefish, white bait, prawns, fish croquetas, padron peppers, aioli dip and bread (large)",
+   22,
+   "Large Seafood Fried Platter at Makers House"
+  ],
+  [
+   "Norfolk Mussels",
+   "Wok tossed and steamed in a white wine, garlic and cream sauce with a splash of Sambuca (large)",
+   16,
+   "Large bowl of Norfolk Mussels at Makers House"
+  ]
+ ],
+ "amount_desc": "Spend on food and drink at the bistro",
+ "message": "Happy Christmas! Tapas at Makers House, my treat.",
+ "accent": "#CCB85A",
+ "cta": "#1C212A",
+ "on_cta": "#F2F2F2",
+ "hero_bg": "#1C212A",
+ "hero_eyebrow": "#CCB85A",
+ "prefix": "MH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Makers Mixed Deli Board",
+   "Sarah",
+   24,
+   true
+  ],
+  [
+   "Seafood Fried Platter",
+   "Emma",
+   22,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2-4 St Benedicts Street, Norwich NR2 4AG",
+  "hours": "",
+  "maps_query": "Makers House Norwich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/makers-house-norwich_1.jpg"
+}
