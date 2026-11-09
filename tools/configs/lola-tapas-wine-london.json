@@ -1,0 +1,57 @@
+{
+ "slug": "lola-tapas-wine-london",
+ "name": "Lola Tapas & Wine",
+ "tagline": "Spanish tapas & wine bar · Brixton Road, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Spain at Lola",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on tapas, paella or wine",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on tapas, paella or wine",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on tapas, paella or wine",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on tapas, paella or wine",
+ "message": "Happy Christmas! Tapas and sangria at Lola, my treat.",
+ "accent": "#F9DB00",
+ "cta": "#FD1E30",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#121212",
+ "hero_eyebrow": "#F9DB00",
+ "prefix": "LTW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "48 Brixton Road, London SW9 6BT",
+  "hours": "Mon-Thu 5pm-11pm; Fri-Sat 12pm-12am; Sun 12pm-11pm",
+  "maps_query": "Lola Tapas & Wine Brixton Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/lola-tapas-wine-london_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "shinys-hair-and-beauty-horsham",
+ "name": "Shiny's Hair and Beauty",
+ "tagline": "Ladies' hair & beauty salon · Horsham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a treat at Shiny's",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any hair or beauty treatment",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any hair or beauty treatment",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any hair or beauty treatment",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any hair or beauty treatment",
+ "message": "Happy Christmas! A pamper at Shiny's, my treat.",
+ "accent": "#BA8918",
+ "cta": "#BA8918",
+ "on_cta": "#000000",
+ "hero_bg": "#0B0B0B",
+ "hero_eyebrow": "#D4A62A",
+ "prefix": "SH",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "52 Carfax, Horsham, West Sussex RH12 1EQ",
+  "hours": "Mon-Sat 9am-5pm, Sun closed",
+  "maps_query": "Shiny's Hair and Beauty Horsham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/shinys-hair-and-beauty-horsham_1.jpg"
+}

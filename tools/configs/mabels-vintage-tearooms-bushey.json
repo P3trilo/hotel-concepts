@@ -1,0 +1,57 @@
+{
+ "slug": "mabels-vintage-tearooms-bushey",
+ "name": "Mabel's Vintage Tearooms",
+ "tagline": "Vintage tearoom at Reveley Lodge · Bushey Heath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea at Mabel's",
+ "gifts": [
+  [
+   "Mabel's Afternoon Tea",
+   "Finger sandwiches, plain and fruit scones with clotted cream and jam, mini cakes, salted caramel cheesecake, strawberries dipped in chocolate and unlimited tea and coffee",
+   38,
+   "Mabel's Afternoon Tea at Mabel's Vintage Tearooms"
+  ],
+  [
+   "Royal Afternoon Tea",
+   "Finger sandwiches, a fruit and plain scone with clotted cream, two homemade cakes, two petit fours, strawberries dipped in chocolate and unlimited tea and coffee",
+   34,
+   "Royal Afternoon Tea at Mabel's Vintage Tearooms"
+  ],
+  [
+   "Gentlemen's Afternoon Tea with a pint",
+   "Scotch egg, pork pie, sausage roll, cheese and chorizo quiche, cheeses and relishes, mini scones and a pint of beer",
+   39,
+   "Gentlemen's Afternoon Tea with a pint of beer at Mabel's Vintage Tearooms"
+  ]
+ ],
+ "amount_desc": "Spend on any afternoon tea at Mabel's",
+ "message": "Happy Christmas! Afternoon tea at Mabel's, my treat.",
+ "accent": "#1B1B1B",
+ "cta": "#1B1B1B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#F7F7F7",
+ "hero_eyebrow": "#5E5E5E",
+ "prefix": "MVT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Mabel's Afternoon Tea",
+   "Sarah",
+   38,
+   true
+  ],
+  [
+   "Royal Afternoon Tea",
+   "Emma",
+   34,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Reveley Lodge, 88 Elstree Road, Bushey Heath, Hertfordshire WD23 4GL",
+  "hours": "Saturdays 12:00-18:00, confirmed bookings only; Sundays private functions",
+  "maps_query": "Mabel's Vintage Tearooms Bushey Heath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/mabels-vintage-tearooms-bushey_2.jpg"
+}

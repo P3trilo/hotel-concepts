@@ -1,0 +1,57 @@
+{
+ "slug": "ramen-korner-oxford",
+ "name": "Ramen Korner",
+ "tagline": "Japanese ramen bar · Oxford High Street",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a bowl of ramen",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Ramen at Ramen Korner, my treat.",
+ "accent": "#BE3508",
+ "cta": "#BE3508",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#242323",
+ "hero_eyebrow": "#BE3508",
+ "prefix": "RK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "59-60 High Street, Oxford OX1 4AS",
+  "hours": "Mon-Thu and Sun 12-10pm, Fri-Sat 12-10:30pm",
+  "maps_query": "Ramen Korner Oxford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ramen-korner-oxford_1.jpg"
+}

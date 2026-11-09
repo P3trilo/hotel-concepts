@@ -1,0 +1,57 @@
+{
+ "slug": "beacon-country-house-hotel-st-agnes",
+ "name": "The Beacon Country House Hotel",
+ "tagline": "Family-run country house B&B · St Agnes",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night on the Cornish coast",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, breakfast or a drink at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, breakfast or a drink at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, breakfast or a drink at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, breakfast or a drink at the bar",
+ "message": "Happy Christmas! A night at the Beacon in St Agnes, my treat.",
+ "accent": "#48A9A6",
+ "cta": "#48A9A6",
+ "on_cta": "#1F1F1F",
+ "hero_bg": "#3A3A3A",
+ "hero_eyebrow": "#48A9A6",
+ "prefix": "BCH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Goonvrea Rd, St Agnes, Cornwall TR5 0NW",
+  "hours": "",
+  "maps_query": "Beacon Country House Hotel St Agnes"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/beacon-country-house-hotel-st-agnes_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "family-bakery-southgate",
+ "name": "Family Bakery",
+ "tagline": "Family-run bakery & café · Southgate",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and cake at Family Bakery",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, cakes, pastries or lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, cakes, pastries or lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, cakes, pastries or lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, cakes, pastries or lunch",
+ "message": "Happy Christmas! Coffee and cake at Family Bakery, my treat.",
+ "accent": "#F99D1C",
+ "cta": "#F99D1C",
+ "on_cta": "#212529",
+ "hero_bg": "#212529",
+ "hero_eyebrow": "#F99D1C",
+ "prefix": "FB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "92 Crown Lane, Southgate, London N14 5EN",
+  "hours": "",
+  "maps_query": "Family Bakery Crown Lane Southgate"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/family-bakery-southgate_1.jpg"
+}

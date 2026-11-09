@@ -1,0 +1,57 @@
+{
+ "slug": "adelfia-brighton",
+ "name": "Adelfia",
+ "tagline": "Family-run Greek restaurant · Brighton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Greek dinner",
+ "gifts": [
+  [
+   "Mezze sharing platter for two",
+   "Greek sausage, meatballs, cheese pie, spinach pie, courgettes, stuffed vine leaves, halloumi, tzatziki and houmous with pitta bread, £14.50 per person",
+   29,
+   "Mezze sharing platter for two at Adelfia"
+  ],
+  [
+   "Kleftico",
+   "Slow roasted lamb with potatoes baked with fresh lemon, olive oil and oregano",
+   22.95,
+   "Slow roasted lamb kleftico at Adelfia"
+  ],
+  [
+   "Moussaka",
+   "Layers of potato, aubergine, beef and tomato with a hint of nutmeg, topped with a cheesy bechamel sauce",
+   19,
+   "Moussaka at Adelfia"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! A Greek dinner at Adelfia, my treat.",
+ "accent": "#72715A",
+ "cta": "#72715A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#22221F",
+ "hero_eyebrow": "#A1A083",
+ "prefix": "AD",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Mezze sharing platter for two",
+   "Sarah",
+   29,
+   true
+  ],
+  [
+   "Kleftico",
+   "Emma",
+   22.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "13-14 Preston Street, Brighton, East Sussex BN1 2HN",
+  "hours": "Mon-Thu 5pm-10pm; Fri-Sat 12pm-10.30pm; Sun 12pm-9pm",
+  "maps_query": "Adelfia Greek Restaurant Brighton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/adelfia-brighton_1.jpg"
+}

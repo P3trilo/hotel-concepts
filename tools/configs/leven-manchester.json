@@ -1,0 +1,57 @@
+{
+ "slug": "leven-manchester",
+ "name": "LEVEN",
+ "tagline": "Boutique hotel in the Village · Manchester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at LEVEN",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room or cocktails at the Lobby Bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room or cocktails at the Lobby Bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room or cocktails at the Lobby Bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room or cocktails at the Lobby Bar",
+ "message": "Happy Christmas! A night at LEVEN, my treat.",
+ "accent": "#D76B17",
+ "cta": "#013729",
+ "on_cta": "#F0EEE2",
+ "hero_bg": "#013729",
+ "hero_eyebrow": "#D76B17",
+ "prefix": "LV",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "40 Chorlton Street, Manchester M1 3HW",
+  "hours": "Lobby Bar all week 12pm-1:30am",
+  "maps_query": "LEVEN Manchester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/leven-manchester_1.jpg"
+}

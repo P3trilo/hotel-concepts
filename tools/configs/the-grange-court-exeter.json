@@ -1,0 +1,57 @@
+{
+ "slug": "the-grange-court-exeter",
+ "name": "The Grange Court",
+ "tagline": "Boutique guest house & tea rooms · Rockbeare, Exeter",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Devon cream tea",
+ "gifts": [
+  [
+   "Devon Cream Tea",
+   "Fresh scones with strawberry jam, locally-sourced strawberries and Devon clotted cream, with a pot of tea or coffee",
+   10,
+   "Devon cream tea for one"
+  ],
+  [
+   "High Tea",
+   "Cream tea and sandwiches with a selection of cup cakes",
+   17,
+   "High tea for one"
+  ],
+  [
+   "Double room",
+   "A night for two in a double room including breakfast",
+   87,
+   "A night in a double room for two, breakfast included"
+  ]
+ ],
+ "amount_desc": "Spend on a cream tea, a meal or a room",
+ "message": "Happy Christmas! A Devon cream tea at the Grange Court, my treat.",
+ "accent": "#8300E9",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#8300E9",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "GC",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Devon Cream Tea",
+   "Sarah",
+   10,
+   true
+  ],
+  [
+   "High Tea",
+   "Emma",
+   17,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Grange Court, London Road, Rockbeare, Exeter EX5 2FP",
+  "hours": "",
+  "maps_query": "The Grange Court Hotel Rockbeare Exeter"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-grange-court-exeter_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "black-cat-cafe-hackney-london",
+ "name": "Black Cat Cafe",
+ "tagline": "100% vegan cafe · Hackney",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a vegan breakfast at the Black Cat",
+ "gifts": [
+  [
+   "Kitten Breakfast",
+   "Their vegan take on a full English: roasted rosemary mushrooms, charred garlic tomato, baked beans, BBQ courgette, scrambled tofu, a veggie sausage, a hashbrown and toast",
+   13,
+   "Kitten Breakfast at the Black Cat"
+  ],
+  [
+   "Cat Breakfast",
+   "A bigger vegan full English with larger portions, two veggie sausages, two hashbrowns and two slices of toast",
+   16,
+   "Cat Breakfast at the Black Cat"
+  ],
+  [
+   "Spicy Burger",
+   "Housemade soy patty with lettuce, cucumber, spring onion and crispy chili mayo, served with chips and slaw",
+   15,
+   "Spicy Burger at the Black Cat"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast at the Black Cat, my treat.",
+ "accent": "#BE1622",
+ "cta": "#BE1622",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#BE1622",
+ "prefix": "BC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Kitten Breakfast",
+   "Sarah",
+   13,
+   true
+  ],
+  [
+   "Cat Breakfast",
+   "Emma",
+   16,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "76a Clarence Rd, London E5 8HB",
+  "hours": "Mon, Thu-Sun 9am-4pm; closed Tue and Wed",
+  "maps_query": "Black Cat Cafe Clarence Road Hackney"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/black-cat-cafe-hackney-london_1.jpg"
+}

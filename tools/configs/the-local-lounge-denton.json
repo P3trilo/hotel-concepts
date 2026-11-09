@@ -1,0 +1,57 @@
+{
+ "slug": "the-local-lounge-denton",
+ "name": "The Local Lounge",
+ "tagline": "Bar & kitchen · Denton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea at the Lounge",
+ "gifts": [
+  [
+   "Classic Afternoon Tea",
+   "Boujee sponge cakes, strawberry cream slice, rainbow macaroon, handmade sultana scone with strawberry jam and clotted cream, and freshly made sandwiches",
+   25,
+   "Classic Afternoon Tea at the Local Lounge"
+  ],
+  [
+   "Savoury Afternoon Tea",
+   "Sponge cakes, scone with jam and clotted cream, cheeseburger brioche slider, coronation chicken wrap, mini beer battered fish and chips and a pork and chorizo sausage roll",
+   28,
+   "Savoury Afternoon Tea at the Local Lounge"
+  ],
+  [
+   "Sharing board for two",
+   "Choose from Carnivore, Herbivore, Lounge's favourites, Moroccan platter or Cheese lovers, all served with skinny fries",
+   28,
+   "A sharing board for two at the Local Lounge"
+  ]
+ ],
+ "amount_desc": "Spend on food, afternoon tea or cocktails",
+ "message": "Happy Christmas! Afternoon tea at the Local Lounge, my treat.",
+ "accent": "#BBA53D",
+ "cta": "#BBA53D",
+ "on_cta": "#212529",
+ "hero_bg": "#212529",
+ "hero_eyebrow": "#BBA53D",
+ "prefix": "LL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Classic Afternoon Tea",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "Savoury Afternoon Tea",
+   "Emma",
+   28,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "9 Albert Street, Denton, Manchester M34 6ZA",
+  "hours": "Mon closed; Tue-Thu 12pm-11pm; Fri-Sun 12pm-midnight",
+  "maps_query": "The Local Lounge Denton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-local-lounge-denton_1.jpg"
+}
