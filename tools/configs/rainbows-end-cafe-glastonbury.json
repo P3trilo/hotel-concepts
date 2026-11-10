@@ -1,0 +1,57 @@
+{
+ "slug": "rainbows-end-cafe-glastonbury",
+ "name": "The Rainbow's End Cafe",
+ "tagline": "Original vegetarian cafe and garden · Glastonbury",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch in the secret garden",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at the Rainbow's End, my treat.",
+ "accent": "#94703A",
+ "cta": "#94703A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#CCE4C3",
+ "hero_eyebrow": "#94703A",
+ "prefix": "RE",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "17b High Street, Glastonbury, Somerset BA6 9DP",
+  "hours": "Open every day except Wednesday, 12.00-4.00pm",
+  "maps_query": "The Rainbows End Cafe Glastonbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/rainbows-end-cafe-glastonbury_1.jpg"
+}

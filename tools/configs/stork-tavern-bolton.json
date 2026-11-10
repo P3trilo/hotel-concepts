@@ -1,0 +1,57 @@
+{
+ "slug": "stork-tavern-bolton",
+ "name": "The Stork Tavern",
+ "tagline": "Free house since 1789 · Bolton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint at the Stork",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on drinks at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on drinks at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on drinks at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on drinks at the bar",
+ "message": "Happy Christmas! A few pints at the Stork, my treat.",
+ "accent": "#425231",
+ "cta": "#F8F0DE",
+ "on_cta": "#303926",
+ "hero_bg": "#303926",
+ "hero_eyebrow": "#F8F0DE",
+ "prefix": "ST",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "548 Halliwell Road, Bolton BL1 8BP",
+  "hours": "Mon-Thu 1-11pm, Fri-Sat 12-12, Sun 12-11pm",
+  "maps_query": "The Stork Tavern Bolton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/stork-tavern-bolton_1.jpg"
+}

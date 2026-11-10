@@ -1,0 +1,57 @@
+{
+ "slug": "against-the-grain-whitchurch-cardiff",
+ "name": "Against the Grain",
+ "tagline": "Gluten-free coffee house · Whitchurch, Cardiff",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee and cake at Against the Grain",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on coffee, cakes, savouries or lunch",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on coffee, cakes, savouries or lunch",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on coffee, cakes, savouries or lunch",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on coffee, cakes, savouries or lunch",
+ "message": "Happy Christmas! Coffee and cake at Against the Grain, my treat.",
+ "accent": "#C8A07A",
+ "cta": "#C8A07A",
+ "on_cta": "#1F1A17",
+ "hero_bg": "#1F1A17",
+ "hero_eyebrow": "#C8A07A",
+ "prefix": "ATG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "44 Merthyr Rd, Whitchurch, Cardiff CF14 1DJ",
+  "hours": "Mon-Fri 8:30-16:30, Sat 9:00-16:30, Sun 10:00-16:00",
+  "maps_query": "Against the Grain Merthyr Road Whitchurch Cardiff"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/against-the-grain-whitchurch-cardiff_1.jpg"
+}

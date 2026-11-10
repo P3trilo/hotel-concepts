@@ -1,0 +1,57 @@
+{
+ "slug": "white-horse-thruxton",
+ "name": "The White Horse Inn",
+ "tagline": "Thatched country pub and inn · Thruxton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the White Horse",
+ "gifts": [
+  [
+   "Sunday Trio Roast",
+   "A bit of everything: beef, lamb and pork together, with thyme roast potatoes, Yorkshire pudding, honey roasted parsnips and carrots, greens and gravy",
+   26.5,
+   "the Trio Roast on a Sunday"
+  ],
+  [
+   "8oz Aged Ribeye Steak",
+   "Aged ribeye with skin on fries, grilled vine tomatoes, rocket salad and garlic cream or peppercorn sauce",
+   29.5,
+   "the 8oz aged ribeye steak"
+  ],
+  [
+   "Christmas Celebration menu",
+   "Three courses from the Christmas menu, served 22 November to 23 December 2026",
+   41.95,
+   "three courses from the Christmas Celebration menu"
+  ]
+ ],
+ "amount_desc": "Spend on a meal, a drink or a room",
+ "message": "Happy Christmas! Sunday lunch at the White Horse, my treat.",
+ "accent": "#475464",
+ "cta": "#FFFFFF",
+ "on_cta": "#475464",
+ "hero_bg": "#475464",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "WH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday Trio Roast",
+   "Sarah",
+   26.5,
+   true
+  ],
+  [
+   "8oz Aged Ribeye Steak",
+   "Emma",
+   29.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Mullens Pond, Wiremead Lane, Thruxton, Andover SP11 8EE",
+  "hours": "Mon-Sat 11am-11pm, Sun 11am-8pm; food Mon-Fri 12-3pm and 6-9pm, Sat all day, Sun 12-5pm",
+  "maps_query": "The White Horse Inn Thruxton Andover"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/white-horse-thruxton_1.jpg"
+}

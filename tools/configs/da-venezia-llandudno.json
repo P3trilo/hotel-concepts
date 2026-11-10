@@ -1,0 +1,57 @@
+{
+ "slug": "da-venezia-llandudno",
+ "name": "da Venezia",
+ "tagline": "Family Italian restaurant · Llandudno",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at da Venezia",
+ "gifts": [
+  [
+   "Aperitivo Italiano for two",
+   "Sharing platter for 2 with bruschetta, olive ascolane, focaccia, Carasau bread, caprese salad and cured meat and cheese of the day, plus 2 Aperol, Campari or Limoncello spritz",
+   32.9,
+   "Aperitivo Italiano platter for two with 2 spritz"
+  ],
+  [
+   "Bauletti all'astice",
+   "Pasta parcels filled with lobster, served with creamy king prawns, courgette and cherry tomato sauce",
+   18.5,
+   "Bauletti all'astice, lobster pasta parcels"
+  ],
+  [
+   "Filetto di manzo",
+   "Grilled prime fillet steak with green peppercorn and Vecchia Romagna brandy, with one side",
+   30.5,
+   "Filetto di manzo with green peppercorn and brandy"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at da Venezia, my treat.",
+ "accent": "#B42323",
+ "cta": "#B42323",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E1E1E",
+ "hero_eyebrow": "#FF6A00",
+ "prefix": "DV",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Aperitivo Italiano for two",
+   "Sarah",
+   32.9,
+   true
+  ],
+  [
+   "Bauletti all'astice",
+   "Emma",
+   18.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "3a Gloddaeth Street, Llandudno LL30 2DD",
+  "hours": "",
+  "maps_query": "da Venezia Llandudno"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/da-venezia-llandudno_1.jpg"
+}

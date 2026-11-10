@@ -1,0 +1,57 @@
+{
+ "slug": "stanwix-tandoori-carlisle",
+ "name": "Stanwix Tandoori",
+ "tagline": "Family-run Indian restaurant since 1981 · Carlisle",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Stanwix Tandoori",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Stanwix Tandoori, my treat.",
+ "accent": "#C9961B",
+ "cta": "#C9961B",
+ "on_cta": "#292621",
+ "hero_bg": "#292621",
+ "hero_eyebrow": "#C9961B",
+ "prefix": "ST",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "11a Scotland Road, Stanwix, Carlisle CA3 9HR",
+  "hours": "Every day 17:00-22:30",
+  "maps_query": "Stanwix Tandoori Carlisle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/stanwix-tandoori-carlisle_1.jpg"
+}

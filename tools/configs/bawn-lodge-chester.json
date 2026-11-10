@@ -1,0 +1,57 @@
+{
+ "slug": "bawn-lodge-chester",
+ "name": "The Bawn Lodge",
+ "tagline": "Family run hotel, bar & kitchen · Hoole, Chester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at the Lodge",
+ "gifts": [
+  [
+   "Chicken, bacon & goats cheese salad",
+   "From the Lodge Bar menu",
+   14.95,
+   "Chicken, Bacon & Goats Cheese Salad at the Lodge Bar"
+  ],
+  [
+   "Goats cheese pizza",
+   "Goats cheese, caramelised onion & pepper pizza",
+   14.95,
+   "Goats Cheese, Caramelised Onion & Pepper pizza at the Lodge Bar"
+  ],
+  [
+   "Steak topped fries",
+   "Topped fries with steak and melted cheddar",
+   13.95,
+   "Steak topped fries at the Lodge Bar"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A meal at the Lodge Bar, my treat.",
+ "accent": "#912E34",
+ "cta": "#912E34",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#FFF7EA",
+ "prefix": "BL",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Chicken, bacon & goats cheese salad",
+   "Sarah",
+   14.95,
+   true
+  ],
+  [
+   "Goats cheese pizza",
+   "Emma",
+   14.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8-10 Hoole Road, Hoole, Chester CH2 3NH",
+  "hours": "Food Mon-Thu 12pm-8pm, Fri-Sat 12pm-9pm, Sun roasts 12pm-7pm",
+  "maps_query": "The Bawn Lodge Hoole Chester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/bawn-lodge-chester_1.jpg"
+}

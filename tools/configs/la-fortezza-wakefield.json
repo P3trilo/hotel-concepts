@@ -1,0 +1,57 @@
+{
+ "slug": "la-fortezza-wakefield",
+ "name": "La Fortezza",
+ "tagline": "Italian restaurant & pizza · Newmillerdam",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at La Fortezza",
+ "gifts": [
+  [
+   "Signature starter",
+   "Gamberoni all'aglio e zafferano: king prawns cooked in garlic butter, saffron, parsley and white wine, with Italian bread",
+   9.95,
+   "Gamberoni all'aglio e zafferano, the signature starter"
+  ],
+  [
+   "Spaghetti La Fortezza",
+   "Spaghetti with the house red pesto of sundried tomatoes, pine nuts and parmesan, with shrimps and spinach",
+   17.95,
+   "Spaghetti La Fortezza with the signature red pesto"
+  ],
+  [
+   "Fillet steak",
+   "28 day aged 8oz fillet steak, grilled with garlic butter, roasted tomatoes and fries",
+   34.95,
+   "Filetto di manzo alla griglia, 28 day aged 8oz fillet"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at La Fortezza, my treat.",
+ "accent": "#B83E26",
+ "cta": "#B83E26",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F0E7D8",
+ "prefix": "LF",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Signature starter",
+   "Sarah",
+   9.95,
+   true
+  ],
+  [
+   "Spaghetti La Fortezza",
+   "Emma",
+   17.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "675 Barnsley Road, Newmillerdam, Wakefield WF2 6QQ",
+  "hours": "Tue-Thu 4.30pm-10.30pm, Fri-Sat 11am-11.30pm, Sun 11am-9.30pm, Mon closed (except bank holidays)",
+  "maps_query": "La Fortezza Newmillerdam Wakefield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/la-fortezza-wakefield_1.jpg"
+}
