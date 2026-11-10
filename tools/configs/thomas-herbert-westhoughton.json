@@ -1,0 +1,57 @@
+{
+ "slug": "thomas-herbert-westhoughton",
+ "name": "Thomas Herbert",
+ "tagline": "Hair & beauty salon · Westhoughton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Japanese Head Spa",
+ "gifts": [
+  [
+   "Japanese Head Spa",
+   "90 minutes of scalp therapy: scalp analysis, gentle exfoliation, deep cleansing, nourishing treatments and massage",
+   100,
+   "A 90-minute Japanese Head Spa"
+  ],
+  [
+   "Cut & Blow Dry",
+   "A cut and blow dry with the team",
+   46,
+   "A cut and blow dry"
+  ],
+  [
+   "Indian Head Massage",
+   "A holistic Indian head massage",
+   25,
+   "An Indian head massage"
+  ]
+ ],
+ "amount_desc": "Spend on any hair or beauty treatment",
+ "message": "Happy Christmas! A treat at Thomas Herbert, my gift to you.",
+ "accent": "#8D62B8",
+ "cta": "#412D54",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#412D54",
+ "hero_eyebrow": "#D3D2D2",
+ "prefix": "TH",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Japanese Head Spa",
+   "Sarah",
+   100,
+   true
+  ],
+  [
+   "Cut & Blow Dry",
+   "Emma",
+   46,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Wigan Road, Westhoughton BL5 3RD",
+  "hours": "Tue & Fri 9.30-6.30, Wed-Thu 9.30-8.30, Sat 9-4.30, closed Sun-Mon",
+  "maps_query": "Thomas Herbert Hair Westhoughton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/thomas-herbert-westhoughton_1.jpg"
+}

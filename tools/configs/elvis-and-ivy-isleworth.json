@@ -1,0 +1,57 @@
+{
+ "slug": "elvis-and-ivy-isleworth",
+ "name": "Elvis & Ivy",
+ "tagline": "Neighbourhood cafe · Old Isleworth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Elvis & Ivy",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food, coffee, juices or a glass of wine",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food, coffee, juices or a glass of wine",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food, coffee, juices or a glass of wine",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food, coffee, juices or a glass of wine",
+ "message": "Happy Christmas! Brunch at Elvis & Ivy, my treat.",
+ "accent": "#A27E21",
+ "cta": "#A27E21",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2C2C2C",
+ "hero_eyebrow": "#F6F2ED",
+ "prefix": "EI",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "8 Shrewsbury Walk, Isleworth TW7 7DE",
+  "hours": "Mon-Sat 8am-4.30pm, closed Sundays",
+  "maps_query": "Elvis & Ivy Isleworth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/elvis-and-ivy-isleworth_1.jpg"
+}

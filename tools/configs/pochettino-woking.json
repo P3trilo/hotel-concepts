@@ -1,0 +1,57 @@
+{
+ "slug": "pochettino-woking",
+ "name": "Pochettino",
+ "tagline": "Italian restaurant & wine bar · Woking",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an evening of Pinsa and Italian wine",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food and wine at the restaurant",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food and wine at the restaurant",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food and wine at the restaurant",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food and wine at the restaurant",
+ "message": "Happy Christmas! Dinner at Pochettino, my treat.",
+ "accent": "#542B34",
+ "cta": "#542B34",
+ "on_cta": "#F5F0E8",
+ "hero_bg": "#242424",
+ "hero_eyebrow": "#A68B5B",
+ "prefix": "PO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 Goldsworth Road, Woking GU21 6JY",
+  "hours": "",
+  "maps_query": "Pochettino Woking"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/pochettino-woking_1.jpg"
+}
