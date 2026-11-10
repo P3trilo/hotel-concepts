@@ -1,0 +1,57 @@
+{
+ "slug": "zara-restaurant-hampstead",
+ "name": "Zara",
+ "tagline": "Traditional Anatolian cuisine · Hampstead",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Zara",
+ "gifts": [
+  [
+   "Meze Platter",
+   "Humus, tarama, kisir, cacik, tabule, falafel and muska borek",
+   17.9,
+   "Mixed meze platter to share"
+  ],
+  [
+   "Iskender Kebab",
+   "Shish kofte and lamb on pitta soaked in yoghurt, with tomato sauce",
+   22.0,
+   "Iskender Kebab"
+  ],
+  [
+   "Mixed Grill",
+   "Lamb shish, chicken shish, kofte and lamb chop grilled over charcoal",
+   31.5,
+   "Mixed Grill with rice and salad"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Zara, my treat.",
+ "accent": "#F16A00",
+ "cta": "#3C3C3C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3C3C3C",
+ "hero_eyebrow": "#EAEAEA",
+ "prefix": "ZR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Meze Platter",
+   "Sarah",
+   17.9,
+   true
+  ],
+  [
+   "Iskender Kebab",
+   "Emma",
+   22.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "11 South End Road, Hampstead Heath, London NW3 2PT",
+  "hours": "",
+  "maps_query": "Zara Restaurant South End Road Hampstead"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/zara-restaurant-hampstead_1.jpg"
+}

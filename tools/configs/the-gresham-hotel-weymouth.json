@@ -1,0 +1,57 @@
+{
+ "slug": "the-gresham-hotel-weymouth",
+ "name": "The Gresham",
+ "tagline": "Family-run seafront guest house · Weymouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the sea at the Gresham",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room and breakfast",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room and breakfast",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room and breakfast",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room and breakfast",
+ "message": "Happy Christmas! A night by the sea at the Gresham, my treat.",
+ "accent": "#8F1918",
+ "cta": "#8F1918",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#595959",
+ "hero_eyebrow": "#F0EDE6",
+ "prefix": "GH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "120 The Esplanade, Weymouth, Dorset DT4 7EW",
+  "hours": "",
+  "maps_query": "The Gresham Hotel Weymouth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-gresham-hotel-weymouth_1.jpg"
+}
