@@ -1,0 +1,57 @@
+{
+ "slug": "fika-coffee-house-kingsbridge",
+ "name": "Fika Coffee House",
+ "tagline": "Award-winning coffee house · Kingsbridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a slow breakfast at Fika",
+ "gifts": [
+  [
+   "Granola bowl",
+   "Katie's homemade granola, Greek yogurt and fresh fruit",
+   9.5,
+   "A granola bowl at Fika"
+  ],
+  [
+   "Avocado Toast",
+   "With cherry tomatoes, feta, lemon and seeds",
+   10,
+   "Avocado toast at Fika"
+  ],
+  [
+   "Chicken Wrap",
+   "Spiced chicken, hummus, pesto, mozzarella, spinach and sriracha",
+   11,
+   "A chicken wrap at Fika"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Breakfast and a coffee at Fika, my treat.",
+ "accent": "#E77A90",
+ "cta": "#E77A90",
+ "on_cta": "#1A1A1A",
+ "hero_bg": "#3E3E3E",
+ "hero_eyebrow": "#F9E9E9",
+ "prefix": "FK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Granola bowl",
+   "Sarah",
+   9.5,
+   true
+  ],
+  [
+   "Avocado Toast",
+   "Emma",
+   10,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Bridge Quay House, The Quay, Kingsbridge, Devon TQ7 1FD",
+  "hours": "Mon-Fri 8.30-15.00, Sat 9.00-14.00, Sun 10.00-14.00",
+  "maps_query": "Fika Coffee House Kingsbridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/fika-coffee-house-kingsbridge_1.jpg"
+}

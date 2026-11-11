@@ -1,0 +1,57 @@
+{
+ "slug": "gandhi-gravesend",
+ "name": "The Gandhi",
+ "tagline": "Indian restaurant since 1996 · Gravesend",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at the Gandhi",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the Gandhi, my treat.",
+ "accent": "#BC906B",
+ "cta": "#BC906B",
+ "on_cta": "#1A1A1A",
+ "hero_bg": "#2C2C2C",
+ "hero_eyebrow": "#C5966E",
+ "prefix": "GG",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "66 West Street, Gravesend, Kent DA11 0BS",
+  "hours": "Mon-Sat 5.30pm-11pm; Sun 12-2.30pm and 5.30-11pm",
+  "maps_query": "The Gandhi Indian Restaurant Gravesend"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/gandhi-gravesend_1.jpg"
+}
