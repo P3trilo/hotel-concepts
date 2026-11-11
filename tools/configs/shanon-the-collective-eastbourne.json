@@ -1,0 +1,57 @@
+{
+ "slug": "shanon-the-collective-eastbourne",
+ "name": "Shanon The Collective",
+ "tagline": "Independent eco hair salon · Eastbourne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a salon treat at Shanon",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any hair or make-up appointment",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any hair or make-up appointment",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any hair or make-up appointment",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any hair or make-up appointment",
+ "message": "Happy Christmas! A treat at Shanon The Collective, my treat.",
+ "accent": "#383838",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#191919",
+ "hero_eyebrow": "#DBDBDB",
+ "prefix": "SC",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "5 Calverley Walk, Eastbourne BN21 4UQ",
+  "hours": "",
+  "maps_query": "Shanon The Collective Eastbourne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/shanon-the-collective-eastbourne_1.jpg"
+}

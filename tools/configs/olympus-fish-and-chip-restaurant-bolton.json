@@ -1,0 +1,57 @@
+{
+ "slug": "olympus-fish-and-chip-restaurant-bolton",
+ "name": "Olympus",
+ "tagline": "Award-winning family-run fish and chip restaurant · Bolton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give fish and chips at Olympus",
+ "gifts": [
+  [
+   "Cod Special",
+   "Cod in the famous in-house batter with chips, peas, white or brown bread and a pot of tea or cup of coffee",
+   15.95,
+   "Cod Special with chips, peas, bread and a pot of tea"
+  ],
+  [
+   "Homemade Moussaka",
+   "Homemade moussaka served with chips and a salad garnish",
+   15.9,
+   "Homemade Moussaka with chips and salad"
+  ],
+  [
+   "The Biggest 16oz Cod",
+   "Olympus Titan: a 16oz cod with chips, peas, white or brown bread and a pot of tea or cup of coffee",
+   33.0,
+   "The Biggest 16oz Cod with chips, peas, bread and a pot of tea"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the restaurant menu",
+ "message": "Happy Christmas! Fish and chips at Olympus, my treat.",
+ "accent": "#4373B6",
+ "cta": "#4373B6",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2A2421",
+ "hero_eyebrow": "#FAB629",
+ "prefix": "OLY",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Cod Special",
+   "Sarah",
+   15.95,
+   true
+  ],
+  [
+   "Homemade Moussaka",
+   "Emma",
+   15.9,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "35-41 Great Moor Street, Bolton BL1 1SW",
+  "hours": "Restaurant Mon-Sat 9.30am-7pm",
+  "maps_query": "Olympus Fish and Chip Restaurant Bolton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/olympus-fish-and-chip-restaurant-bolton_1.jpg"
+}

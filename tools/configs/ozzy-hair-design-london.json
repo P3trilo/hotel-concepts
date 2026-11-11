@@ -1,0 +1,57 @@
+{
+ "slug": "ozzy-hair-design-london",
+ "name": "Ozzy Hair Design",
+ "tagline": "Hair and beauty salon · St John's Wood",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cut and blow dry at Ozzy",
+ "gifts": [
+  [
+   "Shellac Manicure",
+   "A shellac manicure at the salon",
+   50,
+   "One Shellac Manicure"
+  ],
+  [
+   "Olaplex Treatment",
+   "Olaplex hair treatment",
+   65,
+   "One Olaplex Treatment (from £65)"
+  ],
+  [
+   "Kerastase Treatment",
+   "Kerastase hair treatment",
+   45,
+   "One Kerastase Treatment (from £45)"
+  ]
+ ],
+ "amount_desc": "Spend on any hair, nail or beauty treatment",
+ "message": "Happy Christmas! A pamper at Ozzy Hair Design, my treat.",
+ "accent": "#6E0632",
+ "cta": "#6E0632",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#5F5D57",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "OZ",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Shellac Manicure",
+   "Sarah",
+   50,
+   true
+  ],
+  [
+   "Olaplex Treatment",
+   "Emma",
+   65,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "70 St John's Wood High St, London NW8 7SH",
+  "hours": "",
+  "maps_query": "Ozzy Hair Design St John's Wood London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ozzy-hair-design-london_1.jpg"
+}

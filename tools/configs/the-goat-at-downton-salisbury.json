@@ -1,0 +1,57 @@
+{
+ "slug": "the-goat-at-downton-salisbury",
+ "name": "The Goat at Downton",
+ "tagline": "Dog-friendly village pub · Downton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Goat",
+ "gifts": [
+  [
+   "Two pub classics for lunch",
+   "Lunchtime offer, Monday to Friday 12pm-3pm: two pub classics such as battered hake and chips or Wiltshire ham, egg and chips",
+   29,
+   "Lunchtime offer: two pub classics (Mon-Fri 12pm-3pm, excluding bank holidays)"
+  ],
+  [
+   "Sunday Mixed Roast",
+   "All three roast meats with Yorkshire pudding, Marmite roast potatoes, maple roasted carrots and parsnips, cauliflower cheese and gravy",
+   23.95,
+   "One Mixed Roast on a Sunday"
+  ],
+  [
+   "Lamb Rump dinner",
+   "Lamb rump, butternut squash puree, crispy potato cake, spinach, redcurrant and port jus",
+   27.95,
+   "One Lamb Rump main course"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Sunday lunch at the Goat, my treat.",
+ "accent": "#2F5354",
+ "cta": "#2F5354",
+ "on_cta": "#F5ECD7",
+ "hero_bg": "#384140",
+ "hero_eyebrow": "#F5ECD7",
+ "prefix": "GD",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Two pub classics for lunch",
+   "Sarah",
+   29,
+   true
+  ],
+  [
+   "Sunday Mixed Roast",
+   "Emma",
+   23.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "62 The Borough, Downton, Salisbury, SP5 3LY",
+  "hours": "Open Mon-Sat 12pm-11pm, Sun 12pm-8pm; food Mon-Thu 12pm-9pm, Fri-Sat 12pm-9:30pm, Sun 12pm-6pm",
+  "maps_query": "The Goat at Downton Salisbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-goat-at-downton-salisbury_1.jpg"
+}

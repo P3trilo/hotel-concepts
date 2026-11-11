@@ -1,0 +1,57 @@
+{
+ "slug": "stromabank-hotel-longhope",
+ "name": "Stromabank Hotel",
+ "tagline": "Small family-run hotel · Longhope, Hoy",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the fire at the Stromabank",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, a meal or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, a meal or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, a meal or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A night on Hoy at the Stromabank, my treat.",
+ "accent": "#56718F",
+ "cta": "#E26143",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#56718F",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "SB",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Stromabank Hotel, Longhope, Hoy, Orkney KW16 3PA",
+  "hours": "",
+  "maps_query": "Stromabank Hotel Longhope Hoy"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/stromabank-hotel-longhope_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "esca-cafe-bar-christchurch",
+ "name": "Esca Cafe Bar",
+ "tagline": "Independent family-run cafe bar · Christchurch",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee by day, wine by night",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu, day or evening",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu, day or evening",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu, day or evening",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu, day or evening",
+ "message": "Happy Christmas! Coffee, a toastie or a glass of wine at Esca, my treat.",
+ "accent": "#191919",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#191919",
+ "hero_eyebrow": "#F1F1F1",
+ "prefix": "EC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "127B Barrack Road, Christchurch, Dorset, BH23 2AW",
+  "hours": "Tue-Wed 11am-6pm, Thu 11am-9pm, Fri-Sat 11am-10pm, closed Sun and Mon",
+  "maps_query": "Esca Cafe Bar Christchurch"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/esca-cafe-bar-christchurch_1.jpg"
+}

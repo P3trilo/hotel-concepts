@@ -1,0 +1,57 @@
+{
+ "slug": "the-wilton-llandudno",
+ "name": "The Wilton",
+ "tagline": "Bed & breakfast · Llandudno",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the sea at the Wilton",
+ "gifts": [
+  [
+   "A night in a double room",
+   "Double room per night, inclusive of full breakfast",
+   95,
+   "One night in a double room with full breakfast"
+  ],
+  [
+   "A night in a twin room",
+   "Twin room per night, inclusive of full breakfast",
+   98,
+   "One night in a twin room with full breakfast"
+  ],
+  [
+   "A night in a superior kingsize room",
+   "Superior kingsize room per night, inclusive of full breakfast",
+   100,
+   "One night in a superior kingsize room with full breakfast"
+  ]
+ ],
+ "amount_desc": "Spend on a room and breakfast",
+ "message": "Happy Christmas! A night by the sea at the Wilton, my treat.",
+ "accent": "#512A0B",
+ "cta": "#512A0B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#512A0B",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "WH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "A night in a double room",
+   "Sarah",
+   95,
+   true
+  ],
+  [
+   "A night in a twin room",
+   "Emma",
+   98,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "14 South Parade, Llandudno, Conwy LL30 2LN",
+  "hours": "",
+  "maps_query": "The Wilton Llandudno"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-wilton-llandudno_1.jpg"
+}

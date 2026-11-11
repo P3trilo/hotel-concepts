@@ -1,0 +1,57 @@
+{
+ "slug": "natural-waxing-derby",
+ "name": "Natural Waxing",
+ "tagline": "Ladies-only sugar waxing and Turkish hammam · Derby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an afternoon in the hammam",
+ "gifts": [
+  [
+   "Turkish Hammam",
+   "Black soap, body scrub, body mask, steam room and sauna",
+   55,
+   "Turkish Hammam with black soap, body scrub, body mask, steam room and sauna"
+  ],
+  [
+   "Full Body Relaxing Massage",
+   "45 minutes",
+   45,
+   "Full Body Relaxing Massage (45 min)"
+  ],
+  [
+   "Organic Mud Mask facial",
+   "35 minutes",
+   30,
+   "Organic Mud Mask facial (35 min)"
+  ]
+ ],
+ "amount_desc": "Spend on the hammam, a massage, a facial or waxing",
+ "message": "Happy Christmas! A treat at Natural Waxing, my treat.",
+ "accent": "#E5A196",
+ "cta": "#E5A196",
+ "on_cta": "#212121",
+ "hero_bg": "#27252A",
+ "hero_eyebrow": "#E5A196",
+ "prefix": "NW",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Turkish Hammam",
+   "Sarah",
+   55,
+   true
+  ],
+  [
+   "Full Body Relaxing Massage",
+   "Emma",
+   45,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "231 Village St, Derby DE23 8DD",
+  "hours": "Mon-Sat 10am-7pm, Sunday closed",
+  "maps_query": "Natural Waxing Derby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/natural-waxing-derby_1.jpg"
+}
