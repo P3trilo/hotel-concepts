@@ -1,0 +1,57 @@
+{
+ "slug": "gosforth-traders-newcastle",
+ "name": "Gosforth Traders",
+ "tagline": "Artisan coffee house and delicatessen · Gosforth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give coffee, cake and a glass at Gosforth Traders",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything in the café or the cellar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything in the café or the cellar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything in the café or the cellar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything in the café or the cellar",
+ "message": "Happy Christmas! Coffee and cake at Gosforth Traders, my treat.",
+ "accent": "#9D7244",
+ "cta": "#9D7244",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#001322",
+ "hero_eyebrow": "#F1E9DB",
+ "prefix": "GT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "151-153 Salters Road, Newcastle NE3 4HJ",
+  "hours": "Mon-Tue 8am-7pm, Wed-Thu 8am-8pm, Fri-Sat 8am-9pm, Sun 10am-5pm",
+  "maps_query": "Gosforth Traders Newcastle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/gosforth-traders-newcastle_1.jpg"
+}

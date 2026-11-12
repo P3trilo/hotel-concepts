@@ -1,0 +1,57 @@
+{
+ "slug": "nook-corner-coffee-shop-anstey",
+ "name": "Nook Corner",
+ "tagline": "Coffee shop and café · Anstey",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give high tea at Nook Corner",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! High tea at Nook Corner, my treat.",
+ "accent": "#CC7722",
+ "cta": "#444444",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#333333",
+ "hero_eyebrow": "#CC7722",
+ "prefix": "NC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "31 The Nook, Anstey, Leicestershire, LE7 7AZ",
+  "hours": "Mon-Sat 8.30am-4pm, Sunday closed",
+  "maps_query": "Nook Corner Anstey"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nook-corner-coffee-shop-anstey_1.jpg"
+}

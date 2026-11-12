@@ -1,0 +1,57 @@
+{
+ "slug": "the-middle-house-mayfield",
+ "name": "The Middle House",
+ "tagline": "Elizabethan pub, restaurant and hotel · Mayfield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea at the Middle House",
+ "gifts": [
+  [
+   "Afternoon Tea",
+   "Fresh leaf tea or coffee with sandwiches, handmade cakes, scones, preserves and clotted cream",
+   30.0,
+   "Afternoon tea for one in the brasserie or on the terrace (Thursday to Saturday, pre-booked 24 hours ahead)"
+  ],
+  [
+   "Afternoon Tea with Fizz",
+   "Afternoon tea with a 175ml glass of Prosecco, pink or white",
+   37.5,
+   "Afternoon tea with a glass of Prosecco for one (Thursday to Saturday, pre-booked 24 hours ahead)"
+  ],
+  [
+   "Cream Tea",
+   "Fresh leaf tea or coffee with scones, clotted cream and preserves",
+   10.0,
+   "Cream tea for one (Thursday to Saturday, pre-booked 24 hours ahead)"
+  ]
+ ],
+ "amount_desc": "Spend on a meal, an afternoon tea, a drink or a room",
+ "message": "Happy Christmas! Afternoon tea at the Middle House, my treat.",
+ "accent": "#B29C47",
+ "cta": "#002B11",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#D9D9D9",
+ "prefix": "TMH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Afternoon Tea",
+   "Sarah",
+   30.0,
+   true
+  ],
+  [
+   "Afternoon Tea with Fizz",
+   "Emma",
+   37.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Middle House Hotel, High Street, Mayfield, East Sussex, TN20 6AB",
+  "hours": "Kitchen: Mon 9.00-14.30 / 17.45-20.30 (carvery only Mon evening), Tue-Thu 9.00-14.30 / 17.45-21.00, Fri-Sat 9.00-21.00, Sun 9.00-19.00",
+  "maps_query": "The Middle House Mayfield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-middle-house-mayfield_1.jpg"
+}

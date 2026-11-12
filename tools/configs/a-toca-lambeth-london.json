@@ -1,0 +1,57 @@
+{
+ "slug": "a-toca-lambeth-london",
+ "name": "A Toca",
+ "tagline": "Portuguese restaurant · Wandsworth Road, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Portuguese dinner",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at A Toca, my treat.",
+ "accent": "#E44326",
+ "cta": "#E44326",
+ "on_cta": "#111111",
+ "hero_bg": "#111111",
+ "hero_eyebrow": "#F7F7F7",
+ "prefix": "ATC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "341-343 Wandsworth Road, London, SW8 2JH",
+  "hours": "Open 7 days, 9am - midnight",
+  "maps_query": "A Toca Restaurant Wandsworth Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/a-toca-lambeth-london_1.jpg"
+}

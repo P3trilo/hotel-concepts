@@ -1,0 +1,57 @@
+{
+ "slug": "west-cross-inn-swansea",
+ "name": "West Cross Inn",
+ "tagline": "Inn on Mumbles Road · Swansea",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch by the bay",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a meal or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a meal or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a meal or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a meal or a drink",
+ "message": "Happy Christmas! Sunday lunch at the West Cross Inn, my treat.",
+ "accent": "#335449",
+ "cta": "#335449",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F2F2F2",
+ "prefix": "WCI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "43 Mumbles Road, Swansea, SA3 5AB",
+  "hours": "",
+  "maps_query": "West Cross Inn Swansea"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/west-cross-inn-swansea_1.jpg"
+}

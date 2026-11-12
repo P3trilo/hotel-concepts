@@ -1,0 +1,57 @@
+{
+ "slug": "delaterra-islington-london",
+ "name": "Delaterra",
+ "tagline": "Independent fusion tapas bar · Islington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give an evening of tapas",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Tapas at Delaterra, my treat.",
+ "accent": "#D78258",
+ "cta": "#D78258",
+ "on_cta": "#1E1E1E",
+ "hero_bg": "#313131",
+ "hero_eyebrow": "#EFEFEF",
+ "prefix": "DLT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "131 Essex Road, Islington, London N1 2SN",
+  "hours": null,
+  "maps_query": "Delaterra Essex Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/delaterra-islington-london_1.jpg"
+}

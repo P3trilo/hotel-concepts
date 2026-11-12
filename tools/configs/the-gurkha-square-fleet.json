@@ -1,0 +1,57 @@
+{
+ "slug": "the-gurkha-square-fleet",
+ "name": "Gurkha Square",
+ "tagline": "Nepalese restaurant · Fleet",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Gurkha Square",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Gurkha Square, my treat.",
+ "accent": "#861D21",
+ "cta": "#861D21",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F5F5F5",
+ "prefix": "GS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "327 Fleet Road, Fleet, GU51 3BU",
+  "hours": "Tue-Sat 5:30pm-10:30pm, Sun 5:30pm-10pm, closed Monday",
+  "maps_query": "Gurkha Square Fleet"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-gurkha-square-fleet_1.jpg"
+}

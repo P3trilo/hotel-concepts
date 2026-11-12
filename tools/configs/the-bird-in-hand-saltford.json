@@ -1,0 +1,57 @@
+{
+ "slug": "the-bird-in-hand-saltford",
+ "name": "The Bird in Hand",
+ "tagline": "Independent village pub · Saltford",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a meal at the Bird",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food or drinks at the Bird",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food or drinks at the Bird",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food or drinks at the Bird",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food or drinks at the Bird",
+ "message": "Happy Christmas! A meal at the Bird, my treat.",
+ "accent": "#C18531",
+ "cta": "#5B2515",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#423C30",
+ "hero_eyebrow": "#F9E4E4",
+ "prefix": "BH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "58 High St, Saltford, Bristol BS31 3EJ",
+  "hours": "Mon-Sat 11am-11pm, Sun 11am-10:30pm; food Mon-Sat 12-9pm, Sun 12-8pm",
+  "maps_query": "The Bird in Hand Saltford"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bird-in-hand-saltford_1.jpg"
+}

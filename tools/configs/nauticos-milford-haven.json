@@ -1,0 +1,57 @@
+{
+ "slug": "nauticos-milford-haven",
+ "name": "Nautico's",
+ "tagline": "Restaurant at the marina · Milford Haven",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch by the marina",
+ "gifts": [
+  [
+   "Sunday lunch, two courses",
+   "Slow roasted beef or white wine and thyme chicken with roast potatoes, Yorkshire pudding and red wine gravy, plus a starter or pudding",
+   22.95,
+   "Two-course Sunday lunch for one"
+  ],
+  [
+   "Sunday lunch, three courses",
+   "Starter, Sunday roast and pudding",
+   25.95,
+   "Three-course Sunday lunch for one"
+  ],
+  [
+   "Mix grill",
+   "Steak, gammon, pork chop, lamb chop and sausage with chips and peas",
+   28.95,
+   "A mix grill from the evening menu"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Lunch at Nautico's, my treat.",
+ "accent": "#6FA89B",
+ "cta": "#C9963A",
+ "on_cta": "#313433",
+ "hero_bg": "#313433",
+ "hero_eyebrow": "#FEF3E2",
+ "prefix": "NAU",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Sunday lunch, two courses",
+   "Sarah",
+   22.95,
+   true
+  ],
+  [
+   "Sunday lunch, three courses",
+   "Emma",
+   25.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7-8 Sovereign House, Milford Haven, Pembrokeshire, SA73 3AJ",
+  "hours": "",
+  "maps_query": "Nautico's Milford Haven"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nauticos-milford-haven_1.jpg"
+}

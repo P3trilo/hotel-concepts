@@ -1,0 +1,57 @@
+{
+ "slug": "the-bryson-hotel-london",
+ "name": "The Bryson Hotel",
+ "tagline": "Boutique hotel in Hatton Garden · Clerkenwell, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night in Clerkenwell",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room",
+ "message": "Happy Christmas! A night at The Bryson Hotel, my treat.",
+ "accent": "#B19777",
+ "cta": "#B19777",
+ "on_cta": "#000000",
+ "hero_bg": "#272727",
+ "hero_eyebrow": "#B19777",
+ "prefix": "BRY",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "124-132 Clerkenwell Road, London, EC1R 5DJ",
+  "hours": "Check-in from 2pm, check-out by 11am",
+  "maps_query": "The Bryson Hotel Clerkenwell Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bryson-hotel-london_1.jpg"
+}

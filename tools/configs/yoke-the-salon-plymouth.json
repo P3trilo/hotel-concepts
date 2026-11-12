@@ -1,0 +1,57 @@
+{
+ "slug": "yoke-the-salon-plymouth",
+ "name": "YOKE The Salon",
+ "tagline": "Creative, sustainable hair salon · Plymouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cut at YOKE",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any hair service",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any hair service",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any hair service",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any hair service",
+ "message": "Happy Christmas! A new look at YOKE, my treat.",
+ "accent": "#296356",
+ "cta": "#296356",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#F3F3F2",
+ "hero_eyebrow": "#B1855F",
+ "prefix": "YKE",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 The New Cooperage, The Royal William Yard, Plymouth, Devon, PL1 3RP",
+  "hours": "",
+  "maps_query": "YOKE The Salon Plymouth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/yoke-the-salon-plymouth_2.jpg"
+}

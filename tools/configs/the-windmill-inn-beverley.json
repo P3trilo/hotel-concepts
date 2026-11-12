@@ -1,0 +1,57 @@
+{
+ "slug": "the-windmill-inn-beverley",
+ "name": "The Windmill Inn",
+ "tagline": "Bar, hotel and restaurant · Beverley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a weekend in Beverley",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, a meal or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, a meal or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, a meal or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A weekend at The Windmill Inn, my treat.",
+ "accent": "#14272B",
+ "cta": "#61A229",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#14272B",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "WMI",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "53 Lairgate, Beverley, East Yorkshire, HU17 8ET",
+  "hours": "Bar Mon-Sun 10am-11pm; lunch Mon-Sat 11:30am-2pm, Sun 12-2pm",
+  "maps_query": "The Windmill Inn Beverley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-windmill-inn-beverley_1.jpg"
+}

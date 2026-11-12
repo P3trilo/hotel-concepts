@@ -1,0 +1,57 @@
+{
+ "slug": "diamond-nails-saltash",
+ "name": "Diamond Nails",
+ "tagline": "Nail salon · Saltash",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new set of nails",
+ "gifts": [
+  [
+   "Acrylic full set with gel",
+   "A full set of acrylic nails finished in gel colour",
+   38,
+   "An acrylic full set with gel"
+  ],
+  [
+   "Acrylic full set French",
+   "A full set of acrylic nails with French tips in any colour",
+   43,
+   "An acrylic French full set"
+  ],
+  [
+   "Acrylic full set ombre",
+   "A full set of acrylic nails with an ombre finish",
+   40,
+   "An acrylic ombre full set"
+  ]
+ ],
+ "amount_desc": "Spend on any nail treatment",
+ "message": "Happy Christmas! A new set of nails at Diamond Nails, my treat.",
+ "accent": "#A77C20",
+ "cta": "#A77C20",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#252525",
+ "hero_eyebrow": "#F5F5F5",
+ "prefix": "DN",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Acrylic full set with gel",
+   "Sarah",
+   38,
+   true
+  ],
+  [
+   "Acrylic full set French",
+   "Emma",
+   43,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "132 Fore Street, Saltash, PL12 6JR",
+  "hours": "Mon-Sat 9am-6pm, Sunday closed",
+  "maps_query": "Diamond Nails Saltash"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/diamond-nails-saltash_1.jpg"
+}

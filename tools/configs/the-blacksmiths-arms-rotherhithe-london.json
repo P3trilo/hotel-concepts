@@ -1,0 +1,57 @@
+{
+ "slug": "the-blacksmiths-arms-rotherhithe-london",
+ "name": "The Blacksmiths Arms",
+ "tagline": "Pub serving British & Thai · Rotherhithe",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at the Blacksmiths",
+ "gifts": [
+  [
+   "Whole baked camembert for two",
+   "Oven-baked whole camembert with red onion jam and toasted bread",
+   15.95,
+   "A whole baked camembert to share"
+  ],
+  [
+   "London Pride battered fish & chips",
+   "Fresh haddock in London Pride ale batter with garden peas and frites",
+   20.5,
+   "London Pride battered fish & chips"
+  ],
+  [
+   "A bottle of Moinet Prosecco",
+   "Bottle of Italian prosecco",
+   39,
+   "A bottle of Moinet Prosecco"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at The Blacksmiths Arms, my treat.",
+ "accent": "#9C522E",
+ "cta": "#9C522E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2B2622",
+ "hero_eyebrow": "#E7DCCB",
+ "prefix": "BSA",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Whole baked camembert for two",
+   "Sarah",
+   15.95,
+   true
+  ],
+  [
+   "London Pride battered fish & chips",
+   "Emma",
+   20.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "257 Rotherhithe Street, Rotherhithe, London SE16 5EJ",
+  "hours": "Mon-Fri 4pm-11pm, Sat-Sun 12pm-11pm",
+  "maps_query": "The Blacksmiths Arms Rotherhithe"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-blacksmiths-arms-rotherhithe-london_1.jpg"
+}
