@@ -1,0 +1,57 @@
+{
+ "slug": "bikanos-bath",
+ "name": "Bikano's",
+ "tagline": "Authentic Indian cuisine · Bath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Bikano's",
+ "gifts": [
+  [
+   "Sharing vegetarian platter",
+   "Samosa, onion bhaji, paneer tikka shaslik and broccoli surkh angar to share",
+   16.5,
+   "A sharing vegetarian platter"
+  ],
+  [
+   "Sharing meat platter",
+   "Tandoori chicken tikka, chicken wings, Punjabi lamb chops, seekh kebab and achari chicken tikka",
+   20.99,
+   "A sharing meat platter from the tandoor"
+  ],
+  [
+   "Bikano's Thali (lunch special)",
+   "Paneer kadahi, daal makhani, bhindi masala, Bombay aloo, rice, naan, raita and dessert",
+   20.99,
+   "A Bikano's Thali lunch for one"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or from the bar",
+ "message": "Happy Christmas! Dinner at Bikano's, my treat.",
+ "accent": "#F9C349",
+ "cta": "#F9C349",
+ "on_cta": "#1E1810",
+ "hero_bg": "#1E1810",
+ "hero_eyebrow": "#F9C349",
+ "prefix": "BK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Sharing vegetarian platter",
+   "Sarah",
+   16.5,
+   true
+  ],
+  [
+   "Sharing meat platter",
+   "Emma",
+   20.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "25 Claverton Buildings, Bath BA2 4LD",
+  "hours": "Daily 12pm-3pm and from 5pm (to 10.30pm Mon-Wed and Sun, 11pm Thu, 11.15pm Fri-Sat)",
+  "maps_query": "Bikanos Indian Cuisine Bath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/bikanos-bath_1.jpg"
+}

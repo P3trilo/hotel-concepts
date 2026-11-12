@@ -1,0 +1,57 @@
+{
+ "slug": "camilla-house-penzance",
+ "name": "Camilla House",
+ "tagline": "Georgian guest house on Mounts Bay · Penzance",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the sea",
+ "gifts": [
+  [
+   "Sea view double, one night",
+   "One night in a sea view double room, room only",
+   150,
+   "One night in a sea view double room"
+  ],
+  [
+   "Rear view double, one night",
+   "One night in a rear view double room, room only",
+   140,
+   "One night in a rear view double room"
+  ],
+  [
+   "Breakfast",
+   "Breakfast per person, with meat, fish, eggs and bread from local producers",
+   20,
+   "Breakfast for one"
+  ]
+ ],
+ "amount_desc": "Spend on a room or breakfast",
+ "message": "Happy Christmas! A night by the sea at Camilla House, my treat.",
+ "accent": "#5E575F",
+ "cta": "#424242",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3D3D3D",
+ "hero_eyebrow": "#F4DFE9",
+ "prefix": "CH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Sea view double, one night",
+   "Sarah",
+   150,
+   true
+  ],
+  [
+   "Rear view double, one night",
+   "Emma",
+   140,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "12 Regent Terrace, Penzance, Cornwall, TR18 4DW",
+  "hours": "Check-in 3pm to 6pm",
+  "maps_query": "Camilla House Penzance"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/camilla-house-penzance_1.jpg"
+}

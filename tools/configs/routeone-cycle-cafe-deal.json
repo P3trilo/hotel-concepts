@@ -1,0 +1,57 @@
+{
+ "slug": "routeone-cycle-cafe-deal",
+ "name": "RouteOne",
+ "tagline": "Beachfront restaurant, bar & coffee venue · Deal",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch by the sea",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or the drinks list",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or the drinks list",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or the drinks list",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or the drinks list",
+ "message": "Happy Christmas! Lunch at RouteOne on the prom, my treat.",
+ "accent": "#9E9E9E",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#BDBDBD",
+ "prefix": "RO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "70 Beach St, Deal, Kent, CT14 6HZ",
+  "hours": "",
+  "maps_query": "RouteOne Cycle Cafe Deal"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/routeone-cycle-cafe-deal_1.jpg"
+}

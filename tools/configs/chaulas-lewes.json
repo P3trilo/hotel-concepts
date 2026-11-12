@@ -1,0 +1,57 @@
+{
+ "slug": "chaulas-lewes",
+ "name": "Chaula's",
+ "tagline": "Gujarati Indian restaurant · Lewes",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Chaula's",
+ "gifts": [
+  [
+   "Chaula's Vegetarian Mix Platter (large)",
+   "Veg samosa, kachori, petis, patra and onion pakora",
+   14.99,
+   "A large vegetarian mix platter to share"
+  ],
+  [
+   "Chaula's Non-Vegetarian Mix Platter (large)",
+   "Chicken and lamb samosa, sheek kebab, chicken tikka and lamb chops",
+   18.99,
+   "A large non-vegetarian mix platter to share"
+  ],
+  [
+   "Tandoori King Prawn",
+   "King prawns marinated with tandoori masala and cooked in the clay oven",
+   12.99,
+   "A tandoori king prawn starter"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Chaula's, my treat.",
+ "accent": "#DE6E33",
+ "cta": "#262261",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#262261",
+ "hero_eyebrow": "#DE6E33",
+ "prefix": "CH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Chaula's Vegetarian Mix Platter (large)",
+   "Sarah",
+   14.99,
+   true
+  ],
+  [
+   "Chaula's Non-Vegetarian Mix Platter (large)",
+   "Emma",
+   18.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6 Eastgate Street, Lewes, BN7 2LP",
+  "hours": "Lunch 12:00-14:30; evenings Tue-Thu 17:00-22:00, Fri-Sat 17:00-22:30, Sun 17:00-21:30; Monday closed",
+  "maps_query": "Chaula's Indian Restaurant Lewes"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/chaulas-lewes_1.jpg"
+}
