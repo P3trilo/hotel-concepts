@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Densley Charles Online Booking</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../../assets/base.css">
+<style>
+/* A fictional independent garage: workshop graphite, MOT-certificate blue, hi-vis yellow for the one action that matters. */
+:root {
+  --mist: #EEF0F2; --paper: #FAFBFC; --ink: #16191D; --ink-soft: #4F5862; --line: #D4D9DF;
+  --accent: #0078C1; --cta: #0078C1; --on-cta: #FFFFFF; --hero-bg: #0078C1;
+  --display: "Barlow Condensed", "Arial Narrow", Arial, sans-serif; --display-weight: 700;
+  --body: "Inter", "Segoe UI", Helvetica, Arial, sans-serif; --label: "Inter", "Segoe UI", sans-serif;
+  --plate: #F7D33A;
+}
+h1, h2, h3, legend { letter-spacing: 0.01em; }
+.demo-bar { background: #2A2A2A; color: #fff; font-size: 0.9rem; }
+.demo-bar .wrap { padding-block: 9px; }
+.intro { background: var(--hero-bg); color: #fff; }
+.intro .wrap { padding-block: 34px 30px; display: grid; gap: 14px; }
+.intro .eyebrow { color: var(--cta); }
+.intro h1 { font-size: clamp(2.6rem, 11vw, 4.6rem); text-transform: uppercase; line-height: 0.98; max-width: 14ch; }
+.intro p { color: #C9D0D8; max-width: 50ch; font-size: var(--step-1); }
+.trust { display: flex; flex-wrap: wrap; gap: 8px 18px; padding: 0; margin: 4px 0 0; list-style: none; color: #E6EAEE; font-size: 0.95rem; }
+.trust li::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 2px; background: var(--cta); margin-right: 8px; vertical-align: 1px; }
+.intro .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.tabs { background: var(--paper); border-bottom: 1px solid var(--line); }
+.tabs .wrap { display: flex; gap: 6px; }
+.tab { font: 600 1rem var(--body); background: none; border: 0; padding: 14px 10px; color: var(--ink-soft); cursor: pointer; border-bottom: 3px solid transparent; }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+
+.booking { display: grid; gap: 22px; padding-block: 30px 60px; max-width: 760px; }
+.booking > *, .step > * { min-width: 0; }
+.progress { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+.progress span { height: 5px; border-radius: 3px; background: var(--line); }
+.progress span.on { background: var(--accent); }
+.step-label { font-size: 0.85rem; color: var(--ink-soft); font-weight: 600; }
+.step h2 { font-size: clamp(1.8rem, 6vw, 2.4rem); text-transform: uppercase; margin-bottom: 14px; }
+.services { display: grid; gap: 10px; }
+.svc { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; align-items: center; text-align: left; padding: 14px 16px; background: var(--paper); border: 1.5px solid var(--line); border-radius: var(--radius); cursor: pointer; font: inherit; color: inherit; }
+.svc b { font-size: 1.05rem; }
+.svc span { color: var(--ink-soft); font-size: 0.92rem; grid-column: 1; }
+.svc em { font-style: normal; font-weight: 700; grid-row: 1 / span 2; grid-column: 2; font-variant-numeric: tabular-nums; }
+.svc[aria-pressed="true"] { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent) inset; }
+.plate-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: stretch; }
+.plate { font: 700 1.6rem/1 "Arial Narrow", Arial, sans-serif; letter-spacing: 0.08em; text-transform: uppercase; background: var(--plate); color: #111; border: 2px solid #111; border-radius: 6px; padding: 10px 12px; width: 100%; max-width: 230px; text-align: center; }
+.car { display: grid; gap: 4px; padding: 14px 16px; background: var(--paper); border: 1px solid var(--line); border-left: 5px solid var(--accent); border-radius: var(--radius); }
+.car b { font-size: 1.1rem; }
+.car .due { color: #8A5A00; font-weight: 600; }
+.days { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x mandatory; }
+.day { flex: 0 0 auto; scroll-snap-align: start; display: grid; justify-items: center; gap: 2px; min-width: 64px; padding: 10px 6px; border: 1.5px solid var(--line); border-radius: var(--radius); background: var(--paper); cursor: pointer; font: inherit; color: inherit; }
+.day small { color: var(--ink-soft); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; }
+.day b { font-size: 1.3rem; font-family: var(--display); }
+.day[aria-pressed="true"] { border-color: var(--accent); background: #E6EEF8; }
+.slots { display: grid; grid-template-columns: repeat(auto-fill, minmax(88px, 1fr)); gap: 8px; margin-top: 12px; }
+.slot { padding: 11px 6px; border: 1.5px solid var(--line); border-radius: var(--radius); background: var(--paper); font: 600 1rem var(--body); cursor: pointer; color: inherit; font-variant-numeric: tabular-nums; }
+.slot[disabled] { color: #A0A8B1; text-decoration: line-through; cursor: not-allowed; background: transparent; }
+.slot[aria-pressed="true"] { border-color: var(--accent); background: var(--accent); color: #fff; }
+.choice { display: flex; gap: 10px; align-items: flex-start; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+.choice input { margin-top: 4px; width: 18px; height: 18px; accent-color: var(--accent); }
+.field { display: grid; gap: 6px; }
+.field label { font-weight: 600; font-size: 0.95rem; }
+.field input, .field textarea { font: 1rem var(--body); padding: 11px 12px; border: 1.5px solid var(--line); border-radius: var(--radius); background: var(--paper); color: var(--ink); width: 100%; }
+.field input:focus, .field textarea:focus { outline: none; border-color: var(--accent); }
+.grid2 { display: grid; gap: 12px; }
+.stepnav { display: flex; justify-content: space-between; gap: 10px; margin-top: 18px; }
+.btn-line { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1.5px var(--line); }
+.error { color: #9B2C2C; font-weight: 600; }
+.summary { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 6px 16px; padding: 16px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); }
+.summary dt { color: var(--ink-soft); font-size: 0.9rem; }
+.summary dd { margin: 0; font-weight: 600; overflow-wrap: anywhere; }
+
+.admin { padding-block: 30px 70px; display: grid; gap: 20px; }
+.admin h2 { font-size: clamp(1.8rem, 6vw, 2.4rem); text-transform: uppercase; }
+.req { display: grid; gap: 8px; padding: 14px 16px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); }
+.req .top-line { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; align-items: baseline; }
+.req .mini-plate { font: 700 0.95rem "Arial Narrow", Arial, sans-serif; background: var(--plate); border: 1.5px solid #111; border-radius: 4px; padding: 2px 8px; letter-spacing: 0.06em; color: #111; }
+.req .meta { color: var(--ink-soft); font-size: 0.95rem; }
+.pill { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 0.8rem; font-weight: 700; }
+.pill.new { background: #FFF1C2; color: #6B4E00; }
+.pill.ok { background: #DDEFE3; color: #22543A; }
+.pill.no { background: #F3DEDE; color: #7A2E2E; }
+.req .acts { display: flex; gap: 8px; flex-wrap: wrap; }
+.small-btn { padding: 7px 12px; font-size: 0.9rem; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.stat { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; display: grid; }
+.stat b { font-family: var(--display); font-size: 1.8rem; line-height: 1; }
+.stat span { color: var(--ink-soft); font-size: 0.85rem; }
+@media (min-width: 700px) { .grid2 { grid-template-columns: 1fr 1fr; } .services { grid-template-columns: 1fr 1fr; } }
+</style>
+</head>
+<body>
+
+<div class="demo-bar"><div class="wrap">Concept prepared for Densley Charles by Petr Ivan. Nothing here is live: no booking is made and no message is sent.</div></div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="#top"><b>Densley Charles</b><span>Coachcraft · Ditton Walk, Cambridge</span></a>
+  <a class="btn btn-book" href="#book" id="top-book">Book online</a>
+</div></header>
+
+<main id="top">
+  <section class="intro"><div class="wrap">
+    <span class="eyebrow">Accident repair · Paintwork · Free estimates</span>
+    <h1>Book a free estimate online</h1>
+    <p>Pick a repair, enter your registration and choose a time to bring the car in. We confirm by text.</p>
+    <ul class="trust"><li>Trading since 1982</li><li>Free estimates</li><li>Insurance and fleet work</li><li>Du Pont paint mixing</li></ul>
+    <div class="actions"><a class="btn btn-book" href="#book">Book online</a><a class="btn btn-ghost" href="tel:+441223243369">Call the garage</a></div>
+  </div></section>
+
+  <nav class="tabs" aria-label="Demo views"><div class="wrap" role="tablist">
+    <button class="tab" role="tab" id="tab-customer" aria-selected="true" aria-controls="view-customer">What the customer sees</button>
+    <button class="tab" role="tab" id="tab-garage" aria-selected="false" aria-controls="view-garage">What the garage sees</button>
+  </div></nav>
+
+  <div id="view-customer" role="tabpanel" aria-labelledby="tab-customer">
+    <div class="wrap booking" id="book">
+      <div class="progress" aria-hidden="true"><span class="on"></span><span></span><span></span><span></span></div>
+
+      <section class="step" data-step="1">
+        <div class="step-label">Step 1 of 4</div>
+        <h2>What do you need?</h2>
+        <div class="services" id="services">
+          <button type="button" class="svc" data-svc="Estimate" data-price="Free" data-mins="30" aria-pressed="true"><b>Free estimate</b><span>For any repair, large or small</span><em>Free</em></button>
+          <button type="button" class="svc" data-svc="Minor" data-price="Quote" data-mins="180" aria-pressed="false"><b>Scratches, dents and scuffs</b><span>Including bumpers</span><em>Quote</em></button>
+          <button type="button" class="svc" data-svc="Paint" data-price="Quote" data-mins="240" aria-pressed="false"><b>Paintwork</b><span>Du Pont paint mixing scheme</span><em>Quote</em></button>
+          <button type="button" class="svc" data-svc="Accident" data-price="Quote" data-mins="480" aria-pressed="false"><b>Accident repair</b><span>We help you through the claim</span><em>Quote</em></button>
+          <button type="button" class="svc" data-svc="Major" data-price="Quote" data-mins="480" aria-pressed="false"><b>Major body reconstruction</b><span>Jig work and welding</span><em>Quote</em></button>
+        </div>
+      </section>
+
+      <section class="step" data-step="2" hidden>
+        <div class="step-label">Step 2 of 4</div>
+        <h2>Your car</h2>
+        <div class="field">
+          <label for="reg">Registration number</label>
+          <div class="plate-row"><input class="plate" id="reg" maxlength="8" value="SV17 KXN" autocomplete="off"><button type="button" class="btn btn-line" id="find">Find my car</button></div>
+        </div>
+        <div class="car" id="car" hidden></div>
+      </section>
+
+      <section class="step" data-step="3" hidden>
+        <div class="step-label">Step 3 of 4</div>
+        <h2>Pick a day and time</h2>
+        <div class="days" id="days" role="group" aria-label="Day"></div>
+        <div class="slots" id="slots" role="group" aria-label="Drop-off time"></div>
+        <div class="choice" style="margin-top:14px"><input type="checkbox" id="wait"><label for="wait">I would like to wait while the work is done (short jobs only)</label></div>
+      </section>
+
+      <section class="step" data-step="4" hidden>
+        <div class="step-label">Step 4 of 4</div>
+        <h2>Your details</h2>
+        <div class="grid2">
+          <div class="field"><label for="name">Name</label><input id="name" value="Jamie Example" autocomplete="name"></div>
+          <div class="field"><label for="phone">Mobile</label><input id="phone" value="07700 900123" inputmode="tel" autocomplete="tel"></div>
+        </div>
+        <div class="field" style="margin-top:12px"><label for="notes">Anything we should know?</label><textarea id="notes">Slight squeak from the front brakes.</textarea></div>
+        <div class="choice" style="margin-top:12px"><input type="checkbox" id="remind" checked><label for="remind">Text me when the car is ready to collect</label></div>
+        <dl class="summary" id="summary" style="margin-top:14px"></dl>
+      </section>
+
+      <section class="step" data-step="5" hidden aria-live="polite">
+        <h2>Request sent</h2>
+        <p id="sent-text"></p>
+        <p class="note">In this demo nothing is booked and no text is sent. Have a look at the garage's view to see your request arrive.</p>
+        <div class="stepnav"><button type="button" class="btn btn-book" id="to-garage">See the garage's view</button><button type="button" class="btn btn-line" id="again">Book another</button></div>
+      </section>
+
+      <p class="error" id="error" role="alert" hidden></p>
+      <div class="stepnav" id="nav"><button type="button" class="btn btn-line" id="back" hidden>Back</button><button type="button" class="btn btn-book" id="next">Next</button></div>
+    </div>
+  </div>
+
+  <div id="view-garage" role="tabpanel" aria-labelledby="tab-garage" hidden>
+    <div class="wrap admin">
+      <div class="head" style="margin:0"><span class="eyebrow">For the garage</span><h2>Booking requests</h2><p>New requests land here and on your phone. Confirm or suggest another time with one tap, and the customer gets a text.</p></div>
+      <div class="stats"><div class="stat"><b id="s-new">0</b><span>Waiting</span></div><div class="stat"><b id="s-ok">0</b><span>Confirmed</span></div><div class="stat"><b id="s-rem">0</b><span>Ready texts</span></div></div>
+      <div id="reqs" style="display:grid;gap:10px"></div>
+      <p class="note" style="margin:0">Ready texts: customers who ticked the box get a text as soon as the car is ready, so nobody has to ring to ask.</p>
+    </div>
+  </div>
+<section id="visit" style="background:var(--paper);color:var(--ink);padding:40px 0;border-top:1px solid var(--line)"><div class="wrap"><span class="eyebrow" style="color:var(--accent)">Find us</span><h2>Densley Charles</h2><p>95 Ditton Walk, Cambridge CB5 8QD · 01223 243369</p><p>Call 01223 243369 or email enquiries@densleycharles.co.uk.</p><div class="actions" style="display:flex;flex-wrap:wrap;gap:10px"><a class="btn btn-line" href="https://www.google.com/maps/search/?api=1&amp;query=Densley+Charles+Coachcraft+Ditton+Walk+Cambridge" target="_blank" rel="noopener">Open in Google Maps</a><a class="btn btn-line" href="tel:+441223243369">01223 243369</a></div></div></section>
+</main>
+
+<footer><div class="wrap">
+  <p>Concept prepared for Densley Charles by Petr Ivan. Not the official website of Densley Charles. Services are taken from your own website.</p>
+  <p>The list of services is set up for each business. Prices are shown as &quot;Quote&quot; because they are not listed on your current website.</p>
+  <p>Demo by Petr Ivan, freelance web designer · ing.petr.ivan@gmail.com</p>
+</div></footer>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var esc = function (s) { return String(s).replace(/[&<>"']/g, function (c) { return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]; }); };
+  var KEY = 'garage_densley-charles-cambridge';
+  var seed = [
+    { reg: 'YD19 ABC', car: 'Vauxhall Corsa, 2019', svc: 'Estimate', when: 'Tomorrow 08:30', name: 'Sarah', status: 'new', remind: true },
+    { reg: 'KX66 DEF', car: 'Ford Transit Custom, 2016', svc: 'Minor', when: 'Tomorrow 09:00', name: 'James', status: 'ok', remind: false }
+  ];
+  var mem = seed.slice();
+  function load() { try { var v = JSON.parse(localStorage.getItem(KEY) || 'null'); return v || mem; } catch (e) { return mem; } }
+  function save(l) { mem = l; try { localStorage.setItem(KEY, JSON.stringify(l)); } catch (e) {} }
+  if (!load().length) save(seed.slice());
+
+  var step = 1, chosen = { svc: 'Estimate', price: 'Free' }, car = null, day = null, slot = null;
+
+  // services
+  $('services').addEventListener('click', function (e) {
+    var b = e.target.closest('.svc'); if (!b) return;
+    document.querySelectorAll('.svc').forEach(function (x) { x.setAttribute('aria-pressed', x === b); });
+    chosen = { svc: b.dataset.svc, price: b.dataset.price };
+  });
+
+  // car lookup (demo data)
+  var CARS = ['Ford Focus 1.0 EcoBoost, 2017, silver', 'Volkswagen Golf 1.6 TDI, 2016, blue', 'Toyota Yaris Hybrid, 2019, white', 'Nissan Qashqai 1.5 dCi, 2018, grey'];
+  function findCar() {
+    var reg = $('reg').value.toUpperCase().replace(/\s+/g, ' ').trim();
+    if (!/^[A-Z0-9 ]{2,8}$/.test(reg)) { car = null; $('car').hidden = true; return false; }
+    var n = 0; for (var i = 0; i < reg.length; i++) n += reg.charCodeAt(i);
+    var due = new Date(); due.setDate(due.getDate() + 20 + (n % 40));
+    car = { reg: reg, model: CARS[n % CARS.length], due: due.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }) };
+    $('car').innerHTML = '<b>' + esc(car.model) + '</b><span class="due">MOT due ' + esc(car.due) + '</span><span class="note" style="margin:0">Looked up from the registration. In this demo the details are examples.</span>';
+    $('car').hidden = false; return true;
+  }
+  $('find').addEventListener('click', findCar);
+  $('reg').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); findCar(); } });
+
+  // days and slots
+  var TIMES = ['08:00', '08:30', '09:00', '09:30', '10:00', '11:00', '13:00', '14:00', '15:00'];
+  function buildDays() {
+    var d = new Date(), html = '', count = 0;
+    while (count < 12) {
+      d.setDate(d.getDate() + 1);
+      if (d.getDay() === 0) continue;
+      var iso = d.toISOString().slice(0, 10);
+      html += '<button type="button" class="day" data-day="' + iso + '" aria-pressed="false"><small>' + d.toLocaleDateString('en-GB', { weekday: 'short' }) + '</small><b>' + d.getDate() + '</b><small>' + d.toLocaleDateString('en-GB', { month: 'short' }) + '</small></button>';
+      count++;
+    }
+    $('days').innerHTML = html;
+  }
+  function buildSlots(iso) {
+    var seedN = 0; for (var i = 0; i < iso.length; i++) seedN += iso.charCodeAt(i) * (i + 1);
+    var sat = new Date(iso).getDay() === 6;
+    $('slots').innerHTML = TIMES.filter(function (t) { return !sat || t < '12:00'; }).map(function (t, i) {
+      var full = ((seedN + i * 7) % 5) === 0;
+      return '<button type="button" class="slot" data-slot="' + t + '" aria-pressed="false"' + (full ? ' disabled aria-label="' + t + ' fully booked"' : '') + '>' + t + '</button>';
+    }).join('');
+    slot = null;
+  }
+  $('days').addEventListener('click', function (e) {
+    var b = e.target.closest('.day'); if (!b) return;
+    document.querySelectorAll('.day').forEach(function (x) { x.setAttribute('aria-pressed', x === b); });
+    day = b.dataset.day; buildSlots(day);
+  });
+  $('slots').addEventListener('click', function (e) {
+    var b = e.target.closest('.slot'); if (!b || b.disabled) return;
+    document.querySelectorAll('.slot').forEach(function (x) { x.setAttribute('aria-pressed', x === b); });
+    slot = b.dataset.slot;
+  });
+
+  function whenText() {
+    if (!day || !slot) return '';
+    return new Date(day).toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' }) + ' at ' + slot;
+  }
+  function summary() {
+    $('summary').innerHTML = '<dt>Service</dt><dd>' + esc(chosen.svc) + ' (' + esc(chosen.price) + ')</dd><dt>Car</dt><dd>' + esc(car ? car.reg + ', ' + car.model : '') + '</dd><dt>When</dt><dd>' + esc(whenText()) + ($('wait').checked ? ', waiting' : ', drop-off') + '</dd>';
+  }
+
+  function show(n) {
+    step = n;
+    document.querySelectorAll('.step').forEach(function (s) { s.hidden = +s.dataset.step !== n; });
+    document.querySelectorAll('.progress span').forEach(function (p, i) { p.className = i < Math.min(n, 4) ? 'on' : ''; });
+    $('nav').hidden = n === 5; $('back').hidden = n === 1;
+    $('next').textContent = n === 4 ? 'Send booking request' : 'Next';
+    $('error').hidden = true;
+    if (n === 3 && !$('days').innerHTML) buildDays();
+    if (n === 4) summary();
+    var top = $('book').getBoundingClientRect().top + window.scrollY - 70;
+    if (window.scrollY > top) window.scrollTo(0, top);
+  }
+  function fail(msg) { $('error').textContent = msg; $('error').hidden = false; }
+
+  $('next').addEventListener('click', function () {
+    if (step === 2 && !car && !findCar()) return fail('Please enter a valid registration number.');
+    if (step === 3 && (!day || !slot)) return fail('Please choose a day and a time.');
+    if (step === 4) {
+      if (!$('name').value.trim()) return fail('Please add your name.');
+      if (!/^[0-9 +]{10,14}$/.test($('phone').value.trim())) return fail('Please add a mobile number so we can text you.');
+      var list = load();
+      list.unshift({ reg: car.reg, car: car.model.split(',').slice(0, 2).join(','), svc: chosen.svc, when: whenText(), name: $('name').value.trim(), status: 'new', remind: $('remind').checked, notes: $('notes').value.trim() });
+      save(list);
+      $('sent-text').textContent = 'Thanks, ' + $('name').value.trim().split(' ')[0] + '. We have your request (' + chosen.svc + ') for ' + whenText() + ' for ' + car.reg + '. We will text ' + $('phone').value.trim() + ' to confirm.';
+      return show(5);
+    }
+    show(step + 1);
+  });
+  $('back').addEventListener('click', function () { show(step - 1); });
+  $('again').addEventListener('click', function () { car = null; day = null; slot = null; $('car').hidden = true; $('days').innerHTML = ''; $('slots').innerHTML = ''; show(1); });
+  $('to-garage').addEventListener('click', function () { tab('garage'); });
+
+  function renderGarage() {
+    var list = load();
+    $('reqs').innerHTML = list.map(function (r, i) {
+      var pill = r.status === 'new' ? '<span class="pill new">New request</span>' : r.status === 'ok' ? '<span class="pill ok">Confirmed</span>' : '<span class="pill no">New time offered</span>';
+      var acts = r.status === 'new' ? '<div class="acts"><button class="btn btn-book small-btn" type="button" data-act="ok" data-i="' + i + '">Confirm</button><button class="btn btn-line small-btn" type="button" data-act="no" data-i="' + i + '">Offer another time</button></div>' : '';
+      return '<article class="req"><div class="top-line"><span class="mini-plate">' + esc(r.reg) + '</span>' + pill + '</div><b>' + esc(r.svc) + ' · ' + esc(r.when) + '</b><span class="meta">' + esc(r.name) + ' · ' + esc(r.car) + (r.notes ? ' · "' + esc(r.notes) + '"' : '') + '</span>' + acts + '</article>';
+    }).join('');
+    $('s-new').textContent = list.filter(function (r) { return r.status === 'new'; }).length;
+    $('s-ok').textContent = list.filter(function (r) { return r.status === 'ok'; }).length;
+    $('s-rem').textContent = list.filter(function (r) { return r.remind; }).length;
+  }
+  $('reqs').addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-act]'); if (!b) return;
+    var list = load(); list[+b.dataset.i].status = b.dataset.act; save(list); renderGarage();
+  });
+
+  function tab(which) {
+    var g = which === 'garage';
+    $('view-garage').hidden = !g; $('view-customer').hidden = g;
+    $('tab-garage').setAttribute('aria-selected', g); $('tab-customer').setAttribute('aria-selected', !g);
+    if (g) renderGarage();
+  }
+  $('tab-customer').addEventListener('click', function () { tab('customer'); });
+  $('tab-garage').addEventListener('click', function () { tab('garage'); });
+
+  show(1);
+})();
+</script>
+</body>
+</html>
