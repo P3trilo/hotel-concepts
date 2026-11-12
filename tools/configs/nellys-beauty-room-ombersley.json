@@ -1,0 +1,57 @@
+{
+ "slug": "nellys-beauty-room-ombersley",
+ "name": "Nelly's Beauty Room",
+ "tagline": "Village beauty room · Ombersley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pamper at Nelly's",
+ "gifts": [
+  [
+   "Deluxe Calgel pedicure",
+   "Deluxe Calgel pedicure including foot spa",
+   55,
+   "Deluxe Calgel pedicure with foot spa"
+  ],
+  [
+   "Lash lift",
+   "Lash lift",
+   50,
+   "Lash lift"
+  ],
+  [
+   "HD brow sculpt",
+   "HD brow sculpt (lamination)",
+   45,
+   "HD brow sculpt"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment at Nelly's",
+ "message": "Happy Christmas! A treat at Nelly's Beauty Room, my gift to you.",
+ "accent": "#CC3366",
+ "cta": "#CC3366",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3A3633",
+ "hero_eyebrow": "#C8B4B0",
+ "prefix": "NBR",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Deluxe Calgel pedicure",
+   "Sarah",
+   55,
+   true
+  ],
+  [
+   "Lash lift",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Everton Mews, Ombersley, Worcestershire",
+  "hours": "",
+  "maps_query": "Nelly's Beauty Room Ombersley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nellys-beauty-room-ombersley_4.jpg"
+}

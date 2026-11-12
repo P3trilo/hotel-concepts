@@ -1,0 +1,57 @@
+{
+ "slug": "mammamia-hornsey-london",
+ "name": "Mamma Mia Pizzeria & Trattoria",
+ "tagline": "Authentic Italian pizzeria & trattoria · Holloway",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Mamma Mia",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Mamma Mia, my treat.",
+ "accent": "#C16F2D",
+ "cta": "#C16F2D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#220A02",
+ "hero_eyebrow": "#F5F5F5",
+ "prefix": "MMA",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "12 Hornsey Road, Holloway, London, N7 7BP",
+  "hours": "Mon closed; Tue-Sat 11am-10pm; Sun 11am-5pm",
+  "maps_query": "Mamma Mia Pizzeria Hornsey Road London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/mammamia-hornsey-london_1.jpg"
+}

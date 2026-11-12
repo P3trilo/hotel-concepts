@@ -1,0 +1,57 @@
+{
+ "slug": "quattros-ormskirk",
+ "name": "Quattro's",
+ "tagline": "Italian ristorante · Bickerstaffe, Ormskirk",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Quattro's",
+ "gifts": [
+  [
+   "Antipasto platter",
+   "A selection of Italian cured meats, cheese, bread and olives to share",
+   21.5,
+   "An antipasto platter to share"
+  ],
+  [
+   "Sea bass",
+   "Fillets of sea bass with cherry tomatoes, spring onions, white wine, garlic and lemon",
+   22.5,
+   "A sea bass main course for one"
+  ],
+  [
+   "Agnello",
+   "Lamb cutlets grilled with garlic, rosemary and lamb jus",
+   23.5,
+   "A lamb cutlets main course for one"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or the wine list",
+ "message": "Happy Christmas! Dinner at Quattro's, my treat.",
+ "accent": "#159BCA",
+ "cta": "#0F6A9B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1B2A33",
+ "hero_eyebrow": "#D6D8D4",
+ "prefix": "QT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Antipasto platter",
+   "Sarah",
+   21.5,
+   true
+  ],
+  [
+   "Sea bass",
+   "Emma",
+   22.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Rainford Road, Bickerstaffe, Ormskirk, Lancashire, L39 0HF",
+  "hours": "Food: lunch Tue-Fri 12:00-14:00, evening Mon-Sat 17:00-21:30, Sunday 14:00-19:30",
+  "maps_query": "Quattro's Italian Restaurant Bickerstaffe Ormskirk"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/quattros-ormskirk_1.jpg"
+}

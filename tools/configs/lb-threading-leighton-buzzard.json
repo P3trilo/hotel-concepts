@@ -1,0 +1,57 @@
+{
+ "slug": "lb-threading-leighton-buzzard",
+ "name": "LBT Beauty Salon",
+ "tagline": "Brows, lashes and nails · Leighton Buzzard",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give perfect brows at LBT",
+ "gifts": [
+  [
+   "Brow lamination",
+   "Brow lamination at LBT",
+   45,
+   "One brow lamination"
+  ],
+  [
+   "HD brows",
+   "HD brows at LBT",
+   18,
+   "One HD brows treatment"
+  ],
+  [
+   "BIAB nails",
+   "BIAB nails at LBT",
+   40,
+   "One set of BIAB nails"
+  ]
+ ],
+ "amount_desc": "Spend on any brow, lash, wax or nail treatment",
+ "message": "Happy Christmas! A treat at LBT, my treat.",
+ "accent": "#C7A46A",
+ "cta": "#C7A46A",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#C7A46A",
+ "prefix": "LBT",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Brow lamination",
+   "Sarah",
+   45,
+   true
+  ],
+  [
+   "HD brows",
+   "Emma",
+   18,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 North Street, Leighton Buzzard, Bedfordshire, LU7 1EF",
+  "hours": "Tue-Fri 9am-6pm, Sat 9am-5:30pm, Sun-Mon closed",
+  "maps_query": "LBT Beauty Salon Leighton Buzzard"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/lb-threading-leighton-buzzard_1.jpg"
+}

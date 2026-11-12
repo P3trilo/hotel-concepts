@@ -1,0 +1,57 @@
+{
+ "slug": "samet-zili-london",
+ "name": "Samet Zili Hairdresser",
+ "tagline": "Bespoke hairdressing and balayage · Victoria, London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cut and blow dry",
+ "gifts": [
+  [
+   "Blow dry",
+   "Wash and blow dry, short hair, about 30 minutes",
+   55,
+   "A wash and blow dry"
+  ],
+  [
+   "Trim, cut and finish",
+   "Trim, cut and finish",
+   70,
+   "A trim, cut and finish"
+  ],
+  [
+   "Re-style haircut and blow dry",
+   "A new style, cut and blow dried",
+   150,
+   "A re-style haircut and blow dry"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! A cut and blow dry with Samet, my treat.",
+ "accent": "#6B4F33",
+ "cta": "#6B4F33",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#F6EEE6",
+ "hero_eyebrow": "#8B6A3E",
+ "prefix": "SZ",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Blow dry",
+   "Sarah",
+   55,
+   true
+  ],
+  [
+   "Trim, cut and finish",
+   "Emma",
+   70,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 Artillery Row, Victoria, London SW1P 1RH",
+  "hours": "",
+  "maps_query": "Samet Zili Hairdresser London"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/samet-zili-london_1.jpg"
+}

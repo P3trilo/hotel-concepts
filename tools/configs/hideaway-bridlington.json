@@ -1,0 +1,57 @@
+{
+ "slug": "hideaway-bridlington",
+ "name": "Hideaway",
+ "tagline": "Family-run South African bistro · Bridlington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Hideaway",
+ "gifts": [
+  [
+   "Premium Sunday carvery",
+   "British beef or lamb, all you can eat from the carvery station with roast potatoes, Yorkshire puddings and homemade gravy",
+   16.9,
+   "A premium Sunday carvery for one"
+  ],
+  [
+   "Chicken bunny chow",
+   "Fragrant Durban chicken curry served inside a warm quarter loaf baked in-house",
+   17.9,
+   "A chicken bunny chow for one"
+  ],
+  [
+   "Chicken or pork carvery",
+   "Choice of pork or chicken and all the veg you can eat",
+   14.9,
+   "A Sunday carvery for one"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Hideaway, my treat.",
+ "accent": "#006B3F",
+ "cta": "#006B3F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#18181B",
+ "hero_eyebrow": "#FFF2E2",
+ "prefix": "HID",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Premium Sunday carvery",
+   "Sarah",
+   16.9,
+   true
+  ],
+  [
+   "Chicken bunny chow",
+   "Emma",
+   17.9,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "36 Lansdowne Rd, Bridlington, YO15 2QS",
+  "hours": "Thu 5-8pm, Fri 5-9pm, Sat 12-4pm and 5-9pm, Sun 12-7pm; closed Mon-Wed",
+  "maps_query": "Hideaway Bridlington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/hideaway-bridlington_1.jpg"
+}

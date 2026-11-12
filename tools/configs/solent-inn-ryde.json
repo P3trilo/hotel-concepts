@@ -1,0 +1,57 @@
+{
+ "slug": "solent-inn-ryde",
+ "name": "Solent Inn",
+ "tagline": "Family-run real ale house · Ryde",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Solent",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food and drink at the pub",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food and drink at the pub",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food and drink at the pub",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food and drink at the pub",
+ "message": "Happy Christmas! Sunday lunch at the Solent Inn, my treat.",
+ "accent": "#888888",
+ "cta": "#111111",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "SOL",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 Monkton Street, Ryde, Isle of Wight, PO33 1JW",
+  "hours": "Sunday roasts 12pm-4pm",
+  "maps_query": "Solent Inn Ryde"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/solent-inn-ryde_1.jpg"
+}

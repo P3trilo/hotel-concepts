@@ -1,0 +1,57 @@
+{
+ "slug": "the-sun-inn-kislingbury",
+ "name": "The Sun Inn",
+ "tagline": "Award-winning village free house · Kislingbury",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Sun",
+ "gifts": [
+  [
+   "Sunday lunch",
+   "Roast with a choice of three meats, or the trio dinner with all three, main course and dessert",
+   20,
+   "Sunday lunch for one, main course and dessert"
+  ],
+  [
+   "Pie and a pint night",
+   "A pie of your choice with chips or mash, seasonal veg and gravy, and a pint or medium wine (Tuesdays)",
+   15,
+   "Pie and a pint for one on a Tuesday"
+  ],
+  [
+   "Curry and a pint night",
+   "Curry of your choice with rice, pakora, popadom and mango chutney, and a pint or medium wine (Wednesdays)",
+   15,
+   "Curry and a pint for one on a Wednesday"
+  ]
+ ],
+ "amount_desc": "Spend on food and drinks at the pub",
+ "message": "Happy Christmas! Sunday lunch at the Sun Inn, my treat.",
+ "accent": "#F7A32C",
+ "cta": "#F7A32C",
+ "on_cta": "#212121",
+ "hero_bg": "#212121",
+ "hero_eyebrow": "#F7A32C",
+ "prefix": "SI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday lunch",
+   "Sarah",
+   20,
+   true
+  ],
+  [
+   "Pie and a pint night",
+   "Emma",
+   15,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6 Mill Road, Kislingbury, Northamptonshire, NN7 4BB",
+  "hours": "Food Tue-Sat 6pm-9pm, Sun midday-3pm",
+  "maps_query": "The Sun Inn Kislingbury"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-sun-inn-kislingbury_1.jpg"
+}
