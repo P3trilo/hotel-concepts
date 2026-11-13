@@ -1,0 +1,57 @@
+{
+ "slug": "the-basement-thai-ashbourne",
+ "name": "The Basement Thai Restaurant",
+ "tagline": "Thai restaurant since 2010 · Ashbourne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Thai dinner at the Basement",
+ "gifts": [
+  [
+   "Set Menu Basement",
+   "Two course meal for 2 people or more: The Basement Mixed Starter, then Duck Ginger, Green Chicken Curry, Mixed Vegetable and Steamed Thai Rice",
+   27.95,
+   "The Basement set menu (per person, for 2 or more)"
+  ],
+  [
+   "Early bird, three courses",
+   "Three courses, Sunday and Tuesday-Thursday 5pm-7pm last order, dining in only",
+   19.95,
+   "A three-course early bird dinner"
+  ],
+  [
+   "Lunch, starter and main",
+   "Lunch starter and main, Friday-Sunday 12:00-14:30, dining in only",
+   14.95,
+   "A two-course Thai lunch"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at the Basement Thai, my treat.",
+ "accent": "#A48430",
+ "cta": "#28303D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#28303D",
+ "hero_eyebrow": "#A48430",
+ "prefix": "BT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Set Menu Basement",
+   "Sarah",
+   27.95,
+   true
+  ],
+  [
+   "Early bird, three courses",
+   "Emma",
+   19.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Middle Cale, St. John's Street, Ashbourne, DE6 1GP",
+  "hours": "Lunch Fri-Sun 12:00-14:30; dinner Tue-Sun 17:00-23:00; closed Mondays",
+  "maps_query": "The Basement Thai Restaurant Ashbourne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-basement-thai-ashbourne_1.jpg"
+}

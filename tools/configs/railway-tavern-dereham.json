@@ -1,0 +1,57 @@
+{
+ "slug": "railway-tavern-dereham",
+ "name": "The Railway Tavern",
+ "tagline": "Pub and fish & chip shop · Dereham",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a gin at the Railway Tavern",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend at the bar or on fish and chips",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend at the bar or on fish and chips",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend at the bar or on fish and chips",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend at the bar or on fish and chips",
+ "message": "Happy Christmas! A drink at the Railway Tavern, my treat.",
+ "accent": "#F2BA66",
+ "cta": "#FFA74F",
+ "on_cta": "#211E1B",
+ "hero_bg": "#211E1B",
+ "hero_eyebrow": "#F2BA66",
+ "prefix": "RT",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "21-23 Yaxham Rd, Dereham, Norfolk, NR19 1HB",
+  "hours": "Bar: Tue-Thu 11:30am-2pm and 4pm-10pm, Fri-Sat 11:30am-midnight, Sun 12pm-10pm; closed Mondays",
+  "maps_query": "The Railway Tavern Dereham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/railway-tavern-dereham_1.jpg"
+}

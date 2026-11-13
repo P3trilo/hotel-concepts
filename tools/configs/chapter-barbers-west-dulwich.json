@@ -1,0 +1,57 @@
+{
+ "slug": "chapter-barbers-west-dulwich",
+ "name": "Chapter Barbers",
+ "tagline": "Traditional men's barber · West Dulwich",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a hot towel shave",
+ "gifts": [
+  [
+   "Traditional Hot Towel Shave",
+   "A hot lathered shave with a straight razor, hot towels, moisturiser and massage",
+   20.0,
+   "A traditional hot towel shave"
+  ],
+  [
+   "Wash & Cut",
+   "Wash and haircut",
+   24.0,
+   "A wash and cut"
+  ],
+  [
+   "Scissor Cut",
+   "Scissor haircut",
+   20.0,
+   "A scissor cut"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, shave or beard trim",
+ "message": "Happy Christmas! A hot towel shave at Chapter Barbers, my treat.",
+ "accent": "#A5A5A5",
+ "cta": "#333333",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F1F1F1",
+ "prefix": "CB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Traditional Hot Towel Shave",
+   "Sarah",
+   20.0,
+   true
+  ],
+  [
+   "Wash & Cut",
+   "Emma",
+   24.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "93 Rosendale Road, West Dulwich, London, SE21 8EZ",
+  "hours": "Mon-Fri 9am-7pm, Sat 9am-6pm, Sun and bank holidays 10am-4pm",
+  "maps_query": "Chapter Barbers West Dulwich"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/chapter-barbers-west-dulwich_1.jpg"
+}
