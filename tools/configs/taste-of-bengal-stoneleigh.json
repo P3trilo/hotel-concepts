@@ -1,0 +1,57 @@
+{
+ "slug": "taste-of-bengal-stoneleigh",
+ "name": "Taste of Bengal",
+ "tagline": "Surrey curry house · Stoneleigh",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Taste of Bengal",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Taste of Bengal, my treat.",
+ "accent": "#923E48",
+ "cta": "#923E48",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1F1F1F",
+ "hero_eyebrow": "#923E48",
+ "prefix": "TOB",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "68 The Broadway, Stoneleigh, KT17 2HS",
+  "hours": "Daily 17:30-22:30",
+  "maps_query": "Taste of Bengal Stoneleigh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/taste-of-bengal-stoneleigh_1.jpg"
+}
