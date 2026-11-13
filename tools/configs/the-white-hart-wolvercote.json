@@ -1,0 +1,57 @@
+{
+ "slug": "the-white-hart-wolvercote",
+ "name": "The White Hart",
+ "tagline": "Community run free house · Wolvercote",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pizza and a pint at the White Hart",
+ "gifts": [
+  [
+   "Pizza from the pizza oven",
+   "Margherita; pizza bases and tomato sauce freshly made in-house",
+   13,
+   "A stone-baked pizza from the pizza oven"
+  ],
+  [
+   "Mega Breakfast",
+   "Sunday brunch during the Farmers' Market",
+   18,
+   "Mega Breakfast at Sunday brunch"
+  ],
+  [
+   "Cream tea",
+   "From the Sunday brunch menu",
+   6,
+   "A cream tea"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! A pizza and a pint at the White Hart, my treat.",
+ "accent": "#58C44F",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#282730",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "WH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Pizza from the pizza oven",
+   "Sarah",
+   13,
+   true
+  ],
+  [
+   "Mega Breakfast",
+   "Emma",
+   18,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "126 Godstow Road, Wolvercote, Oxford OX2 8PQ",
+  "hours": "Mon 4-11pm, Tue-Thu 3-11pm, Fri-Sat 12pm-12am, Sun 10am-10pm; food Wed-Sat 5.30-8.30pm, Sunday brunch 10am-2pm",
+  "maps_query": "The White Hart Wolvercote"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-white-hart-wolvercote_1.jpg"
+}

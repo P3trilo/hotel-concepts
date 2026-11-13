@@ -1,0 +1,57 @@
+{
+ "slug": "fallow-and-fields-kitchen-thame",
+ "name": "Fallow & Fields Kitchen",
+ "tagline": "Farm kitchen and bar in a converted barn · Thame",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give lunch on the farm",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Lunch at Fallow & Fields Kitchen, my treat.",
+ "accent": "#DB6437",
+ "cta": "#223038",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#223038",
+ "hero_eyebrow": "#F7F1E8",
+ "prefix": "FF",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Thame Rd, Long Crendon, Thame OX9 3SH",
+  "hours": "Tue-Thu & Sun 10:00-16:00, Fri-Sat 10:00-20:00, closed Monday",
+  "maps_query": "Fallow & Fields Kitchen Thame"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/fallow-and-fields-kitchen-thame_1.jpg"
+}
