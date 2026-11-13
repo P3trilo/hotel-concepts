@@ -1,0 +1,57 @@
+{
+ "slug": "anchor-and-hops-warrington",
+ "name": "Anchor & Hops",
+ "tagline": "Independent craft beer bar · Stockton Heath",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a round at Anchor & Hops",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything at the bar",
+ "message": "Happy Christmas! A few pints at Anchor & Hops, my treat.",
+ "accent": "#FFC323",
+ "cta": "#FFC323",
+ "on_cta": "#000000",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#FFC323",
+ "prefix": "AH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "20 Walton Road, Stockton Heath, Warrington WA4 6NL",
+  "hours": "Tue-Wed 3-10pm, Thu-Fri 3-11pm, Sat 12-11pm, Sun 12-10pm, closed Mon",
+  "maps_query": "Anchor & Hops Stockton Heath"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/anchor-and-hops-warrington_1.jpg"
+}

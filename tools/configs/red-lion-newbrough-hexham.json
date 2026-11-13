@@ -1,0 +1,57 @@
+{
+ "slug": "red-lion-newbrough-hexham",
+ "name": "The Red Lion",
+ "tagline": "Village inn with rooms on the Stanegate · Newbrough",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by the log fire",
+ "gifts": [
+  [
+   "Winter Break, 3 nights B&B",
+   "Three nights bed and breakfast, 1 October 2026 to 31 March 2027, booked direct",
+   245,
+   "A three night winter bed and breakfast break"
+  ],
+  [
+   "Ribeye steak dinner",
+   "10 oz ribeye steak with mushroom, tomato and French fries",
+   26.95,
+   "A 10 oz ribeye steak dinner"
+  ],
+  [
+   "Twice baked cheese souffle",
+   "Twice baked cheese souffle with creamy cheese sauce, as a main with chips and salad",
+   17.95,
+   "The twice baked cheese souffle main"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! Dinner by the fire at the Red Lion, my treat.",
+ "accent": "#A78556",
+ "cta": "#0170B9",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4B4F58",
+ "hero_eyebrow": "#A78556",
+ "prefix": "RL",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Winter Break, 3 nights B&B",
+   "Sarah",
+   245,
+   true
+  ],
+  [
+   "Ribeye steak dinner",
+   "Emma",
+   26.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Stanegate Road, Newbrough, Hexham, Northumberland NE47 5AR",
+  "hours": "Food Wed-Sat dinner 6-8pm, Sat lunch 12-2pm, Sun 12-4pm (summer 2026 times)",
+  "maps_query": "Red Lion Newbrough Hexham"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/red-lion-newbrough-hexham_1.jpg"
+}
