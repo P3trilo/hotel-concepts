@@ -1,0 +1,57 @@
+{
+ "slug": "green-dragon-bungay",
+ "name": "Green Dragon",
+ "tagline": "Brewery pub since 1991 · Bungay",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint of Green Dragon beer",
+ "gifts": [
+  [
+   "Dragon Classic burger",
+   "Brisket smash patty, American cheese, crispy onions, pickles and house burger sauce, with Dragon house slaw",
+   10.95,
+   "A Dragon Classic burger at the Green Dragon"
+  ],
+  [
+   "3 small plates",
+   "Mix and match any 3 small plates, such as Garlic King Prawns, Bang Bang Prawns or BBQ Pork Belly Bites",
+   20,
+   "Three small plates to share at the Green Dragon"
+  ],
+  [
+   "The Dragon Stack",
+   "House signature: triple smashed beef patties, American cheese, pulled pork, crispy onions and pickles",
+   17.95,
+   "The Dragon Stack, the house signature burger"
+  ]
+ ],
+ "amount_desc": "Spend on anything at the bar or on the menu",
+ "message": "Happy Christmas! A pint and a burger at the Green Dragon, my treat.",
+ "accent": "#355733",
+ "cta": "#355733",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2B3C26",
+ "hero_eyebrow": "#F7F6F8",
+ "prefix": "GD",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Dragon Classic burger",
+   "Sarah",
+   10.95,
+   true
+  ],
+  [
+   "3 small plates",
+   "Emma",
+   20,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "29 Broad Street, Bungay, Suffolk NR35 1EF",
+  "hours": "Mon-Sat 12-12, Sun 12-10",
+  "maps_query": "Green Dragon Bungay"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/green-dragon-bungay_1.jpg"
+}
