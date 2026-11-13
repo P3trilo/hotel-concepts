@@ -1,0 +1,57 @@
+{
+ "slug": "the-bath-hotel-sheffield",
+ "name": "The Bath Hotel",
+ "tagline": "Independently run traditional public house · Sheffield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pint in the snug",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything at the bar",
+ "message": "Happy Christmas! A pint at the Bath Hotel, my treat.",
+ "accent": "#C8C9FF",
+ "cta": "#26261E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#26261E",
+ "hero_eyebrow": "#C8C9FF",
+ "prefix": "BH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Victoria Street, Sheffield",
+  "hours": "Mon-Tue 16:00-23:00, Wed-Thu 12:00-23:00, Fri-Sat 12:00-00:00, Sun 12:00-22:00",
+  "maps_query": "The Bath Hotel Sheffield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-bath-hotel-sheffield_1.jpg"
+}

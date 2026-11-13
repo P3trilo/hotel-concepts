@@ -1,0 +1,57 @@
+{
+ "slug": "honey-im-home-coffee-woodford-green",
+ "name": "Honey I'm Home Coffee",
+ "tagline": "Organic coffee and Malaysian fusion brunch · Woodford Green",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch and a coffee",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at Honey I'm Home, my treat.",
+ "accent": "#14532D",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#F5F0E6",
+ "prefix": "HH",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "451 High Road, Woodford Green, London IG8 0XE",
+  "hours": "Tue-Fri 8:00-17:00, Sat-Sun 8:30-17:00, Mon closed",
+  "maps_query": "Honey I'm Home Coffee Woodford Green"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/honey-im-home-coffee-woodford-green_1.jpg"
+}
