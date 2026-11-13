@@ -1,0 +1,57 @@
+{
+ "slug": "alfarid-st-albans",
+ "name": "Al Farid",
+ "tagline": "Moroccan and Persian flavours · St Albans",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Al Farid",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Al Farid, my treat.",
+ "accent": "#7B1E2D",
+ "cta": "#1E2A4E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1E2A4E",
+ "hero_eyebrow": "#EDE3C8",
+ "prefix": "ALF",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "26 Holywell Hill, St Albans AL1 1BZ",
+  "hours": "Sun-Thu 12:00-22:30, Fri-Sat 12:00-23:30",
+  "maps_query": "Al Farid St Albans"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/alfarid-st-albans_1.jpg"
+}
