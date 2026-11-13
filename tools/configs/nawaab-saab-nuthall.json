@@ -1,0 +1,57 @@
+{
+ "slug": "nawaab-saab-nuthall",
+ "name": "Nawaab Saab",
+ "tagline": "Majestic Indian dining · Nuthall",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Nawaab Saab",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Nawaab Saab, my treat.",
+ "accent": "#D63E1B",
+ "cta": "#D63E1B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#D63E1B",
+ "prefix": "NWS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Nottingham Rd, Nuthall, Nottingham, NG16 1DP",
+  "hours": "Weekdays 17.00-22.00, Fri-Sat 17.00-23.00, Sun 13.00-22.00",
+  "maps_query": "Nawaab Saab Nuthall"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/nawaab-saab-nuthall_1.jpg"
+}
