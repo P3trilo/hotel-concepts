@@ -1,0 +1,57 @@
+{
+ "slug": "the-fox-inn-hallaton",
+ "name": "The Fox Inn",
+ "tagline": "Historic village pub in the Welland Valley · Hallaton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a meal by the open fire",
+ "gifts": [
+  [
+   "Homemade pie of the day",
+   "Homemade pie of the day with chips, seasonal veg and gravy",
+   18.95,
+   "A homemade pie of the day with chips, seasonal veg and gravy"
+  ],
+  [
+   "Melt in the middle fishcake",
+   "Salmon fishcake with mashed potato and seasonal veg",
+   18.95,
+   "The melt in the middle salmon fishcake"
+  ],
+  [
+   "Fish and chips",
+   "Fish and chips with peas and tartare sauce",
+   16.5,
+   "Fish and chips with peas and tartare sauce"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! A meal by the fire at the Fox Inn, my treat.",
+ "accent": "#BAA383",
+ "cta": "#0E0D0A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0E0D0A",
+ "hero_eyebrow": "#BAA383",
+ "prefix": "FX",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Homemade pie of the day",
+   "Sarah",
+   18.95,
+   true
+  ],
+  [
+   "Melt in the middle fishcake",
+   "Emma",
+   18.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "30 North End, Hallaton, Leicestershire LE16 8UJ",
+  "hours": "Mon-Tue 4pm-10pm, Wed-Sat 12pm-11pm, Sun 12pm-10pm",
+  "maps_query": "The Fox Inn Hallaton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-fox-inn-hallaton_1.jpg"
+}

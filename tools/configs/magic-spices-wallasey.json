@@ -1,0 +1,57 @@
+{
+ "slug": "magic-spices-wallasey",
+ "name": "Magic Spices",
+ "tagline": "South Asian restaurant and takeaway · Wallasey",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Magic Spices",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the dine-in menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the dine-in menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the dine-in menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the dine-in menu",
+ "message": "Happy Christmas! Dinner at Magic Spices, my treat.",
+ "accent": "#C79F59",
+ "cta": "#C79F59",
+ "on_cta": "#1F1D24",
+ "hero_bg": "#1F1D24",
+ "hero_eyebrow": "#FFC761",
+ "prefix": "MS",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "221-225 Seabank Road, Wallasey CH45 1HE",
+  "hours": "Open 7 days, Sun-Thu 5pm-11pm, Fri-Sat 5pm-12am",
+  "maps_query": "Magic Spices Wallasey"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/magic-spices-wallasey_1.jpg"
+}
