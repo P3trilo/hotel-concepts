@@ -1,0 +1,57 @@
+{
+ "slug": "atelier-del-cibo-tettenhall",
+ "name": "Atelier del Cibo",
+ "tagline": "Italian restaurant & bistro · Tettenhall",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Atelier del Cibo",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Atelier del Cibo, my treat.",
+ "accent": "#AA8D69",
+ "cta": "#002D4C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#002D4C",
+ "hero_eyebrow": "#AA8D69",
+ "prefix": "ADC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Upper Green, Tettenhall, Wolverhampton, WV6 8QQ",
+  "hours": "Tue-Thu 9am-9pm, Fri-Sat 9am-10pm, Sun 10am-3pm, Mon closed",
+  "maps_query": "Atelier del Cibo Tettenhall"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/atelier-del-cibo-tettenhall_1.jpg"
+}

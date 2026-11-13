@@ -1,0 +1,57 @@
+{
+ "slug": "the-aviator-inn-staverton",
+ "name": "The Aviator Inn",
+ "tagline": "Bar, café & restaurant at Gloucestershire Airport · Staverton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a meal at the Aviator",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food or drink at the bar, café or restaurant",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food or drink at the bar, café or restaurant",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food or drink at the bar, café or restaurant",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food or drink at the bar, café or restaurant",
+ "message": "Happy Christmas! A meal at the Aviator, my treat.",
+ "accent": "#4D3334",
+ "cta": "#000000",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#000000",
+ "hero_eyebrow": "#D8D3CB",
+ "prefix": "AVI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Gloucestershire Airport, Staverton, Gloucester, Gloucestershire GL51 6SR",
+  "hours": "Kitchen 9am-8.30pm Mon-Sat, 9am-8pm Sun; bar 9am-11pm daily",
+  "maps_query": "The Aviator Inn Staverton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-aviator-inn-staverton_1.jpg"
+}
