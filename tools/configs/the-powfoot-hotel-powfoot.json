@@ -1,0 +1,57 @@
+{
+ "slug": "the-powfoot-hotel-powfoot",
+ "name": "The Powfoot Hotel",
+ "tagline": "Boutique hotel on the Solway Firth · Powfoot",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give afternoon tea by the Solway",
+ "gifts": [
+  [
+   "Cinema Supper",
+   "Starter and main course plus a ticket for the Lonsdale Cinema in Annan, Monday to Thursday",
+   28,
+   "Cinema Supper for one (starter, main course and cinema ticket)"
+  ],
+  [
+   "Tasting of Local Lamb",
+   "Roasted rump, braised shoulder, miniature shepherd's pie, pressed potato terrine, parsnip puree, minted jus",
+   25,
+   "Tasting of Local Lamb from the evening menu"
+  ],
+  [
+   "Panfried 8oz Sirloin Steak",
+   "Handcut chips, sunblush tomato chimichurri dressing",
+   30,
+   "8oz sirloin steak from the evening menu"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or afternoon tea",
+ "message": "Happy Christmas! Afternoon tea at The Powfoot Hotel, my treat.",
+ "accent": "#478E90",
+ "cta": "#4F3236",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4F3236",
+ "hero_eyebrow": "#478E90",
+ "prefix": "PH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "Cinema Supper",
+   "Sarah",
+   28,
+   true
+  ],
+  [
+   "Tasting of Local Lamb",
+   "Emma",
+   25,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Links Avenue, Powfoot, Annan, Dumfries & Galloway, DG12 5PN",
+  "hours": "Lunch daily 12-2pm, dinner daily 6-8pm, afternoon tea Mon-Sat 3-5pm",
+  "maps_query": "The Powfoot Hotel Annan"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-powfoot-hotel-powfoot_1.jpg"
+}
