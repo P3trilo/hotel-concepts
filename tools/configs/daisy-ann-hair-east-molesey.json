@@ -1,0 +1,57 @@
+{
+ "slug": "daisy-ann-hair-east-molesey",
+ "name": "Daisy Ann Hair",
+ "tagline": "Hair salon · Hampton Court",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look at Daisy Ann",
+ "gifts": [
+  [
+   "Ladies cut & style",
+   "Cut and style with Daisy",
+   87,
+   "Ladies Cut & Style with Daisy"
+  ],
+  [
+   "Blow-dry",
+   "Blow-dry with Daisy",
+   50,
+   "Blowdry with Daisy"
+  ],
+  [
+   "Full head highlights or balayage",
+   "Colour with Daisy",
+   140,
+   "Full head highlights / Balayage with Daisy"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! A treat at Daisy Ann Hair, on me.",
+ "accent": "#605F5F",
+ "cta": "#2B2B2B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#2B2B2B",
+ "hero_eyebrow": "#EBEBEB",
+ "prefix": "DAH",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Ladies cut & style",
+   "Sarah",
+   87,
+   true
+  ],
+  [
+   "Blow-dry",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "19 Bridge Road, East Molesey, Surrey, KT8 9EU",
+  "hours": "Tue 9am-8pm, Wed-Fri 9am-6pm, Sat 9am-5pm, Sun-Mon closed",
+  "maps_query": "Daisy Ann Hair East Molesey"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/daisy-ann-hair-east-molesey_1.jpg"
+}

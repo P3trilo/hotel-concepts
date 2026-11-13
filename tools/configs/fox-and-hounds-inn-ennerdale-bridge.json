@@ -1,0 +1,57 @@
+{
+ "slug": "fox-and-hounds-inn-ennerdale-bridge",
+ "name": "Fox and Hounds Inn",
+ "tagline": "Traditional Lakeland inn · Ennerdale Bridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the log fires",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, a meal or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, a meal or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, a meal or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A night at the Fox and Hounds, my treat.",
+ "accent": "#E4B248",
+ "cta": "#228851",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0C242E",
+ "hero_eyebrow": "#E4B248",
+ "prefix": "FHI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Fox and Hounds Inn, Ennerdale Bridge, Cleator, Cumbria, CA23 3AR",
+  "hours": "",
+  "maps_query": "Fox and Hounds Inn Ennerdale Bridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/fox-and-hounds-inn-ennerdale-bridge_1.jpg"
+}

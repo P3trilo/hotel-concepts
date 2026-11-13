@@ -1,0 +1,57 @@
+{
+ "slug": "wanasa-winchmore-hill",
+ "name": "Wanasa",
+ "tagline": "Arabic neighbourhood cafe · Winchmore Hill",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Wanasa",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Brunch at Wanasa, my treat.",
+ "accent": "#329B75",
+ "cta": "#335852",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#335852",
+ "hero_eyebrow": "#FFFAD0",
+ "prefix": "WAN",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Green Lanes, Winchmore Hill, London",
+  "hours": "Tue-Sun 8:30am-5pm",
+  "maps_query": "Wanasa Cafe Winchmore Hill"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/wanasa-winchmore-hill_1.jpg"
+}
