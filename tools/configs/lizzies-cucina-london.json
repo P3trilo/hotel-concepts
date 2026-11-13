@@ -1,0 +1,57 @@
+{
+ "slug": "lizzies-cucina-london",
+ "name": "Lizzie’s Cucina",
+ "tagline": "Sicilian dining house · London N14",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sicilian dinner at Lizzie’s",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Lizzie’s Cucina, my treat.",
+ "accent": "#78512B",
+ "cta": "#35251D",
+ "on_cta": "#F3EDE3",
+ "hero_bg": "#35251D",
+ "hero_eyebrow": "#D7B88E",
+ "prefix": "LZC",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "85 Bramley Road, London N14 4EY",
+  "hours": "Mon-Tue 6pm-10pm, Wed-Fri 12pm-3pm and 6pm-10pm, Sat 12pm-10:30pm, Sun 12pm-9:30pm",
+  "maps_query": "Lizzie's Cucina 85 Bramley Road London N14"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/lizzies-cucina-london_1.jpg"
+}
