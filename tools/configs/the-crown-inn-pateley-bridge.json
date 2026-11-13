@@ -1,0 +1,57 @@
+{
+ "slug": "the-crown-inn-pateley-bridge",
+ "name": "The Crown Inn",
+ "tagline": "Traditional inn with restaurant and rooms · Pateley Bridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at the Crown",
+ "gifts": [
+  [
+   "Steak & Ale Pie",
+   "Served with a choice of chips or new potatoes and mushy peas",
+   19.95,
+   "Steak & Ale Pie with chips or new potatoes and mushy peas"
+  ],
+  [
+   "Sea bass",
+   "On a bed of sautéed potatoes in a butter sauce infused with citrus, chilli, garlic and ginger, with seasonal vegetables",
+   21.95,
+   "Sea bass with sautéed potatoes and seasonal vegetables"
+  ],
+  [
+   "12oz Sirloin Steak",
+   "Served with chips, onion rings, tomatoes & mushrooms",
+   29.0,
+   "12oz Sirloin Steak with chips, onion rings, tomatoes & mushrooms"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu, at the bar or on a room",
+ "message": "Happy Christmas! Dinner at The Crown Inn, my treat.",
+ "accent": "#C69964",
+ "cta": "#212121",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#212121",
+ "hero_eyebrow": "#C69964",
+ "prefix": "CI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Steak & Ale Pie",
+   "Sarah",
+   19.95,
+   true
+  ],
+  [
+   "Sea bass",
+   "Emma",
+   21.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "19 High Street, Pateley Bridge, Harrogate HG3 5AP",
+  "hours": "Open Mon-Sun 12pm-11pm; food Mon-Fri 12-2:30pm & 5:30-8:30pm, Sat 12-8:30pm, Sun 12-5pm",
+  "maps_query": "The Crown Inn Pateley Bridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-crown-inn-pateley-bridge_1.jpg"
+}
