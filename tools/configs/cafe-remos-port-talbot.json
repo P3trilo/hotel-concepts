@@ -1,0 +1,57 @@
+{
+ "slug": "cafe-remos-port-talbot",
+ "name": "Remo's",
+ "tagline": "Seafront coffee shop, ice cream parlour and restaurant · Aberavon Beach",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give gelato and coffee at Remo's",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the ice cream counter",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the ice cream counter",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the ice cream counter",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the ice cream counter",
+ "message": "Happy Christmas! Gelato and coffee at Remo's, my treat.",
+ "accent": "#01AA4E",
+ "cta": "#CC042E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3E424C",
+ "hero_eyebrow": "#FFFAF4",
+ "prefix": "REM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Princess Margaret Way, Port Talbot SA12 6QW",
+  "hours": "9am-9pm, 7 days a week",
+  "maps_query": "Remo's Aberavon Port Talbot"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cafe-remos-port-talbot_1.jpg"
+}

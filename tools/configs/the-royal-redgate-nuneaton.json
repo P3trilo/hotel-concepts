@@ -1,0 +1,57 @@
+{
+ "slug": "the-royal-redgate-nuneaton",
+ "name": "The Royal Redgate",
+ "tagline": "Country Pub & Kitchen · Nuneaton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at the Royal Redgate",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Dinner at the Royal Redgate, my treat.",
+ "accent": "#D4AC2F",
+ "cta": "#D4AC2F",
+ "on_cta": "#1A1A1A",
+ "hero_bg": "#1A1A1A",
+ "hero_eyebrow": "#D4AC2F",
+ "prefix": "RRG",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Watling Street, Nuneaton, CV10 0RY",
+  "hours": "Mon-Thu 12-10pm, Fri-Sat 12-11pm, Sun 12-9pm",
+  "maps_query": "The Royal Redgate Nuneaton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-royal-redgate-nuneaton_1.jpg"
+}

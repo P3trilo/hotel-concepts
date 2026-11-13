@@ -1,0 +1,57 @@
+{
+ "slug": "greens-bar-and-kitchen-winchester",
+ "name": "Greens Bar & Kitchen",
+ "tagline": "Bar & kitchen on Jewry Street · Winchester",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give brunch at Greens",
+ "gifts": [
+  [
+   "Flat iron steak & eggs",
+   "Flat iron steak served medium-rare with skinny fries, Vale Farm fried egg, salsa verde and chimichurri",
+   22.5,
+   "Flat iron steak & eggs at Greens"
+  ],
+  [
+   "Greens burger",
+   "8oz beef patty, smoked bacon, dill burger sauce, Monterey Jack, skinny fries",
+   17.95,
+   "The Greens burger"
+  ],
+  [
+   "Full English",
+   "Hampshire sausage, smoked back bacon, field mushroom, hash browns, two Vale Farm eggs, doorstop toast",
+   14.75,
+   "A Full English brunch at Greens"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Brunch at Greens, my treat.",
+ "accent": "#56584D",
+ "cta": "#56584D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#374151",
+ "hero_eyebrow": "#F8FAFC",
+ "prefix": "GBK",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Flat iron steak & eggs",
+   "Sarah",
+   22.5,
+   true
+  ],
+  [
+   "Greens burger",
+   "Emma",
+   17.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "4 Jewry Street, Winchester SO23 8RZ",
+  "hours": "Mon-Wed 8.30am-11pm, Thu-Sat 8.30am-midnight, Sun 8.30am-10.30pm",
+  "maps_query": "Greens Bar & Kitchen Winchester"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/greens-bar-and-kitchen-winchester_1.jpg"
+}

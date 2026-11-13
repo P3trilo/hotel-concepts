@@ -1,0 +1,57 @@
+{
+ "slug": "the-woodman-and-olive-broxbourne",
+ "name": "The Woodman & Olive",
+ "tagline": "Family-run pub with Greek food · Broxbourne",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give Sunday lunch at the Woodman",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Sunday lunch at The Woodman & Olive, my treat.",
+ "accent": "#93A098",
+ "cta": "#0C152F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0C152F",
+ "hero_eyebrow": "#93A098",
+ "prefix": "WO",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "20 West End Road, Wormley, Broxbourne, Herts EN10 7QN",
+  "hours": "Tue-Thu 12-11pm, Fri-Sat 12-late, Sun 12-9pm, closed Monday",
+  "maps_query": "The Woodman & Olive Broxbourne"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-woodman-and-olive-broxbourne_1.jpg"
+}
