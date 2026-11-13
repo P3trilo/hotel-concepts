@@ -1,0 +1,57 @@
+{
+ "slug": "gloria-restaurant-prudhoe",
+ "name": "Gloria Restaurant",
+ "tagline": "Italian restaurant & pizzeria · Prudhoe",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Gloria",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Gloria, my treat.",
+ "accent": "#C59D5F",
+ "cta": "#1B1D1C",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1B1D1C",
+ "hero_eyebrow": "#C59D5F",
+ "prefix": "GLR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "55a Front Street, Prudhoe, NE42 5FH",
+  "hours": "Tue-Thu 4pm-9pm, Fri 4pm-10pm, Sat 12 noon-10pm, Sun 12 noon-6pm, Mon closed",
+  "maps_query": "Gloria Restaurant Prudhoe"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/gloria-restaurant-prudhoe_1.jpg"
+}
