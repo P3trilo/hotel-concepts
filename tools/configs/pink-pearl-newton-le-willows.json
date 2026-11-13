@@ -1,0 +1,57 @@
+{
+ "slug": "pink-pearl-newton-le-willows",
+ "name": "Pink Pearl",
+ "tagline": "Indian restaurant & bar · Newton-le-Willows",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Pink Pearl",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Pink Pearl, my treat.",
+ "accent": "#9B1C52",
+ "cta": "#9B1C52",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#4B4F58",
+ "hero_eyebrow": "#C0902D",
+ "prefix": "PPL",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "94 Earle Street, Newton-le-Willows, Warrington, WA12 9LR",
+  "hours": "Mon-Thu 5pm-11pm, Fri-Sat 5pm-11:30pm, Sun 4pm-10pm",
+  "maps_query": "Pink Pearl Newton-le-Willows"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/pink-pearl-newton-le-willows_1.jpg"
+}
