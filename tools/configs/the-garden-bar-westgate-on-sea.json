@@ -1,0 +1,57 @@
+{
+ "slug": "the-garden-bar-westgate-on-sea",
+ "name": "The Garden Bar",
+ "tagline": "Independent local bar · Westgate-on-Sea",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a cocktail at the Garden Bar",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything at the bar",
+ "message": "Happy Christmas! Drinks at the Garden Bar, my treat.",
+ "accent": "#C6CD41",
+ "cta": "#C6CD41",
+ "on_cta": "#1B1B1C",
+ "hero_bg": "#1B1B1C",
+ "hero_eyebrow": "#F6F6EF",
+ "prefix": "TGB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "40 Station Road, Westgate-on-Sea, Kent, CT8 8QY",
+  "hours": "Tue, Thu, Fri 4-11pm; Sat 2-11pm; Sun 2-6pm",
+  "maps_query": "The Garden Bar Westgate-on-Sea"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-garden-bar-westgate-on-sea_1.jpg"
+}

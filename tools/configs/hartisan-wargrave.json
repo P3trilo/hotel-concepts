@@ -1,0 +1,57 @@
+{
+ "slug": "hartisan-wargrave",
+ "name": "H'ARTISAN",
+ "tagline": "Speciality coffee & community cafe · Wargrave on Thames",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give breakfast at H'ARTISAN",
+ "gifts": [
+  [
+   "H'ARTISAN Signature Bap",
+   "Brioche bap with tomato chutney, local free-range scrambled eggs, Cumberland sausage, back bacon and melted Gouda",
+   10.5,
+   "The famous H'ARTISAN Signature Bap"
+  ],
+  [
+   "H'ARTISAN French Toast",
+   "French toast with cinnamon sugar, home-made berry compote and crème anglaise",
+   11.5,
+   "H'ARTISAN French Toast with berry compote"
+  ],
+  [
+   "Turkish Eggs",
+   "Two poached eggs on garlic Greek yoghurt with home-made chilli oil and warm pitta",
+   13.0,
+   "Turkish Eggs with home-made chilli oil"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the counter",
+ "message": "Happy Christmas! Coffee and breakfast at H'ARTISAN, my treat.",
+ "accent": "#2C4D42",
+ "cta": "#2C4D42",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#292E31",
+ "hero_eyebrow": "#F4F4F4",
+ "prefix": "HAR",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "H'ARTISAN Signature Bap",
+   "Sarah",
+   10.5,
+   true
+  ],
+  [
+   "H'ARTISAN French Toast",
+   "Emma",
+   11.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "69-71 High Street, Wargrave, RG10 8BU",
+  "hours": "Mon-Thu 8am-3pm, Fri-Sat 8am-4pm, Sun and bank holidays 8am-3pm",
+  "maps_query": "H'ARTISAN Wargrave"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/hartisan-wargrave_1.jpg"
+}

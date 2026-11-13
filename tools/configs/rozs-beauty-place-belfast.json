@@ -1,0 +1,57 @@
+{
+ "slug": "rozs-beauty-place-belfast",
+ "name": "Roz's Beauty Place",
+ "tagline": "Beauty salon · Belfast",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a pamper at Roz's",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on any treatment, from nails and brows to a spa pedicure",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on any treatment, from nails and brows to a spa pedicure",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on any treatment, from nails and brows to a spa pedicure",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on any treatment, from nails and brows to a spa pedicure",
+ "message": "Happy Christmas! A pamper at Roz's Beauty Place, my treat.",
+ "accent": "#FF6B6D",
+ "cta": "#191A1A",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#191A1A",
+ "hero_eyebrow": "#FFF5F5",
+ "prefix": "RBP",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "72 Castle St, Belfast, BT1 1HD",
+  "hours": "Mon-Wed and Fri 9.30am-5.30pm, Thu 9.30am-6pm, Sat 9.30am-5pm, Sun closed",
+  "maps_query": "Roz's Beauty Place Belfast"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/rozs-beauty-place-belfast_1.jpg"
+}
