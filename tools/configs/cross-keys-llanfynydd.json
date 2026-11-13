@@ -1,0 +1,57 @@
+{
+ "slug": "cross-keys-llanfynydd",
+ "name": "The Cross Keys",
+ "tagline": "Family owned country freehouse · Llanfynydd",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at the Cross Keys",
+ "gifts": [
+  [
+   "Pontybodkin 8oz sirloin",
+   "8oz sirloin with baked mushroom, roasted tomato, chips and peppercorn sauce",
+   25.95,
+   "A Pontybodkin 8oz sirloin steak dinner"
+  ],
+  [
+   "Cross Keys steak butty",
+   "The pub classic steak butty with caramelised onions and chips",
+   11.5,
+   "A Cross Keys steak butty lunch"
+  ],
+  [
+   "Welsh moules mariniere",
+   "Fresh Welsh moules mariniere with warm crusty bread",
+   9.0,
+   "A bowl of Welsh moules mariniere"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Dinner at the Cross Keys, my treat.",
+ "accent": "#B5ABA2",
+ "cta": "#313131",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#313131",
+ "hero_eyebrow": "#E5DFDC",
+ "prefix": "CK",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Pontybodkin 8oz sirloin",
+   "Sarah",
+   25.95,
+   true
+  ],
+  [
+   "Cross Keys steak butty",
+   "Emma",
+   11.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Cross Keys, Llanfynydd, Flintshire, LL11 5HH",
+  "hours": "Mon closed; Tue-Thu and Sun 12-10pm, Fri-Sat 12-11pm; food from 12 to 8.30pm (Sun to 6.45pm)",
+  "maps_query": "The Cross Keys Llanfynydd"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cross-keys-llanfynydd_1.jpg"
+}

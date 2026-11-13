@@ -1,0 +1,57 @@
+{
+ "slug": "great-western-arms-blockley",
+ "name": "The Great Western Arms",
+ "tagline": "Country pub & restaurant · Blockley",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Sunday roast at the Great Western Arms",
+ "gifts": [
+  [
+   "Sunday roast beef",
+   "Roast beef served with all the trimmings, from the Sunday menu",
+   26.0,
+   "A Sunday roast beef with all the trimmings"
+  ],
+  [
+   "Bavette steak",
+   "Bavette steak in a peppercorn sauce with grilled mushrooms and cherry tomatoes, from the grill",
+   24.0,
+   "A bavette steak in peppercorn sauce"
+  ],
+  [
+   "Fish and chips",
+   "Fish and chips with tartar sauce and grilled lemon",
+   19.0,
+   "Fish and chips"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Sunday roast at the Great Western Arms, my treat.",
+ "accent": "#C9C481",
+ "cta": "#3B4559",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#282828",
+ "hero_eyebrow": "#E8E5DC",
+ "prefix": "GWA",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday roast beef",
+   "Sarah",
+   26.0,
+   true
+  ],
+  [
+   "Bavette steak",
+   "Emma",
+   24.0,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Station Road, Blockley, Moreton-in-Marsh, GL56 9DT",
+  "hours": "Mon-Thu 5-11pm, Fri-Sat 12-11.30pm, Sun 12-9pm; food Wed-Thu 6-9pm, Fri 12-3pm and 5.30-9pm, Sat 12-3pm and 5-9.30pm, Sun 12-4pm",
+  "maps_query": "The Great Western Arms Blockley"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/great-western-arms-blockley_1.jpg"
+}
