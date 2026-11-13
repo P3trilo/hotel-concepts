@@ -1,0 +1,57 @@
+{
+ "slug": "the-elephant-and-hind-dover",
+ "name": "The Elephant & Hind",
+ "tagline": "Pub and live music on Market Square since 1792 · Dover",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Sunday roast at the Ellie",
+ "gifts": [
+  [
+   "Sunday Roast",
+   "Topside beef, pork loin, gammon or chef's nut roast with homemade Yorkshire puddings, stuffing, honey roasted carrots, roast parsnips, bacon & cabbage, roast potatoes and gravy",
+   14.99,
+   "Sunday Roast"
+  ],
+  [
+   "Ellie Roast",
+   "A variety of meats with all the Sunday roast trimmings",
+   17.99,
+   "Ellie Roast"
+  ],
+  [
+   "Two courses",
+   "Ellie Roast and pudding",
+   20,
+   "Two courses: Ellie Roast & pudding"
+  ]
+ ],
+ "amount_desc": "Spend on food or drinks at the bar",
+ "message": "Happy Christmas! Sunday roast at the Elephant & Hind, my treat.",
+ "accent": "#8CAAC2",
+ "cta": "#0B2F5B",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0B2F5B",
+ "hero_eyebrow": "#F9F9F9",
+ "prefix": "EH",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday Roast",
+   "Sarah",
+   14.99,
+   true
+  ],
+  [
+   "Ellie Roast",
+   "Emma",
+   17.99,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "18-19 Market Square, Dover CT16 1NX",
+  "hours": "Bar Mon-Thu 11:00-22:00, weekends 11:00 till late; Sunday roast 12:30-18:00",
+  "maps_query": "The Elephant & Hind Dover"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-elephant-and-hind-dover_1.jpg"
+}
