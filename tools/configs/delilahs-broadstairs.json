@@ -1,0 +1,57 @@
+{
+ "slug": "delilahs-broadstairs",
+ "name": "Delilah's",
+ "tagline": "Boutique cocktail and wine bar · Broadstairs",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give cocktails at Delilah's",
+ "gifts": [
+  [
+   "Smoked Popcorn Old Fashioned",
+   "Housemade brown butter whiskey, popcorn syrup, bitters, smoke",
+   11,
+   "A Smoked Popcorn Old Fashioned from the seasonal menu"
+  ],
+  [
+   "Sage Gin Sour",
+   "Gin, lemon, sage (can be made alcohol free)",
+   10,
+   "A Sage Gin Sour from the seasonal menu"
+  ],
+  [
+   "Date & Acacia Espresso Martini",
+   "Vodka, coffee liqueur, coffee, housemade date & acacia honey syrup",
+   12,
+   "A Date & Acacia Espresso Martini"
+  ]
+ ],
+ "amount_desc": "Spend on cocktails, wine or anything at the bar",
+ "message": "Happy Christmas! Cocktails at Delilah's, my treat.",
+ "accent": "#CC3366",
+ "cta": "#CC3366",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1C5840",
+ "hero_eyebrow": "#F9F6F2",
+ "prefix": "DEL",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Smoked Popcorn Old Fashioned",
+   "Sarah",
+   11,
+   true
+  ],
+  [
+   "Sage Gin Sour",
+   "Emma",
+   10,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "28 Thanet Road, Broadstairs, CT10 1LF",
+  "hours": "Thu-Fri 5pm-11:30pm, Sat 3pm-11:30pm, Sun 3pm-10pm, Mon-Wed closed",
+  "maps_query": "Delilah's Broadstairs"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/delilahs-broadstairs_1.jpg"
+}

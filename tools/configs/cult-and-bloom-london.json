@@ -1,0 +1,57 @@
+{
+ "slug": "cult-and-bloom-london",
+ "name": "Cult & Bloom",
+ "tagline": "Hair salon · East London",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a new look at Cult & Bloom",
+ "gifts": [
+  [
+   "Cut & Blow Dry",
+   "Ladies cut and blow dry with a stylist",
+   70,
+   "A ladies cut and blow dry (stylist)"
+  ],
+  [
+   "Olaplex treatment",
+   "Olaplex stand-alone treatment with blow dry",
+   70,
+   "An Olaplex stand-alone treatment with blow dry"
+  ],
+  [
+   "Balayage Recharge",
+   "Balayage recharge",
+   190,
+   "A Balayage Recharge"
+  ]
+ ],
+ "amount_desc": "Spend on any cut, colour or treatment",
+ "message": "Happy Christmas! A treat at Cult & Bloom, on me.",
+ "accent": "#3E502E",
+ "cta": "#3E502E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#294638",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "CB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "Cut & Blow Dry",
+   "Sarah",
+   70,
+   true
+  ],
+  [
+   "Olaplex treatment",
+   "Emma",
+   70,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "72 Commercial Street, London, E1 6LT",
+  "hours": "Tue-Wed 10am-8pm, Thu 11am-9pm, Fri 10am-8pm, Sat 10am-6pm, Sun-Mon closed",
+  "maps_query": "Cult and Bloom London E1"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/cult-and-bloom-london_1.jpg"
+}
