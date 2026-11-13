@@ -1,0 +1,57 @@
+{
+ "slug": "le-gall-carlisle",
+ "name": "Le Gall",
+ "tagline": "Bieres, cocktails, vins · Carlisle",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give cocktails at Le Gall",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on beers, cocktails or wine at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on beers, cocktails or wine at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on beers, cocktails or wine at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on beers, cocktails or wine at the bar",
+ "message": "Happy Christmas! Drinks at Le Gall, my treat.",
+ "accent": "#DFC957",
+ "cta": "#DFC957",
+ "on_cta": "#272626",
+ "hero_bg": "#272626",
+ "hero_eyebrow": "#DFC957",
+ "prefix": "LG",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "7 Devonshire Street, Carlisle, CA3 8LG",
+  "hours": "",
+  "maps_query": "Le Gall Carlisle"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/le-gall-carlisle_1.jpg"
+}

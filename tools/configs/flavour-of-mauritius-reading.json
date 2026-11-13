@@ -1,0 +1,57 @@
+{
+ "slug": "flavour-of-mauritius-reading",
+ "name": "Flavour Of Mauritius",
+ "tagline": "Family run Mauritian restaurant · Reading",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a taste of Mauritius",
+ "gifts": [
+  [
+   "Rum Tasting Experience",
+   "Rum tasting with a 2 course meal, 1 cocktail and 5 tots of Mauritian rum",
+   60,
+   "Rum Tasting Experience (Package A) for one"
+  ],
+  [
+   "Bottomless Brunch",
+   "Two hours, one meal per person and unlimited drinks from the bottomless selection, Sunday to Friday",
+   35.95,
+   "Bottomless Brunch for one"
+  ],
+  [
+   "Island Combo seafood boil",
+   "Whole lobster, lobster tail, large prawns, crab and mussels with corn, egg and potatoes",
+   75,
+   "Island Combo seafood boil"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Flavour Of Mauritius, my treat.",
+ "accent": "#00A453",
+ "cta": "#343333",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#343333",
+ "hero_eyebrow": "#FED403",
+ "prefix": "FM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Rum Tasting Experience",
+   "Sarah",
+   60,
+   true
+  ],
+  [
+   "Bottomless Brunch",
+   "Emma",
+   35.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "143-145 Caversham Rd, Reading, Berkshire, RG1 8AU",
+  "hours": "",
+  "maps_query": "Flavour of Mauritius Reading"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/flavour-of-mauritius-reading_1.jpg"
+}
