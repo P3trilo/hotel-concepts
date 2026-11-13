@@ -1,0 +1,57 @@
+{
+ "slug": "the-fountain-hawes",
+ "name": "The Fountain",
+ "tagline": "Family-run hotel & pub · Hawes",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night at The Fountain",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room, a meal or a drink",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room, a meal or a drink",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room, a meal or a drink",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room, a meal or a drink",
+ "message": "Happy Christmas! A night at The Fountain, my treat.",
+ "accent": "#A38435",
+ "cta": "#243856",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#243856",
+ "hero_eyebrow": "#A38435",
+ "prefix": "FH",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Fountain Hotel, Market Place, Hawes, North Yorkshire, DL8 3RD",
+  "hours": "",
+  "maps_query": "The Fountain Hotel Hawes"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-fountain-hawes_1.jpg"
+}
