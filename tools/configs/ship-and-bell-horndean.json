@@ -1,0 +1,57 @@
+{
+ "slug": "ship-and-bell-horndean",
+ "name": "The Ship & Bell",
+ "tagline": "17th century coaching inn · Horndean",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Sunday roast at the Ship & Bell",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Sunday roast at the Ship & Bell, my treat.",
+ "accent": "#98A491",
+ "cta": "#212936",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#212936",
+ "hero_eyebrow": "#EBEADE",
+ "prefix": "SB",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "6 London Road, Horndean, Waterlooville, Hampshire, PO8 0BZ",
+  "hours": "Daily 12-11pm (Sun to 10pm); food Mon-Thu 12-3pm and 6-9pm, Fri-Sat 12-9pm, Sun 12-6pm",
+  "maps_query": "The Ship & Bell Horndean"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/ship-and-bell-horndean_1.jpg"
+}
