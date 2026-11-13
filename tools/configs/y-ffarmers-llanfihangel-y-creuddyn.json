@@ -1,0 +1,57 @@
+{
+ "slug": "y-ffarmers-llanfihangel-y-creuddyn",
+ "name": "Y Ffarmers",
+ "tagline": "Country dining pub · Llanfihangel y Creuddyn",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a homemade dinner at Y Ffarmers",
+ "gifts": [
+  [
+   "Sunday roast",
+   "Roast Welsh lamb, beef, turkey or belly pork with roast and mashed potatoes, seasonal vegetables, Yorkshire pudding and gravy",
+   17.95,
+   "A traditional Sunday roast of Welsh lamb, beef, turkey or belly pork"
+  ],
+  [
+   "Duck breast",
+   "Duck breast with roasted root vegetables, parsnip puree, kale and port jus",
+   28.95,
+   "The duck breast with roasted root vegetables and port jus"
+  ],
+  [
+   "Welsh sirloin or rib eye steak",
+   "Welsh sirloin or rib eye steak with mushroom, fried onion, roast tomato and chips",
+   28.95,
+   "A Welsh sirloin or rib eye steak with chips"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! Dinner at Y Ffarmers, my treat.",
+ "accent": "#376390",
+ "cta": "#376390",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "YF",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "Sunday roast",
+   "Sarah",
+   17.95,
+   true
+  ],
+  [
+   "Duck breast",
+   "Emma",
+   28.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Y Ffarmers, Llanfihangel y Creuddyn, Aberystwyth, Ceredigion SY23 4LA",
+  "hours": "",
+  "maps_query": "Y Ffarmers Llanfihangel y Creuddyn"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/y-ffarmers-llanfihangel-y-creuddyn_1.jpg"
+}

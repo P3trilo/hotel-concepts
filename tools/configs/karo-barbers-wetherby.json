@@ -1,0 +1,57 @@
+{
+ "slug": "karo-barbers-wetherby",
+ "name": "Karo Barbers",
+ "tagline": "Men's barbershop · Wetherby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a fresh cut at Karo",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a haircut, a shave or a beard trim",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a haircut, a shave or a beard trim",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a haircut, a shave or a beard trim",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a haircut, a shave or a beard trim",
+ "message": "Happy Christmas! A fresh cut at Karo Barbers, my treat.",
+ "accent": "#158B50",
+ "cta": "#158B50",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#0A0A0A",
+ "hero_eyebrow": "#158B50",
+ "prefix": "KB",
+ "guest": "client",
+ "biz": "salon",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "1 Acorn House, Main St, Collingham, Wetherby LS22 5AS",
+  "hours": "Mon-Fri 9:00-19:00, Sat 9:00-18:30, Sun 10:00-16:00",
+  "maps_query": "Karo Barbers Collingham Wetherby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/karo-barbers-wetherby_1.jpg"
+}
