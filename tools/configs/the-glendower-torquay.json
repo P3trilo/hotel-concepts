@@ -1,0 +1,57 @@
+{
+ "slug": "the-glendower-torquay",
+ "name": "The Glendower Guest House",
+ "tagline": "Bed and breakfast guest house · Torquay",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a seaside stay at the Glendower",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room with breakfast",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room with breakfast",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room with breakfast",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room with breakfast",
+ "message": "Happy Christmas! A seaside break at the Glendower in Torquay, my treat.",
+ "accent": "#D5C25A",
+ "cta": "#4D4D4F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#6194B8",
+ "hero_eyebrow": "#FFFFFF",
+ "prefix": "GLD",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Glendower, Falkland Road, Torquay, Devon, TQ2 5JP",
+  "hours": "",
+  "maps_query": "Glendower Guest House Torquay"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-glendower-torquay_1.jpg"
+}
