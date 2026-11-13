@@ -1,0 +1,57 @@
+{
+ "slug": "la-casa-weybridge",
+ "name": "La Casa",
+ "tagline": "Fine Italian cuisine · Weybridge",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at La Casa",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at La Casa, my treat.",
+ "accent": "#DD0000",
+ "cta": "#222222",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#DDB577",
+ "prefix": "LCW",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "2 Monument Hill, Weybridge KT13 8RH",
+  "hours": "Mon-Sat lunch 12-3pm, evening 5-10pm; Sun 12-10pm",
+  "maps_query": "La Casa Weybridge"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/la-casa-weybridge_1.jpg"
+}
