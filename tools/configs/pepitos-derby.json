@@ -1,0 +1,57 @@
+{
+ "slug": "pepitos-derby",
+ "name": "Pepitos",
+ "tagline": "Cocina Mexicana · Derby",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Mexican dinner out",
+ "gifts": [
+  [
+   "Fajitas",
+   "A sizzling hot dish with peppers, onions and spices, served at your table with guacamole, sour cream, salsa and warm tortillas",
+   15.95,
+   "Fajitas (from £15.95)"
+  ],
+  [
+   "Enchiladas",
+   "Corn tortillas wrapped with your choice, covered with enchilada sauce, melted cheese and onion, served with rice or fries",
+   17.95,
+   "Enchiladas"
+  ],
+  [
+   "Chimichanga",
+   "A large flour tortilla filled with cheese, spring onion and your choice, served hot with rice or fries",
+   17.95,
+   "Chimichanga"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Pepitos, my treat.",
+ "accent": "#0D5945",
+ "cta": "#F2B51D",
+ "on_cta": "#123C34",
+ "hero_bg": "#123C34",
+ "hero_eyebrow": "#F2B51D",
+ "prefix": "PEP",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Fajitas",
+   "Sarah",
+   15.95,
+   true
+  ],
+  [
+   "Enchiladas",
+   "Emma",
+   17.95,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "127 London Road, Derby, DE1 2QN",
+  "hours": "Mon-Thu 17:00-21:30, Fri-Sat 17:00-22:00, Sun 16:00-20:00",
+  "maps_query": "Pepitos Derby"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/pepitos-derby_1.jpg"
+}

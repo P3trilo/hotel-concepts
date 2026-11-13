@@ -1,0 +1,57 @@
+{
+ "slug": "blue-palms-bournemouth",
+ "name": "Blue Palms",
+ "tagline": "Small private hotel near The Triangle · Bournemouth",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a stay at Blue Palms",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room and breakfast",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room and breakfast",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room and breakfast",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room and breakfast",
+ "message": "Happy Christmas! A stay at Blue Palms, my treat.",
+ "accent": "#437AB4",
+ "cta": "#304E9D",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#191D40",
+ "hero_eyebrow": "#437AB4",
+ "prefix": "BP",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "26 Tregonwell Road, Bournemouth BH2 5NS",
+  "hours": "",
+  "maps_query": "Blue Palms Bournemouth"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/blue-palms-bournemouth_1.jpg"
+}

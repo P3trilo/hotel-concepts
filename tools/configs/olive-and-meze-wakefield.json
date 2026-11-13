@@ -1,0 +1,57 @@
+{
+ "slug": "olive-and-meze-wakefield",
+ "name": "Olive & Meze",
+ "tagline": "Turkish grill & Cyprus mezes · Wakefield",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a Turkish grill dinner",
+ "gifts": [
+  [
+   "Olive & Meze Set Meal",
+   "Hot or cold meze plate to share, mixed grill to share, baklava with fruit and ice cream (minimum 2 people)",
+   25.0,
+   "The Olive & Meze set meal (per person, minimum 2)"
+  ],
+  [
+   "Mixed Grill for Two People",
+   "Barbecued lamb shish, Adana, chicken shish and pirzola with rice, salad, dip sauce and home-made bread",
+   32.5,
+   "A mixed grill for two"
+  ],
+  [
+   "Two courses Sunday-Thursday",
+   "Two courses from the main menu, Sunday to Thursday",
+   15.95,
+   "Two courses from the main menu (Sun-Thu)"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Olive & Meze, my treat.",
+ "accent": "#696E3F",
+ "cta": "#41103E",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#41103E",
+ "hero_eyebrow": "#FFAC18",
+ "prefix": "OM",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "Olive & Meze Set Meal",
+   "Sarah",
+   25.0,
+   true
+  ],
+  [
+   "Mixed Grill for Two People",
+   "Emma",
+   32.5,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "31 Northgate, Wakefield, WF1 3BJ",
+  "hours": "",
+  "maps_query": "Olive & Meze Wakefield"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/olive-and-meze-wakefield_1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "pomelo-edinburgh",
+ "name": "Pomelo",
+ "tagline": "Modern Chinese kitchen with a neighbourhood feel · Marchmont",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Pomelo",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on lunch, brunch or dinner, and drinks from the natural wine list",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on lunch, brunch or dinner, and drinks from the natural wine list",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on lunch, brunch or dinner, and drinks from the natural wine list",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on lunch, brunch or dinner, and drinks from the natural wine list",
+ "message": "Happy Christmas! Dinner at Pomelo, my treat.",
+ "accent": "#7A2919",
+ "cta": "#7A2919",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#3B2E2E",
+ "hero_eyebrow": "#FDF2EC",
+ "prefix": "PO",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "27 Sciennes Rd, Edinburgh EH9 1NX",
+  "hours": "Wed-Thu 12:00-15:30, Fri-Sat 12:00-15:00 and dinner at 18:15 or 20:15, Sun brunch 11:30-16:00, closed Mon-Tue",
+  "maps_query": "Pomelo 27 Sciennes Road Edinburgh"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/pomelo-edinburgh_1.jpg"
+}
