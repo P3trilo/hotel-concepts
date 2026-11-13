@@ -1,0 +1,57 @@
+{
+ "slug": "sgt-peppers-lowestoft",
+ "name": "Sgt. Peppers",
+ "tagline": "60s and 70s themed restaurant · Lowestoft",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner at Sgt. Peppers",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu",
+ "message": "Happy Christmas! Dinner at Sgt. Peppers, my treat.",
+ "accent": "#DA2128",
+ "cta": "#DA2128",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#222222",
+ "hero_eyebrow": "#DA2128",
+ "prefix": "SGT",
+ "guest": "guest",
+ "biz": "restaurant",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "167/168 High Street, Lowestoft, Suffolk, NR32 1HU",
+  "hours": "Mon-Fri 5pm till late, Sat-Sun 4pm till late",
+  "maps_query": "Sgt Peppers Lowestoft"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/sgt-peppers-lowestoft_1.jpg"
+}
