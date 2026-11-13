@@ -1,0 +1,57 @@
+{
+ "slug": "the-beeswing-inn-east-cowton",
+ "name": "The Beeswing Inn",
+ "tagline": "Traditional country pub · East Cowton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give dinner by the fire at the Beeswing",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on food or drinks at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on food or drinks at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on food or drinks at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on food or drinks at the bar",
+ "message": "Happy Christmas! Dinner and a pint at the Beeswing Inn, my treat.",
+ "accent": "#B08533",
+ "cta": "#002F4F",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#002F4F",
+ "hero_eyebrow": "#B08533",
+ "prefix": "BWI",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Beeswing Inn, East Cowton, Northallerton, North Yorkshire, DL7 0BD",
+  "hours": "Mon-Thu 16:30-23:00, Fri 15:30-23:30, Sat 12:00-23:30, Sun 12:00-22:30; food Mon-Thu 17:00-20:30, Fri 15:30-20:30, Sat 12:00-21:00, Sun 12:00-19:30",
+  "maps_query": "The Beeswing Inn East Cowton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/the-beeswing-inn-east-cowton_1.jpg"
+}
