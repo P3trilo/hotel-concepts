@@ -1,0 +1,57 @@
+{
+ "slug": "seals-bacton",
+ "name": "Seals Bacton",
+ "tagline": "Family-run seaside B&B · Bacton",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a night by the sea",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on a room and breakfast",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on a room and breakfast",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on a room and breakfast",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on a room and breakfast",
+ "message": "Happy Christmas! A seaside stay at Seals Bacton, my treat.",
+ "accent": "#476075",
+ "cta": "#1F3144",
+ "on_cta": "#FBF7EF",
+ "hero_bg": "#2C4257",
+ "hero_eyebrow": "#F5EFE2",
+ "prefix": "SB",
+ "guest": "guest",
+ "biz": "hotel",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "Seals B&B, Walcott Road, Bacton, Norfolk, NR12 0LS",
+  "hours": "Check-in 3pm-7pm, check-out by 10am",
+  "maps_query": "Seals Bacton B&B Bacton"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/seals-bacton_1.jpg"
+}
