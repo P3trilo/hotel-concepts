@@ -1,0 +1,57 @@
+{
+ "slug": "pheasant-inn-toddington",
+ "name": "The Pheasant Inn",
+ "tagline": "Traditional Cotswold inn · Toddington",
+ "eyebrow": "Gift vouchers",
+ "headline": "Give a meal at the Pheasant",
+ "gifts": [
+  [
+   "£25 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   25,
+   "£25 to spend"
+  ],
+  [
+   "£50 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   50,
+   "£50 to spend"
+  ],
+  [
+   "£100 gift voucher",
+   "Spend on anything on the menu or at the bar",
+   100,
+   "£100 to spend"
+  ]
+ ],
+ "amount_desc": "Spend on anything on the menu or at the bar",
+ "message": "Happy Christmas! A meal at the Pheasant Inn, my treat.",
+ "accent": "#1F6568",
+ "cta": "#1F6568",
+ "on_cta": "#FFFFFF",
+ "hero_bg": "#1F6568",
+ "hero_eyebrow": "#F4F4F4",
+ "prefix": "PIT",
+ "guest": "guest",
+ "biz": "pub",
+ "seed": [
+  [
+   "£25 gift voucher",
+   "Sarah",
+   25,
+   true
+  ],
+  [
+   "£50 gift voucher",
+   "Emma",
+   50,
+   false
+  ]
+ ],
+ "visit": {
+  "address": "The Pheasant Inn, Toddington, Cheltenham, GL54 5DT",
+  "hours": "Mon closed (open Mondays 7, 14 and 21 Dec), Tue-Sat 11am-11pm, Sun 11am-10pm",
+  "maps_query": "The Pheasant Inn Toddington"
+ },
+ "photo": "C:/Users/ourou/Claude/PROJEKTY/19_Web_Redesign_UK/new_2026-11-05/photos/pheasant-inn-toddington_1.jpg"
+}
